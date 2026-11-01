@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-01",
+  "chapter": 3,
+  "title": "经济权衡",
+  "source_pdf_range": [
+    75,
+    115
+  ],
+  "chinese_file": "chapters/第03章 经济权衡（中文）.md",
+  "chinese_sha256": "374394d27b60210daae5829a3676f661cfe5f24c3121d87758b9d9df7c303c8a",
+  "source_blocks_read_and_mapped": 142,
+  "source_english_words": 16393,
+  "chinese_characters": 25902,
+  "original_notes": 11,
+  "translation_scope": "本章全部正文、标题和原注；解释性原注已译，纯书目信息保留原文。",
+  "review_scope": {
+    "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、例证、限定与跨页接续",
+    "language": "分块中文检查并定向修订；全书完成后的统一通读尚待进行",
+    "independent_professional_review": false,
+    "pdf_authored": false
+  },
+  "note_calls": [
+    {
+      "note": "c03-1",
+      "source_id": "p084-02"
+    },
+    {
+      "note": "c03-2",
+      "source_id": "p089-03"
+    },
+    {
+      "note": "c03-3",
+      "source_id": "p090-03"
+    },
+    {
+      "note": "c03-4",
+      "source_id": "p091-02"
+    },
+    {
+      "note": "c03-5",
+      "source_id": "p093-01"
+    },
+    {
+      "note": "c03-6",
+      "source_id": "p101-02"
+    },
+    {
+      "note": "c03-7",
+      "source_id": "p101-03"
+    },
+    {
+      "note": "c03-8",
+      "source_id": "p103-03"
+    },
+    {
+      "note": "c03-9",
+      "source_id": "p106-01"
+    },
+    {
+      "note": "c03-10",
+      "source_id": "p113-01"
+    },
+    {
+      "note": "c03-11",
+      "source_id": "p113-01"
+    }
+  ],
+  "note_reconstruction_limitation": "源电子版部分注标已退化为引号样符号；按原注顺序及对应语境恢复，不声称所有数字原本清晰可见。",
+  "source_repairs": [
+    {
+      "source_id": "p112-02",
+      "raw": ".vho",
+      "treatment": "按who的明确词义译出；原提取数据不变。"
+    },
+    {
+      "source_id": "p114-02",
+      "raw": "whet",
+      "treatment": "按what的明确语境译出；原提取数据不变。"
+    }
+  ],
+  "editorial_notes": [
+    {
+      "source_id": "p091-01",
+      "issue": "原书折现数字与按给定利率复算结果不一致",
+      "treatment": "保留原文近26美元等表述，另加译校说明；100/(1.08**3)约79.38，现值差约20.62。"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-01",
+  "chapter": 2,
+  "title": "决策过程",
+  "source_pdf_range": [
+    47,
+    74
+  ],
+  "chinese_file": "chapters/第02章 决策过程（中文）.md",
+  "chinese_sha256": "31fea90d82fb216f1337fa27e6a729b3335b368cf5651cbb8faa6d267e3d0035",
+  "source_blocks_read_and_mapped": 100,
+  "source_english_words": 10334,
+  "chinese_characters": 17834,
+  "original_notes": 13,
+  "translation_scope": "本章全部正文、标题和原注；解释性原注已译，纯书目信息保留原文。",
+  "review_scope": {
+    "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、例证、限定与跨页接续",
+    "language": "分块中文检查并定向修订；全书完成后的统一通读尚待进行",
+    "independent_professional_review": false,
+    "pdf_authored": false
+  },
+  "note_calls": [
+    {
+      "note": "c02-1",
+      "source_id": "p051-02"
+    },
+    {
+      "note": "c02-2",
+      "source_id": "p053-03"
+    },
+    {
+      "note": "c02-3",
+      "source_id": "p053-03"
+    },
+    {
+      "note": "c02-4",
+      "source_id": "p053-03"
+    },
+    {
+      "note": "c02-5",
+      "source_id": "p053-03"
+    },
+    {
+      "note": "c02-6",
+      "source_id": "p054-01"
+    },
+    {
+      "note": "c02-7",
+      "source_id": "p054-03"
+    },
+    {
+      "note": "c02-8",
+      "source_id": "p055-01"
+    },
+    {
+      "note": "c02-9",
+      "source_id": "p055-01"
+    },
+    {
+      "note": "c02-10",
+      "source_id": "p057-01"
+    },
+    {
+      "note": "c02-11",
+      "source_id": "p064-01"
+    },
+    {
+      "note": "c02-12",
+      "source_id": "p066-01"
+    },
+    {
+      "note": "c02-13",
+      "source_id": "p073-01"
+    }
+  ],
+  "note_reconstruction_limitation": "源电子版部分注标已退化为引号样符号；按原注顺序及对应语境恢复，不声称所有数字原本清晰可见。",
+  "source_renders_actually_viewed": [
+    463
+  ],
+  "source_repairs": [
+    {
+      "source": "PDF 463, chapter2 note10",
+      "raw_formula": "-Y4 X s/4 X s/4 = 27/64",
+      "treatment": "原页可见字形也已损坏；根据正文每项75%及原注结果27/64，恢复为3/4 × 3/4 × 3/4 = 27/64，译文附恢复说明。"
+    }
+  ]
+}
