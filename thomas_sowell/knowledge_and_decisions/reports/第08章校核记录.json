@@ -7,8 +7,8 @@
     282
   ],
   "chinese_file": "chapters/第08章 经济领域的趋势（中文）.md",
-  "chinese_sha256": "6a8c70f7bf7e726991662a3501845dadfba5640801c2ce78f1a032b6ddf99047",
-  "chinese_characters": 42046,
+  "chinese_sha256": "1a173eaf9a30ab043404302a8f960a23d8f56207f158abe52699d0be332fbd7f",
+  "chinese_characters": 42081,
   "source_blocks_read_and_mapped": 243,
   "original_notes": 145,
   "translation_scope": "全部正文、标题、引文和145条原注；实质性说明已译，纯书目信息保留原文。",
@@ -28,7 +28,7 @@
   ],
   "review_scope": {
     "source": "当前代理按分块逐段阅读全部正文及145条原注并对照翻译，核对论证、限定、数字、引文与跨页接续",
-    "language": "分块中文检查；定向修订章首机械标点、句法及两处语义问题；全书统一通读待完成",
+    "language": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
     "independent_professional_review": false,
     "pdf_authored": false
   },

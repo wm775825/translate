@@ -153,11 +153,11 @@
       "status": "translated",
       "last_completed_source_id": "p282-02",
       "source_blocks_checked": 243,
-      "chinese_sha256": "6a8c70f7bf7e726991662a3501845dadfba5640801c2ce78f1a032b6ddf99047",
-      "chinese_characters": 42046,
+      "chinese_sha256": "1a173eaf9a30ab043404302a8f960a23d8f56207f158abe52699d0be332fbd7f",
+      "chinese_characters": 42081,
       "translated_note_count": 145,
       "source_review": "当前代理按分块逐段阅读全部正文及145条原注并对照翻译，核对论证、限定、数字、引文与跨页接续",
-      "language_review": "分块中文检查；定向修订章首机械标点、句法及两处语义问题；全书统一通读待完成",
+      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
       "independent_professional_review": false
     },
     {
@@ -371,7 +371,7 @@
   ],
   "completed_original_notes": 1001,
   "language_review_cursor": {
-    "next_pdf_page": 212,
+    "next_pdf_page": 283,
     "completed_ranges": [
       [
         26,
@@ -484,6 +484,42 @@
       [
         206,
         211
+      ],
+      [
+        212,
+        219
+      ],
+      [
+        220,
+        227
+      ],
+      [
+        228,
+        235
+      ],
+      [
+        236,
+        243
+      ],
+      [
+        244,
+        251
+      ],
+      [
+        252,
+        259
+      ],
+      [
+        260,
+        267
+      ],
+      [
+        268,
+        275
+      ],
+      [
+        276,
+        282
       ]
     ],
     "independent_professional_review": false
