@@ -1,0 +1,904 @@
+{
+  "scope": "第六卷；由当前代理逐章翻译，沿用前五卷术语",
+  "source_pdf": "06 改革与扩张.pdf",
+  "source_sha256": "afaf2be935a22b1c3c257ae823cab4e6e71b111606c69f3d1a5b2642e7d01893",
+  "source_pages": 774,
+  "source_publication_year": 2007,
+  "editor": "夏伯嘉（R. Po-chia Hsia）",
+  "translation_status": "complete",
+  "proofreading_status": "structure_and_layout_checked_language_review_pending",
+  "pdf_status": "complete_draft",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Martin Luther, reformer",
+      "title_zh": "改革者马丁·路德",
+      "pdf_start": 26,
+      "pdf_end": 42,
+      "english_file": "第01章 改革者马丁·路德（英文）.md",
+      "chinese_file": "第01章 改革者马丁·路德（中文）.md",
+      "status": "translated",
+      "source_notes": 46,
+      "english_words_approx": 6517,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 46,
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 2,
+      "title": "Emergence and consolidation of Protestantism in the Holy Roman Empire to 1600",
+      "title_zh": "新教在神圣罗马帝国的兴起与巩固：至1600年",
+      "pdf_start": 43,
+      "pdf_end": 59,
+      "english_file": "第02章 新教在神圣罗马帝国的兴起与巩固：至1600年（英文）.md",
+      "chinese_file": "第02章 新教在神圣罗马帝国的兴起与巩固：至1600年（中文）.md",
+      "status": "translated",
+      "source_notes": 43,
+      "english_words_approx": 6276,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 43,
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 3,
+      "title": "The radical Reformation",
+      "title_zh": "激进宗教改革",
+      "pdf_start": 60,
+      "pdf_end": 78,
+      "english_file": "第03章 激进宗教改革（英文）.md",
+      "chinese_file": "第03章 激进宗教改革（中文）.md",
+      "status": "translated",
+      "source_notes": 20,
+      "english_words_approx": 7444,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 20,
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 4,
+      "title": "Lutheranism in the seventeenth century",
+      "title_zh": "17世纪的路德宗",
+      "pdf_start": 79,
+      "pdf_end": 95,
+      "english_file": "第04章 17世纪的路德宗（英文）.md",
+      "chinese_file": "第04章 17世纪的路德宗（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 7324,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 0,
+      "review_status": "source_and_note_checked",
+      "source_note_calls": 0,
+      "editorial_note_calls": []
+    },
+    {
+      "chapter": 5,
+      "title": "Communal Reformation: Zwingli, Luther, and the south of the Holy Roman Empire",
+      "title_zh": "共同体宗教改革：慈运理、路德与神圣罗马帝国南部",
+      "pdf_start": 98,
+      "pdf_end": 112,
+      "english_file": "第05章 共同体宗教改革：慈运理、路德与神圣罗马帝国南部（英文）.md",
+      "chinese_file": "第05章 共同体宗教改革：慈运理、路德与神圣罗马帝国南部（中文）.md",
+      "status": "translated",
+      "source_notes": 50,
+      "english_words_approx": 5652,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 15,
+      "translated_notes": 50,
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 6,
+      "title": "The Calvinist Reformation in Geneva",
+      "title_zh": "日内瓦的加尔文宗教改革",
+      "pdf_start": 113,
+      "pdf_end": 126,
+      "english_file": "第06章 日内瓦的加尔文宗教改革（英文）.md",
+      "chinese_file": "第06章 日内瓦的加尔文宗教改革（中文）.md",
+      "status": "translated",
+      "source_notes": 18,
+      "english_words_approx": 6145,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 14,
+      "translated_notes": 18,
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 7,
+      "title": "The theology and liturgy of Reformed Christianity",
+      "title_zh": "改革宗基督教的神学与礼仪",
+      "pdf_start": 127,
+      "pdf_end": 147,
+      "english_file": "第07章 改革宗基督教的神学与礼仪（英文）.md",
+      "chinese_file": "第07章 改革宗基督教的神学与礼仪（中文）.md",
+      "status": "translated",
+      "source_notes": 68,
+      "english_words_approx": 8399,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 68,
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 8,
+      "title": "The second wave of Protestant expansion",
+      "title_zh": "新教扩张的第二波",
+      "pdf_start": 148,
+      "pdf_end": 165,
+      "english_file": "第08章 新教扩张的第二波（英文）.md",
+      "chinese_file": "第08章 新教扩张的第二波（中文）.md",
+      "status": "translated",
+      "source_notes": 8,
+      "english_words_approx": 7510,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 8,
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 9,
+      "title": "Redefining Catholicism: Trent and beyond",
+      "title_zh": "重新界定天主教：特伦托及其后",
+      "pdf_start": 168,
+      "pdf_end": 184,
+      "english_file": "第09章 重新界定天主教：特伦托及其后（英文）.md",
+      "chinese_file": "第09章 重新界定天主教：特伦托及其后（中文）.md",
+      "status": "translated",
+      "source_notes": 19,
+      "english_words_approx": 7260,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 19,
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 10,
+      "title": "New religious orders for men",
+      "title_zh": "新的男性修会",
+      "pdf_start": 185,
+      "pdf_end": 202,
+      "english_file": "第10章 新的男性修会（英文）.md",
+      "chinese_file": "第10章 新的男性修会（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 7400,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 0,
+      "review_status": "source_and_note_checked",
+      "source_note_calls": 0,
+      "editorial_note_calls": []
+    },
+    {
+      "chapter": 11,
+      "title": "Female sanctity, 1500–1660",
+      "title_zh": "女性圣德：1500—1660年",
+      "pdf_start": 203,
+      "pdf_end": 223,
+      "english_file": "第11章 女性圣德：1500—1660年（英文）.md",
+      "chinese_file": "第11章 女性圣德：1500—1660年（中文）.md",
+      "status": "translated",
+      "source_notes": 57,
+      "english_words_approx": 8495,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": [
+          "p210-27"
+        ]
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 57,
+      "source_note_calls": 56,
+      "editorial_note_calls": [
+        "p210-27"
+      ],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 12,
+      "title": "Tridentine worship and the cult of saints",
+      "title_zh": "特伦托改革后的敬拜与圣徒崇敬",
+      "pdf_start": 224,
+      "pdf_end": 247,
+      "english_file": "第12章 特伦托改革后的敬拜与圣徒崇敬（英文）.md",
+      "chinese_file": "第12章 特伦托改革后的敬拜与圣徒崇敬（中文）.md",
+      "status": "translated",
+      "source_notes": 54,
+      "english_words_approx": 9204,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 24,
+      "translated_notes": 54,
+      "source_note_calls": 54,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 13,
+      "title": "Peace without concord: religious toleration in theory and practice",
+      "title_zh": "没有和谐的和平：宗教宽容的理论与实践",
+      "pdf_start": 250,
+      "pdf_end": 266,
+      "english_file": "第13章 没有和谐的和平：宗教宽容的理论与实践（英文）.md",
+      "chinese_file": "第13章 没有和谐的和平：宗教宽容的理论与实践（中文）.md",
+      "status": "translated",
+      "source_notes": 63,
+      "english_words_approx": 6661,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 63,
+      "source_note_calls": 63,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 14,
+      "title": "Imposing church and social discipline",
+      "title_zh": "推行教会与社会纪律",
+      "pdf_start": 267,
+      "pdf_end": 283,
+      "english_file": "第14章 推行教会与社会纪律（英文）.md",
+      "chinese_file": "第14章 推行教会与社会纪律（中文）.md",
+      "status": "translated",
+      "source_notes": 29,
+      "english_words_approx": 5972,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 29,
+      "source_note_calls": 29,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 15,
+      "title": "Persecutions and martyrdom",
+      "title_zh": "迫害与殉道",
+      "pdf_start": 284,
+      "pdf_end": 305,
+      "english_file": "第15章 迫害与殉道（英文）.md",
+      "chinese_file": "第15章 迫害与殉道（中文）.md",
+      "status": "translated",
+      "source_notes": 46,
+      "english_words_approx": 8419,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 46,
+      "source_note_calls": 46,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 16,
+      "title": "The Mediterranean Inquisitions of early modern Europe",
+      "title_zh": "欧洲近代早期地中海地区的宗教裁判所",
+      "pdf_start": 306,
+      "pdf_end": 324,
+      "english_file": "第16章 欧洲近代早期地中海地区的宗教裁判所（英文）.md",
+      "chinese_file": "第16章 欧洲近代早期地中海地区的宗教裁判所（中文）.md",
+      "status": "translated",
+      "source_notes": 49,
+      "english_words_approx": 6810,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 49,
+      "source_note_calls": 49,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 17,
+      "title": "Religious colloquies and toleration",
+      "title_zh": "宗教会谈与宽容",
+      "pdf_start": 325,
+      "pdf_end": 343,
+      "english_file": "第17章 宗教会谈与宽容（英文）.md",
+      "chinese_file": "第17章 宗教会谈与宽容（中文）.md",
+      "status": "translated",
+      "source_notes": 40,
+      "english_words_approx": 7616,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 40,
+      "source_note_calls": 40,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 18,
+      "title": "Western Christianity and Eastern Orthodoxy",
+      "title_zh": "西方基督教与东正教",
+      "pdf_start": 344,
+      "pdf_end": 365,
+      "english_file": "第18章 西方基督教与东正教（英文）.md",
+      "chinese_file": "第18章 西方基督教与东正教（中文）.md",
+      "status": "translated",
+      "source_notes": 84,
+      "english_words_approx": 7375,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 84,
+      "source_note_calls": 84,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 19,
+      "title": "The Reformation and the visual arts",
+      "title_zh": "宗教改革与视觉艺术",
+      "pdf_start": 368,
+      "pdf_end": 393,
+      "english_file": "第19章 宗教改革与视觉艺术（英文）.md",
+      "chinese_file": "第19章 宗教改革与视觉艺术（中文）.md",
+      "status": "translated",
+      "source_notes": 44,
+      "english_words_approx": 6991,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 26,
+      "translated_notes": 44,
+      "source_note_calls": 44,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 20,
+      "title": "Ritual in early modern Christianity",
+      "title_zh": "近代早期基督教的仪式",
+      "pdf_start": 394,
+      "pdf_end": 408,
+      "english_file": "第20章 近代早期基督教的仪式（英文）.md",
+      "chinese_file": "第20章 近代早期基督教的仪式（中文）.md",
+      "status": "translated",
+      "source_notes": 39,
+      "english_words_approx": 5524,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 15,
+      "translated_notes": 39,
+      "source_note_calls": 39,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 21,
+      "title": "Music and religious change",
+      "title_zh": "音乐与宗教变迁",
+      "pdf_start": 409,
+      "pdf_end": 428,
+      "english_file": "第21章 音乐与宗教变迁（英文）.md",
+      "chinese_file": "第21章 音乐与宗教变迁（中文）.md",
+      "status": "translated",
+      "source_notes": 25,
+      "english_words_approx": 7582,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 20,
+      "translated_notes": 25,
+      "source_note_calls": 25,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 22,
+      "title": "Demonology, 1500–1660",
+      "title_zh": "恶魔学：1500—1660年",
+      "pdf_start": 429,
+      "pdf_end": 447,
+      "english_file": "第22章 恶魔学：1500—1660年（英文）.md",
+      "chinese_file": "第22章 恶魔学：1500—1660年（中文）.md",
+      "status": "translated",
+      "source_notes": 18,
+      "english_words_approx": 7699,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 18,
+      "source_note_calls": 18,
+      "editorial_note_calls": [],
+      "review_status": "source_and_note_checked"
+    },
+    {
+      "chapter": 23,
+      "title": "Science and religion",
+      "title_zh": "科学与宗教",
+      "pdf_start": 448,
+      "pdf_end": 466,
+      "english_file": "第23章 科学与宗教（英文）.md",
+      "chinese_file": "第23章 科学与宗教（中文）.md",
+      "status": "translated",
+      "source_notes": 67,
+      "english_words_approx": 6375,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 67,
+      "source_note_calls": 67,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 24,
+      "title": "The new clergies",
+      "title_zh": "新的教士群体",
+      "pdf_start": 467,
+      "pdf_end": 487,
+      "english_file": "第24章 新的教士群体（英文）.md",
+      "chinese_file": "第24章 新的教士群体（中文）.md",
+      "status": "translated",
+      "source_notes": 83,
+      "english_words_approx": 8060,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 83,
+      "source_note_calls": 83,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 25,
+      "title": "Women and religious change",
+      "title_zh": "妇女与宗教变迁",
+      "pdf_start": 488,
+      "pdf_end": 505,
+      "english_file": "第25章 妇女与宗教变迁（英文）.md",
+      "chinese_file": "第25章 妇女与宗教变迁（中文）.md",
+      "status": "translated",
+      "source_notes": 13,
+      "english_words_approx": 7578,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 13,
+      "source_note_calls": 13,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 26,
+      "title": "Christianity and Judaism",
+      "title_zh": "基督教与犹太教",
+      "pdf_start": 508,
+      "pdf_end": 526,
+      "english_file": "第26章 基督教与犹太教（英文）.md",
+      "chinese_file": "第26章 基督教与犹太教（中文）.md",
+      "status": "translated",
+      "source_notes": 34,
+      "english_words_approx": 7571,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 34,
+      "source_note_calls": 34,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 27,
+      "title": "The naturalization of Andean Christianities",
+      "title_zh": "安第斯基督教诸形态的本土化",
+      "pdf_start": 527,
+      "pdf_end": 558,
+      "english_file": "第27章 安第斯基督教诸形态的本土化（英文）.md",
+      "chinese_file": "第27章 安第斯基督教诸形态的本土化（中文）.md",
+      "status": "translated",
+      "source_notes": 67,
+      "english_words_approx": 12261,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 32,
+      "translated_notes": 67,
+      "source_note_calls": 67,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 28,
+      "title": "Between Islam and Orthodoxy: Protestants and Catholics in south-eastern Europe",
+      "title_zh": "伊斯兰教与东正教之间：东南欧的新教徒与天主教徒",
+      "pdf_start": 559,
+      "pdf_end": 580,
+      "english_file": "第28章 伊斯兰教与东正教之间：东南欧的新教徒与天主教徒（英文）.md",
+      "chinese_file": "第28章 伊斯兰教与东正教之间：东南欧的新教徒与天主教徒（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 8823,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 29,
+      "title": "Christianity shaped by the Chinese",
+      "title_zh": "由中国人塑造的基督教",
+      "pdf_start": 581,
+      "pdf_end": 599,
+      "english_file": "第29章 由中国人塑造的基督教（英文）.md",
+      "chinese_file": "第29章 由中国人塑造的基督教（中文）.md",
+      "status": "translated",
+      "source_notes": 37,
+      "english_words_approx": 7041,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 37,
+      "source_note_calls": 37,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 30,
+      "title": "Reception of Hinduism and Buddhism",
+      "title_zh": "对印度教与佛教的接受",
+      "pdf_start": 600,
+      "pdf_end": 620,
+      "english_file": "第30章 对印度教与佛教的接受（英文）.md",
+      "chinese_file": "第30章 对印度教与佛教的接受（中文）.md",
+      "status": "translated",
+      "source_notes": 76,
+      "english_words_approx": 7630,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 76,
+      "source_note_calls": 76,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    }
+  ],
+  "other_sections": [
+    {
+      "key": "front_matter",
+      "title_zh": "卷首资料",
+      "pdf_start": 1,
+      "pdf_end": 15,
+      "english_file": "卷首资料（英文）.md",
+      "chinese_file": "卷首资料（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 1886,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 15,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "preface",
+      "title_zh": "编者序",
+      "pdf_start": 16,
+      "pdf_end": 17,
+      "english_file": "编者序（英文）.md",
+      "chinese_file": "编者序（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 439,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "chronology",
+      "title_zh": "大事年表",
+      "pdf_start": 18,
+      "pdf_end": 23,
+      "english_file": "大事年表（英文）.md",
+      "chinese_file": "大事年表（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 1498,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 6,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part1",
+      "title_zh": "第一编 路德与神圣罗马帝国",
+      "pdf_start": 24,
+      "pdf_end": 25,
+      "english_file": "第一编 路德与神圣罗马帝国（英文）.md",
+      "chinese_file": "第一编 路德与神圣罗马帝国（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 30,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part2",
+      "title_zh": "第二编 第二次宗教改革",
+      "pdf_start": 96,
+      "pdf_end": 97,
+      "english_file": "第二编 第二次宗教改革（英文）.md",
+      "chinese_file": "第二编 第二次宗教改革（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 25,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation",
+      "source_note_calls": 0,
+      "editorial_note_calls": []
+    },
+    {
+      "key": "part3",
+      "title_zh": "第三编 天主教更新",
+      "pdf_start": 166,
+      "pdf_end": 167,
+      "english_file": "第三编 天主教更新（英文）.md",
+      "chinese_file": "第三编 天主教更新（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 20,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation",
+      "source_note_calls": 0,
+      "editorial_note_calls": []
+    },
+    {
+      "key": "part4",
+      "title_zh": "第四编 化解宗派冲突",
+      "pdf_start": 248,
+      "pdf_end": 249,
+      "english_file": "第四编 化解宗派冲突（英文）.md",
+      "chinese_file": "第四编 化解宗派冲突（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 34,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part5",
+      "title_zh": "第五编 宗教、社会与文化",
+      "pdf_start": 366,
+      "pdf_end": 367,
+      "english_file": "第五编 宗教、社会与文化（英文）.md",
+      "chinese_file": "第五编 宗教、社会与文化（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 29,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part6",
+      "title_zh": "第六编 基督教与其他信仰",
+      "pdf_start": 506,
+      "pdf_end": 507,
+      "english_file": "第六编 基督教与其他信仰（英文）.md",
+      "chinese_file": "第六编 基督教与其他信仰（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 31,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "bibliography",
+      "title_zh": "参考书目",
+      "pdf_start": 621,
+      "pdf_end": 735,
+      "english_file": "参考书目（英文）.md",
+      "chinese_file": "参考书目（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 41275,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 115,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "index",
+      "title_zh": "索引",
+      "pdf_start": 736,
+      "pdf_end": 774,
+      "english_file": "索引（英文）.md",
+      "chinese_file": "索引（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 10534,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 39,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    }
+  ],
+  "conversion_issues": {
+    "unmatched_references": [],
+    "unmatched_definitions": [
+      "p210-27"
+    ]
+  },
+  "image_pages": [
+    1,
+    6,
+    379,
+    380,
+    382,
+    384,
+    385,
+    387,
+    388,
+    389,
+    392
+  ],
+  "extraction_warnings": [],
+  "known_source_note_issues": [
+    {
+      "pdf_page": 210,
+      "note": "p210-27",
+      "description": "原书页脚确有注27；该页及相邻页正文未见相应上标。定义已独立恢复，未虚构原文引用位置；翻译第11章时另作处理。"
+    }
+  ],
+  "source_note_definitions": 1197,
+  "source_conversion_status": "converted_with_pending_manual_review",
+  "next_chapter": null,
+  "current_stage": "全卷翻译、注释及卷末整理完成；结构与版面已校核；语言精校待续",
+  "translated_chapters": 30,
+  "translated_other_sections": [
+    "front_matter",
+    "preface",
+    "chronology",
+    "part1",
+    "part2",
+    "part3",
+    "part4",
+    "part5",
+    "part6",
+    "bibliography",
+    "index"
+  ],
+  "translated_notes": 1197,
+  "updated_at": "2026-10-30T17:11:35",
+  "current_chinese_file": "06 改革与扩张（中文全译）.md",
+  "current_pdf": "../output/pdf/06 改革与扩张（中文全译稿）.pdf",
+  "current_pdf_pages": 586,
+  "current_pdf_chapters": 30,
+  "current_stage_record": "全卷校核记录.json",
+  "translated_source_pdf_pages": 774,
+  "next_work": "逐句语言精校，优先润订第13—26章较简略的表达；不再存在待译章节。",
+  "complete_chinese_file": "06 改革与扩张（中文全译）.md",
+  "index_entries": 3107,
+  "index_translated_labels": 2311,
+  "index_original_names": 796,
+  "quality_notice": "当前为全译初稿。结构、注释对应、字符与版面检查已完成；部分较早章节行文偏简略，尚待逐句语言精校。"
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "volume": 1,
+    "directory": "第一卷",
+    "status": "consistency_and_targeted_review_complete",
+    "sections": 47,
+    "pdfs": [
+      {
+        "name": "01 起源至君士坦丁（中文校订版）.pdf",
+        "sha256": "06c79b138e15423e559e620aef1987cc4202968bde0685e2300b5534e177df86"
+      }
+    ]
+  },
+  {
+    "volume": 2,
+    "directory": "第二卷",
+    "status": "consistency_and_targeted_review_complete",
+    "sections": 37,
+    "pdfs": [
+      {
+        "name": "02 君士坦丁至600年（中文校订版）.pdf",
+        "sha256": "427951a2b6537126c902af5cc5649f0b5a05f9ddb6f895ee20eee2bce4aa2cb9"
+      }
+    ]
+  },
+  {
+    "volume": 3,
+    "directory": "第三卷",
+    "status": "一致性校订与重点复核完成",
+    "sections": 40,
+    "pdfs": [
+      {
+        "name": "03 中世纪早期基督教（中文校订版）.pdf",
+        "sha256": "ebaa3b8f6a3bb93ca3399cf7a31aa81e676aa704fd8237b9a346c0b1577c5914"
+      }
+    ]
+  },
+  {
+    "volume": 4,
+    "directory": "第四卷",
+    "status": "complete",
+    "sections": 42,
+    "pdfs": [
+      {
+        "name": "04 西欧基督教（中文校订版）.pdf",
+        "sha256": "79615907f2921c3c495bc6780f389035846e887c1fb34d6874399473183a2326"
+      }
+    ]
+  },
+  {
+    "volume": 5,
+    "directory": "第五卷",
+    "status": "complete",
+    "sections": 33,
+    "pdfs": [
+      {
+        "name": "05 东方基督教（中文校订版）.pdf",
+        "sha256": "a92ac2e3095c7ed74bfa55d06f5172ca2435195d28f04b6f6002a14c7c2f7f7e"
+      }
+    ]
+  },
+  {
+    "volume": 6,
+    "directory": "第六卷",
+    "status": "structure_and_layout_checked_language_review_pending",
+    "sections": 41,
+    "pdfs": [
+      {
+        "name": "06 改革与扩张（中文全译稿）.pdf",
+        "sha256": "f5edb44ce31b2a3e324018f4f77050c082d3ec2a35b62626eda3fa81229d31c6"
+      }
+    ]
+  },
+  {
+    "volume": 7,
+    "directory": "第七卷",
+    "status": "initial_draft_targeted_language_and_layout_reviewed",
+    "sections": 40,
+    "pdfs": [
+      {
+        "name": "07 启蒙、复兴与革命（中文全译稿）.pdf",
+        "sha256": "39ce2744f650a81c5090532a3b5709ff00ded770dc2fcac2dc25e0c0af0a1557"
+      }
+    ]
+  },
+  {
+    "volume": 8,
+    "directory": "第八卷",
+    "status": "draft_source_and_layout_checked_professional_review_pending",
+    "sections": 42,
+    "pdfs": [
+      {
+        "name": "08 世界基督教（1815-1914）（中文全译稿）.pdf",
+        "sha256": "c169008c3a1f61f5cef44b1a9e25b2b8f7d5a4be6c015d0c87737cbfa4909d04"
+      }
+    ]
+  },
+  {
+    "volume": 9,
+    "directory": "第九卷",
+    "status": "source_review_complete_professional_review_pending",
+    "sections": 39,
+    "pdfs": [
+      {
+        "name": "09 世界基督教（1914-2000）（中文译稿，缺第20章）.pdf",
+        "sha256": "1b12343ca5d46402c30987b7a45fa2428f74282f681e3b28ea148cdb521e12fd"
+      }
+    ]
+  }
+]

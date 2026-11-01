@@ -1,0 +1,1111 @@
+{
+  "scope": "第九卷；按用户授权暂跳过源文件缺失的第20章，完成其余32章及卷首卷末资料。",
+  "source_pdf": "09 世界基督教（1914-2000）.pdf",
+  "source_sha256": "a32883c8a55076a3b24bce01282f0b2a5996c94d177c1352a6c6ef6568f50738",
+  "source_pages": 720,
+  "source_publication_year": 2006,
+  "editor": "休·麦克劳德",
+  "translation_status": "complete_except_missing_ch20",
+  "proofreading_status": "consistency_and_targeted_source_review_complete",
+  "pdf_status": "complete",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Introduction",
+      "title_zh": "导论",
+      "pdf_start": 20,
+      "pdf_end": 33,
+      "english_file": "第01章 导论（英文）.md",
+      "chinese_file": "第01章 导论（中文）.md",
+      "status": "translated",
+      "source_notes": 13,
+      "english_words_approx": 4964,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 14,
+      "translated_notes": 13,
+      "source_note_calls": 13,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 2,
+      "title": "Being a Christian in the early twentieth century",
+      "title_zh": "二十世纪初的基督徒生活",
+      "pdf_start": 34,
+      "pdf_end": 45,
+      "english_file": "第02章 二十世纪初的基督徒生活（英文）.md",
+      "chinese_file": "第02章 二十世纪初的基督徒生活（中文）.md",
+      "status": "translated",
+      "source_notes": 19,
+      "english_words_approx": 4579,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 12,
+      "translated_notes": 19,
+      "source_note_calls": 19,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 3,
+      "title": "The papacy",
+      "title_zh": "教皇制度",
+      "pdf_start": 48,
+      "pdf_end": 68,
+      "english_file": "第03章 教皇制度（英文）.md",
+      "chinese_file": "第03章 教皇制度（中文）.md",
+      "status": "translated",
+      "source_notes": 50,
+      "english_words_approx": 7949,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 50,
+      "source_note_calls": 50,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 4,
+      "title": "Ecumenism",
+      "title_zh": "普世教会运动",
+      "pdf_start": 69,
+      "pdf_end": 89,
+      "english_file": "第04章 普世教会运动（英文）.md",
+      "chinese_file": "第04章 普世教会运动（中文）.md",
+      "status": "translated",
+      "source_notes": 42,
+      "english_words_approx": 7814,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 42,
+      "source_note_calls": 42,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 5,
+      "title": "Christianity, colonialism and missions",
+      "title_zh": "基督教、殖民主义与传教",
+      "pdf_start": 90,
+      "pdf_end": 107,
+      "english_file": "第05章 基督教、殖民主义与传教（英文）.md",
+      "chinese_file": "第05章 基督教、殖民主义与传教（中文）.md",
+      "status": "translated",
+      "source_notes": 22,
+      "english_words_approx": 6577,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 22,
+      "source_note_calls": 22,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 6,
+      "title": "The Pentecostal and Charismatic movements",
+      "title_zh": "五旬节运动与灵恩运动",
+      "pdf_start": 108,
+      "pdf_end": 125,
+      "english_file": "第06章 五旬节运动与灵恩运动（英文）.md",
+      "chinese_file": "第06章 五旬节运动与灵恩运动（中文）.md",
+      "status": "translated",
+      "source_notes": 40,
+      "english_words_approx": 6274,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 40,
+      "source_note_calls": 40,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 7,
+      "title": "Independency in Africa and Asia",
+      "title_zh": "非洲与亚洲的独立教会运动",
+      "pdf_start": 126,
+      "pdf_end": 147,
+      "english_file": "第07章 非洲与亚洲的独立教会运动（英文）.md",
+      "chinese_file": "第07章 非洲与亚洲的独立教会运动（中文）.md",
+      "status": "translated",
+      "source_notes": 62,
+      "english_words_approx": 7521,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 62,
+      "source_note_calls": 62,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 8,
+      "title": "The Great War",
+      "title_zh": "第一次世界大战",
+      "pdf_start": 150,
+      "pdf_end": 169,
+      "english_file": "第08章 第一次世界大战（英文）.md",
+      "chinese_file": "第08章 第一次世界大战（中文）.md",
+      "status": "translated",
+      "source_notes": 21,
+      "english_words_approx": 8098,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 20,
+      "translated_notes": 21,
+      "source_note_calls": 21,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 9,
+      "title": "The Christian churches and politics in Europe, 1914–1939",
+      "title_zh": "欧洲基督教会与政治（1914—1939年）",
+      "pdf_start": 170,
+      "pdf_end": 197,
+      "english_file": "第09章 欧洲基督教会与政治（1914—1939年）（英文）.md",
+      "chinese_file": "第09章 欧洲基督教会与政治（1914—1939年）（中文）.md",
+      "status": "translated",
+      "source_notes": 39,
+      "english_words_approx": 10448,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 28,
+      "translated_notes": 39,
+      "source_note_calls": 39,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 10,
+      "title": "Latin America, c.1914–c.1950",
+      "title_zh": "拉丁美洲（约1914—约1950年）",
+      "pdf_start": 198,
+      "pdf_end": 215,
+      "english_file": "第10章 拉丁美洲（约1914—约1950年）（英文）.md",
+      "chinese_file": "第10章 拉丁美洲（约1914—约1950年）（中文）.md",
+      "status": "translated",
+      "source_notes": 6,
+      "english_words_approx": 7000,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 6,
+      "source_note_calls": 6,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 11,
+      "title": "African Christianity: from the world wars to decolonisation",
+      "title_zh": "非洲基督教：从世界大战到非殖民化",
+      "pdf_start": 216,
+      "pdf_end": 237,
+      "english_file": "第11章 非洲基督教：从世界大战到非殖民化（英文）.md",
+      "chinese_file": "第11章 非洲基督教：从世界大战到非殖民化（中文）.md",
+      "status": "translated",
+      "source_notes": 19,
+      "english_words_approx": 8579,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 19,
+      "source_note_calls": 19,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 12,
+      "title": "The African diaspora in the Caribbean and Europe from pre-emancipation to the present day",
+      "title_zh": "加勒比与欧洲的非洲离散群体：从奴隶解放前到当代",
+      "pdf_start": 238,
+      "pdf_end": 254,
+      "english_file": "第12章 加勒比与欧洲的非洲离散群体：从奴隶解放前到当代（英文）.md",
+      "chinese_file": "第12章 加勒比与欧洲的非洲离散群体：从奴隶解放前到当代（中文）.md",
+      "status": "translated",
+      "source_notes": 47,
+      "english_words_approx": 6049,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 47,
+      "source_note_calls": 47,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation",
+      "additional_source_review": {
+        "sampled_pdf_pages": [
+          238,
+          246,
+          254
+        ],
+        "method": "开头、中段及结尾抽查，与既有原文核对记录配合；订正少量措辞。",
+        "reviewed_at": "2026-10-31T20:12:30"
+      }
+    },
+    {
+      "chapter": 13,
+      "title": "Christianity in the United States during the inter-war years",
+      "title_zh": "两次世界大战之间的美国基督教",
+      "pdf_start": 255,
+      "pdf_end": 270,
+      "english_file": "第13章 两次世界大战之间的美国基督教（英文）.md",
+      "chinese_file": "第13章 两次世界大战之间的美国基督教（中文）.md",
+      "status": "translated",
+      "source_notes": 4,
+      "english_words_approx": 6344,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 16,
+      "translated_notes": 4,
+      "source_note_calls": 4,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation",
+      "additional_source_review": {
+        "sampled_pdf_pages": [
+          255,
+          263,
+          270
+        ],
+        "method": "开头、中段及结尾抽查，与既有原文核对记录配合；订正少量措辞。",
+        "reviewed_at": "2026-10-31T20:12:30"
+      }
+    },
+    {
+      "chapter": 14,
+      "title": "Christian churches in Australia, New Zealand and the Pacific, 1914–1970",
+      "title_zh": "澳大利亚、新西兰与太平洋的基督教会（1914—1970年）",
+      "pdf_start": 271,
+      "pdf_end": 280,
+      "english_file": "第14章 澳大利亚、新西兰与太平洋的基督教会（1914—1970年）（英文）.md",
+      "chinese_file": "第14章 澳大利亚、新西兰与太平洋的基督教会（1914—1970年）（中文）.md",
+      "status": "translated",
+      "source_notes": 8,
+      "english_words_approx": 3476,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 10,
+      "translated_notes": 8,
+      "source_note_calls": 8,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation",
+      "additional_source_review": {
+        "sampled_pdf_pages": [
+          271,
+          276,
+          280
+        ],
+        "method": "开头、中段及结尾抽查，与既有原文核对记录配合；订正少量措辞。",
+        "reviewed_at": "2026-10-31T20:12:30"
+      }
+    },
+    {
+      "chapter": 15,
+      "title": "Catholicism and Protestantism in the Second World War in Europe",
+      "title_zh": "欧洲第二次世界大战中的天主教与新教",
+      "pdf_start": 281,
+      "pdf_end": 303,
+      "english_file": "第15章 欧洲第二次世界大战中的天主教与新教（英文）.md",
+      "chinese_file": "第15章 欧洲第二次世界大战中的天主教与新教（中文）.md",
+      "status": "translated",
+      "source_notes": 35,
+      "english_words_approx": 8778,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 23,
+      "translated_notes": 35,
+      "source_note_calls": 35,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation",
+      "additional_source_review": {
+        "pdf_pages": [
+          281,
+          303
+        ],
+        "method": "逐页阅读英文并与中文对应段落核对；包括已恢复页顶文字，订正少量措辞及人名。",
+        "reviewed_at": "2026-10-31T20:12:30"
+      }
+    },
+    {
+      "chapter": 16,
+      "title": "The Cold War, the hegemony of the United States and the golden age of Christian democracy",
+      "title_zh": "冷战、美国霸权与基督教民主主义的黄金时代",
+      "pdf_start": 304,
+      "pdf_end": 322,
+      "english_file": "第16章 冷战、美国霸权与基督教民主主义的黄金时代（英文）.md",
+      "chinese_file": "第16章 冷战、美国霸权与基督教民主主义的黄金时代（中文）.md",
+      "status": "translated",
+      "source_notes": 60,
+      "english_words_approx": 6545,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 60,
+      "source_note_calls": 60,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation",
+      "additional_source_review": {
+        "pdf_pages": [
+          304,
+          322
+        ],
+        "method": "逐页阅读英文并与中文对应段落核对；包括已恢复页顶文字，订正少量措辞及人名。",
+        "reviewed_at": "2026-10-31T20:12:30"
+      }
+    },
+    {
+      "chapter": 17,
+      "title": "The religious ferment of the sixties",
+      "title_zh": "六十年代的宗教激荡",
+      "pdf_start": 323,
+      "pdf_end": 341,
+      "english_file": "第17章 六十年代的宗教激荡（英文）.md",
+      "chinese_file": "第17章 六十年代的宗教激荡（中文）.md",
+      "status": "translated",
+      "source_notes": 38,
+      "english_words_approx": 6994,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 38,
+      "source_note_calls": 38,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:20:18",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 11588
+    },
+    {
+      "chapter": 18,
+      "title": "The crisis of Christianity in the West: entering a post-Christian era?",
+      "title_zh": "西方基督教的危机：走向后基督教时代？",
+      "pdf_start": 342,
+      "pdf_end": 366,
+      "english_file": "第18章 西方基督教的危机：走向后基督教时代？（英文）.md",
+      "chinese_file": "第18章 西方基督教的危机：走向后基督教时代？（中文）.md",
+      "status": "translated",
+      "source_notes": 44,
+      "english_words_approx": 8357,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 25,
+      "translated_notes": 44,
+      "source_note_calls": 44,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:22:44",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 12614
+    },
+    {
+      "chapter": 19,
+      "title": "The revolutions in eastern Europe and the beginnings of the post-communist era",
+      "title_zh": "东欧剧变与后共产主义时代的开端",
+      "pdf_start": 367,
+      "pdf_end": 384,
+      "english_file": "第19章 东欧剧变与后共产主义时代的开端（英文）.md",
+      "chinese_file": "第19章 东欧剧变与后共产主义时代的开端（中文）.md",
+      "status": "translated",
+      "source_notes": 25,
+      "english_words_approx": 6715,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 25,
+      "source_note_calls": 25,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:25:37",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 10281
+    },
+    {
+      "chapter": 20,
+      "title": "The transformation of Latin American Christianity, c.1950–2000",
+      "title_zh": "拉丁美洲基督教的转型（约1950—2000年）",
+      "pdf_start": 385,
+      "pdf_end": 385,
+      "english_file": "第20章 拉丁美洲基督教的转型（约1950—2000年）（英文）.md",
+      "chinese_file": "第20章 原文缺失说明.md",
+      "status": "source_missing",
+      "source_notes": 0,
+      "english_words_approx": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "missing_original_pages": [
+        366,
+        384
+      ],
+      "skip_authorized": true,
+      "skip_reason": "用户要求先跳过缺失章节，继续翻译其余内容；不得记为已译。",
+      "placeholder_only": true
+    },
+    {
+      "chapter": 21,
+      "title": "Religion and racism: struggles around segregation, ‘Jim Crow’ and apartheid",
+      "title_zh": "宗教与种族主义：围绕种族隔离、“吉姆·克劳”与南非种族隔离制度的斗争",
+      "pdf_start": 386,
+      "pdf_end": 401,
+      "english_file": "第21章 宗教与种族主义：围绕种族隔离、“吉姆·克劳”与南非种族隔离制度的斗争（英文）.md",
+      "chinese_file": "第21章 宗教与种族主义：围绕种族隔离、“吉姆·克劳”与南非种族隔离制度的斗争（中文）.md",
+      "status": "translated",
+      "source_notes": 32,
+      "english_words_approx": 5934,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 16,
+      "translated_notes": 32,
+      "source_note_calls": 32,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:29:08",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 9583
+    },
+    {
+      "chapter": 22,
+      "title": "Post-colonial Christianity in Africa",
+      "title_zh": "后殖民时代非洲的基督教",
+      "pdf_start": 402,
+      "pdf_end": 422,
+      "english_file": "第22章 后殖民时代非洲的基督教（英文）.md",
+      "chinese_file": "第22章 后殖民时代非洲的基督教（中文）.md",
+      "status": "translated",
+      "source_notes": 43,
+      "english_words_approx": 7530,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 43,
+      "source_note_calls": 43,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:33:44",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 12341
+    },
+    {
+      "chapter": 23,
+      "title": "South Asia, 1911–2003",
+      "title_zh": "南亚（1911—2003年）",
+      "pdf_start": 423,
+      "pdf_end": 436,
+      "english_file": "第23章 南亚（1911—2003年）（英文）.md",
+      "chinese_file": "第23章 南亚（1911—2003年）（中文）.md",
+      "status": "translated",
+      "source_notes": 24,
+      "english_words_approx": 4842,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 14,
+      "translated_notes": 24,
+      "source_note_calls": 24,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:36:07",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 7933
+    },
+    {
+      "chapter": 24,
+      "title": "Christianity in south-east Asia, 1914–2000",
+      "title_zh": "东南亚的基督教（1914—2000年）",
+      "pdf_start": 437,
+      "pdf_end": 450,
+      "english_file": "第24章 东南亚的基督教（1914—2000年）（英文）.md",
+      "chinese_file": "第24章 东南亚的基督教（1914—2000年）（中文）.md",
+      "status": "translated",
+      "source_notes": 23,
+      "english_words_approx": 4618,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 14,
+      "translated_notes": 23,
+      "source_note_calls": 23,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:38:58",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 7842
+    },
+    {
+      "chapter": 25,
+      "title": "East Asia",
+      "title_zh": "东亚",
+      "pdf_start": 451,
+      "pdf_end": 469,
+      "english_file": "第25章 东亚（英文）.md",
+      "chinese_file": "第25章 东亚（中文）.md",
+      "status": "translated",
+      "source_notes": 14,
+      "english_words_approx": 6565,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 14,
+      "source_note_calls": 14,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:44:40",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 10893
+    },
+    {
+      "chapter": 26,
+      "title": "Liturgy",
+      "title_zh": "礼拜仪式",
+      "pdf_start": 472,
+      "pdf_end": 483,
+      "english_file": "第26章 礼拜仪式（英文）.md",
+      "chinese_file": "第26章 礼拜仪式（中文）.md",
+      "status": "translated",
+      "source_notes": 7,
+      "english_words_approx": 4845,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 12,
+      "translated_notes": 7,
+      "source_note_calls": 7,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:47:44",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 6782
+    },
+    {
+      "chapter": 27,
+      "title": "The ‘other’",
+      "title_zh": "“他者”",
+      "pdf_start": 484,
+      "pdf_end": 514,
+      "english_file": "第27章 “他者”（英文）.md",
+      "chinese_file": "第27章 “他者”（中文）.md",
+      "status": "translated",
+      "source_notes": 42,
+      "english_words_approx": 11904,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 31,
+      "translated_notes": 42,
+      "source_note_calls": 42,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T19:56:37",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 17407
+    },
+    {
+      "chapter": 28,
+      "title": "Wealth and poverty",
+      "title_zh": "财富与贫困",
+      "pdf_start": 515,
+      "pdf_end": 534,
+      "english_file": "第28章 财富与贫困（英文）.md",
+      "chinese_file": "第28章 财富与贫困（中文）.md",
+      "status": "translated",
+      "source_notes": 24,
+      "english_words_approx": 7587,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 20,
+      "translated_notes": 24,
+      "source_note_calls": 24,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 29,
+      "title": "Male and female",
+      "title_zh": "男性与女性",
+      "pdf_start": 535,
+      "pdf_end": 569,
+      "english_file": "第29章 男性与女性（英文）.md",
+      "chinese_file": "第29章 男性与女性（中文）.md",
+      "status": "translated",
+      "source_notes": 93,
+      "english_words_approx": 12053,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 35,
+      "translated_notes": 93,
+      "source_note_calls": 93,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T20:06:32",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 17329
+    },
+    {
+      "chapter": 30,
+      "title": "Christianity and the sciences",
+      "title_zh": "基督教与科学",
+      "pdf_start": 570,
+      "pdf_end": 582,
+      "english_file": "第30章 基督教与科学（英文）.md",
+      "chinese_file": "第30章 基督教与科学（中文）.md",
+      "status": "translated",
+      "source_notes": 15,
+      "english_words_approx": 4642,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 13,
+      "translated_notes": 15,
+      "source_note_calls": 15,
+      "editorial_note_calls": [],
+      "review_status": "full_source_revision_complete",
+      "full_revision_completed_at": "2026-10-31T20:10:14",
+      "revision_method": "Current agent read all source pages and retranslated the chapter in full prose; structural publication checks passed.",
+      "revised_han_characters": 6452
+    },
+    {
+      "chapter": 31,
+      "title": "Literature and the arts",
+      "title_zh": "文学与艺术",
+      "pdf_start": 583,
+      "pdf_end": 618,
+      "english_file": "第31章 文学与艺术（英文）.md",
+      "chinese_file": "第31章 文学与艺术（中文）.md",
+      "status": "translated",
+      "source_notes": 56,
+      "english_words_approx": 13271,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 36,
+      "translated_notes": 56,
+      "source_note_calls": 56,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 32,
+      "title": "Role models",
+      "title_zh": "榜样",
+      "pdf_start": 619,
+      "pdf_end": 636,
+      "english_file": "第32章 榜样（英文）.md",
+      "chinese_file": "第32章 榜样（中文）.md",
+      "status": "translated",
+      "source_notes": 29,
+      "english_words_approx": 7077,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 29,
+      "source_note_calls": 29,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 33,
+      "title": "Being a Christian at the end of the twentieth century",
+      "title_zh": "二十世纪末的基督徒生活",
+      "pdf_start": 637,
+      "pdf_end": 648,
+      "english_file": "第33章 二十世纪末的基督徒生活（英文）.md",
+      "chinese_file": "第33章 二十世纪末的基督徒生活（中文）.md",
+      "status": "translated",
+      "source_notes": 18,
+      "english_words_approx": 4458,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 12,
+      "translated_notes": 18,
+      "source_note_calls": 18,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    }
+  ],
+  "other_sections": [
+    {
+      "key": "front_matter",
+      "title_zh": "卷首资料",
+      "pdf_start": 1,
+      "pdf_end": 19,
+      "english_file": "卷首资料（英文）.md",
+      "chinese_file": "卷首资料（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 4171,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part1",
+      "title_zh": "第一编 制度与运动",
+      "pdf_start": 46,
+      "pdf_end": 47,
+      "english_file": "第一编 制度与运动（英文）.md",
+      "chinese_file": "第一编 制度与运动（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 29,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part2",
+      "title_zh": "第二编 变迁的历程",
+      "pdf_start": 148,
+      "pdf_end": 149,
+      "english_file": "第二编 变迁的历程（英文）.md",
+      "chinese_file": "第二编 变迁的历程（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 24,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part3",
+      "title_zh": "第三编 社会与文化影响",
+      "pdf_start": 470,
+      "pdf_end": 471,
+      "english_file": "第三编 社会与文化影响（英文）.md",
+      "chinese_file": "第三编 社会与文化影响（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 30,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "bibliography",
+      "title_zh": "参考书目",
+      "pdf_start": 649,
+      "pdf_end": 691,
+      "english_file": "参考书目（英文）.md",
+      "chinese_file": "参考书目（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 15726,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 43,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "index",
+      "title_zh": "索引",
+      "pdf_start": 692,
+      "pdf_end": 720,
+      "english_file": "索引（英文）.md",
+      "chinese_file": "索引（中文）.md",
+      "status": "translated",
+      "source_notes": 0,
+      "english_words_approx": 6498,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 29,
+      "translated_notes": 0,
+      "source_note_calls": 0,
+      "editorial_note_calls": [],
+      "review_status": "source_checked_during_translation"
+    }
+  ],
+  "conversion_issues": {
+    "unmatched_references": [],
+    "unmatched_definitions": []
+  },
+  "image_pages": [
+    1,
+    345,
+    361,
+    362,
+    403,
+    610,
+    616,
+    618
+  ],
+  "extraction_warnings": [
+    {
+      "page": 437,
+      "unassigned_note": "1 This chapter includes some material previously published in John Roxborogh,"
+    },
+    {
+      "page": 437,
+      "unassigned_note": "‘Südostasien’, in Karl Müller and Werner Ustorf (eds.), Einleitung in die Missionsgeschichte:"
+    },
+    {
+      "page": 437,
+      "unassigned_note": "Tradition, Situation und Dynamik des Christentums (Stuttgart: Kohlhammer, 1995),"
+    },
+    {
+      "page": 437,
+      "unassigned_note": "pp. 143–58, and John Roxborogh, ‘Contextualisation and re-contextualisation: regional"
+    },
+    {
+      "page": 437,
+      "unassigned_note": "patterns in the history of southeast Asian Christianity’, Asia journal of theology 9:1"
+    },
+    {
+      "page": 437,
+      "unassigned_note": "(1995), 30–46."
+    },
+    {
+      "page": 518,
+      "unassigned_note": "1 Karl Barth, ‘The Christian community and the civil community’, in Against the stream:"
+    },
+    {
+      "page": 518,
+      "unassigned_note": "shorter post-war writings, 1946–52 (London: SCM, 1954), p. 38."
+    }
+  ],
+  "source_gaps": [
+    {
+      "chapter": 20,
+      "title_zh": "拉丁美洲基督教的转型（约1950—2000年）",
+      "original_start": 366,
+      "original_end": 384,
+      "placeholder_pdf_page": 385,
+      "reason": "源PDF缺章；书签明确标记Chapter 20 missing，原书页码365后直接跳至385。"
+    }
+  ],
+  "translated_chapters": 32,
+  "translated_other_sections": [
+    "front_matter",
+    "part1",
+    "part2",
+    "part3",
+    "bibliography",
+    "index"
+  ],
+  "translated_notes": 1014,
+  "translated_source_pdf_pages": 719,
+  "next_chapter": null,
+  "current_stage": "中文校订版：一致性校订、重点原文复核及版面校核完成。第20章原文缺失。",
+  "next_work": "本轮对齐已完成；校订范围见版本对齐记录。第20章仍待取得原文后另行补译。",
+  "updated_at": "2026-10-31T23:20:55",
+  "english_conversion_status": "all_existing_source_pages_reviewed",
+  "source_glyph_pages_pending_review": [],
+  "translation_scope_notice": "第20章原书366—384页在源PDF中缺失，按用户要求跳过；其余32章与现有卷首卷末资料已完成中文译稿。文献原题名与出版信息保留原文，说明文字译为中文。",
+  "content_review_complete": true,
+  "final_pdf_verified": true,
+  "extraction_warnings_pending_review": [],
+  "map_numbers_not_notes": [
+    "p345-70",
+    "p345-0",
+    "p345-500",
+    "p345-0",
+    "p345-500",
+    "p345-0",
+    "p345-500",
+    "p361-1000",
+    "p345-0",
+    "p345-500",
+    "p361-1000",
+    "p361-1500",
+    "p362-25",
+    "p345-0",
+    "p345-500",
+    "p361-1000",
+    "p345-0",
+    "p345-500",
+    "p361-1000",
+    "p361-1500",
+    "p403-0",
+    "p403-60",
+    "p403-61",
+    "p403-100",
+    "p403-0",
+    "p403-1000",
+    "p403-2000",
+    "p403-0",
+    "p403-1000",
+    "p403-2000",
+    "p403-3000"
+  ],
+  "current_pdf": "../output/pdf/09 世界基督教（1914-2000）（中文校订版，缺第20章）.pdf",
+  "current_pdf_pages": 580,
+  "current_pdf_chapters": 32,
+  "current_pdf_chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "current_pdf_source_pages": 719,
+  "current_pdf_notes": 1014,
+  "current_pdf_sha256": "e491c1040dcb53a146272800e2df24098e656b4c1069cf97fc973605c07b97f1",
+  "extracted_note_definitions_unverified": 0,
+  "source_reference_multiplicity_pending_review": {},
+  "stage_checked_at": "2026-10-31T16:25:20+08:00",
+  "authorized_skipped_chapters": [
+    20
+  ],
+  "translation_target_chapters": 32,
+  "language_review_pending_chapters": [],
+  "language_review_note": "曾过度紧缩的第17—19、21—27、29—30章已逐页对照英文重译完整段落；第15—16章已逐页复核，第12—14章另做首、中、末抽查。逐章记录见chapters；尚未经专业精校。",
+  "source_note_physical_location_audit": "data/volume9/note-physical-location-audit.json",
+  "content_review_completed_at": "2026-10-31T20:13:04",
+  "complete_chinese_file": "09 世界基督教（1914-2000）（中文译稿，缺第20章）.md",
+  "final_checked_at": "2026-10-31T23:20:54+08:00",
+  "revision_alignment_complete": true,
+  "version_label": "中文校订版",
+  "common_review_scope": "本套“中文校订版”表示已完成译文整理、主要术语一致性检查、重点原文复核以及结构和版面校核；未进行全卷独立专业逐句精校，也未据其他史料逐项核定原书事实。",
+  "professional_proofreading_complete": false,
+  "comprehensive_independent_sentence_review": false,
+  "alignment_record": "版本对齐记录.json",
+  "last_alignment_checked_at": "2026-10-31T23:20:54+08:00",
+  "pdf_export": {
+    "status": "complete",
+    "file": "../output/pdf/09 世界基督教（1914-2000）（中文校订版，缺第20章）.pdf",
+    "pages": 580,
+    "bytes": 8333707,
+    "sha256": "e491c1040dcb53a146272800e2df24098e656b4c1069cf97fc973605c07b97f1",
+    "date": "2026-10-31",
+    "qa": "全文文字覆盖、注释及内部链接、字体和页边界检查通过；本轮视觉范围见版本对齐记录。",
+    "visual_review": {
+      "checked_at": "2026-10-31T23:20:54+08:00",
+      "pdf_sha256": "e491c1040dcb53a146272800e2df24098e656b4c1069cf97fc973605c07b97f1",
+      "contact_sheets_actually_viewed": [],
+      "all_pages_contact_reviewed": false,
+      "thumbnail_pages_viewed": 0,
+      "enlarged_pages_actually_viewed": [
+        1,
+        2,
+        3,
+        10,
+        292,
+        492,
+        580
+      ],
+      "all_changed_text_pages_enlarged": true,
+      "method": "新旧PDF逐页比较提取文字；实际放大检查全部文字变化页及封面、阅读说明、目录、卷末等代表页；页数及书签定位与旧版一致。",
+      "result": "未见裁切、重叠、缺字、图注脱离或异常空白。",
+      "issues_remaining": []
+    }
+  },
+  "editing_source": "分章中文Markdown；合订稿由分章稿生成，旧分块不再作为发布输入。"
+}

@@ -1,0 +1,20 @@
+{
+  "entries": 2545,
+  "unique_labels": 1711,
+  "manual_labels": 973,
+  "translated_entries": 2134,
+  "original_personal_name_entries": 405,
+  "numeric_label_entries": 6,
+  "source_numeric_sequence_verified": true,
+  "verified_date_format_normalisations": [
+    {
+      "source": "September 11th 2001",
+      "zh": "2001年9月11日",
+      "same_calendar_date": true
+    }
+  ],
+  "numeric_tokens": 5574,
+  "source_columns_restored": true,
+  "all_column_gutters_preserve_glyphs": true,
+  "source_locator_italic_or_bold_numbers": 0
+}

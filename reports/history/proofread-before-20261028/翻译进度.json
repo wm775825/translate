@@ -1,0 +1,512 @@
+{
+  "scope": "第一卷全书；当前代理逐章翻译，用户明确不启用其他代理",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_zh": "公元一世纪的加利利与犹太地区",
+      "title": "1. Galilee and Judaea in the first century",
+      "pdf_start": 86,
+      "pdf_end": 101,
+      "english_words_approx": 6515,
+      "english_file": "第一章 公元一世纪的加利利与犹太地区（英文）.md",
+      "chinese_file": "第一章 公元一世纪的加利利与犹太地区（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 2,
+      "title_zh": "犹太人的散居",
+      "title": "2. The Jewish diaspora",
+      "pdf_start": 102,
+      "pdf_end": 117,
+      "english_words_approx": 6738,
+      "english_file": "第二章 犹太人的散居（英文）.md",
+      "chinese_file": "第二章 犹太人的散居（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 3,
+      "title_zh": "罗马帝国",
+      "title": "3. The Roman empire",
+      "pdf_start": 118,
+      "pdf_end": 133,
+      "english_words_approx": 6306,
+      "english_file": "第三章 罗马帝国（英文）.md",
+      "chinese_file": "第三章 罗马帝国（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 4,
+      "title_zh": "犹太基督教",
+      "title": "4. Jewish Christianity",
+      "pdf_start": 136,
+      "pdf_end": 151,
+      "english_words_approx": 7112,
+      "english_file": "第四章 犹太基督教（英文）.md",
+      "chinese_file": "第四章 犹太基督教（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 5,
+      "title_zh": "外邦基督教",
+      "title": "5. Gentile Christianity",
+      "pdf_start": 152,
+      "pdf_end": 173,
+      "english_words_approx": 9830,
+      "english_file": "第五章 外邦基督教（英文）.md",
+      "chinese_file": "第五章 外邦基督教（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 6,
+      "title_zh": "约翰传统的基督教",
+      "title": "6. Johannine Christianity",
+      "pdf_start": 174,
+      "pdf_end": 193,
+      "english_words_approx": 8191,
+      "english_file": "第六章 约翰传统的基督教（英文）.md",
+      "chinese_file": "第六章 约翰传统的基督教（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 7,
+      "title_zh": "最早期基督徒的社会与教会生活",
+      "title": "7. Social and ecclesial life of the earliest Christians",
+      "pdf_start": 194,
+      "pdf_end": 223,
+      "english_words_approx": 12150,
+      "english_file": "第七章 最早期基督徒的社会与教会生活（英文）.md",
+      "chinese_file": "第七章 最早期基督徒的社会与教会生活（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 8,
+      "title_zh": "书面记录的形成",
+      "title": "8. The emergence of the written record",
+      "pdf_start": 226,
+      "pdf_end": 243,
+      "english_words_approx": 7494,
+      "english_file": "第八章 书面记录的形成（英文）.md",
+      "chinese_file": "第八章 书面记录的形成（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 9,
+      "title_zh": "马吉安与“正典”",
+      "title": "9. Marcion and the ‘canon’",
+      "pdf_start": 244,
+      "pdf_end": 262,
+      "english_words_approx": 8901,
+      "english_file": "第九章 马吉安与“正典”（英文）.md",
+      "chinese_file": "第九章 马吉安与“正典”（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 10,
+      "title_zh": "面对犹太母体的自我界定",
+      "title": "10. Self-definition vis-a-vis the Jewish matrix",
+      "pdf_start": 263,
+      "pdf_end": 278,
+      "english_words_approx": 6958,
+      "english_file": "第十章 面对犹太母体的自我界定（英文）.md",
+      "chinese_file": "第十章 面对犹太母体的自我界定（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 11,
+      "title_zh": "面对希腊—罗马世界的自我界定",
+      "title": "11. Self-definition vis-a-vis the Graeco-Roman world",
+      "pdf_start": 279,
+      "pdf_end": 293,
+      "english_words_approx": 6625,
+      "english_file": "第十一章 面对希腊—罗马世界的自我界定（英文）.md",
+      "chinese_file": "第十一章 面对希腊—罗马世界的自我界定（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 12,
+      "title_zh": "基督徒群体间的自我区分：诺斯替派及其反对者",
+      "title": "12. Self-differentiation among Christian groups: the Gnostics and their opponents",
+      "pdf_start": 294,
+      "pdf_end": 309,
+      "english_words_approx": 6831,
+      "english_file": "第十二章 基督徒群体间的自我区分：诺斯替派及其反对者（英文）.md",
+      "chinese_file": "第十二章 基督徒群体间的自我区分：诺斯替派及其反对者（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 13,
+      "title_zh": "真理与传统：爱任纽",
+      "title": "13. Truth and tradition: Irenaeus",
+      "pdf_start": 310,
+      "pdf_end": 322,
+      "english_words_approx": 6074,
+      "english_file": "第十三章 真理与传统：爱任纽（英文）.md",
+      "chinese_file": "第十三章 真理与传统：爱任纽（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 14,
+      "title_zh": "发展中的教会如何通过实践界定自身",
+      "title": "14. The self-defining praxis of the developing ecclesia",
+      "pdf_start": 323,
+      "pdf_end": 341,
+      "english_words_approx": 8301,
+      "english_file": "第十四章 发展中的教会如何通过实践界定自身（英文）.md",
+      "chinese_file": "第十四章 发展中的教会如何通过实践界定自身（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 15,
+      "title_zh": "从耶路撒冷直到地极",
+      "title": "15. From Jerusalem to the ends of the earth",
+      "pdf_start": 344,
+      "pdf_end": 350,
+      "english_words_approx": 3082,
+      "english_file": "第十五章 从耶路撒冷直到地极（英文）.md",
+      "chinese_file": "第十五章 从耶路撒冷直到地极（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 16,
+      "title_zh": "概览：基督教的地理扩展",
+      "title": "16. Overview: the geographical spread of Christianity",
+      "pdf_start": 351,
+      "pdf_end": 362,
+      "english_words_approx": 4712,
+      "english_file": "第十六章 概览：基督教的地理扩展（英文）.md",
+      "chinese_file": "第十六章 概览：基督教的地理扩展（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 17,
+      "title_zh": "小亚细亚与亚该亚",
+      "title": "17. Asia Minor and Achaea",
+      "pdf_start": 363,
+      "pdf_end": 379,
+      "english_words_approx": 6043,
+      "english_file": "第十七章 小亚细亚与亚该亚（英文）.md",
+      "chinese_file": "第十七章 小亚细亚与亚该亚（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 18,
+      "title_zh": "埃及",
+      "title": "18. Egypt",
+      "pdf_start": 380,
+      "pdf_end": 399,
+      "english_words_approx": 8516,
+      "english_file": "第十八章 埃及（英文）.md",
+      "chinese_file": "第十八章 埃及（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 19,
+      "title_zh": "叙利亚与美索不达米亚",
+      "title": "19. Syria and Mesopotamia",
+      "pdf_start": 400,
+      "pdf_end": 414,
+      "english_words_approx": 6315,
+      "english_file": "第十九章 叙利亚与美索不达米亚（英文）.md",
+      "chinese_file": "第十九章 叙利亚与美索不达米亚（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 20,
+      "title_zh": "高卢",
+      "title": "20. Gaul",
+      "pdf_start": 415,
+      "pdf_end": 429,
+      "english_words_approx": 6259,
+      "english_file": "第二十章 高卢（英文）.md",
+      "chinese_file": "第二十章 高卢（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 21,
+      "title_zh": "北非",
+      "title": "21. North Africa",
+      "pdf_start": 430,
+      "pdf_end": 445,
+      "english_words_approx": 6397,
+      "english_file": "第二十一章 北非（英文）.md",
+      "chinese_file": "第二十一章 北非（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 22,
+      "title_zh": "罗马",
+      "title": "22. Rome",
+      "pdf_start": 446,
+      "pdf_end": 461,
+      "english_words_approx": 6405,
+      "english_file": "第二十二章 罗马（英文）.md",
+      "chinese_file": "第二十二章 罗马（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 23,
+      "title_zh": "君士坦丁以前的教会制度",
+      "title": "23. Institutions in the pre-Constantinian ecclesia",
+      "pdf_start": 464,
+      "pdf_end": 482,
+      "english_words_approx": 7827,
+      "english_file": "第二十三章 君士坦丁以前的教会制度（英文）.md",
+      "chinese_file": "第二十三章 君士坦丁以前的教会制度（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 24,
+      "title_zh": "一神论与创造",
+      "title": "24. Monotheism and creation",
+      "pdf_start": 483,
+      "pdf_end": 500,
+      "english_words_approx": 7461,
+      "english_file": "第二十四章 一神论与创造（英文）.md",
+      "chinese_file": "第二十四章 一神论与创造（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 25,
+      "title_zh": "一神论与基督论",
+      "title": "25. Monotheism and Christology",
+      "pdf_start": 501,
+      "pdf_end": 518,
+      "english_words_approx": 7944,
+      "english_file": "第二十五章 一神论与基督论（英文）.md",
+      "chinese_file": "第二十五章 一神论与基督论（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 26,
+      "title_zh": "迫害中形成的教会论",
+      "title": "26. Ecclesiology forged in the wake of persecution",
+      "pdf_start": 519,
+      "pdf_end": 533,
+      "english_words_approx": 5635,
+      "english_file": "第二十六章 迫害中形成的教会论（英文）.md",
+      "chinese_file": "第二十六章 迫害中形成的教会论（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 27,
+      "title_zh": "走向基督教的教养",
+      "title": "27. Towards a Christian paideia",
+      "pdf_start": 534,
+      "pdf_end": 549,
+      "english_words_approx": 7056,
+      "english_file": "第二十七章 走向基督教的教养（英文）.md",
+      "chinese_file": "第二十七章 走向基督教的教养（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 28,
+      "title_zh": "迫害：起源与遗产",
+      "title": "28. Persecutions: genesis and legacy",
+      "pdf_start": 552,
+      "pdf_end": 572,
+      "english_words_approx": 9335,
+      "english_file": "第二十八章 迫害：起源与遗产（英文）.md",
+      "chinese_file": "第二十八章 迫害：起源与遗产（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 29,
+      "title_zh": "公元300年以前的教会与国家",
+      "title": "29. Church and state up to c.300 ce",
+      "pdf_start": 573,
+      "pdf_end": 586,
+      "english_words_approx": 5952,
+      "english_file": "第二十九章 公元300年以前的教会与国家（英文）.md",
+      "chinese_file": "第二十九章 公元300年以前的教会与国家（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 30,
+      "title_zh": "君士坦丁与“教会的和平”",
+      "title": "30. Constantine and the ‘peace of the church’",
+      "pdf_start": 587,
+      "pdf_end": 600,
+      "english_words_approx": 6248,
+      "english_file": "第三十章 君士坦丁与“教会的和平”（英文）.md",
+      "chinese_file": "第三十章 君士坦丁与“教会的和平”（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 31,
+      "title_zh": "第一次尼西亚会议",
+      "title": "31. The first Council of Nicaea",
+      "pdf_start": 601,
+      "pdf_end": 616,
+      "english_words_approx": 7307,
+      "english_file": "第三十一章 第一次尼西亚会议（英文）.md",
+      "chinese_file": "第三十一章 第一次尼西亚会议（中文）.md",
+      "status": "translated"
+    },
+    {
+      "chapter": 32,
+      "title_zh": "走向基督教物质文化",
+      "title": "32. Towards a Christian material culture",
+      "pdf_start": 617,
+      "pdf_end": 634,
+      "english_words_approx": 6568,
+      "english_file": "第三十二章 走向基督教物质文化（英文）.md",
+      "chinese_file": "第三十二章 走向基督教物质文化（中文）.md",
+      "status": "translated"
+    }
+  ],
+  "other_sections_pending": [],
+  "last_completed_chapter": 32,
+  "other_sections": [
+    {
+      "section": "结语",
+      "title_zh": "结语：回顾与展望",
+      "pdf_start": 635,
+      "pdf_end": 638,
+      "english_file": "结语（英文）.md",
+      "chinese_file": "结语（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "序篇",
+      "title_zh": "序篇 耶稣基督：基督教的基础",
+      "pdf_start": 50,
+      "pdf_end": 83,
+      "english_file": "序篇 耶稣基督：基督教的基础（英文）.md",
+      "chinese_file": "序篇 耶稣基督：基督教的基础（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "前言",
+      "title_zh": "前言",
+      "pdf_start": 14,
+      "pdf_end": 21,
+      "chinese_file": "前言（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "致谢",
+      "title_zh": "致谢",
+      "pdf_start": 22,
+      "pdf_end": 22,
+      "chinese_file": "致谢（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "第1部分扉页",
+      "key": "part-1",
+      "title_zh": "第1部分　政治、社会与宗教背景",
+      "pdf_start": 84,
+      "pdf_end": 85,
+      "chinese_file": "第1部分 扉页（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "第2部分扉页",
+      "key": "part-2",
+      "title_zh": "第2部分　耶稣运动",
+      "pdf_start": 134,
+      "pdf_end": 135,
+      "chinese_file": "第2部分 扉页（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "第3部分扉页",
+      "key": "part-3",
+      "title_zh": "第3部分　群体传统与自我界定",
+      "pdf_start": 224,
+      "pdf_end": 225,
+      "chinese_file": "第3部分 扉页（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "第4部分扉页",
+      "key": "part-4",
+      "title_zh": "第4部分　最初三个世纪基督教的地域差异",
+      "pdf_start": 342,
+      "pdf_end": 343,
+      "chinese_file": "第4部分 扉页（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "第5部分扉页",
+      "key": "part-5",
+      "title_zh": "第5部分　基督教神学的形成",
+      "pdf_start": 462,
+      "pdf_end": 463,
+      "chinese_file": "第5部分 扉页（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "第6部分扉页",
+      "key": "part-6",
+      "title_zh": "第6部分　“外人”成为公民：走向帝国庇护",
+      "pdf_start": 550,
+      "pdf_end": 551,
+      "chinese_file": "第6部分 扉页（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "卷首资料",
+      "key": "frontmatter",
+      "title_zh": "卷首资料",
+      "pdf_start": 1,
+      "pdf_end": 13,
+      "chinese_file": "卷首资料（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "年表",
+      "key": "chronology",
+      "title_zh": "罗马皇帝与主教年表",
+      "pdf_start": 23,
+      "pdf_end": 25,
+      "chinese_file": "年表（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "缩写表",
+      "key": "abbreviations",
+      "title_zh": "缩写表与卷首地图",
+      "pdf_start": 26,
+      "pdf_end": 49,
+      "chinese_file": "缩写表与卷首地图（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "参考文献说明与章目",
+      "key": "bibliography",
+      "title_zh": "参考文献",
+      "pdf_start": 639,
+      "pdf_end": 731,
+      "chinese_file": "参考文献（中文）.md",
+      "status": "translated"
+    },
+    {
+      "section": "索引",
+      "key": "index",
+      "title_zh": "索引",
+      "pdf_start": 732,
+      "pdf_end": 791,
+      "english_file": "索引（英文，单栏）.md",
+      "chinese_file": "索引（中文）.md",
+      "status": "translated",
+      "last_translated_pdf_page": 789,
+      "translated_pages": 58,
+      "total_index_body_pages": 58
+    }
+  ],
+  "translation_status": "complete",
+  "completed_date": "2026-10-28",
+  "summary": {
+    "numbered_chapters": 32,
+    "unnumbered_prelude": 1,
+    "original_pdf_pages": 791,
+    "translated_source_footnotes": 2212,
+    "index_body_pages": 58,
+    "bibliography_pages": 93,
+    "original_asset_files": 25,
+    "translation_method": "当前代理逐章翻译；未启用其他代理或外部翻译服务",
+    "bibliographic_convention": "参考文献作者名、题名、刊名及定位保留原文；图内专名保留原图"
+  },
+  "complete_chinese_file": "01 起源至君士坦丁（中文全译）.md"
+}

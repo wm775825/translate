@@ -1,0 +1,1596 @@
+{
+  "scope": "第二卷全书；由当前代理逐章翻译，沿用第一卷规范",
+  "source_pdf": "02 君士坦丁至600年.pdf",
+  "source_sha256": "8f0b7bd1d7bd20c4a288a75b0a814386b37e06f451ad3f7d6f8f1ddd2f3a9484",
+  "source_pages": 781,
+  "source_publication_year": 2007,
+  "translation_status": "in_progress",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Western Christianities",
+      "title_zh": "西方的基督教诸形态",
+      "pdf_start": 30,
+      "pdf_end": 72,
+      "english_file": "第01章 西方的基督教诸形态（英文）.md",
+      "chinese_file": "第01章 西方的基督教诸形态（中文）.md",
+      "status": "translated",
+      "english_words_approx": 17420,
+      "source_notes": 181,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 181,
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1-181",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          {
+            "note": "14",
+            "source": [
+              "10",
+              "359"
+            ],
+            "chinese": [
+              "359",
+              "10",
+              "10"
+            ],
+            "resolved": true,
+            "reason": "10 October 359完整译为359年10月10日。"
+          },
+          {
+            "note": "71",
+            "source": [
+              "8",
+              "10",
+              "822",
+              "3"
+            ],
+            "chinese": [
+              "8",
+              "822",
+              "3"
+            ],
+            "resolved": true,
+            "reason": "10%完整译为百分之十。"
+          },
+          {
+            "note": "80",
+            "source": [
+              "236",
+              "50",
+              "5",
+              "6",
+              "43",
+              "11"
+            ],
+            "chinese": [
+              "236",
+              "250",
+              "5",
+              "6",
+              "43",
+              "11"
+            ],
+            "resolved": true,
+            "reason": "236–50展开为236至250年。"
+          },
+          {
+            "note": "109",
+            "source": [
+              "17",
+              "8",
+              "445",
+              "103"
+            ],
+            "chinese": [
+              "17",
+              "445",
+              "7",
+              "8",
+              "103"
+            ],
+            "resolved": true,
+            "reason": "8 July 445完整译为445年7月8日。"
+          },
+          {
+            "note": "111",
+            "source": [
+              "314",
+              "5",
+              "06",
+              "148",
+              "189",
+              "228",
+              "55",
+              "67"
+            ],
+            "chinese": [
+              "314",
+              "506",
+              "148",
+              "189",
+              "228",
+              "55",
+              "67"
+            ],
+            "resolved": true,
+            "reason": "合并提取时被空格拆开的506。"
+          },
+          {
+            "note": "113",
+            "source": [
+              "5",
+              "11",
+              "695",
+              "148",
+              "3",
+              "19",
+              "23",
+              "34"
+            ],
+            "chinese": [
+              "511",
+              "695",
+              "148",
+              "3",
+              "19",
+              "23",
+              "34"
+            ],
+            "resolved": true,
+            "reason": "合并提取时被空格拆开的511。"
+          },
+          {
+            "note": "115",
+            "source": [
+              "5",
+              "11",
+              "695",
+              "148",
+              "22",
+              "37",
+              "34",
+              "46"
+            ],
+            "chinese": [
+              "511",
+              "695",
+              "148",
+              "22",
+              "37",
+              "34",
+              "46"
+            ],
+            "resolved": true,
+            "reason": "合并提取时被空格拆开的511。"
+          },
+          {
+            "note": "116",
+            "source": [
+              "5",
+              "11",
+              "695",
+              "148",
+              "43",
+              "6",
+              "47",
+              "52",
+              "77",
+              "81",
+              "52",
+              "3",
+              "54",
+              "5",
+              "56",
+              "8"
+            ],
+            "chinese": [
+              "511",
+              "695",
+              "148",
+              "43",
+              "6",
+              "47",
+              "52",
+              "77",
+              "81",
+              "52",
+              "3",
+              "54",
+              "5",
+              "56",
+              "8"
+            ],
+            "resolved": true,
+            "reason": "合并提取时被空格拆开的511。"
+          },
+          {
+            "note": "117",
+            "source": [
+              "5",
+              "11",
+              "695",
+              "148",
+              "53",
+              "76",
+              "61",
+              "71"
+            ],
+            "chinese": [
+              "511",
+              "695",
+              "148",
+              "53",
+              "76",
+              "61",
+              "71"
+            ],
+            "resolved": true,
+            "reason": "合并提取时被空格拆开的511。"
+          },
+          {
+            "note": "133",
+            "source": [
+              "2",
+              "51",
+              "441",
+              "344",
+              "6",
+              "132",
+              "8",
+              "386",
+              "294",
+              "5",
+              "384",
+              "5"
+            ],
+            "chinese": [
+              "2",
+              "51",
+              "441",
+              "344",
+              "6",
+              "132",
+              "8",
+              "386",
+              "294",
+              "5",
+              "384",
+              "385"
+            ],
+            "resolved": true,
+            "reason": "384–5的冬季展开为384至385年冬。"
+          },
+          {
+            "note": "141",
+            "source": [
+              "345",
+              "5",
+              "25",
+              "149",
+              "3",
+              "10"
+            ],
+            "chinese": [
+              "345",
+              "525",
+              "149",
+              "3",
+              "10"
+            ],
+            "resolved": true,
+            "reason": "合并提取时被空格拆开的525。"
+          },
+          {
+            "note": "146",
+            "source": [
+              "1",
+              "418",
+              "149",
+              "227"
+            ],
+            "chinese": [
+              "418",
+              "5",
+              "1",
+              "149",
+              "227"
+            ],
+            "resolved": true,
+            "reason": "1 May 418完整译为418年5月1日。"
+          }
+        ]
+      },
+      "author": "Winrich Löhr",
+      "author_zh": "温里希·勒尔"
+    },
+    {
+      "chapter": 2,
+      "title": "Germanic and Celtic Christianities",
+      "title_zh": "日耳曼与凯尔特的基督教诸形态",
+      "pdf_start": 73,
+      "pdf_end": 90,
+      "english_file": "第02章 日耳曼与凯尔特的基督教诸形态（英文）.md",
+      "chinese_file": "第02章 日耳曼与凯尔特的基督教诸形态（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7733,
+      "source_notes": 15,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 15,
+      "author": "Knut Schäferdiek",
+      "author_zh": "克努特·舍费尔迪克",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–15，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          "注11的507/8完整展开为507或508年，原意与年份不变"
+        ],
+        "body_pdf_pages": "73–89",
+        "bibliography_pdf_pages": "89–90",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "狄奥多里克488年、勃艮第阿里乌派517年结束、克洛维498/9受洗、埃塞尔伯特及塞伯特约618年等依原书并列译校说明",
+          "普里特尔韦尔墓与塞伯特关系保留2007年学术语境",
+          "书目Ní Chatháin经第90页图像核实，修复提取变音错位；重印及资料丰富的条目说明已译中文",
+          "正文、引文和15条解释性注释完整，未恢复CID遗留为零"
+        ]
+      }
+    },
+    {
+      "chapter": 3,
+      "title": "Greek Christianities",
+      "title_zh": "希腊世界的基督教诸形态",
+      "pdf_start": 91,
+      "pdf_end": 138,
+      "english_file": "第03章 希腊世界的基督教诸形态（英文）.md",
+      "chinese_file": "第03章 希腊世界的基督教诸形态（中文）.md",
+      "status": "translated",
+      "english_words_approx": 20160,
+      "source_notes": 117,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 117,
+      "author": "Frederick W. Norris",
+      "author_zh": "弗雷德里克·W.诺里斯",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1-117",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          {
+            "note": "60",
+            "source": [
+              "32",
+              "3"
+            ],
+            "chinese": [
+              "32"
+            ],
+            "resolved": true,
+            "reason": "canon 3完整译为第三条教规。"
+          }
+        ],
+        "body_source_pages": "91-133",
+        "bibliography_source_pages": "133-138",
+        "source_caveats": "教规总数、皇后姓名身份、432年会议、马尔基安及查士丁二世在位年份，均保留原文并在译校说明中标出。"
+      }
+    },
+    {
+      "chapter": 4,
+      "title": "Early Asian and East African Christianities",
+      "title_zh": "早期亚洲与东非的基督教诸形态",
+      "pdf_start": 139,
+      "pdf_end": 169,
+      "english_file": "第04章 早期亚洲与东非的基督教诸形态（英文）.md",
+      "chinese_file": "第04章 早期亚洲与东非的基督教诸形态（中文）.md",
+      "status": "translated",
+      "english_words_approx": 12849,
+      "source_notes": 34,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 34,
+      "author": "David Bundy",
+      "author_zh": "戴维·邦迪",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1-34",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_source_pages": "139-165",
+        "bibliography_source_pages": "165-169",
+        "source_caveats": "埃德萨洪水、尤利安在位、祖·努瓦斯叙事顺序及太宗在位年份保留原文并列译校说明。"
+      }
+    },
+    {
+      "chapter": 5,
+      "title": "Religious dynamics between Christians and Jews in late antiquity (312–640)",
+      "title_zh": "古代晚期基督徒与犹太人之间的宗教互动（312—640年）",
+      "pdf_start": 172,
+      "pdf_end": 193,
+      "english_file": "第05章 古代晚期基督徒与犹太人之间的宗教互动（312—640年）（英文）.md",
+      "chinese_file": "第05章 古代晚期基督徒与犹太人之间的宗教互动（312—640年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8987,
+      "source_notes": 34,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 34,
+      "author": "Guy G. Stroumsa",
+      "author_zh": "居伊·G.斯特鲁姆萨",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1-34",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_source_pages": "172-191",
+        "bibliography_source_pages": "191-193",
+        "source_caveats": "耶柔米卒年保留原书419年，并注明第三章异文。",
+        "source_line_repair": "PDF第186页首行已从原PDF补回英文全文、分章英文和译文。"
+      }
+    },
+    {
+      "chapter": 6,
+      "title": "Christianity and paganism, I: Egypt",
+      "title_zh": "基督教与异教之一：埃及",
+      "pdf_start": 194,
+      "pdf_end": 209,
+      "english_file": "第06章 基督教与异教之一：埃及（英文）.md",
+      "chinese_file": "第06章 基督教与异教之一：埃及（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6557,
+      "source_notes": 26,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 26,
+      "author": "David Frankfurter",
+      "author_zh": "戴维·弗兰克福特",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1-26",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_source_pages": "194-207",
+        "bibliography_source_pages": "207-209",
+        "terminology": "heathen用外教，pagan用异教，沿用作者刻意区分；圣髑inventions、translations译作寻获、迁奉。"
+      }
+    },
+    {
+      "chapter": 7,
+      "title": "Christianity and paganism, II: Asia Minor",
+      "title_zh": "基督教与异教之二：小亚细亚",
+      "pdf_start": 210,
+      "pdf_end": 230,
+      "english_file": "第07章 基督教与异教之二：小亚细亚（英文）.md",
+      "chinese_file": "第07章 基督教与异教之二：小亚细亚（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8523,
+      "source_notes": 110,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 110,
+      "author": "Frank R. Trombley",
+      "author_zh": "弗兰克·R.特龙布利",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1-110",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          {
+            "note": "59",
+            "resolved": true,
+            "reason": "3rd century完整译为三世纪。"
+          },
+          {
+            "note": "90",
+            "resolved": true,
+            "reason": "21 September 2004完整译为2004年9月21日。"
+          }
+        ],
+        "body_source_pages": "210-226",
+        "bibliography_source_pages": "226-230",
+        "source_caveats": "哈德良在位年份117–36保留原文并列说明；chorepiskopoi依本章作者释义处理。"
+      }
+    },
+    {
+      "chapter": 8,
+      "title": "Christianity and paganism, III: Italy",
+      "title_zh": "基督教与异教之三：意大利",
+      "pdf_start": 231,
+      "pdf_end": 251,
+      "english_file": "第08章 基督教与异教之三：意大利（英文）.md",
+      "chinese_file": "第08章 基督教与异教之三：意大利（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8977,
+      "source_notes": 59,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 59,
+      "author": "Michele Renee Salzman",
+      "author_zh": "米歇尔·蕾妮·萨尔茨曼",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1-59",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          {
+            "note": "24",
+            "resolved": true,
+            "reason": "400–2展开为400—402年。"
+          },
+          {
+            "note": "52",
+            "resolved": true,
+            "reason": "17 June完整译为6月17日。"
+          }
+        ],
+        "body_source_pages": "231-250",
+        "bibliography_source_pages": "250-251",
+        "source_caveats": "394年后随后十年、马克西米安在位293–305、狄奥多西二世与340—402年的并列，以及注13、37的原文差异均保留并说明。",
+        "units": "Roman feet按原书面积换算译为罗马平方尺。"
+      }
+    },
+    {
+      "chapter": 9,
+      "title": "Christianity and paganism, IV: North Africa",
+      "title_zh": "基督教与异教之四：北非",
+      "pdf_start": 252,
+      "pdf_end": 268,
+      "english_file": "第09章 基督教与异教之四：北非（英文）.md",
+      "chinese_file": "第09章 基督教与异教之四：北非（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7251,
+      "source_notes": 80,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 80,
+      "author": "Anna Leone",
+      "author_zh": "安娜·莱奥内",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1-80",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          {
+            "note": "14",
+            "resolved": true,
+            "reason": "407/8展开为407/408年。"
+          },
+          {
+            "note": "29",
+            "resolved": true,
+            "reason": "将罗马数字DCCC、DC、D、CCCCV、DCCXX、DCCXX、DCCCCX分别译为800、600、500、405、720、720、910，并保留原罗马数字。"
+          },
+          {
+            "note": "31",
+            "resolved": true,
+            "reason": "300完整译为三百。"
+          },
+          {
+            "note": "43",
+            "resolved": true,
+            "reason": "345–8展开为345—348年。"
+          },
+          {
+            "note": "58",
+            "resolved": true,
+            "reason": "120完整译为一百二十，Forty-five译为四十五。"
+          }
+        ],
+        "body_source_pages": "252-265",
+        "bibliography_source_pages": "265-268",
+        "source_caveats": "本章第38注balneum与正文villa分别译浴场、别墅；第57注Valentinian II，以及439 and 477 until 523原文时间表达，均保留并列说明。",
+        "latin_quotations": "正文及注释中的实质性拉丁引文已译出，包括第3、17、29、36、38、44注。"
+      }
+    },
+    {
+      "chapter": 10,
+      "title": "The intellectual debate between Christians and pagans",
+      "title_zh": "基督徒与异教徒之间的思想论争",
+      "pdf_start": 269,
+      "pdf_end": 299,
+      "english_file": "第10章 基督徒与异教徒之间的思想论争（英文）.md",
+      "chinese_file": "第10章 基督徒与异教徒之间的思想论争（中文）.md",
+      "status": "translated",
+      "english_words_approx": 12461,
+      "source_notes": 165,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 165,
+      "author": "Alan Brown",
+      "author_zh": "艾伦·布朗",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–165，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": {
+          "145": "1 Cor. 转为《哥林多前书》，其余数字一致"
+        },
+        "body_pdf_pages": "269–296",
+        "bibliography_pdf_pages": "296–299",
+        "greek_visual_checked_pages": [
+          270,
+          271,
+          272,
+          276,
+          278,
+          280,
+          281,
+          282,
+          283,
+          290,
+          292,
+          293,
+          299
+        ],
+        "source_caveats": [
+          "πάντῃ ἄρρητος 与原文英文释义 entirely unlimited 不一致，译文保留作者释义并加译校说明",
+          "金犬按原书保留"
+        ],
+        "bibliography_checked": true
+      }
+    },
+    {
+      "chapter": 11,
+      "title": "Christianity and Manichaeism",
+      "title_zh": "基督教与摩尼教",
+      "pdf_start": 300,
+      "pdf_end": 316,
+      "english_file": "第11章 基督教与摩尼教（英文）.md",
+      "chinese_file": "第11章 基督教与摩尼教（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7576,
+      "source_notes": 30,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 30,
+      "author": "Samuel N. C. Lieu",
+      "author_zh": "塞缪尔·N. C. 刘",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–30，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_pdf_pages": "300–315",
+        "bibliography_pdf_pages": "315–316",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "缺损引文标记及原文所述编辑工作进度完整保留",
+          "书目内M编号解释已译成中文"
+        ]
+      }
+    },
+    {
+      "chapter": 12,
+      "title": "Heresiology: The invention of ‘heresy’ and ‘schism’",
+      "title_zh": "异端学：“异端”与“分裂”的发明",
+      "pdf_start": 317,
+      "pdf_end": 335,
+      "english_file": "第12章 异端学：“异端”与“分裂”的发明（英文）.md",
+      "chinese_file": "第12章 异端学：“异端”与“分裂”的发明（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7321,
+      "source_notes": 43,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 43,
+      "author": "J. Rebecca Lyman",
+      "author_zh": "J. 蕾贝卡·莱曼",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–43，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": {
+          "36": "chapter 4译为第四章"
+        },
+        "body_pdf_pages": "317–330",
+        "bibliography_pdf_pages": "330–334；335为空白页",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "原文将奥利金列入当代人物，保留并加译校说明",
+          "戴克里先谴责摩尼教之年295按原文保留",
+          "Kodai卷号3为原书上标排印，核对PDF后保留"
+        ]
+      }
+    },
+    {
+      "chapter": 13,
+      "title": "Towards defining a Christian culture: The Christian transformation of classical literature",
+      "title_zh": "走向基督教文化的界定：古典文学的基督教转化",
+      "pdf_start": 338,
+      "pdf_end": 363,
+      "english_file": "第13章 走向基督教文化的界定：古典文学的基督教转化（英文）.md",
+      "chinese_file": "第13章 走向基督教文化的界定：古典文学的基督教转化（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10910,
+      "source_notes": 100,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 100,
+      "author": "Bronwen Neil",
+      "author_zh": "布朗温·尼尔",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–100，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": {
+          "11": "410–14展开为410—414"
+        },
+        "body_pdf_pages": "338–360",
+        "bibliography_pdf_pages": "360–363",
+        "bibliography_checked": true,
+        "greek_visual_checked_pages": [
+          350
+        ],
+        "source_caveats": [
+          "438年狄奥多西一世、耶柔米卒年419、李维的自然史、帕科米乌斯会规三世纪均保留并加译校说明",
+          "两处奥古斯丁受洗386、De bona vita书名、金口约翰反犹演说地点、加沙的普罗科皮乌斯为异教徒等用语均按原书保留，未作默改"
+        ],
+        "source_typography_checked_pages": [
+          345,
+          350,
+          352
+        ]
+      }
+    },
+    {
+      "chapter": 14,
+      "title": "Bishops and society",
+      "title_zh": "主教与社会",
+      "pdf_start": 364,
+      "pdf_end": 387,
+      "english_file": "第14章 主教与社会（英文）.md",
+      "chinese_file": "第14章 主教与社会（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9977,
+      "source_notes": 32,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 32,
+      "author": "Raymond Van Dam",
+      "author_zh": "雷蒙德·范达姆",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–32，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_pdf_pages": "364–384",
+        "bibliography_pdf_pages": "385–387",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "主教人数、圣职编制及收入等数量按作者原文保留",
+          "教会职务与世俗官职名称依本卷区分，不把教省与行政区混同"
+        ]
+      }
+    },
+    {
+      "chapter": 15,
+      "title": "Synods and councils",
+      "title_zh": "主教会议与大公会议",
+      "pdf_start": 388,
+      "pdf_end": 406,
+      "english_file": "第15章 主教会议与大公会议（英文）.md",
+      "chinese_file": "第15章 主教会议与大公会议（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7982,
+      "source_notes": 66,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 66,
+      "author": "Mark Edwards",
+      "author_zh": "马克·爱德华兹",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–66，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": {
+          "33": "原始转换将506拆作5 06，译文合并",
+          "41": "译校说明重复原文书信编号128",
+          "52": "原始转换将511拆作5 11，译文合并",
+          "57": "fifth canon译为第5条教规"
+        },
+        "body_pdf_pages": "388–404",
+        "bibliography_pdf_pages": "404–406",
+        "bibliography_checked": true,
+        "source_typography_checked_pages": [
+          388,
+          399,
+          403
+        ],
+        "source_caveats": [
+          "380年萨拉戈萨定罪与第一章记载不同，已注",
+          "橡树会议402与第十三章相关事件403不同，已注",
+          "注41利奥大卷编号128、安提阿会议592按PDF原文保留并注明待核",
+          "君士坦提乌斯特里尔宫廷、提摩太454、格列高利为首任主持等叙述按作者原文保留"
+        ]
+      }
+    },
+    {
+      "chapter": 16,
+      "title": "The growth of church law",
+      "title_zh": "教会法的发展",
+      "pdf_start": 407,
+      "pdf_end": 423,
+      "english_file": "第16章 教会法的发展（英文）.md",
+      "chinese_file": "第16章 教会法的发展（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6936,
+      "source_notes": 36,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 36,
+      "author": "Kenneth Pennington",
+      "author_zh": "肯尼思·彭宁顿",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–36，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_pdf_pages": "407–421",
+        "bibliography_pdf_pages": "421–423",
+        "bibliography_checked": true,
+        "greek_visual_checked_pages": [
+          411
+        ],
+        "source_typography_checked_pages": [
+          422
+        ],
+        "source_caveats": [
+          "Tarragona解释为今Saragossa，原文照录并注",
+          "692年特鲁洛会议本章前称五六会议、后称第三次君士坦丁堡会议，照录并注",
+          "书目Collectio Vetus Vallica经PDF核对确实作Vallica，保留原文",
+          "作者称小狄奥尼修为希腊人、使徒训导以叙利亚语写成等判断按原书保留"
+        ]
+      }
+    },
+    {
+      "chapter": 17,
+      "title": "The church, society and political power",
+      "title_zh": "教会、社会与政治权力",
+      "pdf_start": 424,
+      "pdf_end": 449,
+      "english_file": "第17章 教会、社会与政治权力（英文）.md",
+      "chinese_file": "第17章 教会、社会与政治权力（中文）.md",
+      "status": "translated",
+      "english_words_approx": 11609,
+      "source_notes": 55,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 55,
+      "author": "H. A. Drake",
+      "author_zh": "H. A. 德雷克",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–55，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": {
+          "5": "April转为4月，新增阿拉伯数字4",
+          "19": "5,000转为五千",
+          "21": "2 Samuel转为撒母耳记下，省去阿拉伯数字2"
+        },
+        "body_pdf_pages": "424–446",
+        "bibliography_pdf_pages": "446–449",
+        "bibliography_checked": true,
+        "greek_visual_checked_pages": [
+          425,
+          426,
+          427,
+          429,
+          432,
+          438
+        ],
+        "latin_visual_checked_pages": [
+          437
+        ],
+        "source_caveats": [
+          "注3φιλός按原书重音照录",
+          "皇后Eudokia译优多基亚，沿用第三章原文用名",
+          "奥西乌斯书信343、引马可福音的亲属列表含父亲、过程始于300、梵蒂冈图像称fresco均按原书保留",
+          "书目Ekthesis置于Ambrose后、In Matthaeum homiliae置于Augustine后，以及P6、Gelasius PL49等条目和定位按原书保留"
+        ]
+      }
+    },
+    {
+      "chapter": 18,
+      "title": "Discourse on the Trinity",
+      "title_zh": "论三一",
+      "pdf_start": 452,
+      "pdf_end": 480,
+      "english_file": "第18章 论三一（英文）.md",
+      "chinese_file": "第18章 论三一（中文）.md",
+      "status": "translated",
+      "english_words_approx": 12468,
+      "source_notes": 49,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 49,
+      "author": "Khaled Anatolios",
+      "author_zh": "哈立德·阿纳托利奥斯",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–49，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_pdf_pages": "452–477",
+        "bibliography_pdf_pages": "477–480",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "君士坦提乌斯卒年360与第十五章361不同，保留并注",
+          "三一术语hypostasis的实存与位格译法变化已作译校说明，保持与prosopon及substantia的历史语义区分",
+          "亚他那修328年起任四十六年、希拉里论三一后注13同上71、Summa theologiae的i-i定位均依原书保留",
+          "文献待刊状态依2007年语境译出"
+        ]
+      }
+    },
+    {
+      "chapter": 19,
+      "title": "History of Christology to the seventh century",
+      "title_zh": "七世纪以前的基督论史",
+      "pdf_start": 481,
+      "pdf_end": 521,
+      "english_file": "第19章 七世纪以前的基督论史（英文）.md",
+      "chinese_file": "第19章 七世纪以前的基督论史（中文）.md",
+      "status": "translated",
+      "english_words_approx": 17460,
+      "source_notes": 43,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 43,
+      "author": "Karl-Heinz Uthemann",
+      "author_zh": "卡尔-海因茨·乌特曼",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–43，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_pdf_pages": "481–518",
+        "bibliography_pdf_pages": "518–521",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "原文先标Epistle of Barnabas 3.35–37、后标Baruch 3.35–37，保留并附译校说明",
+          "泽菲里努斯引文conceived and passable按受胎、能够受苦之语境译出；注14回指注7依原书保留",
+          "本章hypostasis统一译实存以保留作者与prosopon的持续区分，未套用定型术语抹去论争语境",
+          "文献中Pseudo-Athanasius, Contra后的题名省略、Leitzmann与Sullivan R. A.、Augustiniamum等依原书保留；待刊说明按2007年语境翻译",
+          "没有未恢复的CID字形；参考文献第520页已对照原PDF图像核验"
+        ]
+      }
+    },
+    {
+      "chapter": 20,
+      "title": "Sin and salvation: Experiences and reflections",
+      "title_zh": "罪与救恩：经验与反思",
+      "pdf_start": 522,
+      "pdf_end": 551,
+      "english_file": "第20章 罪与救恩：经验与反思（英文）.md",
+      "chinese_file": "第20章 罪与救恩：经验与反思（中文）.md",
+      "status": "translated",
+      "english_words_approx": 13018,
+      "source_notes": 103,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 103,
+      "author": "Augustine Casiday",
+      "author_zh": "奥古斯丁·卡西代",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–103，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          "注82的1 Corinthians译为哥林多前书，前字对应1，无数字遗漏",
+          "注97将会议年份306移到教规38之前，符合中文语序"
+        ],
+        "body_pdf_pages": "522–547",
+        "bibliography_pdf_pages": "547–551",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "开篇Luke 19.19与引文所对应19:10不同，保留并注",
+          "正文称拒绝遗传罪者不忌讳对婴儿用不同洗礼公式，而注57引文要求相同语词，均保留并注",
+          "主面前谦卑之引文原书归于保罗，对应雅各书4:10，保留并注",
+          "原书称criobolium祭牲为goat、先说六世纪后举狄奥多若，及注64Confessions 4.1.1、注71回指68等均依原书保留",
+          "第551页Slenczka书名缺词或措辞疑点按原书保留，只修复粘连空格；参考文献已初校",
+          "正文及脚注没有未恢复的CID字形"
+        ]
+      }
+    },
+    {
+      "chapter": 21,
+      "title": "From Antioch to Arles: Lay devotion in context",
+      "title_zh": "从安提阿到阿尔勒：处境中的平信徒虔敬",
+      "pdf_start": 552,
+      "pdf_end": 568,
+      "english_file": "第21章 从安提阿到阿尔勒：处境中的平信徒虔敬（英文）.md",
+      "chinese_file": "第21章 从安提阿到阿尔勒：处境中的平信徒虔敬（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7442,
+      "source_notes": 29,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 29,
+      "author": "Georgia Frank",
+      "author_zh": "乔治娅·弗兰克",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–29，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          "注24增加译校说明，重复原书卷号550，非原注数字遗漏"
+        ],
+        "body_pdf_pages": "552–566",
+        "bibliography_pdf_pages": "566–568",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "注24的PG卷号550经第563页原PDF图像核实，照录并注明；同页引文her与his以中文不标性别的殉道者及其表达",
+          "原书五世纪成人洗礼的概括、狄奥多若生卒年350–428/429和第十九章352–428不同，均依作者保留",
+          "原书De sacerdotio 13.69及会议年代360等均未静默更改",
+          "正文和注释无未恢复CID字形，参考文献分类及粘连数字已初校"
+        ]
+      }
+    },
+    {
+      "chapter": 22,
+      "title": "Saints and holy men",
+      "title_zh": "圣徒与圣人",
+      "pdf_start": 569,
+      "pdf_end": 587,
+      "english_file": "第22章 圣徒与圣人（英文）.md",
+      "chinese_file": "第22章 圣徒与圣人（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8054,
+      "source_notes": 52,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 52,
+      "author": "Claudia Rapp",
+      "author_zh": "克劳迪娅·拉普",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–52，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_pdf_pages": "569–584",
+        "bibliography_pdf_pages": "584–587",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "原书称迫害于312年结束、波利卡普死于167年，依作者保留",
+          "保利努斯出自西班牙及斐利克斯为大迫害殉道者的说法均照原书；未将其他章节异说静默代入",
+          "首例迁奉、首例寻获的概括及安东尼斗篷传给门徒塞拉皮翁之说均依原书",
+          "原书Martrydom、Leclerq、Goddart Elliott等书目拼写保留；只修复粘连数字和单词",
+          "五项网络资源的说明已译出，历史地址的排印波浪号规范为URL半角符号，未另查当前网站",
+          "正文及注释无未恢复CID字形"
+        ]
+      }
+    },
+    {
+      "chapter": 23,
+      "title": "Pastoral care and discipline",
+      "title_zh": "牧养与纪律",
+      "pdf_start": 588,
+      "pdf_end": 605,
+      "english_file": "第23章 牧养与纪律（英文）.md",
+      "chinese_file": "第23章 牧养与纪律（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7781,
+      "source_notes": 5,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 5,
+      "author": "Rowan A. Greer",
+      "author_zh": "罗恩·A.格里尔",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–5，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_pdf_pages": "588–603",
+        "bibliography_pdf_pages": "603–605",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "达马苏卒年385与第二十二章384不同，保留并附译校说明",
+          "原书尼西比斯割让年份361、合一性论教会组织年份531、阿尔勒割让法兰克年份542、以弗所约翰586年殉道等概括依作者保留",
+          "原书Pastoral rule三部分说法依原书译出，书名与第十四章统一",
+          "原书书目将Institutes缩进于John Chrysostom之下、Romanus前带问号、Sozomen项缺右括号，均经第604页原PDF图像核实并保留",
+          "第605页Vőőbus的双锐音按原PDF恢复，未改成另一个拼法",
+          "无未恢复CID字形，脚注数字与原书完全一致"
+        ]
+      }
+    },
+    {
+      "chapter": 24,
+      "title": "Sexuality, marriage and the family",
+      "title_zh": "性、婚姻与家庭",
+      "pdf_start": 606,
+      "pdf_end": 621,
+      "english_file": "第24章 性、婚姻与家庭（英文）.md",
+      "chinese_file": "第24章 性、婚姻与家庭（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6658,
+      "source_notes": 15,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 15,
+      "author": "David G. Hunter",
+      "author_zh": "戴维·G.亨特",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–15，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          "注7译校说明增加2007年，解释原书未出版状态，原注数字完整"
+        ],
+        "body_pdf_pages": "606–619",
+        "bibliography_pdf_pages": "619–621",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "福柯第四卷未出版依2007年叙述保留并注",
+          "原书对月经期、星期日或庆日受孕与疾病的关联是所引凯撒里乌斯声称，译文明确归于该历史人物，未改写成当代医学判断",
+          "原书不列颠北部会议在威尔士召开及年份约数均保留",
+          "书目Joannou与Ioannou两种拼法、Musonius版本年1990、Brown此书年1989及Pheasont拼法依原书",
+          "原书无未恢复CID字形，脚注数字初校通过"
+        ]
+      }
+    },
+    {
+      "chapter": 25,
+      "title": "The growth of liturgy and the church year",
+      "title_zh": "礼仪与教会年的发展",
+      "pdf_start": 622,
+      "pdf_end": 638,
+      "english_file": "第25章 礼仪与教会年的发展（英文）.md",
+      "chinese_file": "第25章 礼仪与教会年的发展（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7057,
+      "source_notes": 19,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 19,
+      "author": "Bryan D. Spinks",
+      "author_zh": "布赖恩·D.斯平克斯",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–19，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [],
+        "body_pdf_pages": "622–637",
+        "bibliography_pdf_pages": "637–638",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "引文Mysterium与下文Martyrium不同，经原PDF第622页核实，保留并附译校说明",
+          "原书effeta释bringing forth、第632页the readings of chants、第627页先称雅各祷文无救赎感恩又列三者共有结构含该项等均依作者保留",
+          "原书Clement第二世纪、Cassian在Scetis的380–399年及圣诞日期理论均保持2007年叙述视角",
+          "第626、633、634页21处CID均经原PDF图像确认是实心圆点，在页面缓存与两份英文底稿恢复为Markdown无序列表；无其他未恢复CID",
+          "书目Catacheses、De sacramentiis、Le prière等原拼写保留，间断变音及重印说明已初校"
+        ]
+      }
+    },
+    {
+      "chapter": 26,
+      "title": "Interpreting scripture",
+      "title_zh": "圣经诠释",
+      "pdf_start": 639,
+      "pdf_end": 657,
+      "english_file": "第26章 圣经诠释（英文）.md",
+      "chinese_file": "第26章 圣经诠释（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7397,
+      "source_notes": 61,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 61,
+      "author": "Paul M. Blowers",
+      "author_zh": "保罗·M.布洛尔斯",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–61，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          "注49将首次出版年1516提前至书名前，其他定位数字完全一致"
+        ],
+        "body_pdf_pages": "639–655",
+        "bibliography_pdf_pages": "655–657",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "律法终点原书指罗马书10.9，所引对应10:4，照录并附译校说明",
+          "纳尔赛引文被原书置于五世纪初，依作者保留；未静默改为其余章节的较晚生平时段",
+          "诗篇沿用原书七十士译本编号及括号对照；第59篇标题按原书至终、为将被改变者保留",
+          "原书Tyrpanis、Catacheses、Cameron书目1996及Davidson书目2002依原书保留，区别本卷其他章的版本年",
+          "罗曼诺斯长段对话、格列高利、奥古斯丁及狄奥尼修引文均全文译出，所有解释性注释完整；无未恢复CID字形"
+        ]
+      }
+    },
+    {
+      "chapter": 27,
+      "title": "Asceticism and monasticism, I: Eastern",
+      "title_zh": "禁欲与修道生活之一：东方",
+      "pdf_start": 658,
+      "pdf_end": 689,
+      "english_file": "第27章 禁欲与修道生活之一：东方（英文）.md",
+      "chinese_file": "第27章 禁欲与修道生活之一：东方（中文）.md",
+      "status": "translated",
+      "english_words_approx": 14170,
+      "source_notes": 69,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 69,
+      "author": "Samuel Rubenson",
+      "author_zh": "塞缪尔·鲁本森",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–69，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          "注6的345–99展开为345—399，年份未变",
+          "注22将年份373提至3,000人之前，符合中文语序"
+        ],
+        "body_pdf_pages": "658–686",
+        "bibliography_pdf_pages": "686–689",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "西缅卒年458与第二十二章459不同，保留并注；本章柱高约18米与第二十二章16.5米各依作者",
+          "原书John Saba与简称Sabas的关系已在首次出现处注明，未静默删John",
+          "原书将sarabaites归耶柔米、remnuoth归卡西安，照录；注18Historia religiosa 28、巴西尔雅典归来351、玛克里娜325–380、安居拉会议315等均未改",
+          "Heussi书名dedem在第681页注与第688页书目均经原PDF图像核实，保留；原书Cane、OSCO、L’horloge georgien等依印本保留",
+          "六处CID在第665–667页图像确认均为实心圆点，页面缓存及两份英文底稿恢复Markdown无序列表；无其他CID遗留",
+          "学术研究状态和论文待刊叙述均保留2007年视角"
+        ]
+      }
+    },
+    {
+      "chapter": 28,
+      "title": "Asceticism and monasticism, II:Western",
+      "title_zh": "禁欲与修道生活之二：西方",
+      "pdf_start": 690,
+      "pdf_end": 711,
+      "english_file": "第28章 禁欲与修道生活之二：西方（英文）.md",
+      "chinese_file": "第28章 禁欲与修道生活之二：西方（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9726,
+      "source_notes": 23,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 23,
+      "author": "Marilyn Dunn",
+      "author_zh": "玛丽琳·邓恩",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–23，正文引用和定义各一次",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          "注20译校说明增加2007年以标明原书学术语境，原注定位数字完整"
+        ],
+        "body_pdf_pages": "690–709",
+        "bibliography_pdf_pages": "709–711",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "优西比乌流放归来与340年代的联系依原书保留，已注与第一章355年流放叙述不合",
+          "本笃、《对话录》真伪及《大师规章》先后和博比奥起源论依作者判断保留，注20及23标示不同学术立场和2007年语境",
+          "马丁371年成为主教与第二十二章约372年各依原作者；蓬提基安努斯本人归信、三百万行奥利金等原书叙述保留",
+          "本章不提耶柔米与卡西安两种sarabaites/remnuoth的归属，第二十七章的原文归属疑点仍保留待查说明",
+          "原书Frühes Mönchtum in Frankenreich、rinnovamente、heiliger等拼写依印本；Asketen- und、agricolo-religioso经第711页图像恢复",
+          "正文及注释无CID字形遗留"
+        ]
+      }
+    },
+    {
+      "chapter": 29,
+      "title": "Art and Propaganda fide: Christian art and architecture, 300–600",
+      "title_zh": "艺术与信仰传播：300—600年的基督教艺术与建筑",
+      "pdf_start": 712,
+      "pdf_end": 746,
+      "english_file": "第29章 艺术与信仰传播：300—600年的基督教艺术与建筑（英文）.md",
+      "chinese_file": "第29章 艺术与信仰传播：300—600年的基督教艺术与建筑（中文）.md",
+      "status": "translated",
+      "english_words_approx": 15372,
+      "source_notes": 55,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_notes": 55,
+      "author": "Beat Brenk",
+      "author_zh": "贝亚特·布伦克",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "footnote_sequence": "1–55，正文引用和定义各一次；星号谢辞独立列于后记末",
+        "numeric_note_issues": [],
+        "numeric_differences_reviewed": [
+          "注11的16th-century译作十六世纪，定位未变"
+        ],
+        "body_pdf_pages": "712–745",
+        "bibliography_pdf_pages": "745–746",
+        "bibliography_checked": true,
+        "source_caveats": [
+          "原书把路加福音5:10的西门写作已经受洗，依原文并注",
+          "圣普登齐亚娜前文建于五世纪初、后文马赛克384–399，均保留并注",
+          "石棺约在四世纪之交消失与上文313年后大批生产两处表述保留并注",
+          "圣索菲亚历来最大及设计无后继的断言按作者保留并注，未改写作者历史判断",
+          "第726页Chi-Rho图像原被漏提取为括号空白，经图像核实恢复☧；第745页星号谢辞原误并入第55注，已分离并全文翻译",
+          "书目mogen、christlich.antiken、De Blaauw姓名顺序及其余原拼写依印本；mosaïques、1150与Frankfurt-am-Main系提取修复",
+          "原书半圆后殿图像从不叙事、不受敬拜、朴素墓葬起源及国家宗教至查士丁尼等判断均依作者，未静默更新",
+          "全章无CID遗留，原PDF源文件未改"
+        ]
+      }
+    }
+  ],
+  "other_sections": [
+    {
+      "key": "introduction",
+      "title_zh": "引言",
+      "pdf_start": 22,
+      "pdf_end": 27,
+      "english_file": "引言（英文）.md",
+      "chinese_file": "引言（中文）.md",
+      "status": "translated",
+      "completed_date": "2026-10-28"
+    },
+    {
+      "key": "frontmatter",
+      "title_zh": "卷首资料",
+      "pdf_start": 1,
+      "pdf_end": 13,
+      "status": "translated",
+      "chinese_file": "卷首资料（中文）.md",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "coverage": "封面、简介、丛书、出版编目、目录、地图目录、29位撰稿人及其任职完整",
+        "source_pdf_pages": "1–13",
+        "blank_pages": [
+          3
+        ]
+      }
+    },
+    {
+      "key": "abbreviations",
+      "title_zh": "缩写表与地图",
+      "pdf_start": 14,
+      "pdf_end": 21,
+      "status": "translated",
+      "chinese_file": "缩写表与地图（中文）.md",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "coverage": "全部缩写原称和中文释义、四幅地图原图与中文图题图例地名对照",
+        "map_label_counts": [
+          237,
+          74,
+          102,
+          46
+        ],
+        "source_pdf_pages": "14–21",
+        "map_1": "第17页为跨页图左页的空白提取图，第18页资产含原书第xvi–xvii页完整跨页地图",
+        "map_label_review": "第1图Marcomanni／Suebi两词、Quadi、Hunni、Persae、Illyricum及Sarmatae经局部放大核实"
+      }
+    },
+    {
+      "key": "part-1",
+      "title_zh": "第1部分 基督教：地域发展",
+      "pdf_start": 28,
+      "pdf_end": 29,
+      "chinese_file": "第1部分 扉页（中文）.md",
+      "status": "translated"
+    },
+    {
+      "key": "part-2",
+      "title_zh": "第2部分 基督教面对争论",
+      "pdf_start": 170,
+      "pdf_end": 171,
+      "status": "translated",
+      "chinese_file": "第2部分 扉页（中文）.md",
+      "completed_date": "2026-10-28"
+    },
+    {
+      "key": "part-3",
+      "title_zh": "第3部分 基督教文化与社会",
+      "pdf_start": 336,
+      "pdf_end": 337,
+      "status": "translated",
+      "chinese_file": "第3部分 扉页（中文）.md",
+      "completed_date": "2026-10-28"
+    },
+    {
+      "key": "part-4",
+      "title_zh": "第4部分 基督教信仰与实践",
+      "pdf_start": 450,
+      "pdf_end": 451,
+      "status": "translated",
+      "chinese_file": "第4部分 扉页（中文）.md",
+      "completed_date": "2026-10-28"
+    },
+    {
+      "key": "index",
+      "title_zh": "索引",
+      "pdf_start": 747,
+      "pdf_end": 781,
+      "status": "translated",
+      "chinese_file": "索引（中文）.md",
+      "english_file": "索引（英文）.md",
+      "completed_date": "2026-10-28",
+      "validation": {
+        "entries": 3141,
+        "primary_entries": 1050,
+        "subentries": 2091,
+        "unique_labels": 2147,
+        "untranslated_labels": 0,
+        "source_pdf_pages": "747–779",
+        "source_printed_pages": "726–758",
+        "numeric_sequence_preserved": true,
+        "columns_reconstructed": true,
+        "source_caveats": [
+          "atenae经第750页图像核实为印本原词，按正文译链式注释；Cantenae亦保留原拼写",
+          "君士坦丁二世337–61、马尔基安540–7、希拉克略620–41、Maurice V、Lucus Verus及苏维汇国王归属等依原索引，未静默更改",
+          "数个原词目分项未列定位页码，保持无页码状态",
+          "保罗派指向祈祷派的参见关系依原索引保留"
+        ]
+      }
+    }
+  ],
+  "conversion_issues": {
+    "unmatched_references": [],
+    "unmatched_definitions": []
+  },
+  "image_pages": [
+    1,
+    6,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "translated_chapters": 29,
+  "next_chapter": null,
+  "last_updated": "2026-10-28",
+  "complete_chinese_file": "02 君士坦丁至600年（中文全译）.md",
+  "working_chinese_file": "02 君士坦丁至600年（中文译稿，持续更新）.md",
+  "source_sha256_verified": true,
+  "conversion_validation": {
+    "page_anchors": 781,
+    "paired_footnotes": 1706,
+    "unique_note_identifiers": true
+  },
+  "source_topline_audit": {
+    "pages_scanned": "22-781",
+    "missing_lines_found": 1,
+    "repaired_pages": [
+      186
+    ],
+    "earlier_translated_chapters_affected": [],
+    "audit_file": "../tmp/volume2-topline-audit.json"
+  },
+  "translation_complete_date": "2026-10-28",
+  "proofreading": {
+    "date": "2026-10-28",
+    "status": "consistency_and_targeted_review_complete",
+    "scope": "29章逐章原文对照翻译；注释序列及定位数字复核；译名一致性校订；特殊字形与重点引文复核；书目分项整理；卷首、缩写、地图及全索引翻译；排版文字覆盖和视觉检查",
+    "comprehensive_independent_sentence_review": false,
+    "bibliography_final_changes": [
+      {
+        "file": "第二卷\\第01章 西方的基督教诸形态（中文）.md",
+        "old": "reprint 2003",
+        "new": "2003年重印",
+        "count": 1
+      },
+      {
+        "file": "第二卷\\第01章 西方的基督教诸形态（中文）.md",
+        "old": "reprinted in A. de Halleux",
+        "new": "重刊于 A. de Halleux",
+        "count": 1
+      },
+      {
+        "file": "第二卷\\第02章 日耳曼与凯尔特的基督教诸形态（中文）.md",
+        "old": "reprint: 1980",
+        "new": "重印：1980",
+        "count": 1
+      },
+      {
+        "file": "第二卷\\第02章 日耳曼与凯尔特的基督教诸形态（中文）.md",
+        "old": "(with numerous informative contributions)",
+        "new": "（收有多篇资料丰富的条目）",
+        "count": 1
+      },
+      {
+        "file": "第二卷\\第02章 日耳曼与凯尔特的基督教诸形态（中文）.md",
+        "old": "Ńı Chatháin",
+        "new": "Ní Chatháin",
+        "count": 1
+      },
+      {
+        "file": "tmp\\volume2\\ch01-bibliography-zh.md",
+        "old": "reprint 2003",
+        "new": "2003年重印",
+        "count": 1
+      },
+      {
+        "file": "tmp\\volume2\\ch01-bibliography-zh.md",
+        "old": "reprinted in A. de Halleux",
+        "new": "重刊于 A. de Halleux",
+        "count": 1
+      }
+    ],
+    "name_occurrences_in_deliverable_sections": 44,
+    "source_repairs": [
+      "第186页正文首行遗漏已恢复",
+      "第10、13、16、17章希腊文字形逐页查图恢复",
+      "第25及27章CID圆点恢复为列表符号",
+      "第29章Chi-Rho记号与独立星号谢辞恢复",
+      "索引33页左右栏次序及层级恢复",
+      "版权页版权符号恢复"
+    ],
+    "source_pdf_sha256": "8f0b7bd1d7bd20c4a288a75b0a814386b37e06f451ad3f7d6f8f1ddd2f3a9484"
+  },
+  "pdf_export": {
+    "status": "complete",
+    "date": "2026-10-28",
+    "file": "../output/pdf/02 君士坦丁至600年（中文校订版）.pdf",
+    "pages": 726,
+    "paper": "B5",
+    "footnotes": 1706,
+    "additional_author_acknowledgements": 1,
+    "facsimile_images": 6,
+    "maps": 4,
+    "translated_map_labels": 459,
+    "index_entries_and_subentries": 3141,
+    "source_page_locators": 725,
+    "internal_links": 10869,
+    "sha256": "427951a2b6537126c902af5cc5649f0b5a05f9ddb6f895ee20eee2bce4aa2cb9",
+    "qa": "文字片段覆盖、注释配对、内部链接、字体覆盖、页边界通过；全726页缩略图及代表页放大检查通过"
+  },
+  "completion_status": "complete"
+}

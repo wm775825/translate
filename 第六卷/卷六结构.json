@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Cover",
+    "pdf_start": 1,
+    "depth": 0
+  },
+  {
+    "title": "Title Page",
+    "pdf_start": 6,
+    "depth": 0
+  },
+  {
+    "title": "Copyright",
+    "pdf_start": 7,
+    "depth": 0
+  },
+  {
+    "title": "Contents",
+    "pdf_start": 8,
+    "depth": 0
+  },
+  {
+    "title": "List of illustrations",
+    "pdf_start": 12,
+    "depth": 0
+  },
+  {
+    "title": "List of contributors",
+    "pdf_start": 13,
+    "depth": 0
+  },
+  {
+    "title": "Editor’s preface",
+    "pdf_start": 16,
+    "depth": 0
+  },
+  {
+    "title": "Chronology",
+    "pdf_start": 18,
+    "depth": 0
+  },
+  {
+    "title": "Part I. Luther and the Holy Roman Empire",
+    "pdf_start": 24,
+    "depth": 0
+  },
+  {
+    "title": "1. Martin Luther, reformer",
+    "pdf_start": 26,
+    "depth": 1
+  },
+  {
+    "title": "2. Emergence and consolidation of Protestantism in the Holy Roman Empire to 1600",
+    "pdf_start": 43,
+    "depth": 1
+  },
+  {
+    "title": "3. The radical Reformation",
+    "pdf_start": 60,
+    "depth": 1
+  },
+  {
+    "title": "4. Lutheranism in the seventeenth century",
+    "pdf_start": 79,
+    "depth": 1
+  },
+  {
+    "title": "Part II. The Second Reformation",
+    "pdf_start": 96,
+    "depth": 0
+  },
+  {
+    "title": "5. Communal Reformation: Zwingli, Luther, and the south of the Holy Roman Empire",
+    "pdf_start": 98,
+    "depth": 1
+  },
+  {
+    "title": "6. The Calvinist Reformation in Geneva",
+    "pdf_start": 113,
+    "depth": 1
+  },
+  {
+    "title": "7. The theology and liturgy of Reformed Christianity",
+    "pdf_start": 127,
+    "depth": 1
+  },
+  {
+    "title": "8. The second wave of Protestant expansion",
+    "pdf_start": 148,
+    "depth": 1
+  },
+  {
+    "title": "Part III. Catholic Renewal",
+    "pdf_start": 166,
+    "depth": 0
+  },
+  {
+    "title": "9. Redefining Catholicism: Trent and beyond",
+    "pdf_start": 168,
+    "depth": 1
+  },
+  {
+    "title": "10. New religious orders for men",
+    "pdf_start": 185,
+    "depth": 1
+  },
+  {
+    "title": "11. Female sanctity, 1500–1660",
+    "pdf_start": 203,
+    "depth": 1
+  },
+  {
+    "title": "12. Tridentine worship and the cult of saints",
+    "pdf_start": 224,
+    "depth": 1
+  },
+  {
+    "title": "Part IV. Resolving Confessional Conflicts",
+    "pdf_start": 248,
+    "depth": 0
+  },
+  {
+    "title": "13. Peace without concord: religious toleration in theory and practice",
+    "pdf_start": 250,
+    "depth": 1
+  },
+  {
+    "title": "14. Imposing church and social discipline",
+    "pdf_start": 267,
+    "depth": 1
+  },
+  {
+    "title": "15. Persecutions and martyrdom",
+    "pdf_start": 284,
+    "depth": 1
+  },
+  {
+    "title": "16. The Mediterranean Inquisitions of early modern Europe",
+    "pdf_start": 306,
+    "depth": 1
+  },
+  {
+    "title": "17. Religious colloquies and toleration",
+    "pdf_start": 325,
+    "depth": 1
+  },
+  {
+    "title": "18. Western Christianity and Eastern Orthodoxy",
+    "pdf_start": 344,
+    "depth": 1
+  },
+  {
+    "title": "Part V. Religion, Society, and Culture",
+    "pdf_start": 366,
+    "depth": 0
+  },
+  {
+    "title": "19. The Reformation and the visual arts",
+    "pdf_start": 368,
+    "depth": 1
+  },
+  {
+    "title": "20. Ritual in early modern Christianity",
+    "pdf_start": 394,
+    "depth": 1
+  },
+  {
+    "title": "21. Music and religious change",
+    "pdf_start": 409,
+    "depth": 1
+  },
+  {
+    "title": "22. Demonology, 1500–1660",
+    "pdf_start": 429,
+    "depth": 1
+  },
+  {
+    "title": "23. Science and religion",
+    "pdf_start": 448,
+    "depth": 1
+  },
+  {
+    "title": "24. The new clergies",
+    "pdf_start": 467,
+    "depth": 1
+  },
+  {
+    "title": "25. Women and religious change",
+    "pdf_start": 488,
+    "depth": 1
+  },
+  {
+    "title": "Part VI. Christianity and Other Faiths",
+    "pdf_start": 506,
+    "depth": 0
+  },
+  {
+    "title": "26. Christianity and Judaism",
+    "pdf_start": 508,
+    "depth": 1
+  },
+  {
+    "title": "27. The naturalization of Andean Christianities",
+    "pdf_start": 527,
+    "depth": 1
+  },
+  {
+    "title": "28. Between Islam and Orthodoxy: Protestants and Catholics in south-eastern Europe",
+    "pdf_start": 559,
+    "depth": 1
+  },
+  {
+    "title": "29. Christianity shaped by the Chinese",
+    "pdf_start": 581,
+    "depth": 1
+  },
+  {
+    "title": "30. Reception of Hinduism and Buddhism",
+    "pdf_start": 600,
+    "depth": 1
+  },
+  {
+    "title": "Bibliography",
+    "pdf_start": 621,
+    "depth": 0
+  },
+  {
+    "title": "Index",
+    "pdf_start": 736,
+    "depth": 0
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Cover",
+    "pdf_start": 1,
+    "depth": 0
+  },
+  {
+    "title": "Title Page",
+    "pdf_start": 6,
+    "depth": 0
+  },
+  {
+    "title": "Copyright",
+    "pdf_start": 7,
+    "depth": 0
+  },
+  {
+    "title": "Contents",
+    "pdf_start": 9,
+    "depth": 0
+  },
+  {
+    "title": "List of illustrations",
+    "pdf_start": 12,
+    "depth": 0
+  },
+  {
+    "title": "List of maps",
+    "pdf_start": 13,
+    "depth": 0
+  },
+  {
+    "title": "List of contributors",
+    "pdf_start": 14,
+    "depth": 0
+  },
+  {
+    "title": "Foreword",
+    "pdf_start": 17,
+    "depth": 0
+  },
+  {
+    "title": "List of abbreviations",
+    "pdf_start": 20,
+    "depth": 0
+  },
+  {
+    "title": "Part I. The Ecumenical Patriarchate",
+    "pdf_start": 22,
+    "depth": 0
+  },
+  {
+    "title": "1. The Byzantine Commonwealth 1000–1550",
+    "pdf_start": 24,
+    "depth": 1
+  },
+  {
+    "title": "2. Byzantium and the west 1204–1453",
+    "pdf_start": 74,
+    "depth": 1
+  },
+  {
+    "title": "3. The culture of lay piety in medieval Byzantium 1054–1453",
+    "pdf_start": 100,
+    "depth": 1
+  },
+  {
+    "title": "4. The rise of hesychasm",
+    "pdf_start": 122,
+    "depth": 1
+  },
+  {
+    "title": "5. Art and liturgy in the later Byzantine Empire",
+    "pdf_start": 148,
+    "depth": 1
+  },
+  {
+    "title": "6. Mount Athos and the Ottomans c.1350–1550",
+    "pdf_start": 175,
+    "depth": 1
+  },
+  {
+    "title": "7. The Great Church in captivity 1453–1586",
+    "pdf_start": 190,
+    "depth": 1
+  },
+  {
+    "title": "8. Orthodoxy and the west: Reformation to Enlightenment",
+    "pdf_start": 208,
+    "depth": 1
+  },
+  {
+    "title": "9. Bars’kyj and the Orthodox community",
+    "pdf_start": 231,
+    "depth": 1
+  },
+  {
+    "title": "10. The legacy of the French Revolution: Orthodoxy and nationalism",
+    "pdf_start": 250,
+    "depth": 1
+  },
+  {
+    "title": "Part II. The Russian Church",
+    "pdf_start": 272,
+    "depth": 0
+  },
+  {
+    "title": "11. Russian piety and Orthodox culture 1380–1589",
+    "pdf_start": 274,
+    "depth": 1
+  },
+  {
+    "title": "12. Art and liturgy in Russia: Rublev and his successors",
+    "pdf_start": 297,
+    "depth": 1
+  },
+  {
+    "title": "13. Eastern Orthodoxy in Russia and Ukraine in the age of the Counter-Reformation",
+    "pdf_start": 323,
+    "depth": 1
+  },
+  {
+    "title": "14. The Russian Orthodox Church in imperial Russia 1721–1917",
+    "pdf_start": 346,
+    "depth": 1
+  },
+  {
+    "title": "15. Russian piety and culture from Peter the Great to 1917",
+    "pdf_start": 369,
+    "depth": 1
+  },
+  {
+    "title": "Part III. Eastern Christianities",
+    "pdf_start": 392,
+    "depth": 0
+  },
+  {
+    "title": "16. Eastern Christianities (eleventh to fourteenth century): Copts, Melkites, Nestorians and Jacobites",
+    "pdf_start": 394,
+    "depth": 1
+  },
+  {
+    "title": "17. The Armenians in the era of the crusades 1050–1350",
+    "pdf_start": 425,
+    "depth": 1
+  },
+  {
+    "title": "18. Church and diaspora: the case of the Armenians",
+    "pdf_start": 451,
+    "depth": 1
+  },
+  {
+    "title": "19. Church and nation: the Ethiopian Orthodox Tawahedo Church (from the thirteenth to the twentieth century)",
+    "pdf_start": 478,
+    "depth": 1
+  },
+  {
+    "title": "20. Coptic Christianity in modern Egypt",
+    "pdf_start": 509,
+    "depth": 1
+  },
+  {
+    "title": "21. Syriac Christianity in the modern Middle East",
+    "pdf_start": 532,
+    "depth": 1
+  },
+  {
+    "title": "Part IV. The Modern World",
+    "pdf_start": 558,
+    "depth": 0
+  },
+  {
+    "title": "22. Diaspora problems of the Russian emigration",
+    "pdf_start": 560,
+    "depth": 1
+  },
+  {
+    "title": "23. The Orthodox Church and communism",
+    "pdf_start": 579,
+    "depth": 1
+  },
+  {
+    "title": "24. Modern spirituality and the Orthodox Church",
+    "pdf_start": 601,
+    "depth": 1
+  },
+  {
+    "title": "Select bibliography",
+    "pdf_start": 621,
+    "depth": 0
+  },
+  {
+    "title": "Index",
+    "pdf_start": 700,
+    "depth": 0
+  }
+]

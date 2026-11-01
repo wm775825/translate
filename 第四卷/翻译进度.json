@@ -1,0 +1,889 @@
+{
+  "scope": "第四卷全书；当前代理逐章翻译，沿用前三卷规范",
+  "source_pdf": "04 西欧基督教.pdf",
+  "source_sha256": "8d03efa586e0558f36c6e3d817a6b6726be1805ed5d2d8cc79a79c4c3e76882d",
+  "source_pages": 597,
+  "source_publication_year": 2009,
+  "translation_status": "complete",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Clerical purity and the re-ordered world",
+      "title_zh": "教士的贞洁与重整秩序的世界",
+      "pdf_start": 31,
+      "pdf_end": 41,
+      "english_file": "第01章 教士的贞洁与重整秩序的世界（英文）.md",
+      "chinese_file": "第01章 教士的贞洁与重整秩序的世界（中文）.md",
+      "status": "translated",
+      "english_words_approx": 5050,
+      "source_notes": 22,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 11,
+      "translated_notes": 22,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 2,
+      "title": "The bishops of Rome, 1100–1300",
+      "title_zh": "罗马主教（1100—1300年）",
+      "pdf_start": 42,
+      "pdf_end": 58,
+      "english_file": "第02章 罗马主教（1100—1300年）（英文）.md",
+      "chinese_file": "第02章 罗马主教（1100—1300年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7329,
+      "source_notes": 49,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 49,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 3,
+      "title": "Religious poverty and the search for perfection",
+      "title_zh": "宗教贫穷与对完美的追求",
+      "pdf_start": 59,
+      "pdf_end": 73,
+      "english_file": "第03章 宗教贫穷与对完美的追求（英文）.md",
+      "chinese_file": "第03章 宗教贫穷与对完美的追求（中文）.md",
+      "status": "translated",
+      "english_words_approx": 5773,
+      "source_notes": 37,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 15,
+      "translated_notes": 37,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 4,
+      "title": "Monastic and religious orders, c. 1100–c. 1350",
+      "title_zh": "修道会与其他修会（约1100—约1350年）",
+      "pdf_start": 74,
+      "pdf_end": 92,
+      "english_file": "第04章 修道会与其他修会（约1100—约1350年）（英文）.md",
+      "chinese_file": "第04章 修道会与其他修会（约1100—约1350年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7824,
+      "source_notes": 40,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 40,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 5,
+      "title": "The theological framework",
+      "title_zh": "神学框架",
+      "pdf_start": 95,
+      "pdf_end": 108,
+      "english_file": "第05章 神学框架（英文）.md",
+      "chinese_file": "第05章 神学框架（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6280,
+      "source_notes": 6,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 14,
+      "translated_notes": 6,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 6,
+      "title": "The legal underpinnings",
+      "title_zh": "法律基础",
+      "pdf_start": 109,
+      "pdf_end": 118,
+      "english_file": "第06章 法律基础（英文）.md",
+      "chinese_file": "第06章 法律基础（中文）.md",
+      "status": "translated",
+      "english_words_approx": 4392,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 10,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 7,
+      "title": "Material support I - parishes",
+      "title_zh": "物质支持之一：堂区",
+      "pdf_start": 119,
+      "pdf_end": 126,
+      "english_file": "第07章 物质支持之一：堂区（英文）.md",
+      "chinese_file": "第07章 物质支持之一：堂区（中文）.md",
+      "status": "translated",
+      "english_words_approx": 3348,
+      "source_notes": 23,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 8,
+      "translated_notes": 23,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 8,
+      "title": "Material support II - religious orders",
+      "title_zh": "物质支持之二：修会",
+      "pdf_start": 127,
+      "pdf_end": 133,
+      "english_file": "第08章 物质支持之二：修会（英文）.md",
+      "chinese_file": "第08章 物质支持之二：修会（中文）.md",
+      "status": "translated",
+      "english_words_approx": 3001,
+      "source_notes": 18,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 7,
+      "translated_notes": 18,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 9,
+      "title": "The Word and its diffusion",
+      "title_zh": "圣言及其传播",
+      "pdf_start": 134,
+      "pdf_end": 152,
+      "english_file": "第09章 圣言及其传播（英文）.md",
+      "chinese_file": "第09章 圣言及其传播（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8251,
+      "source_notes": 15,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 15,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 10,
+      "title": "Christians and Jews",
+      "title_zh": "基督徒与犹太人",
+      "pdf_start": 155,
+      "pdf_end": 168,
+      "english_file": "第10章 基督徒与犹太人（英文）.md",
+      "chinese_file": "第10章 基督徒与犹太人（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6217,
+      "source_notes": 42,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 14,
+      "translated_notes": 42,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 11,
+      "title": "Christendom and Islam",
+      "title_zh": "基督教世界与伊斯兰教",
+      "pdf_start": 169,
+      "pdf_end": 189,
+      "english_file": "第11章 基督教世界与伊斯兰教（英文）.md",
+      "chinese_file": "第11章 基督教世界与伊斯兰教（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9530,
+      "source_notes": 44,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 44,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 12,
+      "title": "Christians and heretics",
+      "title_zh": "基督徒与异端",
+      "pdf_start": 190,
+      "pdf_end": 206,
+      "english_file": "第12章 基督徒与异端（英文）.md",
+      "chinese_file": "第12章 基督徒与异端（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7189,
+      "source_notes": 30,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 30,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 13,
+      "title": "Women and men",
+      "title_zh": "女人与男人",
+      "pdf_start": 207,
+      "pdf_end": 219,
+      "english_file": "第13章 女人与男人（英文）.md",
+      "chinese_file": "第13章 女人与男人（中文）.md",
+      "status": "translated",
+      "english_words_approx": 5657,
+      "source_notes": 50,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 13,
+      "translated_notes": 50,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 14,
+      "title": "Heaven, hell and purgatory - 1100–1500",
+      "title_zh": "天堂、地狱与炼狱（1100—1500年）",
+      "pdf_start": 220,
+      "pdf_end": 236,
+      "english_file": "第14章 天堂、地狱与炼狱（1100—1500年）（英文）.md",
+      "chinese_file": "第14章 天堂、地狱与炼狱（1100—1500年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6491,
+      "source_notes": 36,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 36,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 15,
+      "title": "Sacramental life",
+      "title_zh": "圣事生活",
+      "pdf_start": 239,
+      "pdf_end": 257,
+      "english_file": "第15章 圣事生活（英文）.md",
+      "chinese_file": "第15章 圣事生活（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7616,
+      "source_notes": 51,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 51,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 16,
+      "title": "Religious soundscapes - liturgy and music",
+      "title_zh": "宗教声景：礼仪与音乐",
+      "pdf_start": 258,
+      "pdf_end": 273,
+      "english_file": "第16章 宗教声景：礼仪与音乐（英文）.md",
+      "chinese_file": "第16章 宗教声景：礼仪与音乐（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6756,
+      "source_notes": 45,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 16,
+      "translated_notes": 45,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 17,
+      "title": "Images and their uses",
+      "title_zh": "图像及其用途",
+      "pdf_start": 274,
+      "pdf_end": 302,
+      "english_file": "第17章 图像及其用途（英文）.md",
+      "chinese_file": "第17章 图像及其用途（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10331,
+      "source_notes": 83,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 29,
+      "translated_notes": 83,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 18,
+      "title": "Mary",
+      "title_zh": "玛利亚",
+      "pdf_start": 303,
+      "pdf_end": 316,
+      "english_file": "第18章 玛利亚（英文）.md",
+      "chinese_file": "第18章 玛利亚（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6112,
+      "source_notes": 41,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 14,
+      "translated_notes": 41,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 19,
+      "title": "Mysticism and transcendence",
+      "title_zh": "神秘主义与超越",
+      "pdf_start": 317,
+      "pdf_end": 328,
+      "english_file": "第19章 神秘主义与超越（英文）.md",
+      "chinese_file": "第19章 神秘主义与超越（中文）.md",
+      "status": "translated",
+      "english_words_approx": 4487,
+      "source_notes": 24,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 12,
+      "translated_notes": 24,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 20,
+      "title": "On the margins of religious life - hermits and recluses, penitents and tertiaries, beguines and beghards",
+      "title_zh": "宗教生活的边缘：隐士与幽居者、悔罪者与第三会成员、贝居安女子与贝格哈德男子",
+      "pdf_start": 331,
+      "pdf_end": 343,
+      "english_file": "第20章 宗教生活的边缘：隐修士、独居修士、悔罪者、第三会会士、贝居安女子与贝格哈德男子（英文）.md",
+      "chinese_file": "第20章 宗教生活的边缘：隐修士、独居修士、悔罪者、第三会会士、贝居安女子与贝格哈德男子（中文）.md",
+      "status": "translated",
+      "english_words_approx": 5870,
+      "source_notes": 35,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 13,
+      "translated_notes": 35,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 21,
+      "title": "Saints and pilgrimages - new and old",
+      "title_zh": "圣徒与朝圣：新与旧",
+      "pdf_start": 344,
+      "pdf_end": 359,
+      "english_file": "第21章 圣徒与朝圣：新与旧（英文）.md",
+      "chinese_file": "第21章 圣徒与朝圣：新与旧（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7326,
+      "source_notes": 13,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 16,
+      "translated_notes": 13,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 22,
+      "title": "Crusade and conquest",
+      "title_zh": "十字军与征服",
+      "pdf_start": 360,
+      "pdf_end": 372,
+      "english_file": "第22章 十字军与征服（英文）.md",
+      "chinese_file": "第22章 十字军与征服（中文）.md",
+      "status": "translated",
+      "english_words_approx": 5744,
+      "source_notes": 6,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 13,
+      "translated_notes": 6,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 23,
+      "title": "Repression and power",
+      "title_zh": "镇压与权力",
+      "pdf_start": 375,
+      "pdf_end": 391,
+      "english_file": "第23章 镇压与权力（英文）.md",
+      "chinese_file": "第23章 镇压与权力（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7027,
+      "source_notes": 21,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 21,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 24,
+      "title": "Faith and the intellectuals I",
+      "title_zh": "信仰与知识人（一）",
+      "pdf_start": 392,
+      "pdf_end": 413,
+      "english_file": "第24章 信仰与知识人之一（英文）.md",
+      "chinese_file": "第24章 信仰与知识人之一（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9481,
+      "source_notes": 53,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 53,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 25,
+      "title": "Faith and the intellectuals II",
+      "title_zh": "信仰与知识人（二）",
+      "pdf_start": 414,
+      "pdf_end": 424,
+      "english_file": "第25章 信仰与知识人之二（英文）.md",
+      "chinese_file": "第25章 信仰与知识人之二（中文）.md",
+      "status": "translated",
+      "english_words_approx": 4573,
+      "source_notes": 39,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 11,
+      "translated_notes": 39,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 26,
+      "title": "Empowerment through reading, writing and example - the Devotio moderna",
+      "title_zh": "通过阅读、写作与榜样获得力量：新虔敬运动",
+      "pdf_start": 427,
+      "pdf_end": 439,
+      "english_file": "第26章 通过阅读、写作与榜样获得力量：新虔敬运动（英文）.md",
+      "chinese_file": "第26章 通过阅读、写作与榜样获得力量：新虔敬运动（中文）.md",
+      "status": "translated",
+      "english_words_approx": 5506,
+      "source_notes": 33,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 13,
+      "translated_notes": 33,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 27,
+      "title": "Demons and the Christian community",
+      "title_zh": "邪魔与基督徒共同体",
+      "pdf_start": 440,
+      "pdf_end": 452,
+      "english_file": "第27章 魔鬼与基督徒共同体（英文）.md",
+      "chinese_file": "第27章 魔鬼与基督徒共同体（中文）.md",
+      "status": "translated",
+      "english_words_approx": 5641,
+      "source_notes": 31,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 13,
+      "translated_notes": 31,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 28,
+      "title": "Wycliffism and Lollardy",
+      "title_zh": "威克里夫主义与罗拉德派",
+      "pdf_start": 453,
+      "pdf_end": 465,
+      "english_file": "第28章 威克里夫主义与罗拉德派（英文）.md",
+      "chinese_file": "第28章 威克里夫主义与罗拉德派（中文）.md",
+      "status": "translated",
+      "english_words_approx": 5837,
+      "source_notes": 42,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 13,
+      "translated_notes": 42,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 29,
+      "title": "Observant reform in religious orders",
+      "title_zh": "修会中的严规改革",
+      "pdf_start": 466,
+      "pdf_end": 477,
+      "english_file": "第29章 修会的严规改革（英文）.md",
+      "chinese_file": "第29章 修会的严规改革（中文）.md",
+      "status": "translated",
+      "english_words_approx": 4878,
+      "source_notes": 28,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 12,
+      "translated_notes": 28,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 30,
+      "title": "Public purity and discipline - states and religious renewal",
+      "title_zh": "公共纯洁与纪律：国家与宗教更新",
+      "pdf_start": 478,
+      "pdf_end": 491,
+      "english_file": "第30章 公共纯洁与纪律：国家与宗教更新（英文）.md",
+      "chinese_file": "第30章 公共纯洁与纪律：国家与宗教更新（中文）.md",
+      "status": "translated",
+      "english_words_approx": 5804,
+      "source_notes": 27,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 14,
+      "translated_notes": 27,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 31,
+      "title": "The Bible in the fifteenth century",
+      "title_zh": "十五世纪的《圣经》",
+      "pdf_start": 492,
+      "pdf_end": 513,
+      "english_file": "第31章 十五世纪的《圣经》（英文）.md",
+      "chinese_file": "第31章 十五世纪的《圣经》（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9812,
+      "source_notes": 102,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 102,
+      "review_status": "source_checked_during_translation"
+    }
+  ],
+  "other_sections": [
+    {
+      "key": "front_matter",
+      "title_zh": "卷首资料",
+      "pdf_start": 1,
+      "pdf_end": 20,
+      "english_file": "卷首资料（英文）.md",
+      "chinese_file": "卷首资料（中文）.md",
+      "status": "translated",
+      "english_words_approx": 3410,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 20,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "introduction",
+      "title_zh": "引言",
+      "pdf_start": 21,
+      "pdf_end": 28,
+      "english_file": "引言（英文）.md",
+      "chinese_file": "引言（中文）.md",
+      "status": "translated",
+      "english_words_approx": 3032,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 8,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part1",
+      "title_zh": "第一编 制度与变革（1100—1200年）",
+      "pdf_start": 29,
+      "pdf_end": 30,
+      "english_file": "第一编 制度与变革（1100—1200年）（英文）.md",
+      "chinese_file": "第一编 制度与变革（1100—1200年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 20,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part2",
+      "title_zh": "第二编 基督教世界的塑造（1200—1300年）",
+      "pdf_start": 93,
+      "pdf_end": 94,
+      "english_file": "第二编 基督教世界的塑造（1200—1300年）（英文）.md",
+      "chinese_file": "第二编 基督教世界的塑造（1200—1300年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 20,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part3",
+      "title_zh": "第三编 边界的建立",
+      "pdf_start": 153,
+      "pdf_end": 154,
+      "english_file": "第三编 边界的建立（英文）.md",
+      "chinese_file": "第三编 边界的建立（中文）.md",
+      "status": "translated",
+      "english_words_approx": 20,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part4",
+      "title_zh": "第四编 基督教世界的形态",
+      "pdf_start": 237,
+      "pdf_end": 238,
+      "english_file": "第四编 基督教世界的形态（英文）.md",
+      "chinese_file": "第四编 基督教世界的形态（中文）.md",
+      "status": "translated",
+      "english_words_approx": 20,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part5",
+      "title_zh": "第五编 运动中的基督徒生活",
+      "pdf_start": 329,
+      "pdf_end": 330,
+      "english_file": "第五编 运动中的基督徒生活（英文）.md",
+      "chinese_file": "第五编 运动中的基督徒生活（中文）.md",
+      "status": "translated",
+      "english_words_approx": 20,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part6",
+      "title_zh": "第六编 基督教社会面临的挑战",
+      "pdf_start": 373,
+      "pdf_end": 374,
+      "english_file": "第六编 基督教社会面临的挑战（英文）.md",
+      "chinese_file": "第六编 基督教社会面临的挑战（中文）.md",
+      "status": "translated",
+      "english_words_approx": 21,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part7",
+      "title_zh": "第七编 改革与更新",
+      "pdf_start": 425,
+      "pdf_end": 426,
+      "english_file": "第七编 改革与更新（英文）.md",
+      "chinese_file": "第七编 改革与更新（中文）.md",
+      "status": "translated",
+      "english_words_approx": 20,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "bibliography",
+      "title_zh": "参考书目选编",
+      "pdf_start": 514,
+      "pdf_end": 576,
+      "english_file": "参考书目选编（英文）.md",
+      "chinese_file": "参考书目选编（中文）.md",
+      "status": "translated",
+      "english_words_approx": 24999,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 63,
+      "translated_notes": 0,
+      "review_status": "bibliographic_entries_and_numeric_sequence_checked",
+      "validation": {
+        "source_pages": 63,
+        "bibliographic_paragraphs": 1374,
+        "numeric_sequence_verified": true,
+        "cid_remaining": 0,
+        "source_hyphen_breaks_reviewed": 23,
+        "hyphenation_review_complete": true
+      }
+    },
+    {
+      "key": "index",
+      "title_zh": "索引",
+      "pdf_start": 577,
+      "pdf_end": 597,
+      "english_file": "索引（英文）.md",
+      "chinese_file": "索引（中文）.md",
+      "status": "translated",
+      "english_words_approx": 4477,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 0,
+      "review_status": "all_labels_translated_columns_and_locators_checked",
+      "validation": {
+        "entries": 2040,
+        "unique_labels": 1686,
+        "primary_entries": 1137,
+        "subentries": 903,
+        "source_pages": 21,
+        "untranslated_labels": 0,
+        "source_numeric_sequence_verified": true,
+        "cross_reference_rows": 39,
+        "cross_reference_locators_verified": true,
+        "columns_and_indentation_restored": true,
+        "source_anomalies_visually_checked": [
+          581,
+          585,
+          591
+        ]
+      }
+    }
+  ],
+  "conversion_issues": {
+    "unmatched_references": [],
+    "unmatched_definitions": []
+  },
+  "image_pages": [
+    1,
+    6,
+    17,
+    18,
+    19,
+    20,
+    223,
+    235,
+    240,
+    281,
+    283,
+    288,
+    293,
+    295,
+    299
+  ],
+  "translated_chapters": 31,
+  "translated_other_sections": [
+    "front_matter",
+    "introduction",
+    "part1",
+    "part2",
+    "part3",
+    "part4",
+    "part5",
+    "part6",
+    "part7",
+    "bibliography",
+    "index"
+  ],
+  "translated_notes": 1086,
+  "updated_at": "2026-10-29T14:07:43",
+  "complete_chinese_file": "04 西欧基督教（中文全译）.md",
+  "proofreading_status": "consistency_and_targeted_source_review_complete",
+  "proofreading_scope": "逐章对照翻译、术语一致性校订、重点引文与原书疑点复核、结构及版面校核",
+  "pdf_status": "complete",
+  "pdf_file": "../output/pdf/04 西欧基督教（中文校订版）.pdf",
+  "pdf_pages": 515,
+  "final_verification_file": "最终校核记录.json",
+  "revision_alignment_complete": true,
+  "version_label": "中文校订版",
+  "common_review_scope": "本套“中文校订版”表示已完成译文整理、主要术语一致性检查、重点原文复核以及结构和版面校核；未进行全卷独立专业逐句精校，也未据其他史料逐项核定原书事实。",
+  "professional_proofreading_complete": false,
+  "comprehensive_independent_sentence_review": false,
+  "alignment_record": "版本对齐记录.json",
+  "current_pdf": "../output/pdf/04 西欧基督教（中文校订版）.pdf",
+  "current_pdf_pages": 515,
+  "current_pdf_sha256": "79615907f2921c3c495bc6780f389035846e887c1fb34d6874399473183a2326",
+  "final_pdf_verified": true,
+  "current_stage": "中文校订版：一致性校订、重点原文复核及版面校核完成。",
+  "next_work": "本轮对齐已完成；校订范围见版本对齐记录。",
+  "last_alignment_checked_at": "2026-10-31T23:20:54+08:00",
+  "pdf_export": {
+    "status": "complete",
+    "file": "../output/pdf/04 西欧基督教（中文校订版）.pdf",
+    "pages": 515,
+    "bytes": 25870229,
+    "sha256": "79615907f2921c3c495bc6780f389035846e887c1fb34d6874399473183a2326"
+  },
+  "editing_source": "分章中文Markdown；合订稿由分章稿生成，旧分块不再作为发布输入。"
+}

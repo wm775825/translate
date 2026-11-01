@@ -1,0 +1,833 @@
+{
+  "scope": "第三卷全书；当前代理逐章翻译，沿用前两卷规范",
+  "source_pdf": "03 中世纪早期基督教.pdf",
+  "source_sha256": "91e7a7496e357ea10c8739c6ce467398800e9dfa8367b41517aa5d0cc63667cf",
+  "source_pages": 876,
+  "source_publication_year": 2008,
+  "translation_status": "complete",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Late Roman Christianities",
+      "title_zh": "罗马晚期的基督教诸形态",
+      "pdf_start": 50,
+      "pdf_end": 74,
+      "english_file": "第01章 罗马晚期的基督教诸形态（英文）.md",
+      "chinese_file": "第01章 罗马晚期的基督教诸形态（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10524,
+      "source_notes": 97,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 25,
+      "translated_notes": 97,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 2,
+      "title": "The emergence of Byzantine Orthodoxy, 600–1095",
+      "title_zh": "拜占庭正教的形成（600—1095年）",
+      "pdf_start": 75,
+      "pdf_end": 93,
+      "english_file": "第02章 拜占庭正教的形成（600—1095年）（英文）.md",
+      "chinese_file": "第02章 拜占庭正教的形成（600—1095年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8144,
+      "source_notes": 22,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 22,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 3,
+      "title": "Beyond empire I: Eastern Christianities from the Persian to the Turkish conquest, 604–1071",
+      "title_zh": "帝国之外之一：从波斯征服到突厥征服的东方基督教诸形态（604—1071年）",
+      "pdf_start": 94,
+      "pdf_end": 114,
+      "english_file": "第03章 帝国之外之一：从波斯征服到突厥征服的东方基督教诸形态（604—1071年）（英文）.md",
+      "chinese_file": "第03章 帝国之外之一：从波斯征服到突厥征服的东方基督教诸形态（604—1071年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8410,
+      "source_notes": 33,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 33,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 4,
+      "title": "Beyond empire II: Christianities of the Celtic peoples",
+      "title_zh": "帝国之外之二：凯尔特诸民族的基督教诸形态",
+      "pdf_start": 115,
+      "pdf_end": 135,
+      "english_file": "第04章 帝国之外之二：凯尔特诸民族的基督教诸形态（英文）.md",
+      "chinese_file": "第04章 帝国之外之二：凯尔特诸民族的基督教诸形态（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9476,
+      "source_notes": 81,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 81,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 5,
+      "title": "Germanic Christianities",
+      "title_zh": "日耳曼的基督教诸形态",
+      "pdf_start": 136,
+      "pdf_end": 158,
+      "english_file": "第05章 日耳曼的基督教诸形态（英文）.md",
+      "chinese_file": "第05章 日耳曼的基督教诸形态（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9461,
+      "source_notes": 77,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 23,
+      "translated_notes": 77,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 6,
+      "title": "Slav Christianities, 800–1100",
+      "title_zh": "斯拉夫的基督教诸形态（800—1100年）",
+      "pdf_start": 159,
+      "pdf_end": 185,
+      "english_file": "第06章 斯拉夫的基督教诸形态（800—1100年）（英文）.md",
+      "chinese_file": "第06章 斯拉夫的基督教诸形态（800—1100年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10724,
+      "source_notes": 88,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 27,
+      "translated_notes": 88,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 7,
+      "title": "Christians and Jews",
+      "title_zh": "基督徒与犹太人",
+      "pdf_start": 188,
+      "pdf_end": 206,
+      "english_file": "第07章 基督徒与犹太人（英文）.md",
+      "chinese_file": "第07章 基督徒与犹太人（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7953,
+      "source_notes": 75,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 75,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 8,
+      "title": "The Mediterranean frontier: Christianity face to face with Islam, 600–1050",
+      "title_zh": "地中海边疆：基督教与伊斯兰教的正面相遇，600—1050年",
+      "pdf_start": 207,
+      "pdf_end": 225,
+      "english_file": "第08章 地中海边疆：基督教与伊斯兰教的相遇（600—1050年）（英文）.md",
+      "chinese_file": "第08章 地中海边疆：基督教与伊斯兰教的相遇（600—1050年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8139,
+      "source_notes": 32,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 32,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 9,
+      "title": "Christians under Muslim rule",
+      "title_zh": "穆斯林统治下的基督徒",
+      "pdf_start": 226,
+      "pdf_end": 241,
+      "english_file": "第09章 穆斯林统治下的基督徒（英文）.md",
+      "chinese_file": "第09章 穆斯林统治下的基督徒（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6509,
+      "source_notes": 38,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 16,
+      "translated_notes": 38,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 10,
+      "title": "Latin and Greek Christians",
+      "title_zh": "拉丁与希腊基督徒",
+      "pdf_start": 242,
+      "pdf_end": 258,
+      "english_file": "第10章 拉丁基督徒与希腊基督徒（英文）.md",
+      "chinese_file": "第10章 拉丁基督徒与希腊基督徒（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7102,
+      "source_notes": 50,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 50,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 11,
+      "title": "The northern frontier: Christianity face to face with paganism",
+      "title_zh": "北方边疆：基督教与异教的正面相遇",
+      "pdf_start": 259,
+      "pdf_end": 275,
+      "english_file": "第11章 北方边疆：基督教与异教的相遇（英文）.md",
+      "chinese_file": "第11章 北方边疆：基督教与异教的相遇（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6932,
+      "source_notes": 47,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 47,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 12,
+      "title": "The Christian church as an institution",
+      "title_zh": "作为制度的基督教会",
+      "pdf_start": 278,
+      "pdf_end": 303,
+      "english_file": "第12章 作为制度的基督教会（英文）.md",
+      "chinese_file": "第12章 作为制度的基督教会（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10289,
+      "source_notes": 86,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 26,
+      "translated_notes": 86,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 13,
+      "title": "Asceticism and its institutions",
+      "title_zh": "禁欲生活及其制度",
+      "pdf_start": 304,
+      "pdf_end": 327,
+      "english_file": "第13章 禁欲及其制度（英文）.md",
+      "chinese_file": "第13章 禁欲及其制度（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10244,
+      "source_notes": 112,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 24,
+      "translated_notes": 112,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 14,
+      "title": "Law and its applications",
+      "title_zh": "法律及其运用",
+      "pdf_start": 328,
+      "pdf_end": 355,
+      "english_file": "第14章 法律及其运用（英文）.md",
+      "chinese_file": "第14章 法律及其运用（中文）.md",
+      "status": "translated",
+      "english_words_approx": 11856,
+      "source_notes": 132,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 28,
+      "translated_notes": 132,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 15,
+      "title": "The problems of property",
+      "title_zh": "财产及其问题",
+      "pdf_start": 356,
+      "pdf_end": 373,
+      "english_file": "第15章 财产问题（英文）.md",
+      "chinese_file": "第15章 财产问题（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7898,
+      "source_notes": 49,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 49,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 16,
+      "title": "Ideas and applications of reform",
+      "title_zh": "改革：理念与实践",
+      "pdf_start": 374,
+      "pdf_end": 391,
+      "english_file": "第16章 改革的观念与实践（英文）.md",
+      "chinese_file": "第16章 改革的观念与实践（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7548,
+      "source_notes": 120,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 120,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 17,
+      "title": "Churches in the landscape",
+      "title_zh": "景观中的教堂",
+      "pdf_start": 392,
+      "pdf_end": 409,
+      "english_file": "第17章 景观中的教堂（英文）.md",
+      "chinese_file": "第17章 景观中的教堂（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7214,
+      "source_notes": 28,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 28,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 18,
+      "title": "Birth and death",
+      "title_zh": "出生与死亡",
+      "pdf_start": 412,
+      "pdf_end": 427,
+      "english_file": "第18章 出生与死亡（英文）.md",
+      "chinese_file": "第18章 出生与死亡（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6579,
+      "source_notes": 54,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 16,
+      "translated_notes": 54,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 19,
+      "title": "Remedies for sins",
+      "title_zh": "罪的补救",
+      "pdf_start": 428,
+      "pdf_end": 444,
+      "english_file": "第19章 罪的补救（英文）.md",
+      "chinese_file": "第19章 罪的补救（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7257,
+      "source_notes": 74,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 74,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 20,
+      "title": "Sickness and healing",
+      "title_zh": "疾病与医治",
+      "pdf_start": 445,
+      "pdf_end": 461,
+      "english_file": "第20章 疾病与医治（英文）.md",
+      "chinese_file": "第20章 疾病与医治（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7298,
+      "source_notes": 38,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 38,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 21,
+      "title": "Gender and the body",
+      "title_zh": "性别与身体",
+      "pdf_start": 462,
+      "pdf_end": 481,
+      "english_file": "第21章 性别与身体（英文）.md",
+      "chinese_file": "第21章 性别与身体（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8438,
+      "source_notes": 116,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 20,
+      "translated_notes": 116,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 22,
+      "title": "Sacrifice, gifts, and prayers in Latin Christianity",
+      "title_zh": "拉丁基督教中的祭献、馈赠与祈祷",
+      "pdf_start": 482,
+      "pdf_end": 500,
+      "english_file": "第22章 拉丁基督教中的祭献、馈赠与祈祷（英文）.md",
+      "chinese_file": "第22章 拉丁基督教中的祭献、馈赠与祈祷（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8336,
+      "source_notes": 43,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 43,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 23,
+      "title": "Performing the liturgy",
+      "title_zh": "礼仪的施行",
+      "pdf_start": 501,
+      "pdf_end": 517,
+      "english_file": "第23章 礼仪的施行（英文）.md",
+      "chinese_file": "第23章 礼仪的施行（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6584,
+      "source_notes": 25,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 17,
+      "translated_notes": 25,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 24,
+      "title": "Visions of God",
+      "title_zh": "上帝的异象",
+      "pdf_start": 519,
+      "pdf_end": 537,
+      "english_file": "第24章 上帝的异象（英文）.md",
+      "chinese_file": "第24章 上帝的异象（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8078,
+      "source_notes": 22,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 22,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 25,
+      "title": "Orthodoxy and deviance",
+      "title_zh": "正统与偏离",
+      "pdf_start": 538,
+      "pdf_end": 558,
+      "english_file": "第25章 正统与偏离（英文）.md",
+      "chinese_file": "第25章 正统与偏离（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9282,
+      "source_notes": 76,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 21,
+      "translated_notes": 76,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 26,
+      "title": "Making sense of the Bible",
+      "title_zh": "理解《圣经》",
+      "pdf_start": 559,
+      "pdf_end": 581,
+      "english_file": "第26章 理解《圣经》（英文）.md",
+      "chinese_file": "第26章 理解《圣经》（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9937,
+      "source_notes": 72,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 23,
+      "translated_notes": 72,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 27,
+      "title": "The Christian book in medieval Byzantium",
+      "title_zh": "中世纪拜占庭的基督教书籍",
+      "pdf_start": 582,
+      "pdf_end": 608,
+      "english_file": "第27章 中世纪拜占庭的基督教书籍（英文）.md",
+      "chinese_file": "第27章 中世纪拜占庭的基督教书籍（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9983,
+      "source_notes": 105,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 27,
+      "translated_notes": 105,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 28,
+      "title": "Saints and their cults",
+      "title_zh": "圣徒及其崇敬",
+      "pdf_start": 609,
+      "pdf_end": 633,
+      "english_file": "第28章 圣徒及其崇敬（英文）.md",
+      "chinese_file": "第28章 圣徒及其崇敬（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10281,
+      "source_notes": 82,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 25,
+      "translated_notes": 82,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "chapter": 29,
+      "title": "Last Things",
+      "title_zh": "末后之事",
+      "pdf_start": 634,
+      "pdf_end": 652,
+      "english_file": "第29章 末后之事（英文）.md",
+      "chinese_file": "第29章 末后之事（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7538,
+      "source_notes": 57,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 57,
+      "review_status": "source_checked_during_translation"
+    }
+  ],
+  "other_sections": [
+    {
+      "key": "front_matter",
+      "title_zh": "卷首资料",
+      "pdf_start": 1,
+      "pdf_end": 29,
+      "english_file": "卷首资料（英文）.md",
+      "chinese_file": "卷首资料（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7286,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 29,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation",
+      "map_labels": 613
+    },
+    {
+      "key": "introduction",
+      "title_zh": "引言：约600年的基督教世界",
+      "pdf_start": 30,
+      "pdf_end": 47,
+      "english_file": "引言：约600年的基督教世界（英文）.md",
+      "chinese_file": "引言：约600年的基督教世界（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7572,
+      "source_notes": 60,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 60,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part1",
+      "title_zh": "第一编 基础：民族、地域与传统",
+      "pdf_start": 48,
+      "pdf_end": 49,
+      "english_file": "第一编 基础：民族、地域与传统（英文）.md",
+      "chinese_file": "第一编 基础：民族、地域与传统（中文）.md",
+      "status": "translated",
+      "english_words_approx": 23,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part2",
+      "title_zh": "第二编 交锋中的基督教",
+      "pdf_start": 186,
+      "pdf_end": 187,
+      "english_file": "第二编 交锋中的基督教（英文）.md",
+      "chinese_file": "第二编 交锋中的基督教（中文）.md",
+      "status": "translated",
+      "english_words_approx": 21,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part3",
+      "title_zh": "第三编 社会与政治秩序中的基督教",
+      "pdf_start": 276,
+      "pdf_end": 277,
+      "english_file": "第三编 社会与政治秩序中的基督教（英文）.md",
+      "chinese_file": "第三编 社会与政治秩序中的基督教（中文）.md",
+      "status": "translated",
+      "english_words_approx": 22,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part4",
+      "title_zh": "第四编 作为生活经验的基督教",
+      "pdf_start": 410,
+      "pdf_end": 411,
+      "english_file": "第四编 作为生活经验的基督教（英文）.md",
+      "chinese_file": "第四编 作为生活经验的基督教（中文）.md",
+      "status": "translated",
+      "english_words_approx": 21,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "part5",
+      "title_zh": "第五编 基督教：书籍与观念",
+      "pdf_start": 518,
+      "pdf_end": 518,
+      "english_file": "第五编 基督教：书籍与观念（英文）.md",
+      "chinese_file": "第五编 基督教：书籍与观念（中文）.md",
+      "status": "translated",
+      "english_words_approx": 13,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 1,
+      "translated_notes": 0,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "conclusion",
+      "title_zh": "结语：约1100年的基督教世界",
+      "pdf_start": 653,
+      "pdf_end": 671,
+      "english_file": "结语：约1100年的基督教世界（英文）.md",
+      "chinese_file": "结语：约1100年的基督教世界（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8416,
+      "source_notes": 13,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 13,
+      "review_status": "source_checked_during_translation"
+    },
+    {
+      "key": "bibliography",
+      "title_zh": "参考文献",
+      "pdf_start": 672,
+      "pdf_end": 830,
+      "english_file": "参考文献（英文）.md",
+      "chinese_file": "参考文献（中文）.md",
+      "status": "translated",
+      "english_words_approx": 64995,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 159,
+      "translated_notes": 0,
+      "review_status": "source_checked_with_entry_indentation_and_glyph_repairs",
+      "bibliographic_paragraphs": 3315
+    },
+    {
+      "key": "index",
+      "title_zh": "索引",
+      "pdf_start": 831,
+      "pdf_end": 874,
+      "english_file": "索引（英文）.md",
+      "chinese_file": "索引（中文）.md",
+      "status": "translated",
+      "english_words_approx": 13800,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 44,
+      "translated_notes": 0,
+      "review_status": "all_labels_translated_locators_and_columns_checked",
+      "validation": {
+        "entries": 3580,
+        "primary_entries": 1475,
+        "subentries": 2105,
+        "source_pages": 44,
+        "untranslated_labels": 0,
+        "columns_and_indentation_restored": true,
+        "numeric_sequence_before_overlap_repair_verified": true,
+        "overlap_repair": "Radegund 280, 593; Ramihrd 528, visually verified PDF p866 / printed p838",
+        "source_omissions_retained": [
+          "heresies of patristic period, continuing influence of",
+          "burial practices (Slav Christianities)"
+        ]
+      }
+    },
+    {
+      "key": "tail",
+      "title_zh": "文件尾页",
+      "pdf_start": 875,
+      "pdf_end": 876,
+      "english_file": "文件尾页（英文）.md",
+      "chinese_file": "文件尾页（中文）.md",
+      "status": "translated",
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "source_notes": 0,
+      "review_status": "source_checked_during_translation"
+    }
+  ],
+  "conversion_issues": {
+    "unmatched_references": [],
+    "unmatched_definitions": []
+  },
+  "image_pages": [
+    1,
+    6,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    509,
+    513,
+    593,
+    594,
+    595
+  ],
+  "translated_chapters": 29,
+  "translated_other_sections": [
+    "front_matter",
+    "introduction",
+    "part1",
+    "part2",
+    "part3",
+    "part4",
+    "part5",
+    "conclusion",
+    "bibliography",
+    "index",
+    "tail"
+  ],
+  "translated_notes": 2004,
+  "updated_at": "2026-10-29T02:02:09",
+  "preface_standalone": {
+    "key": "preface",
+    "title_zh": "序言",
+    "pdf_start": 16,
+    "pdf_end": 19,
+    "english_file": "序言（英文）.md",
+    "chinese_file": "序言（中文）.md",
+    "status": "translated",
+    "note": "序言已并入卷首资料；保留单篇阅读文件，不再重复合并。",
+    "source_notes": 0,
+    "conversion_issues": {
+      "unmatched_references": [],
+      "unmatched_definitions": []
+    },
+    "translated_source_pages": 4,
+    "translated_notes": 0,
+    "review_status": "source_checked_during_translation"
+  },
+  "complete_chinese_file": "03 中世纪早期基督教（中文全译）.md",
+  "next_chapter": null,
+  "translation_complete_date": "2026-10-29",
+  "proofreading_status": "一致性校订与重点复核完成",
+  "pdf_status": "已导出并核验",
+  "pdf_file": "output/pdf/03 中世纪早期基督教（中文校订版）.pdf",
+  "pdf_pages": 771,
+  "pdf_sha256": "ebaa3b8f6a3bb93ca3399cf7a31aa81e676aa704fd8237b9a346c0b1577c5914"
+}

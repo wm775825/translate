@@ -1,0 +1,67 @@
+{
+  "label_rows": 361,
+  "per_map": {
+    "1": 142,
+    "2": 83,
+    "3": 78,
+    "4": 58
+  },
+  "unmatched_source_words": {
+    "1": [
+      "al",
+      "anube",
+      "ar",
+      "at",
+      "avigno",
+      "bayo",
+      "cologn",
+      "dalquivir",
+      "en",
+      "formation",
+      "iege",
+      "ire",
+      "is",
+      "lo",
+      "louse",
+      "menia",
+      "ne",
+      "on",
+      "ra",
+      "rde",
+      "rfurt",
+      "ria",
+      "tic",
+      "tion"
+    ],
+    "2": [
+      "formation",
+      "tion"
+    ],
+    "3": [
+      "aa",
+      "antua",
+      "ao",
+      "imo",
+      "la",
+      "li",
+      "ll",
+      "na",
+      "or",
+      "pa",
+      "pe",
+      "ri",
+      "rr",
+      "ru",
+      "rv",
+      "ta",
+      "te"
+    ],
+    "4": [
+      "lim"
+    ]
+  },
+  "supplement_source": "https://assets.cambridge.org/97805218/11064/frontmatter/9780521811064_frontmatter.pdf",
+  "supplement_sha256": "6594ae751dbbd20d8561e89b32dd10d6d98cff12b371694c96385647acd9b993",
+  "source_pdf17_verified_blank": true,
+  "source_pdf18_removed_map_notice_translated": true
+}

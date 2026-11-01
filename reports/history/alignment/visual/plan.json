@@ -1,0 +1,143 @@
+{
+  "2": {
+    "pdf": "E:\\codes\\cambridge\\tmp\\alignment\\new-pdf\\02 君士坦丁至600年（中文校订版）.pdf",
+    "pages": 726,
+    "changed_text_pages": [
+      536,
+      546,
+      551,
+      602
+    ],
+    "samples": [
+      1,
+      2,
+      3,
+      536,
+      546,
+      551,
+      602,
+      726
+    ],
+    "contact_sheets": []
+  },
+  "6": {
+    "pdf": "E:\\codes\\cambridge\\tmp\\alignment\\new-pdf\\06 改革与扩张（中文校订版）.pdf",
+    "pages": 639,
+    "changed_text_pages": [],
+    "samples": [
+      1,
+      2,
+      3,
+      6,
+      189,
+      195,
+      202,
+      207,
+      214,
+      221,
+      230,
+      237,
+      245,
+      251,
+      259,
+      267,
+      278,
+      287,
+      288,
+      290,
+      292,
+      293,
+      295,
+      296,
+      297,
+      300,
+      303,
+      308,
+      315,
+      322,
+      331,
+      338,
+      346,
+      353,
+      362,
+      369,
+      378,
+      384,
+      393,
+      400,
+      475,
+      591,
+      639
+    ],
+    "contact_sheets": [
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-01.png",
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-02.png",
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-03.png",
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-04.png",
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-05.png",
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-06.png",
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-07.png",
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-08.png",
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-09.png",
+      "E:\\codes\\cambridge\\tmp\\alignment\\visual\\volume6\\contact-10.png"
+    ]
+  },
+  "7": {
+    "pdf": "E:\\codes\\cambridge\\tmp\\alignment\\new-pdf\\07 启蒙、复兴与革命（中文校订版）.pdf",
+    "pages": 596,
+    "changed_text_pages": [
+      1,
+      2,
+      41,
+      130,
+      131,
+      220,
+      222
+    ],
+    "samples": [
+      1,
+      2,
+      3,
+      41,
+      130,
+      131,
+      220,
+      222,
+      596
+    ],
+    "contact_sheets": []
+  },
+  "8": {
+    "pdf": "E:\\codes\\cambridge\\tmp\\alignment\\new-pdf\\08 世界基督教（1815-1914）（中文校订版）.pdf",
+    "pages": 627,
+    "changed_text_pages": [
+      1,
+      2
+    ],
+    "samples": [
+      1,
+      2,
+      3,
+      627
+    ],
+    "contact_sheets": []
+  },
+  "9": {
+    "pdf": "E:\\codes\\cambridge\\tmp\\alignment\\new-pdf\\09 世界基督教（1914-2000）（中文校订版，缺第20章）.pdf",
+    "pages": 580,
+    "changed_text_pages": [
+      1,
+      2
+    ],
+    "samples": [
+      1,
+      2,
+      3,
+      10,
+      292,
+      492,
+      580
+    ],
+    "contact_sheets": []
+  }
+}

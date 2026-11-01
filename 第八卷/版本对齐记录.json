@@ -1,0 +1,56 @@
+{
+  "aligned_at": "2026-10-31T23:20:54+08:00",
+  "version_label": "中文校订版",
+  "scope": "本套“中文校订版”表示已完成译文整理、主要术语一致性检查、重点原文复核以及结构和版面校核；未进行全卷独立专业逐句精校，也未据其他史料逐项核定原书事实。",
+  "translation_status": "complete",
+  "professional_proofreading_complete": false,
+  "comprehensive_independent_sentence_review": false,
+  "current_round": "主要跨卷术语检索与上下文复核；沿用原有逐章译校、重点复核与版面校核记录；统一版本状态。",
+  "source_language_revision_chapters": [],
+  "pdf_verification_pending": false,
+  "translation_scope_notice": "36章正文、卷首说明及原注说明文字均已译出；书目按学术惯例保留作者、原题名与出版信息，索引译出主题、机构、地名及交叉参照，多数人名保留原文。",
+  "pdf": {
+    "file": "../output/pdf/08 世界基督教（1815-1914）（中文校订版）.pdf",
+    "pages": 627,
+    "bytes": 5026034,
+    "sha256": "5859eca323b0e91ff1c588da6ce1b7ea4d0c1ad2560b9e7a516ad185cfa880d7"
+  },
+  "current_round_pdf_regenerated": true,
+  "source_language_revision_pending_chapters": [],
+  "pdf_qa": {
+    "pages": 627,
+    "sha256": "5859eca323b0e91ff1c588da6ce1b7ea4d0c1ad2560b9e7a516ad185cfa880d7",
+    "text_fragments_checked": 8916,
+    "links": 7586,
+    "missing_paragraphs": [],
+    "broken_internal_links": [],
+    "link_rectangles_outside_page": [],
+    "words_outside_page": [],
+    "words_outside_margins": [],
+    "outline_roots": 44,
+    "font_preflight": {}
+  },
+  "visual_review": {
+    "checked_at": "2026-10-31T23:20:54+08:00",
+    "pdf_sha256": "5859eca323b0e91ff1c588da6ce1b7ea4d0c1ad2560b9e7a516ad185cfa880d7",
+    "contact_sheets_actually_viewed": [],
+    "all_pages_contact_reviewed": false,
+    "thumbnail_pages_viewed": 0,
+    "enlarged_pages_actually_viewed": [
+      1,
+      2,
+      3,
+      627
+    ],
+    "all_changed_text_pages_enlarged": true,
+    "method": "新旧PDF逐页比较提取文字；实际放大检查全部文字变化页及封面、阅读说明、目录、卷末等代表页；页数及书签定位与旧版一致。",
+    "result": "未见裁切、重叠、缺字、图注脱离或异常空白。",
+    "issues_remaining": []
+  },
+  "current_markdown": {
+    "file": "08 世界基督教（1815-1914）（中文全译）.md",
+    "bytes": 1601839,
+    "sha256": "c5aad79da7501d75da703a597d7c7952d21169ee226582939625e30717fb3071",
+    "han_characters": 347205
+  }
+}

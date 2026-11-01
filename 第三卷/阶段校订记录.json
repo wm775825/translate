@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-28T19:58:36",
+  "scope": "序言、引言、第一编标题及第一章；不代表第三卷全书已完成",
+  "translated_chapters": 1,
+  "total_chapters": 29,
+  "translated_source_pages": 49,
+  "translated_notes": 157,
+  "source_conversion_pages": 876,
+  "source_conversion_notes": 2004,
+  "source_reference_definition_issues": 0,
+  "duplicate_page_anchors": 0,
+  "broken_note_links": 0,
+  "source_pdf_unchanged": true,
+  "previous_source_pdfs_unchanged": true,
+  "chinese_characters": 31105,
+  "review": "翻译时逐段核对原文；核对原图中的疑误与统一译名，检查脚注和页面覆盖；不是独立人员逐句终审。",
+  "remaining": "第2—29章、结语、其余卷首资料、地图译名、书目与索引；全卷校订及中文PDF导出。"
+}

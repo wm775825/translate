@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Cover",
+    "pdf_start": 1,
+    "depth": 0
+  },
+  {
+    "title": "Title Page",
+    "pdf_start": 6,
+    "depth": 0
+  },
+  {
+    "title": "Copyright",
+    "pdf_start": 7,
+    "depth": 0
+  },
+  {
+    "title": "Contents",
+    "pdf_start": 8,
+    "depth": 0
+  },
+  {
+    "title": "List of illustrations",
+    "pdf_start": 12,
+    "depth": 0
+  },
+  {
+    "title": "List of Maps",
+    "pdf_start": 13,
+    "depth": 0
+  },
+  {
+    "title": "Contributors",
+    "pdf_start": 14,
+    "depth": 0
+  },
+  {
+    "title": "Preface",
+    "pdf_start": 16,
+    "depth": 0
+  },
+  {
+    "title": "Acknowledgments",
+    "pdf_start": 20,
+    "depth": 0
+  },
+  {
+    "title": "Abbreviations",
+    "pdf_start": 22,
+    "depth": 0
+  },
+  {
+    "title": "Maps",
+    "pdf_start": 24,
+    "depth": 0
+  },
+  {
+    "title": "Introduction: Christendom, c. 600",
+    "pdf_start": 30,
+    "depth": 0
+  },
+  {
+    "title": "Part I. Foundations: Peoples, Places, and Traditions",
+    "pdf_start": 48,
+    "depth": 0
+  },
+  {
+    "title": "1. Late Roman Christianities",
+    "pdf_start": 50,
+    "depth": 1
+  },
+  {
+    "title": "2. The emergence of Byzantine Orthodoxy, 600–1095",
+    "pdf_start": 75,
+    "depth": 1
+  },
+  {
+    "title": "3. Beyond empire I: Eastern Christianities from the Persian to the Turkish conquest, 604–1071",
+    "pdf_start": 94,
+    "depth": 1
+  },
+  {
+    "title": "4. Beyond empire II: Christianities of the Celtic peoples",
+    "pdf_start": 115,
+    "depth": 1
+  },
+  {
+    "title": "5. Germanic Christianities",
+    "pdf_start": 136,
+    "depth": 1
+  },
+  {
+    "title": "6. Slav Christianities, 800–1100",
+    "pdf_start": 159,
+    "depth": 1
+  },
+  {
+    "title": "Part II. Christianity in Confrontation",
+    "pdf_start": 186,
+    "depth": 0
+  },
+  {
+    "title": "7. Christians and Jews",
+    "pdf_start": 188,
+    "depth": 1
+  },
+  {
+    "title": "8. The Mediterranean frontier: Christianity face to face with Islam, 600–1050",
+    "pdf_start": 207,
+    "depth": 1
+  },
+  {
+    "title": "9. Christians under Muslim rule",
+    "pdf_start": 226,
+    "depth": 1
+  },
+  {
+    "title": "10. Latin and Greek Christians",
+    "pdf_start": 242,
+    "depth": 1
+  },
+  {
+    "title": "11. The northern frontier: Christianity face to face with paganism",
+    "pdf_start": 259,
+    "depth": 1
+  },
+  {
+    "title": "Part III. Christianity in the Social and Political Order",
+    "pdf_start": 276,
+    "depth": 0
+  },
+  {
+    "title": "12. The Christian church as an institution",
+    "pdf_start": 278,
+    "depth": 1
+  },
+  {
+    "title": "13. Asceticism and its institutions",
+    "pdf_start": 304,
+    "depth": 1
+  },
+  {
+    "title": "14. Law and its applications",
+    "pdf_start": 328,
+    "depth": 1
+  },
+  {
+    "title": "15. The problems of property",
+    "pdf_start": 356,
+    "depth": 1
+  },
+  {
+    "title": "16. Ideas and applications of reform",
+    "pdf_start": 374,
+    "depth": 1
+  },
+  {
+    "title": "17. Churches in the landscape",
+    "pdf_start": 392,
+    "depth": 1
+  },
+  {
+    "title": "Part IV. Christianity as Lived Experience",
+    "pdf_start": 410,
+    "depth": 0
+  },
+  {
+    "title": "18. Birth and death",
+    "pdf_start": 412,
+    "depth": 1
+  },
+  {
+    "title": "19. Remedies for sins",
+    "pdf_start": 428,
+    "depth": 1
+  },
+  {
+    "title": "20. Sickness and healing",
+    "pdf_start": 445,
+    "depth": 1
+  },
+  {
+    "title": "21. Gender and the body",
+    "pdf_start": 462,
+    "depth": 1
+  },
+  {
+    "title": "22. Sacrifice, gifts, and prayers in Latin Christianity",
+    "pdf_start": 482,
+    "depth": 1
+  },
+  {
+    "title": "23. Performing the liturgy",
+    "pdf_start": 501,
+    "depth": 1
+  },
+  {
+    "title": "Part V. Christianity: Books and Ideas",
+    "pdf_start": 518,
+    "depth": 0
+  },
+  {
+    "title": "24. Visions of God",
+    "pdf_start": 519,
+    "depth": 1
+  },
+  {
+    "title": "25. Orthodoxy and deviance",
+    "pdf_start": 538,
+    "depth": 1
+  },
+  {
+    "title": "26. Making sense of the Bible",
+    "pdf_start": 559,
+    "depth": 1
+  },
+  {
+    "title": "27. The Christian book in medieval Byzantium",
+    "pdf_start": 582,
+    "depth": 1
+  },
+  {
+    "title": "28. Saints and their cults",
+    "pdf_start": 609,
+    "depth": 1
+  },
+  {
+    "title": "29. Last Things",
+    "pdf_start": 634,
+    "depth": 1
+  },
+  {
+    "title": "Conclusion: Christendom, c. 1100",
+    "pdf_start": 653,
+    "depth": 0
+  },
+  {
+    "title": "Bibliography",
+    "pdf_start": 672,
+    "depth": 0
+  },
+  {
+    "title": "Index",
+    "pdf_start": 831,
+    "depth": 0
+  }
+]

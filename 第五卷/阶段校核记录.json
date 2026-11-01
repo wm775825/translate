@@ -1,0 +1,71 @@
+{
+  "stage": "卷首资料、前言、缩略语、第一编与第一章",
+  "completed_at": "2026-10-29T17:52:33+08:00",
+  "source_pdf": "05 东方基督教.pdf",
+  "source_sha256": "10abeed6904c4218e62d64a0f2841203c44fe41f4bc2191ca116732e5f3718de",
+  "source_unchanged": true,
+  "translated_chapters": 1,
+  "total_chapters": 24,
+  "translated_source_pdf_pages": [
+    1,
+    73
+  ],
+  "translated_source_page_count": 73,
+  "chapter1_original_pages": [
+    3,
+    52
+  ],
+  "footnote_calls": 107,
+  "footnote_definitions": 107,
+  "manual_note_overrides": 13,
+  "maps": 2,
+  "bilingual_map_labels": 153,
+  "chinese_md": "05 东方基督教（中文翻译中）.md",
+  "chinese_md_sha256": "62d8fad7fe8f1cdf0db2ce0e1433f3773e1380e4207b8989e29ea4d7ab55fad4",
+  "chinese_md_bytes": 170556,
+  "pdf": "../output/pdf/05 东方基督教（中文翻译中）.pdf",
+  "pdf_bytes": 2394123,
+  "pdf_pages": 74,
+  "pdf_sha256": "551582d76554bcb55015bd7ddc8bfe65798300923546c9741abb65f40bc81226",
+  "pdf_text_fragments_checked": 473,
+  "pdf_links_checked": 224,
+  "pdf_structure_qa": {
+    "pages": 74,
+    "sha256": "551582d76554bcb55015bd7ddc8bfe65798300923546c9741abb65f40bc81226",
+    "text_fragments_checked": 473,
+    "links": 224,
+    "missing_paragraphs": [],
+    "broken_internal_links": [],
+    "link_rectangles_outside_page": [],
+    "words_outside_page": [],
+    "words_outside_margins": [],
+    "outline_roots": 7,
+    "font_preflight": {}
+  },
+  "visual_review": {
+    "contact_sheets": [
+      "tmp/pdfs-volume5/final-contact-01.png",
+      "tmp/pdfs-volume5/final-contact-02.png"
+    ],
+    "contact_sheet_page_coverage": 74,
+    "enlarged_pages_reviewed": [
+      1,
+      2,
+      10,
+      20,
+      22,
+      24,
+      25,
+      32,
+      37,
+      69,
+      71,
+      73
+    ],
+    "latest_note_typography_reviewed": [
+      71,
+      73
+    ]
+  },
+  "remaining": "第2至24章、第二至四编扉页、书目与索引；全卷终校及最终PDF尚未完成。"
+}

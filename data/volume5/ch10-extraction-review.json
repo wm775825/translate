@@ -1,0 +1,31 @@
+{
+  "changed_pages": [
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270
+  ],
+  "changed_notes": [],
+  "notes": 1646,
+  "references": 1646,
+  "warnings": [],
+  "source_changes": [
+    "Included smaller quotation and heading superscripts",
+    "Excluded Univers map lettering from footnotes",
+    "Only PDF250–253 use displaced upper body/folio coordinates; subsequent pages use standard bounds",
+    "Restored blockquote layout and chapter 10 paragraph indentation"
+  ]
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Cover",
+    "pdf_start": 1,
+    "depth": 0
+  },
+  {
+    "title": "Title Page",
+    "pdf_start": 4,
+    "depth": 0
+  },
+  {
+    "title": "Copyright",
+    "pdf_start": 5,
+    "depth": 0
+  },
+  {
+    "title": "Contents",
+    "pdf_start": 6,
+    "depth": 0
+  },
+  {
+    "title": "List of illustrations and maps",
+    "pdf_start": 10,
+    "depth": 0
+  },
+  {
+    "title": "List of contributors",
+    "pdf_start": 11,
+    "depth": 0
+  },
+  {
+    "title": "Acknowledgements",
+    "pdf_start": 15,
+    "depth": 0
+  },
+  {
+    "title": "Introduction",
+    "pdf_start": 16,
+    "depth": 0
+  },
+  {
+    "title": "Part I. Church, State, and Society in the European World, 1660-1780",
+    "pdf_start": 28,
+    "depth": 0
+  },
+  {
+    "title": "1. Continental Catholic Europe",
+    "pdf_start": 30,
+    "depth": 1
+  },
+  {
+    "title": "2. Continental Protestant Europe",
+    "pdf_start": 48,
+    "depth": 1
+  },
+  {
+    "title": "3. Great Britain and Ireland",
+    "pdf_start": 69,
+    "depth": 1
+  },
+  {
+    "title": "4. The church in economy and society",
+    "pdf_start": 87,
+    "depth": 1
+  },
+  {
+    "title": "Part II. Christian Life in the European World, 1660-1780",
+    "pdf_start": 102,
+    "depth": 0
+  },
+  {
+    "title": "5. The Catholic clergy in Europe",
+    "pdf_start": 104,
+    "depth": 1
+  },
+  {
+    "title": "6. The Protestant clergies in the European world",
+    "pdf_start": 124,
+    "depth": 1
+  },
+  {
+    "title": "7. Reaching audiences: Sermons and oratory in Europe",
+    "pdf_start": 143,
+    "depth": 1
+  },
+  {
+    "title": "8. Christian education",
+    "pdf_start": 162,
+    "depth": 1
+  },
+  {
+    "title": "9. Christianity and gender",
+    "pdf_start": 181,
+    "depth": 1
+  },
+  {
+    "title": "10. Popular religion",
+    "pdf_start": 200,
+    "depth": 1
+  },
+  {
+    "title": "11. Jewish–Christian relations",
+    "pdf_start": 223,
+    "depth": 1
+  },
+  {
+    "title": "12. Architecture and Christianity",
+    "pdf_start": 241,
+    "depth": 1
+  },
+  {
+    "title": "Part III. Movements and Challenges",
+    "pdf_start": 264,
+    "depth": 0
+  },
+  {
+    "title": "13. Christianity and the rise of science, 1660–1815",
+    "pdf_start": 266,
+    "depth": 1
+  },
+  {
+    "title": "14. The Enlightenment critique of Christianity",
+    "pdf_start": 280,
+    "depth": 1
+  },
+  {
+    "title": "15. The Christian Enlightenment",
+    "pdf_start": 298,
+    "depth": 1
+  },
+  {
+    "title": "16. Jansenism and the international suppression of the Jesuits",
+    "pdf_start": 317,
+    "depth": 1
+  },
+  {
+    "title": "17. Evangelical awakenings in the North Atlantic world",
+    "pdf_start": 344,
+    "depth": 1
+  },
+  {
+    "title": "18. Toleration and movements of Christian reunion, 1660–1789",
+    "pdf_start": 363,
+    "depth": 1
+  },
+  {
+    "title": "Part IV. Christian Developments in the non-European World",
+    "pdf_start": 386,
+    "depth": 0
+  },
+  {
+    "title": "19. Christianity in Iberian America",
+    "pdf_start": 388,
+    "depth": 1
+  },
+  {
+    "title": "20. British and French North America to 1765",
+    "pdf_start": 407,
+    "depth": 1
+  },
+  {
+    "title": "21. Christianity in Africa",
+    "pdf_start": 426,
+    "depth": 1
+  },
+  {
+    "title": "22. Christianity in south and south-east Asia",
+    "pdf_start": 448,
+    "depth": 1
+  },
+  {
+    "title": "23. Christianity in East Asia",
+    "pdf_start": 466,
+    "depth": 1
+  },
+  {
+    "title": "24. Christian encounters with other world religions",
+    "pdf_start": 490,
+    "depth": 1
+  },
+  {
+    "title": "Part V. Revolution and the Christian World",
+    "pdf_start": 510,
+    "depth": 0
+  },
+  {
+    "title": "25. The American Revolution and religion, 1765–1815",
+    "pdf_start": 512,
+    "depth": 1
+  },
+  {
+    "title": "26. Christianity and the campaign against slavery and the slave trade",
+    "pdf_start": 532,
+    "depth": 1
+  },
+  {
+    "title": "27. The French Revolution and religion to 1794",
+    "pdf_start": 551,
+    "depth": 1
+  },
+  {
+    "title": "28. The French Revolution and religion, 1795–1815",
+    "pdf_start": 571,
+    "depth": 1
+  },
+  {
+    "title": "29. Movements of Christian awakening in revolutionary Europe, 1790–1815",
+    "pdf_start": 590,
+    "depth": 1
+  },
+  {
+    "title": "Chronology",
+    "pdf_start": 611,
+    "depth": 0
+  },
+  {
+    "title": "Bibliography",
+    "pdf_start": 618,
+    "depth": 0
+  },
+  {
+    "title": "Index",
+    "pdf_start": 667,
+    "depth": 0
+  }
+]

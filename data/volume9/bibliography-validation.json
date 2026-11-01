@@ -1,0 +1,146 @@
+{
+  "source_pdf_pages": 43,
+  "entries": 994,
+  "chapter_lists": 33,
+  "translated_explanations": [
+    {
+      "page": 652,
+      "source": "Reports of Faith and Order conferences: Lausanne 1927, Edinburgh 1937, Lund 1952, Montreal 1964, Santiago da Compostela 1993",
+      "zh": "信仰与教制会议报告：洛桑1927、爱丁堡1937、隆德1952、蒙特利尔1964、圣地亚哥—德孔波斯特拉1993。"
+    },
+    {
+      "page": 652,
+      "source": "Reports of Life and Work conferences: Stockholm 1925, Oxford 1937",
+      "zh": "生活与工作会议报告：斯德哥尔摩1925、牛津1937。"
+    },
+    {
+      "page": 652,
+      "source": "Reports of World Council of Churches assemblies: Amsterdam 1948, Evanston 1954, New Delhi 1961, Uppsala 1968, Nairobi 1975, Vancouver 1983, Canberra 1991, Harare 1998",
+      "zh": "世界基督教协进会大会报告：阿姆斯特丹1948、埃文斯顿1954、新德里1961、乌普萨拉1968、内罗毕1975、温哥华1983、堪培拉1991、哈拉雷1998。"
+    },
+    {
+      "page": 652,
+      "source": "Reports of World Missionary conferences: Edinburgh 1910, Jerusalem1928 , Tambaram 1938",
+      "zh": "世界宣教会议报告：爱丁堡1910、耶路撒冷1928、坦巴拉姆1938。"
+    },
+    {
+      "page": 671,
+      "source": "www.providence.edu/las website on religion in Latin America",
+      "zh": "www.providence.edu/las，有关拉丁美洲宗教的网站。"
+    },
+    {
+      "page": 682,
+      "source": "Archive of resolutions from Lambeth Conferences of Anglican Bishops. On-line at http://www.anglicancommunion.org/acns/archive/",
+      "zh": "圣公会主教兰贝斯会议决议档案。在线地址：http://www.anglicancommunion.org/acns/archive/"
+    },
+    {
+      "page": 682,
+      "source": "One Plus One, Marriage and Partnership Research. On-line at http://www.oneplusone. org.uk",
+      "zh": "One Plus One，婚姻与伴侣关系研究。在线地址：http://www.oneplusone.org.uk"
+    }
+  ],
+  "numeric_character_sequence_preserved": true,
+  "source_content_normalisation_checked": true,
+  "wrap_repairs": [
+    [
+      "late-twentieth-",
+      "century",
+      true
+    ],
+    [
+      "inter-",
+      "war",
+      true
+    ],
+    [
+      "conscious-",
+      "ness’,",
+      false
+    ],
+    [
+      "McGill-",
+      "Queen’s",
+      true
+    ],
+    [
+      "hemi-",
+      "spheric",
+      false
+    ],
+    [
+      "anthro-",
+      "pology",
+      false
+    ],
+    [
+      "commu-",
+      "nities",
+      false
+    ],
+    [
+      "command-",
+      "ments",
+      false
+    ],
+    [
+      "Palgrave-",
+      "Macmillan,",
+      true
+    ],
+    [
+      "self-",
+      "reported",
+      true
+    ],
+    [
+      "spirit-",
+      "uality",
+      false
+    ],
+    [
+      "relation-",
+      "ships",
+      false
+    ],
+    [
+      "ecume-",
+      "nical",
+      false
+    ],
+    [
+      "move-",
+      "ment,",
+      false
+    ],
+    [
+      "non-",
+      "Christian",
+      true
+    ],
+    [
+      "expec-",
+      "tations",
+      false
+    ],
+    [
+      "relation-",
+      "ships:",
+      false
+    ],
+    [
+      "contempo-",
+      "rary",
+      false
+    ],
+    [
+      "Judeo-",
+      "Christian",
+      true
+    ],
+    [
+      "orien-",
+      "tierter",
+      false
+    ]
+  ]
+}

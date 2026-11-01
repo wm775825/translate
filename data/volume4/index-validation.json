@@ -1,0 +1,17 @@
+{
+  "entries": 2040,
+  "unique_labels": 1686,
+  "primary_entries": 1137,
+  "subentries": 903,
+  "source_pages": 21,
+  "untranslated_labels": 0,
+  "source_numeric_sequence_verified": true,
+  "cross_reference_rows": 39,
+  "cross_reference_locators_verified": true,
+  "columns_and_indentation_restored": true,
+  "source_anomalies_visually_checked": [
+    581,
+    585,
+    591
+  ]
+}

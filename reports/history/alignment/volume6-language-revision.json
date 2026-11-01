@@ -1,0 +1,177 @@
+{
+  "method": "逐章逐页实际阅读英文并修订中文；另检查来源页、注释、图像和基础语言。独立专业精校未进行。",
+  "chapters": [
+    {
+      "chapter": 13,
+      "source_pdf_pages": [
+        250,
+        266
+      ],
+      "source_pages_checked": 17,
+      "notes_preserved": 63,
+      "images_preserved": 0,
+      "han_before": 7832,
+      "han_after": 8385
+    },
+    {
+      "chapter": 14,
+      "source_pdf_pages": [
+        267,
+        283
+      ],
+      "source_pages_checked": 17,
+      "notes_preserved": 29,
+      "images_preserved": 0,
+      "han_before": 5695,
+      "han_after": 6801
+    },
+    {
+      "chapter": 15,
+      "source_pdf_pages": [
+        284,
+        305
+      ],
+      "source_pages_checked": 22,
+      "notes_preserved": 46,
+      "images_preserved": 0,
+      "han_before": 10338,
+      "han_after": 11598
+    },
+    {
+      "chapter": 16,
+      "source_pdf_pages": [
+        306,
+        324
+      ],
+      "source_pages_checked": 19,
+      "notes_preserved": 49,
+      "images_preserved": 0,
+      "han_before": 8751,
+      "han_after": 10412
+    },
+    {
+      "chapter": 17,
+      "source_pdf_pages": [
+        325,
+        343
+      ],
+      "source_pages_checked": 19,
+      "notes_preserved": 40,
+      "images_preserved": 0,
+      "han_before": 8113,
+      "han_after": 9896
+    },
+    {
+      "chapter": 18,
+      "source_pdf_pages": [
+        344,
+        365
+      ],
+      "source_pages_checked": 22,
+      "notes_preserved": 84,
+      "images_preserved": 0,
+      "han_before": 8033,
+      "han_after": 10779
+    },
+    {
+      "chapter": 19,
+      "source_pdf_pages": [
+        368,
+        393
+      ],
+      "source_pages_checked": 26,
+      "notes_preserved": 44,
+      "images_preserved": 9,
+      "han_before": 7943,
+      "han_after": 10748
+    },
+    {
+      "chapter": 20,
+      "source_pdf_pages": [
+        394,
+        408
+      ],
+      "source_pages_checked": 15,
+      "notes_preserved": 39,
+      "images_preserved": 0,
+      "han_before": 5595,
+      "han_after": 8528
+    },
+    {
+      "chapter": 21,
+      "source_pdf_pages": [
+        409,
+        428
+      ],
+      "source_pages_checked": 20,
+      "notes_preserved": 25,
+      "images_preserved": 0,
+      "han_before": 6971,
+      "han_after": 12346
+    },
+    {
+      "chapter": 22,
+      "source_pdf_pages": [
+        429,
+        447
+      ],
+      "source_pages_checked": 19,
+      "notes_preserved": 18,
+      "images_preserved": 0,
+      "han_before": 6289,
+      "han_after": 11693
+    },
+    {
+      "chapter": 23,
+      "source_pdf_pages": [
+        448,
+        466
+      ],
+      "source_pages_checked": 19,
+      "notes_preserved": 67,
+      "images_preserved": 0,
+      "han_before": 5839,
+      "han_after": 11106
+    },
+    {
+      "chapter": 24,
+      "source_pdf_pages": [
+        467,
+        487
+      ],
+      "source_pages_checked": 21,
+      "notes_preserved": 83,
+      "images_preserved": 0,
+      "han_before": 5415,
+      "han_after": 12101
+    },
+    {
+      "chapter": 25,
+      "source_pdf_pages": [
+        488,
+        505
+      ],
+      "source_pages_checked": 18,
+      "notes_preserved": 13,
+      "images_preserved": 0,
+      "han_before": 4702,
+      "han_after": 11847
+    },
+    {
+      "chapter": 26,
+      "source_pdf_pages": [
+        508,
+        526
+      ],
+      "source_pages_checked": 19,
+      "notes_preserved": 34,
+      "images_preserved": 0,
+      "han_before": 5189,
+      "han_after": 12322
+    }
+  ],
+  "source_pages": 273,
+  "notes": 634,
+  "han_before": 96705,
+  "han_after": 148562
+}

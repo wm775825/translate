@@ -1,0 +1,237 @@
+[
+  {
+    "title": "Cover",
+    "pdf_start": 1,
+    "depth": 0
+  },
+  {
+    "title": "Title Page",
+    "pdf_start": 4,
+    "depth": 0
+  },
+  {
+    "title": "Copyright",
+    "pdf_start": 5,
+    "depth": 0
+  },
+  {
+    "title": "Contents",
+    "pdf_start": 6,
+    "depth": 0
+  },
+  {
+    "title": "List of contributors",
+    "pdf_start": 10,
+    "depth": 0
+  },
+  {
+    "title": "1. Introduction",
+    "pdf_start": 18,
+    "depth": 0
+  },
+  {
+    "title": "Part I. Christianity and Modernity",
+    "pdf_start": 28,
+    "depth": 0
+  },
+  {
+    "title": "2. The papacy",
+    "pdf_start": 30,
+    "depth": 1
+  },
+  {
+    "title": "3. Theology and the revolt against the Enlightenment",
+    "pdf_start": 47,
+    "depth": 1
+  },
+  {
+    "title": "4. The growth of voluntary religion",
+    "pdf_start": 70,
+    "depth": 1
+  },
+  {
+    "title": "5. Catholic revivalism in worship and devotion",
+    "pdf_start": 87,
+    "depth": 1
+  },
+  {
+    "title": "6. Women preachers and the new Orders",
+    "pdf_start": 101,
+    "depth": 1
+  },
+  {
+    "title": "7. Church architecture and religious art",
+    "pdf_start": 120,
+    "depth": 1
+  },
+  {
+    "title": "8. Musical trends and the western church: a collision of the ‘ancient’ and ‘modern’",
+    "pdf_start": 138,
+    "depth": 1
+  },
+  {
+    "title": "9. Christianity and literature in English",
+    "pdf_start": 153,
+    "depth": 1
+  },
+  {
+    "title": "10. Christian social thought",
+    "pdf_start": 159,
+    "depth": 1
+  },
+  {
+    "title": "11. Christianity and the sciences",
+    "pdf_start": 181,
+    "depth": 1
+  },
+  {
+    "title": "12. History and the Bible",
+    "pdf_start": 198,
+    "depth": 1
+  },
+  {
+    "title": "13. Popular religion and irreligion in countryside and town",
+    "pdf_start": 214,
+    "depth": 1
+  },
+  {
+    "title": "Part II. The Churches and National Identities",
+    "pdf_start": 232,
+    "depth": 0
+  },
+  {
+    "title": "14. Catholic Christianity in France from the Restoration to the separation of church and state, 1815–1905",
+    "pdf_start": 234,
+    "depth": 1
+  },
+  {
+    "title": "15. Italy: the church and the Risorgimento",
+    "pdf_start": 250,
+    "depth": 1
+  },
+  {
+    "title": "16. Catholicism, Ireland and the Irish diaspora",
+    "pdf_start": 267,
+    "depth": 1
+  },
+  {
+    "title": "17. Catholic nationalism in Greater Hungary and Poland",
+    "pdf_start": 277,
+    "depth": 1
+  },
+  {
+    "title": "18. Christianity and the creation of Germany",
+    "pdf_start": 299,
+    "depth": 1
+  },
+  {
+    "title": "19. Anglicanism, Presbyterianism and the religious identities of the United Kingdom",
+    "pdf_start": 318,
+    "depth": 1
+  },
+  {
+    "title": "20. Protestant dominance and confessional politics: Switzerland and the Netherlands",
+    "pdf_start": 340,
+    "depth": 1
+  },
+  {
+    "title": "21. Scandinavia: Lutheranism and national identity",
+    "pdf_start": 359,
+    "depth": 1
+  },
+  {
+    "title": "22. ‘Christian America’ and ‘Christian Canada’",
+    "pdf_start": 376,
+    "depth": 1
+  },
+  {
+    "title": "23. Spain and Portugal: the challenge to the church",
+    "pdf_start": 398,
+    "depth": 1
+  },
+  {
+    "title": "24. Latin America: the church and national independence",
+    "pdf_start": 412,
+    "depth": 1
+  },
+  {
+    "title": "25. Between east and west: the Eastern Catholic (‘Uniate’) churches",
+    "pdf_start": 429,
+    "depth": 1
+  },
+  {
+    "title": "Part III. The Expansion of Christianity",
+    "pdf_start": 444,
+    "depth": 0
+  },
+  {
+    "title": "26. African-American Christianity",
+    "pdf_start": 446,
+    "depth": 1
+  },
+  {
+    "title": "27. Christian missions, antislavery and the claims of humanity, c.1813–1873",
+    "pdf_start": 460,
+    "depth": 1
+  },
+  {
+    "title": "28. The Middle East: western missions and the Eastern churches, Islam and Judaism",
+    "pdf_start": 475,
+    "depth": 1
+  },
+  {
+    "title": "29. Christians and religious traditions in the Indian empire",
+    "pdf_start": 490,
+    "depth": 1
+  },
+  {
+    "title": "30. Christianity in East Asia: China, Korea and Japan",
+    "pdf_start": 510,
+    "depth": 1
+  },
+  {
+    "title": "31. Christianity in Indochina",
+    "pdf_start": 530,
+    "depth": 1
+  },
+  {
+    "title": "32. Christianity as church and story and the birth of the Filipino nation in the nineteenth century",
+    "pdf_start": 545,
+    "depth": 1
+  },
+  {
+    "title": "33. Christianity in Australasia and the Pacific",
+    "pdf_start": 559,
+    "depth": 1
+  },
+  {
+    "title": "34. Missions and empire, c.1873–1914",
+    "pdf_start": 577,
+    "depth": 1
+  },
+  {
+    "title": "35. Ethiopianism and the roots of modern African Christianity",
+    "pdf_start": 593,
+    "depth": 1
+  },
+  {
+    "title": "36. The outlook for Christianity in 1914",
+    "pdf_start": 610,
+    "depth": 1
+  },
+  {
+    "title": "Select general bibliography",
+    "pdf_start": 618,
+    "depth": 0
+  },
+  {
+    "title": "Chapter bibliographies",
+    "pdf_start": 621,
+    "depth": 0
+  },
+  {
+    "title": "Index",
+    "pdf_start": 673,
+    "depth": 0
+  }
+]

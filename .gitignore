@@ -1,0 +1,12 @@
+# Rebuildable outputs and local runtime files.
+/tmp/
+/output/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+desktop.ini

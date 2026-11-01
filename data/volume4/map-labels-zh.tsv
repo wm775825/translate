@@ -1,0 +1,361 @@
+1	Edinburgh	爱丁堡
+1	Newcastle	纽卡斯尔
+1	Durham	达勒姆
+1	Carlisle	卡莱尔
+1	York	约克
+1	Hull	赫尔
+1	Beverley	贝弗利
+1	Boston	波士顿（英格兰）
+1	Norwich	诺里奇
+1	Ipswich	伊普斯维奇
+1	London	伦敦
+1	Bristol	布里斯托尔
+1	North Sea	北海
+1	Malaga	马拉加
+1	Granada	格拉纳达
+1	Cordova	科尔多瓦
+1	Valencia	瓦伦西亚
+1	Seville	塞维利亚
+1	Lisbon	里斯本
+1	Setubal	塞图巴尔
+1	Toledo	托莱多
+1	Barcelona	巴塞罗那
+1	Montpellier	蒙彼利埃
+1	Bayonne	巴约讷
+1	Toulouse	图卢兹
+1	Bordeaux	波尔多
+1	La Rochelle	拉罗谢尔
+1	Nantes	南特
+1	Paris	巴黎
+1	St Malo	圣马洛
+1	Bourges	布尔日
+1	Marseille	马赛
+1	Palermo	巴勒莫
+1	Messina	墨西拿
+1	Naples	那不勒斯
+1	Rome	罗马
+1	Oslo	奥斯陆
+1	Copenhagen	哥本哈根
+1	Roskilde	罗斯基勒
+1	Bergen	卑尔根
+1	Frankfurt/Oder	奥得河畔法兰克福
+1	Stettin	斯德丁
+1	Stralsund	施特拉尔松德
+1	Hamburg	汉堡
+1	Rostock	罗斯托克
+1	Lübeck	吕贝克
+1	Prague	布拉格
+1	Regensburg	雷根斯堡
+1	Nuremberg	纽伦堡
+1	Mainz	美因茨
+1	Frankfurt/Main	美因河畔法兰克福
+1	Erfurt	埃尔福特
+1	Augsburg	奥格斯堡
+1	Constance	康斯坦茨
+1	Cologne	科隆
+1	Bremen	不来梅
+1	Mediterranean Sea	地中海
+1	Avignon	阿维尼翁
+1	Lyon	里昂
+1	Le Havre	勒阿弗尔
+1	Calais	加来
+1	Rouen	鲁昂
+1	Amiens	亚眠
+1	Genoa	热那亚
+1	Milan	米兰
+1	Trent	特伦托
+1	Venice	威尼斯
+1	Bologna	博洛尼亚
+1	Florence	佛罗伦萨
+1	Cortona	科尔托纳
+1	Pistoia	皮斯托亚
+1	Pisa	比萨
+1	Lucca	卢卡
+1	Volterra	沃尔泰拉
+1	Adriatic Sea	亚得里亚海
+1	Como	科莫
+1	Salzburg	萨尔茨堡
+1	Ulm	乌尔姆
+1	Piacenza	皮亚琴察
+1	Geneva	日内瓦
+1	Basle	巴塞尔
+1	St Gall	圣加仑
+1	Trier	特里尔
+1	Freiburg	弗赖堡
+1	Strasbourg	斯特拉斯堡
+1	Liège	列日
+1	R. Elbe	易北河
+1	R. Ebro	埃布罗河
+1	R. Garonne	加龙河
+1	R. Tagus	塔霍河
+1	R. Guadalquivir	瓜达尔基维尔河
+1	R. Loire	卢瓦尔河
+1	R. Seine	塞纳河
+1	Atlantic Ocean	大西洋
+1	Cadiz	加的斯
+1	Padua	帕多瓦
+1	Vicenza	维琴察
+1	Rotterdam	鹿特丹
+1	Amsterdam	阿姆斯特丹
+1	Antwerp	安特卫普
+1	Bruges	布鲁日
+1	Bergen-op-Zoom	贝亨奥普佐姆
+1	Bilbao	毕尔巴鄂
+1	Santiago de Compostela	圣地亚哥－德孔波斯特拉
+1	R. Po	波河
+1	R. Douro/Duero	杜罗河／杜埃罗河
+1	R. Rhine	莱茵河
+1	Vienna	维也纳
+1	Cracow	克拉科夫
+1	Lwów	利沃夫
+1	Danzig	但泽
+1	Königsberg	柯尼斯堡
+1	Riga	里加
+1	Pskov	普斯科夫
+1	Novgorod	诺夫哥罗德
+1	Dorpat	多尔帕特
+1	Revel	雷瓦尔
+1	Viborg	维堡
+1	Abo	奥布
+1	Kalmar	卡尔马
+1	Thorn	托伦
+1	Black Sea	黑海
+1	Damietta	达米埃塔
+1	Alexandria	亚历山大里亚
+1	Acre	阿克
+1	Beirut	贝鲁特
+1	Jerusalem	耶路撒冷
+1	Famagusta	法马古斯塔
+1	Antioch	安条克（城与领地）
+1	Cyprus	塞浦路斯
+1	Later Kingdom of Jerusalem	耶路撒冷后期王国
+1	Bari	巴里
+1	Stockholm	斯德哥尔摩
+1	Falun	法伦
+1	R. W. Dvina	西德维纳河
+1	R. Vistula	维斯瓦河
+1	R. Dniester	德涅斯特河
+1	R. Dnieper	第聂伯河
+1	R. Danube	多瑙河
+1	Armenia	亚美尼亚
+1	Baltic Sea	波罗的海
+1	Wroclaw (Breslau)	弗罗茨瓦夫（布雷斯劳）
+2	Aberdeen	阿伯丁
+2	St Andrews	圣安德鲁斯
+2	Glasgow	格拉斯哥
+2	Oxford	牛津
+2	Cambridge	剑桥
+2	Cologne	科隆
+2	Trier	特里尔
+2	Freiburg	弗赖堡
+2	Basle	巴塞尔
+2	Caen	卡昂
+2	Louvain	鲁汶
+2	Paris	巴黎
+2	Orléans	奥尔良
+2	Angers	昂热
+2	Nantes	南特
+2	Bourges	布尔日
+2	Poitiers	普瓦捷
+2	Bordeaux	波尔多
+2	Cahors	卡奥尔
+2	Toulouse	图卢兹
+2	Montpellier	蒙彼利埃
+2	Aix	艾克斯
+2	Avignon	阿维尼翁
+2	Orange	奥朗日
+2	Grenoble	格勒诺布尔
+2	Valance	瓦朗斯（依原图拼写）
+2	Lisbon	里斯本
+2	Coimbra	科英布拉
+2	Salamanca	萨拉曼卡
+2	Valladolid	巴利亚多利德
+2	Alcalà	阿尔卡拉
+2	Valencia	瓦伦西亚
+2	Palma（马略卡岛）	帕尔马（马略卡岛）
+2	Barcelona	巴塞罗那
+2	Gerona	赫罗纳
+2	Perpignan	佩皮尼昂
+2	Lérida	莱里达
+2	Huesca	韦斯卡
+2	Saragossa	萨拉戈萨
+2	Sigüenza	锡古恩萨
+2	Turin	都灵
+2	Genoa	热那亚
+2	Vercelli	韦尔切利
+2	Copenhagen	哥本哈根
+2	Rostock	罗斯托克
+2	Greifswald	格赖夫斯瓦尔德
+2	Frankfurt/Oder	奥得河畔法兰克福
+2	Uppsala	乌普萨拉
+2	Cracow	克拉科夫
+2	Vienna	维也纳
+2	Buda	布达
+2	Poszony	波若尼（依原图拼写）
+2	Ingolstadt	因戈尔施塔特
+2	Leipzig	莱比锡
+2	Erfurt	埃尔福特
+2	Würzburg	维尔茨堡
+2	Prague	布拉格
+2	Verona	维罗纳
+2	Padua	帕多瓦
+2	Venice	威尼斯
+2	Ferrara	费拉拉
+2	Bologna	博洛尼亚
+2	Florence	佛罗伦萨
+2	Siena	锡耶纳
+2	Rome	罗马
+2	Perugia	佩鲁贾
+2	Naples	那不勒斯
+2	Salerno	萨莱诺
+2	Catania	卡塔尼亚
+2	Pecs	佩奇
+2	Treviso	特雷维索
+2	Arezzo	阿雷佐
+2	Mainz	美因茨
+2	Heidelberg	海德堡
+2	Tübingen	蒂宾根
+2	Pavia	帕维亚
+2	Piacenza	皮亚琴察
+2	Palma（意大利图位）	帕尔马（意大利；原图作Palma）
+2	Pisa	比萨
+2	Lucca	卢卡
+2	Universities active in 1300	菱形：1300年已活跃的大学
+2	Universities founded 1300–1400	圆形：1300—1400年创立的大学
+2	Universities founded 1400–1500	方形：1400—1500年创立的大学
+3	Piedmont	皮埃蒙特
+3	Turin	都灵
+3	Pinerolo	皮内罗洛
+3	Mont-Ferrat	蒙费拉托
+3	Vercelli	韦尔切利
+3	Milan	米兰（城与领地）
+3	Bergamo	贝加莫
+3	Malpage	马尔帕加（原图作Malpage）
+3	Caravaggio	卡拉瓦乔
+3	Brescia	布雷西亚
+3	Lodi	洛迪
+3	Maclodio	马克洛迪奥
+3	Venice	威尼斯（城与领地）
+3	Vicenza	维琴察
+3	Verona	维罗纳
+3	Padua	帕多瓦
+3	Trieste	的里雅斯特
+3	Mantua	曼图亚（城与领地）
+3	Genoa	热那亚（城与领地）
+3	Nice	尼斯
+3	Ferrara	费拉拉（城与领地）
+3	Modena	摩德纳
+3	Bologna	博洛尼亚
+3	Imola	伊莫拉
+3	Zagonara	扎戈纳拉
+3	Ravenna	拉韦纳
+3	Cervia	切尔维亚
+3	Forlì	弗利
+3	Rimini	里米尼
+3	Romagna	罗马涅
+3	Lucca	卢卡（城与领地）
+3	Pisa	比萨
+3	Prato	普拉托
+3	Livorno	里窝那
+3	Florence	佛罗伦萨（城与领地）
+3	Arezzo	阿雷佐
+3	Anghiari	安吉亚里
+3	Urbino	乌尔比诺
+3	Città di Castello	卡斯泰洛城
+3	Ancona	安科纳
+3	March of Ancona	安科纳边区
+3	Siena	锡耶纳（城与领地）
+3	Piombino	皮翁比诺
+3	Elba	厄尔巴岛
+3	Corsica	科西嘉岛
+3	Perugia	佩鲁贾
+3	Umbria	翁布里亚
+3	Spoleto	斯波莱托
+3	Viterbo	维泰博
+3	Tolfa	托尔法
+3	Papal States	教宗国
+3	Abruzzi	阿布鲁齐
+3	Tivoli	蒂沃利
+3	Rome	罗马
+3	Ragusa	拉古萨
+3	Terracina	泰拉奇纳
+3	Gaeta	加埃塔
+3	Terra di Lavorno	拉沃罗地区（原图作Lavorno）
+3	Kingdom of Naples	那不勒斯王国
+3	Naples	那不勒斯
+3	Benevento	贝内文托
+3	Sardinia	撒丁岛
+3	Ponza	蓬扎岛
+3	Pozzuoli	波佐利
+3	Salerno	萨莱诺
+3	Barletta	巴列塔
+3	Trani	特拉尼
+3	Bari	巴里
+3	Puglia	普利亚
+3	Taranto	塔兰托
+3	Otranto	奥特朗托
+3	Gallipoli	加利波利
+3	Calabria	卡拉布里亚
+3	Sicily	西西里岛
+3	Adriatic Sea	亚得里亚海
+3	Tyrrhenian Sea	第勒尼安海
+3	Mediterranean Sea	地中海
+3	N	北
+4	Groningen	格罗宁根
+4	Leeuwarden	吕伐登
+4	Friesland	弗里斯兰
+4	Overijssel	上艾瑟尔
+4	Alkmaar	阿尔克马尔
+4	Haarlem	哈勒姆
+4	Holland	荷兰地区
+4	Amsterdam	阿姆斯特丹
+4	The Hague	海牙
+4	Leiden	莱顿
+4	Deventer	代芬特尔
+4	Zutphen	聚特芬
+4	Guelders	海尔德尔斯
+4	Münster	明斯特
+4	Utrecht	乌得勒支
+4	Sticht	乌得勒支主教领
+4	Delft	代尔夫特
+4	Zeeland	泽兰
+4	’s-Hertogenbosch	斯海尔托亨博斯
+4	Breda	布雷达
+4	Bergen-op-Zoom	贝亨奥普佐姆
+4	Goes	胡斯
+4	Brabant	布拉班特
+4	Antwerp	安特卫普
+4	Mechelen	梅赫伦（城与领地）
+4	Bruges	布鲁日
+4	Flanders	佛兰德
+4	Ghent	根特
+4	Calais	加来
+4	Ypres	伊普尔
+4	Tournai	图尔奈
+4	Tournaisis	图尔奈地区
+4	Lille	里尔
+4	Brussels	布鲁塞尔
+4	Leuven	鲁汶
+4	Sint-Truiden	圣特勒伊登
+4	Liège	列日（城与领地）
+4	Limburg	林堡
+4	Cologne	科隆
+4	Aachen	亚琛
+4	Nivelles	尼韦勒
+4	Hainaut	埃诺
+4	Mons	蒙斯
+4	Oignies	瓦尼
+4	Namur	那慕尔（城与领地）
+4	Huy	于伊
+4	Valenciennes	瓦朗谢讷
+4	Douai	杜埃
+4	Arras	阿拉斯
+4	Artois	阿图瓦
+4	Cambrai	康布雷
+4	Ponthieu	蓬蒂厄
+4	Amiens	亚眠
+4	Luxembourg	卢森堡（城与领地）
+4	Beauvais	博韦
+4	Reims	兰斯
+4	Verdun	凡尔登
+4	Paris	巴黎

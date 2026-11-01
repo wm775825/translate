@@ -1,0 +1,4687 @@
+[
+  {
+    "path": "01 起源至君士坦丁.pdf",
+    "bytes": 6165813,
+    "sha256": "c0fa626a4751278a17cc14fc96f223bcb7b11f8c653fa87acf29cf9d449dec11"
+  },
+  {
+    "path": "02 君士坦丁至600年.pdf",
+    "bytes": 4877763,
+    "sha256": "8f0b7bd1d7bd20c4a288a75b0a814386b37e06f451ad3f7d6f8f1ddd2f3a9484"
+  },
+  {
+    "path": "03 中世纪早期基督教.pdf",
+    "bytes": 6206812,
+    "sha256": "91e7a7496e357ea10c8739c6ce467398800e9dfa8367b41517aa5d0cc63667cf"
+  },
+  {
+    "path": "04 西欧基督教.pdf",
+    "bytes": 13958586,
+    "sha256": "8d03efa586e0558f36c6e3d817a6b6726be1805ed5d2d8cc79a79c4c3e76882d"
+  },
+  {
+    "path": "05 东方基督教.pdf",
+    "bytes": 5601280,
+    "sha256": "10abeed6904c4218e62d64a0f2841203c44fe41f4bc2191ca116732e5f3718de"
+  },
+  {
+    "path": "06 改革与扩张.pdf",
+    "bytes": 6178369,
+    "sha256": "afaf2be935a22b1c3c257ae823cab4e6e71b111606c69f3d1a5b2642e7d01893"
+  },
+  {
+    "path": "07 启蒙、复兴与革命.pdf",
+    "bytes": 5910867,
+    "sha256": "17888ae5c8dae65528f61085a76274b4f028488f4cc7a24423381a4b27ac4e5d"
+  },
+  {
+    "path": "08 世界基督教（1815-1914）.pdf",
+    "bytes": 3305240,
+    "sha256": "3b7b54784a1bfe97337928b38b084d2c382236a4c8f1f87a8cc56fe75475b825"
+  },
+  {
+    "path": "09 世界基督教（1914-2000）.pdf",
+    "bytes": 5558712,
+    "sha256": "a32883c8a55076a3b24bce01282f0b2a5996c94d177c1352a6c6ef6568f50738"
+  },
+  {
+    "path": "output/pdf/01 起源至君士坦丁（中文校订版）.pdf",
+    "bytes": 21084733,
+    "sha256": "06c79b138e15423e559e620aef1987cc4202968bde0685e2300b5534e177df86"
+  },
+  {
+    "path": "output/pdf/02 君士坦丁至600年（中文校订版）.pdf",
+    "bytes": 9250207,
+    "sha256": "0d2c51194f8176e1bd303ec6e63ac4ef59c48a4583d42647f3734380206d1c54"
+  },
+  {
+    "path": "output/pdf/03 中世纪早期基督教（中文校订版）.pdf",
+    "bytes": 16989293,
+    "sha256": "ebaa3b8f6a3bb93ca3399cf7a31aa81e676aa704fd8237b9a346c0b1577c5914"
+  },
+  {
+    "path": "output/pdf/04 西欧基督教（中文校订版）.pdf",
+    "bytes": 25870229,
+    "sha256": "79615907f2921c3c495bc6780f389035846e887c1fb34d6874399473183a2326"
+  },
+  {
+    "path": "output/pdf/05 东方基督教（中文校订版）.pdf",
+    "bytes": 14034623,
+    "sha256": "a92ac2e3095c7ed74bfa55d06f5172ca2435195d28f04b6f6002a14c7c2f7f7e"
+  },
+  {
+    "path": "output/pdf/06 改革与扩张（中文校订版）.pdf",
+    "bytes": 7593096,
+    "sha256": "20df8095d48a312facd843995c2082582493f64f294f2601fe1d65ddd33480c3"
+  },
+  {
+    "path": "output/pdf/07 启蒙、复兴与革命（中文校订版）.pdf",
+    "bytes": 16506887,
+    "sha256": "1552db0c40fa7d07da8e89c492c673fc14dc803897971f8e91a3f327226daf62"
+  },
+  {
+    "path": "output/pdf/08 世界基督教（1815-1914）（中文校订版）.pdf",
+    "bytes": 5026034,
+    "sha256": "5859eca323b0e91ff1c588da6ce1b7ea4d0c1ad2560b9e7a516ad185cfa880d7"
+  },
+  {
+    "path": "output/pdf/09 世界基督教（1914-2000）（中文校订版，缺第20章）.pdf",
+    "bytes": 8333707,
+    "sha256": "e491c1040dcb53a146272800e2df24098e656b4c1069cf97fc973605c07b97f1"
+  },
+  {
+    "path": "第一卷/01 起源至君士坦丁（中文全译）.md",
+    "bytes": 1987270,
+    "sha256": "5076b23f0a5ce122c5ff80e56f1ca25b6bf22898a2486a2506dfe1e4a3d1c965"
+  },
+  {
+    "path": "第一卷/01 起源至君士坦丁（英文全文）.md",
+    "bytes": 2272121,
+    "sha256": "39a58b29e003b01215ad8043c52f871ca5a429535d77d688f250409e5cc9a10c"
+  },
+  {
+    "path": "第一卷/assets/pdf-001.png",
+    "bytes": 709467,
+    "sha256": "542f62bec03af59a05d8698e697f3d299ca98a0a135e3f0e31c30b68f3eac1c7"
+  },
+  {
+    "path": "第一卷/assets/pdf-004.png",
+    "bytes": 65729,
+    "sha256": "26f045e01516fbde13e6482e54f97a1b765195aae165acde4f318b50108c91a7"
+  },
+  {
+    "path": "第一卷/assets/pdf-023.png",
+    "bytes": 185987,
+    "sha256": "417c0fc85b10ec7f933c59ba0e669bed52aec3063154871be22a7154f03a5684"
+  },
+  {
+    "path": "第一卷/assets/pdf-024.png",
+    "bytes": 210576,
+    "sha256": "1fbe91800c3fc3de25ff90cba4bf9a8fafa6ed27c8e737eb669b70ef587f7aeb"
+  },
+  {
+    "path": "第一卷/assets/pdf-025.png",
+    "bytes": 8907,
+    "sha256": "88c8cdbcc45657341816e103006337b892b9322193d138817c5b185352111e8f"
+  },
+  {
+    "path": "第一卷/assets/pdf-047.png",
+    "bytes": 8771,
+    "sha256": "3953395a78a8956723f1e73183a33579f392cdb1ea191d3e9921bfe35278ffdd"
+  },
+  {
+    "path": "第一卷/assets/pdf-048.png",
+    "bytes": 1379616,
+    "sha256": "31dee90f75090592ad4a0c19c253a6b28893aea459c344e69189bbc8a0d251e6"
+  },
+  {
+    "path": "第一卷/assets/pdf-049.png",
+    "bytes": 994346,
+    "sha256": "45ba5d272e3b022b260e2320b05da0c03df7a7734d73f518b38d3c34f182fb8c"
+  },
+  {
+    "path": "第一卷/assets/pdf-085.png",
+    "bytes": 218675,
+    "sha256": "6ff6b23073f9fff6816e338074529abe754c776fe559f2baaf3477a082b88c22"
+  },
+  {
+    "path": "第一卷/assets/pdf-101.png",
+    "bytes": 129605,
+    "sha256": "2b21d96414c77beb3e169bb05f9a8ee8a7da5d583c48972974a9542f3cceae36"
+  },
+  {
+    "path": "第一卷/assets/pdf-135.png",
+    "bytes": 817516,
+    "sha256": "62df89001f30cda16a69913b17eea785fc53604aacf9fecdaebdc813b58c2a21"
+  },
+  {
+    "path": "第一卷/assets/pdf-193.png",
+    "bytes": 485098,
+    "sha256": "f53e9eda2a3422160e1ede4419e2cf658a3c55c5100a3cc06b6b71ed624b2ecd"
+  },
+  {
+    "path": "第一卷/assets/pdf-221.png",
+    "bytes": 396011,
+    "sha256": "ac86ced6b79ed2f66e078d5e8e28b0a5977fc91c66cc93861c4e0ecebd53c296"
+  },
+  {
+    "path": "第一卷/assets/pdf-225.png",
+    "bytes": 529273,
+    "sha256": "075d04ebfd6f269db8058be1951f2a6421f20bcf58615d7b7acb58a7dab15869"
+  },
+  {
+    "path": "第一卷/assets/pdf-343.png",
+    "bytes": 511085,
+    "sha256": "5c93c510b6279115a67ee095c1b20ceb1c23dbfdf3909dead090971b3255f396"
+  },
+  {
+    "path": "第一卷/assets/pdf-379.png",
+    "bytes": 143318,
+    "sha256": "bd98f7d4e9c0ea2d5f121ae3a7dbea463b8615ef3b3272d76148c6c51a59c6a5"
+  },
+  {
+    "path": "第一卷/assets/pdf-429.png",
+    "bytes": 125249,
+    "sha256": "14dec9f1c039013e8f955f7042970f168d10f66fca4480a4d5ec7fcd4cb0f964"
+  },
+  {
+    "path": "第一卷/assets/pdf-463.png",
+    "bytes": 509269,
+    "sha256": "0ad0b6edcd0a33ef001b3da5ac67ccc7551cfccc11d2715005e3bbbfc435c2c5"
+  },
+  {
+    "path": "第一卷/assets/pdf-533.png",
+    "bytes": 426358,
+    "sha256": "b45005c5ef58cc9c21f25a84ea4508208e1a74e30007c1797f72b3b610da0a1d"
+  },
+  {
+    "path": "第一卷/assets/pdf-551.png",
+    "bytes": 344385,
+    "sha256": "c46ba70db8f37e8738e8cf25f357aa98f7d8104cf69ef262c071aae1509ea71f"
+  },
+  {
+    "path": "第一卷/assets/pdf-620.png",
+    "bytes": 751433,
+    "sha256": "b675e8364c60c2dd8f728c40e8f7d257dcd8f5956fdbf07e8be8eabf9f59b702"
+  },
+  {
+    "path": "第一卷/assets/pdf-627.png",
+    "bytes": 587243,
+    "sha256": "0fe6b9a060c8808108316acfe86ac27867ee21b1e0cedd8f14ee3506a742604b"
+  },
+  {
+    "path": "第一卷/assets/pdf-629.png",
+    "bytes": 700823,
+    "sha256": "2c1d7a7fd3a6e3a1a331879cc9ba142ad043f6ed1daf18b4666c1139a1802de6"
+  },
+  {
+    "path": "第一卷/assets/pdf-633.png",
+    "bytes": 591995,
+    "sha256": "6d01862ef098ef6dd88187ccdf080ecf368f0c1515f2187d1b48acc946b0d9cb"
+  },
+  {
+    "path": "第一卷/assets/pdf-636.png",
+    "bytes": 749485,
+    "sha256": "f1dcf335973f6fa65bb997bea9d2cfe9d19234054c873eb453dd1b2a2385d396"
+  },
+  {
+    "path": "第一卷/前言（中文）.md",
+    "bytes": 13575,
+    "sha256": "8cfabd77ab655b2e51df6c25d3661458c3de0de1dc9bfba2316c3bb4df7eb270"
+  },
+  {
+    "path": "第一卷/卷首资料（中文）.md",
+    "bytes": 12821,
+    "sha256": "2cf0c19e1af5e0f0386b764501f0094a36acbc64bc29a2cfc2ae6e51663527ed"
+  },
+  {
+    "path": "第一卷/参考文献（中文）.md",
+    "bytes": 303661,
+    "sha256": "1548433666f9d16a6bdfe28d7a9d6d4a4296ee5b7d51aeefdedf3a836cc67ae8"
+  },
+  {
+    "path": "第一卷/参考文献（英文）.md",
+    "bytes": 301545,
+    "sha256": "90db1ab57e43a23db8257f86639235cba7a0abadacc58dd1cb09e4a979d162e0"
+  },
+  {
+    "path": "第一卷/年表（中文）.md",
+    "bytes": 5735,
+    "sha256": "ecfafc65a4675e95bfbf7e4755bd2731a955accb86238c7c99e032949e82cd73"
+  },
+  {
+    "path": "第一卷/序篇 耶稣基督：基督教的基础（中文）.md",
+    "bytes": 79527,
+    "sha256": "248c7d044f5043a2a5de2714d3fce68fa96b696735688b9c1081792040503653"
+  },
+  {
+    "path": "第一卷/序篇 耶稣基督：基督教的基础（英文）.md",
+    "bytes": 96407,
+    "sha256": "1f372af01b47657707bccd2e620616e21367b654d7489af25cc9163455002d97"
+  },
+  {
+    "path": "第一卷/第1部分 扉页（中文）.md",
+    "bytes": 439,
+    "sha256": "bcfd93adb89b5fb3518a3d94287ea488b2c7fb89acaa2c8cf860b56e7efbc904"
+  },
+  {
+    "path": "第一卷/第2部分 扉页（中文）.md",
+    "bytes": 319,
+    "sha256": "2b1af4fbe2e55696aff78ae00977671d6e7605cf3c6c3e53f3e99d63af207740"
+  },
+  {
+    "path": "第一卷/第3部分 扉页（中文）.md",
+    "bytes": 187,
+    "sha256": "ebed79f369d3db5fbe1b19399b6a87a221492844bce23919d0eb1b3eb7339bc1"
+  },
+  {
+    "path": "第一卷/第4部分 扉页（中文）.md",
+    "bytes": 726,
+    "sha256": "dcc54a96d8206b7641f5120b77df1ec14176ccfb7cb08dc28b142b1277a2e215"
+  },
+  {
+    "path": "第一卷/第5部分 扉页（中文）.md",
+    "bytes": 184,
+    "sha256": "0cef708aa4391a527397cc4644b51c3608a4b48a56f6941caf85ed4be1ce6d15"
+  },
+  {
+    "path": "第一卷/第6部分 扉页（中文）.md",
+    "bytes": 205,
+    "sha256": "8dc5fa35f276fca021a79a8861ce143d701ac3e037f21b2ba9753b0b10fde996"
+  },
+  {
+    "path": "第一卷/第一章 公元一世纪的加利利与犹太地区（中文）.md",
+    "bytes": 40298,
+    "sha256": "fbb8fcfb88cdd45bdcc2e835d3b633a9eb9b232a420563eb99bb484aee375c2a"
+  },
+  {
+    "path": "第一卷/第一章 公元一世纪的加利利与犹太地区（英文）.md",
+    "bytes": 42432,
+    "sha256": "7d0afa2f13213be18f19b4dc99b55edffabd048fadcc467d2bc57ad5377b079c"
+  },
+  {
+    "path": "第一卷/第七章 最早期基督徒的社会与教会生活（中文）.md",
+    "bytes": 69443,
+    "sha256": "dec602d475010e4fc0aa436cdd009957e3110bbf6544c670d10b1b5198f018bb"
+  },
+  {
+    "path": "第一卷/第七章 最早期基督徒的社会与教会生活（英文）.md",
+    "bytes": 80890,
+    "sha256": "012e8d764d46f451843c3870b2d06fba25246e542e78eb356a8313c21bef235f"
+  },
+  {
+    "path": "第一卷/第三十一章 第一次尼西亚会议（中文）.md",
+    "bytes": 42637,
+    "sha256": "c0d217def80922e48736c9a5711fe05d1e1ee07e323798a6153891681d6b4894"
+  },
+  {
+    "path": "第一卷/第三十一章 第一次尼西亚会议（英文）.md",
+    "bytes": 46570,
+    "sha256": "7185e9c912f8a26ecb1d94f37b87dbc9afda88bea84fcf4d3b47a165eabeb051"
+  },
+  {
+    "path": "第一卷/第三十二章 走向基督教物质文化（中文）.md",
+    "bytes": 35987,
+    "sha256": "e094a3251899493477b5579753dbfc895d90449947ea3171f88ef072765a9003"
+  },
+  {
+    "path": "第一卷/第三十二章 走向基督教物质文化（英文）.md",
+    "bytes": 43304,
+    "sha256": "7e93211a9ea4c489c66e18cf4514192d0b4597271737213221632b648cb05ff6"
+  },
+  {
+    "path": "第一卷/第三十章 君士坦丁与“教会的和平”（中文）.md",
+    "bytes": 30848,
+    "sha256": "dd46c086d513b2f65fac645fb8271222127582236d10468aaa0697fdad466282"
+  },
+  {
+    "path": "第一卷/第三十章 君士坦丁与“教会的和平”（英文）.md",
+    "bytes": 41607,
+    "sha256": "04ba407d5a9dacc9fc7dc96e64286c49bdc49dfd3c16e858cda1d5456a011730"
+  },
+  {
+    "path": "第一卷/第三章 罗马帝国（中文）.md",
+    "bytes": 37056,
+    "sha256": "b2c0cea16938fb5dabd0425bdc1ffe542139dcc336e1722e8fa2d92d0bd7d9db"
+  },
+  {
+    "path": "第一卷/第三章 罗马帝国（英文）.md",
+    "bytes": 41244,
+    "sha256": "35dadc63dbc9d748f108991a6df9827f713db533d1f3808f0c6f9d48ad4f0487"
+  },
+  {
+    "path": "第一卷/第九章 马吉安与“正典”（中文）.md",
+    "bytes": 48556,
+    "sha256": "a07cfa7a45839a90f7b45655fe9a291ddab8b3f2ff959522a524d3a9140d5855"
+  },
+  {
+    "path": "第一卷/第九章 马吉安与“正典”（英文）.md",
+    "bytes": 59201,
+    "sha256": "64d1eaba9e4dbed5ecf52fb6551959e611a42ca63b0d5736326821ea1b42c501"
+  },
+  {
+    "path": "第一卷/第二十一章 北非（中文）.md",
+    "bytes": 39407,
+    "sha256": "6a3722cd8fdf2ee3b712f06974028582d942329fec7844b5c570b79b0f8cc147"
+  },
+  {
+    "path": "第一卷/第二十一章 北非（英文）.md",
+    "bytes": 43808,
+    "sha256": "140adac23d424bb995a8cb1ee831afe816076a95b2687a475ee9f2a028139891"
+  },
+  {
+    "path": "第一卷/第二十七章 走向基督教的教养（中文）.md",
+    "bytes": 32320,
+    "sha256": "cdb720afeabb32e390a54d0dbedb85376d31c25f18e0195e81afb164f233ad12"
+  },
+  {
+    "path": "第一卷/第二十七章 走向基督教的教养（英文）.md",
+    "bytes": 45452,
+    "sha256": "78a5f126b266f6c710285c7c33f9d19c1550dbfcf70586442356bedc93a3c860"
+  },
+  {
+    "path": "第一卷/第二十三章 君士坦丁以前的教会制度（中文）.md",
+    "bytes": 43389,
+    "sha256": "e7f5cd8853036adcf33d4629928bfc14f3fcb49b83170c27ac045bde14f6d2b5"
+  },
+  {
+    "path": "第一卷/第二十三章 君士坦丁以前的教会制度（英文）.md",
+    "bytes": 52971,
+    "sha256": "6e5e7addd94cd8d8041f3a2fb234d554c4c5445ec49d935ea427fab33ea4f553"
+  },
+  {
+    "path": "第一卷/第二十九章 公元300年以前的教会与国家（中文）.md",
+    "bytes": 31078,
+    "sha256": "770745529d90986cb13989ed1a3810fac3e7a1238c42c9415495748cb885e6e6"
+  },
+  {
+    "path": "第一卷/第二十九章 公元300年以前的教会与国家（英文）.md",
+    "bytes": 40345,
+    "sha256": "31db551fff1642d36f65a27f3dd7e9382f48eadf7a537caa5b9bfa3bb5304c3b"
+  },
+  {
+    "path": "第一卷/第二十二章 罗马（中文）.md",
+    "bytes": 37688,
+    "sha256": "0f907c3560fa48f59729b7e0ba21e46a2e679015f3eeed76d37db01c9e0b997c"
+  },
+  {
+    "path": "第一卷/第二十二章 罗马（英文）.md",
+    "bytes": 43337,
+    "sha256": "29a08448ea303663930bb4dc1262da4bcabe93160a2b1d6ca028db1a49120717"
+  },
+  {
+    "path": "第一卷/第二十五章 一神论与基督论（中文）.md",
+    "bytes": 40965,
+    "sha256": "970a52ffa0cc01724cdc2e89abd2762273d3da85994fe92fdf8cbd0e6de5774c"
+  },
+  {
+    "path": "第一卷/第二十五章 一神论与基督论（英文）.md",
+    "bytes": 50442,
+    "sha256": "5bc3f95763632f2d31a81b90817fcd0d56769817fcc69c78ffb46302657a1d00"
+  },
+  {
+    "path": "第一卷/第二十八章 迫害：起源与遗产（中文）.md",
+    "bytes": 46515,
+    "sha256": "4eb8e2e765b24356c4b9d6cc579413f5a50b2a14c9a6039cf1c508e4b7f82391"
+  },
+  {
+    "path": "第一卷/第二十八章 迫害：起源与遗产（英文）.md",
+    "bytes": 61995,
+    "sha256": "764a5581f2e71ec14ea355b9883c7a5739d534edca1b2bdd2a7f21f794ba3ffa"
+  },
+  {
+    "path": "第一卷/第二十六章 迫害中形成的教会论（中文）.md",
+    "bytes": 30167,
+    "sha256": "21ad55b61d6aed81f191fd5f7da1a3cd4ed6464476f13076ad2dc585a318c7b7"
+  },
+  {
+    "path": "第一卷/第二十六章 迫害中形成的教会论（英文）.md",
+    "bytes": 37339,
+    "sha256": "02f8c90bfa63131f6acb8f7e7e4ccfd2cbc34c56d87281630161e27771c2e132"
+  },
+  {
+    "path": "第一卷/第二十四章 一神论与创造（中文）.md",
+    "bytes": 38378,
+    "sha256": "1ea090c914d69fef9894ec071f7bff5a5c60e4b9bf4715910a39b886da6745a7"
+  },
+  {
+    "path": "第一卷/第二十四章 一神论与创造（英文）.md",
+    "bytes": 47934,
+    "sha256": "1c5bdee42efbcba2da77c64563431a6b0b7844de19539cea5556f6f1d4b556c8"
+  },
+  {
+    "path": "第一卷/第二十章 高卢（中文）.md",
+    "bytes": 33493,
+    "sha256": "01feeeb03330dcfe6e5fb21ba81b94c40da346cdefb97a50649a1c1f33926603"
+  },
+  {
+    "path": "第一卷/第二十章 高卢（英文）.md",
+    "bytes": 39752,
+    "sha256": "366b5845fe2cf795541bf458e1c5eb80a95e7ce98e29569894d2935f789bcb11"
+  },
+  {
+    "path": "第一卷/第二章 犹太人的散居（中文）.md",
+    "bytes": 45118,
+    "sha256": "29164c461b012caecb7046125bb9e16be57fe03e2576b4b329c825d95ed3f018"
+  },
+  {
+    "path": "第一卷/第二章 犹太人的散居（英文）.md",
+    "bytes": 44679,
+    "sha256": "c37d69ee135fbef19da4024a45e9f49f5c6cd50d84ad691813f1d341485eac98"
+  },
+  {
+    "path": "第一卷/第五章 外邦基督教（中文）.md",
+    "bytes": 57755,
+    "sha256": "06f15abd770e2160d4fc1c9156a94565e6a8816bf5bca1fee754e72c72f93650"
+  },
+  {
+    "path": "第一卷/第五章 外邦基督教（英文）.md",
+    "bytes": 66668,
+    "sha256": "de4eb40e8baee687e6ba1f1f0bd6a00631d0acadd25a9d13ae80a01cb1c520e3"
+  },
+  {
+    "path": "第一卷/第八章 书面记录的形成（中文）.md",
+    "bytes": 45900,
+    "sha256": "8d1b9039709f4d0f58701a11d6e7d57e9881e23d69f573026c153f5cb260eb41"
+  },
+  {
+    "path": "第一卷/第八章 书面记录的形成（英文）.md",
+    "bytes": 51801,
+    "sha256": "307ceefbdc6c0c847d6c2efe94d6e7a8730679154978a5185d33cc0a670077fe"
+  },
+  {
+    "path": "第一卷/第六章 约翰传统的基督教（中文）.md",
+    "bytes": 50574,
+    "sha256": "0d4beb89ca9afc620f031de9f8c7ebb760033a80a58fec5fb86d43770e2f6fdd"
+  },
+  {
+    "path": "第一卷/第六章 约翰传统的基督教（英文）.md",
+    "bytes": 57983,
+    "sha256": "75eae7478b3626617ee8c54509ed769495998f8d9ef36929ff54858725eaa631"
+  },
+  {
+    "path": "第一卷/第十一章 面对希腊—罗马世界的自我界定（中文）.md",
+    "bytes": 35162,
+    "sha256": "cd014ba586064e2522e9d0674fab73b45fe5e440a35046d46b16f334403f40e4"
+  },
+  {
+    "path": "第一卷/第十一章 面对希腊—罗马世界的自我界定（英文）.md",
+    "bytes": 43551,
+    "sha256": "c5b649f2e0a202a15e611953e3fa3a6bcd6e6f671aa9b008585070981266552e"
+  },
+  {
+    "path": "第一卷/第十七章 小亚细亚与亚该亚（中文）.md",
+    "bytes": 38687,
+    "sha256": "6a315c4e04ca322a2c3af64de27136686add7ae7e0932cc1ee17e8fddcb5c9d0"
+  },
+  {
+    "path": "第一卷/第十七章 小亚细亚与亚该亚（英文）.md",
+    "bytes": 44879,
+    "sha256": "2817eaf9e4b6e4ad053a27b0a6c4ef0c0f569b661d4e97557b03473bbbeab999"
+  },
+  {
+    "path": "第一卷/第十三章 真理与传统：爱任纽（中文）.md",
+    "bytes": 27255,
+    "sha256": "e8d09da5f182222e171051b62eb406e984a87009acaee16a9e04d574f103fdc1"
+  },
+  {
+    "path": "第一卷/第十三章 真理与传统：爱任纽（英文）.md",
+    "bytes": 37852,
+    "sha256": "08dcf20b147075d7bc47d44046f25d10f68ed0ba3f1f204837c0f4f64b100e6b"
+  },
+  {
+    "path": "第一卷/第十九章 叙利亚与美索不达米亚（中文）.md",
+    "bytes": 36481,
+    "sha256": "4f81b9ec6fae38a0d3a690eefd5feead27f6d851961089379a3a7598c5be1fc5"
+  },
+  {
+    "path": "第一卷/第十九章 叙利亚与美索不达米亚（英文）.md",
+    "bytes": 41723,
+    "sha256": "a32547de932716d438690b9f73313a9a4d26f1c8056ae358b6c3862e1b7de9fe"
+  },
+  {
+    "path": "第一卷/第十二章 基督徒群体间的自我区分：诺斯替派及其反对者（中文）.md",
+    "bytes": 38668,
+    "sha256": "89f27510248f354c018a2df00dff4ea347c7b0e2719664778b9e97407a050fe2"
+  },
+  {
+    "path": "第一卷/第十二章 基督徒群体间的自我区分：诺斯替派及其反对者（英文）.md",
+    "bytes": 47314,
+    "sha256": "6b5a514dd426b925bf30cf51814536f301ed4851c540ea405caf635b4bf36c51"
+  },
+  {
+    "path": "第一卷/第十五章 从耶路撒冷直到地极（中文）.md",
+    "bytes": 15788,
+    "sha256": "08dc4e546f19ef126a94f2fe848b9896c1f93a0f1a8749dd5ae57f8435ba29eb"
+  },
+  {
+    "path": "第一卷/第十五章 从耶路撒冷直到地极（英文）.md",
+    "bytes": 20247,
+    "sha256": "0dfc44c299649ee7e75a527850981be326030ff17e9d5a04fa46351377743f43"
+  },
+  {
+    "path": "第一卷/第十八章 埃及（中文）.md",
+    "bytes": 55030,
+    "sha256": "123adf46392cf390604180f9d906d28e148b17bbc4af0cab0f1f9a80696035a1"
+  },
+  {
+    "path": "第一卷/第十八章 埃及（英文）.md",
+    "bytes": 58996,
+    "sha256": "64b56676961c0bc4cb8f48bdf4ba5dfa04f7abb988e346dc4737a3c7593a16a9"
+  },
+  {
+    "path": "第一卷/第十六章 概览：基督教的地理扩展（中文）.md",
+    "bytes": 23319,
+    "sha256": "782b80593abbc2f6a336fccbb6d48587e03069011e6e240dccd5c73757317d58"
+  },
+  {
+    "path": "第一卷/第十六章 概览：基督教的地理扩展（英文）.md",
+    "bytes": 32507,
+    "sha256": "598c2cc1d27296f53ab27858a5fac5f11989e3a25f8f75c6b8213cd8412b09b2"
+  },
+  {
+    "path": "第一卷/第十四章 发展中的教会如何通过实践界定自身（中文）.md",
+    "bytes": 37926,
+    "sha256": "db357eadb660cd87b12d72ba58b0f797b07b9e7750328d5ae1969e387ab6fa1d"
+  },
+  {
+    "path": "第一卷/第十四章 发展中的教会如何通过实践界定自身（英文）.md",
+    "bytes": 53230,
+    "sha256": "26aa2a14bbdc40c02777a5ec4b37840619e874da0edfb0c51b58ce4b62c03369"
+  },
+  {
+    "path": "第一卷/第十章 面对犹太母体的自我界定（中文）.md",
+    "bytes": 38588,
+    "sha256": "5f70eff53d185d3609e99cecd31fea851690e6f90389b567fb9e4273e3e61805"
+  },
+  {
+    "path": "第一卷/第十章 面对犹太母体的自我界定（英文）.md",
+    "bytes": 45779,
+    "sha256": "68993ef7aa5194423449d24334b437e7d9ff85e0340c200165b20583f3be6790"
+  },
+  {
+    "path": "第一卷/第四章 犹太基督教（中文）.md",
+    "bytes": 41158,
+    "sha256": "d9bf9ecafe16cc9435388c7c3480cc2bdabcf85029b3560fe8f82a002df17677"
+  },
+  {
+    "path": "第一卷/第四章 犹太基督教（英文）.md",
+    "bytes": 48189,
+    "sha256": "6fcca08ff2ed458ec905dbe405e18f0e4086f13d4b2b0a2e91fe9d6c68f08817"
+  },
+  {
+    "path": "第一卷/索引（中文）.md",
+    "bytes": 224805,
+    "sha256": "e714751b0dc859a13d314a99156562ac5713bf045c9925834826c16689d3fc90"
+  },
+  {
+    "path": "第一卷/索引（英文，单栏）.md",
+    "bytes": 201005,
+    "sha256": "b0dc71d3ac44b96e8e143da32521650d4cf1c498c4d0610e33f97009571753cd"
+  },
+  {
+    "path": "第一卷/结语（中文）.md",
+    "bytes": 7943,
+    "sha256": "8031cdf040967166c16c798a9bb71382725e59ee012b2bfd70a3d85707f2f8b6"
+  },
+  {
+    "path": "第一卷/结语（英文）.md",
+    "bytes": 8930,
+    "sha256": "ce06feaa505e47e69c658d90e16d9d2f11cbb7b755877001bf4c9e8bb0176a8d"
+  },
+  {
+    "path": "第一卷/缩写表与卷首地图（中文）.md",
+    "bytes": 43499,
+    "sha256": "160ac88667b4908a5d77fabbd1c29a2d81141b213e9bef0d6f386daf6bc7d62e"
+  },
+  {
+    "path": "第一卷/缩写表与卷首地图（英文）.md",
+    "bytes": 44392,
+    "sha256": "808471922352120552c94ef3e4a63be94fc1b2ae67d2fed860b298ae7b7fd952"
+  },
+  {
+    "path": "第一卷/翻译规范.md",
+    "bytes": 4920,
+    "sha256": "1d434a8af5db7f72082ec1c6394d6eacbe7ec72e952e3b5f3698cf7def4170e7"
+  },
+  {
+    "path": "第一卷/致谢（中文）.md",
+    "bytes": 560,
+    "sha256": "9e602bef86a4bccf31b4c6ddc7302cf41befbd85ef033e81812a8620887d8188"
+  },
+  {
+    "path": "第七卷/07 启蒙、复兴与革命（中文全译）.md",
+    "bytes": 1604090,
+    "sha256": "718258dcc61e6903da36ad90318581a652c623b98bb1eafb3eb825fa2da1c3c9"
+  },
+  {
+    "path": "第七卷/07 启蒙、复兴与革命（英文全文）.md",
+    "bytes": 1921832,
+    "sha256": "212ae49083e4df89d5b189c8af7bfa00ccd71affb80333b5b23608573fac77a2"
+  },
+  {
+    "path": "第七卷/assets/figure-01.png",
+    "bytes": 653021,
+    "sha256": "b5e3dc26d66be545fa0f10137fdd8c628d6bddb285dee8d3ea8763fc3d06fb60"
+  },
+  {
+    "path": "第七卷/assets/figure-02.png",
+    "bytes": 636123,
+    "sha256": "be4eff725d8202fd9eac109e776e0f100a86cdda1b7694dc46e8ae7d70df84c4"
+  },
+  {
+    "path": "第七卷/assets/figure-03.png",
+    "bytes": 582359,
+    "sha256": "1d6a6077a4b4eb8706d76c398d8cd880909aaf326cfa5640ddff87926b239067"
+  },
+  {
+    "path": "第七卷/assets/figure-04.png",
+    "bytes": 669282,
+    "sha256": "ede1b9de1a81eb194b5c6b01ea962a28b564a93665eb9257d868aa7d62e19701"
+  },
+  {
+    "path": "第七卷/assets/figure-05.png",
+    "bytes": 1017263,
+    "sha256": "9d03d131a069d9eb59098ec67a24ad81b5641e40795f76096e9d647e3d6e5941"
+  },
+  {
+    "path": "第七卷/assets/figure-06.png",
+    "bytes": 418748,
+    "sha256": "556eb61fcbd9444e6c976aa4dfce225bf6bf003fa564a82287b0155c63397e92"
+  },
+  {
+    "path": "第七卷/assets/figure-07.png",
+    "bytes": 432704,
+    "sha256": "a86505383a2e28ed356f2801d2716408c6ed714a9218d0a9f000d3386ccd54f8"
+  },
+  {
+    "path": "第七卷/assets/figure-08.png",
+    "bytes": 837302,
+    "sha256": "47b043f396c6fff463a93aad59fad82b6f1605cbc0618fe27b567cc24e1e385d"
+  },
+  {
+    "path": "第七卷/assets/figure-09.png",
+    "bytes": 570277,
+    "sha256": "067d525c7245d84a2c483fb9f4d96c74967e629cecebfd37ea10e1aa394daaea"
+  },
+  {
+    "path": "第七卷/assets/map-01.png",
+    "bytes": 224836,
+    "sha256": "ffd120ea2752acf426261ea8e46ebd4b632ab0156922d6f22c860d4d4c1950ad"
+  },
+  {
+    "path": "第七卷/assets/map-02.png",
+    "bytes": 214273,
+    "sha256": "6208fb4456ee0c6c2645fbe276560e2156258a5b3ae944d265f05ead87792f40"
+  },
+  {
+    "path": "第七卷/assets/map-03.png",
+    "bytes": 101814,
+    "sha256": "4cbdadafef276576fc5aa1819f0d0950d6443f810357ecce2d7cd5e5b3cfb8a8"
+  },
+  {
+    "path": "第七卷/assets/map-04.png",
+    "bytes": 160194,
+    "sha256": "8bf15e1ef8e7ec9d61b0e088cb1efdda3aadcf26ac2aea1b20a9218e89c7286c"
+  },
+  {
+    "path": "第七卷/assets/pdf-001.png",
+    "bytes": 925182,
+    "sha256": "64fc80fdf8f96ca8cbc933049aba0120583a467eaa0f2d2f93188e209623a8f1"
+  },
+  {
+    "path": "第七卷/assets/pdf-004.png",
+    "bytes": 65254,
+    "sha256": "fd74723e29f3d1c89d9fd167b240bf74bfc02cac0e7fd7f310726322d8beb155"
+  },
+  {
+    "path": "第七卷/assets/pdf-017.png",
+    "bytes": 370264,
+    "sha256": "e02211710672260e01ec16a445411cc8c49f670a445b7e04d83d3634ce723275"
+  },
+  {
+    "path": "第七卷/assets/pdf-049.png",
+    "bytes": 251412,
+    "sha256": "0564d6e7adb6ff51688803caf6d4e18611b101dab8987e8140c48adfd0dcdcf1"
+  },
+  {
+    "path": "第七卷/assets/pdf-244.png",
+    "bytes": 725181,
+    "sha256": "d5835391ff9d743488edd22bcdb157b446a37620f0df6153f244a5d62fd2ff4f"
+  },
+  {
+    "path": "第七卷/assets/pdf-246.png",
+    "bytes": 767604,
+    "sha256": "396e32782b146ec7815839255a79541d9e2e063ef310f518823253f5e4db915f"
+  },
+  {
+    "path": "第七卷/assets/pdf-248.png",
+    "bytes": 660528,
+    "sha256": "8ebcf15aa18fbc8eecb993c7ae6e6f2982107b2fa2bbdd9c769f4ec7236d6381"
+  },
+  {
+    "path": "第七卷/assets/pdf-249.png",
+    "bytes": 751869,
+    "sha256": "78eb3dbbc6351e7ff7174b06b1553fee4fb2ba4784d0029e49af1b990fac95cb"
+  },
+  {
+    "path": "第七卷/assets/pdf-252.png",
+    "bytes": 1136140,
+    "sha256": "a284de23f9f3bb9f5f10415ca07c7be10914353cd58e4c1706a15880a6903ea1"
+  },
+  {
+    "path": "第七卷/assets/pdf-403.png",
+    "bytes": 682150,
+    "sha256": "1397e455e04dee015e32dcd78fb1ee550f6935336b27c14a04248961017ecd41"
+  },
+  {
+    "path": "第七卷/assets/pdf-428.png",
+    "bytes": 506425,
+    "sha256": "04d885261af7a709477bb565521403cd6aa6edff92d3114187bbc6e2a256314d"
+  },
+  {
+    "path": "第七卷/assets/pdf-449.png",
+    "bytes": 222232,
+    "sha256": "8161e33e983f7ac80a57ef077ec0558f4e3954833085244af9f27fb25a9f2f70"
+  },
+  {
+    "path": "第七卷/assets/pdf-453.png",
+    "bytes": 951102,
+    "sha256": "f67696741b42b3fdb300889fb34739f13433a4bbf4fefe6cbdb6a66b8068de8e"
+  },
+  {
+    "path": "第七卷/assets/pdf-475.png",
+    "bytes": 186285,
+    "sha256": "7e321e5f70ae491a04a25843cfd70577a1e821aa6eb91ad431ecb2d389ad1fa8"
+  },
+  {
+    "path": "第七卷/assets/pdf-484.png",
+    "bytes": 696183,
+    "sha256": "828d0a99d23f00c8ae0de1c68f6b267aa51f0a92e20aca002ed69871149d8619"
+  },
+  {
+    "path": "第七卷/assets/pdf-611.png",
+    "bytes": 151532,
+    "sha256": "6442b715e9c36bae654a92abd9c65ed5401058d04c1647bd1e7dfee437860b56"
+  },
+  {
+    "path": "第七卷/assets/pdf-612.png",
+    "bytes": 166241,
+    "sha256": "54b8921420733ed9cbb1b06adb7ca7538460291978b0ae44ff36c8915712327a"
+  },
+  {
+    "path": "第七卷/assets/pdf-613.png",
+    "bytes": 149720,
+    "sha256": "bd1095863010d105247090fbf5e6aec4310345066f3c16165db40bc36495f074"
+  },
+  {
+    "path": "第七卷/assets/pdf-614.png",
+    "bytes": 135209,
+    "sha256": "480409b3bedcd8e1d1310115e3c2a1ee3de70407236c458160e2bc3e5da2c047"
+  },
+  {
+    "path": "第七卷/assets/pdf-615.png",
+    "bytes": 163175,
+    "sha256": "4194e7eaa05399ccdc2771fcb8a25cc827a2a5d7e3988c163b63c8f2705c2d61"
+  },
+  {
+    "path": "第七卷/assets/pdf-616.png",
+    "bytes": 191142,
+    "sha256": "432f87c26103c7c64e3ce543c3d07d00797abfeb732f99a62083a7d511a3e0aa"
+  },
+  {
+    "path": "第七卷/assets/pdf-617.png",
+    "bytes": 159428,
+    "sha256": "035bfda23062bec4dd9f68089cdba0534fddbe2bcd5fbf3820e863632c736d66"
+  },
+  {
+    "path": "第七卷/卷首资料（中文）.md",
+    "bytes": 18680,
+    "sha256": "717c5d21aa86d18a3265b1be072861943f115cf7fad4a88838192d2a7354a8cb"
+  },
+  {
+    "path": "第七卷/卷首资料（英文）.md",
+    "bytes": 19329,
+    "sha256": "956b6ce4adeb407791bfb99ffa6b4a8e4f44f6c02347bfeb0d2fb59e6f857314"
+  },
+  {
+    "path": "第七卷/参考书目（中文）.md",
+    "bytes": 152526,
+    "sha256": "020770adfe209df75e1d64be6679362547b4199530bd9076d968bded77ebf32e"
+  },
+  {
+    "path": "第七卷/参考书目（英文）.md",
+    "bytes": 156076,
+    "sha256": "c4f5f579f9bab591049fc98d9ed74c481c600fc2823d4b97893b9cca0f8cd25e"
+  },
+  {
+    "path": "第七卷/大事年表（中文）.md",
+    "bytes": 9331,
+    "sha256": "16296dcf30345d29db9a82572d18f2ce903d7a52a9dc7f50e629ab03bf1f8e84"
+  },
+  {
+    "path": "第七卷/大事年表（英文）.md",
+    "bytes": 8508,
+    "sha256": "e6e2d7ad7fc05aa9e67bf79a95178ccd444dd2d60743bef0604848f043f63fd5"
+  },
+  {
+    "path": "第七卷/导论（中文）.md",
+    "bytes": 23208,
+    "sha256": "7036095fa3a6a4ba9597e3c099af2de540a4d5e9acaebdfaf719aafa3ef45fce"
+  },
+  {
+    "path": "第七卷/导论（英文）.md",
+    "bytes": 27235,
+    "sha256": "5da7c39622b26228f4be110fde3700a1f255e12ef4361931ee225f48d55752b1"
+  },
+  {
+    "path": "第七卷/第01章 欧洲大陆的天主教（中文）.md",
+    "bytes": 47349,
+    "sha256": "984c732d0f6be9fbd51e8ceefe216a34d20ccfd1cd52594d835deddbd09f2d05"
+  },
+  {
+    "path": "第七卷/第01章 欧洲大陆的天主教（英文）.md",
+    "bytes": 51348,
+    "sha256": "4c3bfc3fc83b4006615ce76f47cd8234321bd562825e9c60eff6f159e4db8a53"
+  },
+  {
+    "path": "第七卷/第02章 欧洲大陆的新教（中文）.md",
+    "bytes": 47277,
+    "sha256": "e7d7e2dfa5c4d8462117e4a600513e82d3bc34c96c32d5965255756c6b0ba703"
+  },
+  {
+    "path": "第七卷/第02章 欧洲大陆的新教（英文）.md",
+    "bytes": 57697,
+    "sha256": "f56640832493425ba8164d88d09103997d592364b82f11c91ee49c917470a10d"
+  },
+  {
+    "path": "第七卷/第03章 大不列颠与爱尔兰（中文）.md",
+    "bytes": 46586,
+    "sha256": "3b3d622d628e65bacb14886a547aeae7857191c661a73629b6911076dc6352cd"
+  },
+  {
+    "path": "第七卷/第03章 大不列颠与爱尔兰（英文）.md",
+    "bytes": 53496,
+    "sha256": "d8191eb9cab9c55fd0d91be00286aa67e416e80fe5f3f8e94696759b859b0728"
+  },
+  {
+    "path": "第七卷/第04章 经济与社会中的教会（中文）.md",
+    "bytes": 32955,
+    "sha256": "d3b35f802188e5bb9f3ebffa29358d682f537de35468c6ebc0c0b532b2388cab"
+  },
+  {
+    "path": "第七卷/第04章 经济与社会中的教会（英文）.md",
+    "bytes": 41615,
+    "sha256": "23102d59c934f90edaeceacf3fd4710b02fc56f38c76cf68168232ef9d997d8f"
+  },
+  {
+    "path": "第七卷/第05章 欧洲的天主教教士（中文）.md",
+    "bytes": 39848,
+    "sha256": "d5ee163ab7ed69873ac043cb0a9a7963f1591f5433aafcb5252d9bf746f0f21b"
+  },
+  {
+    "path": "第七卷/第05章 欧洲的天主教教士（英文）.md",
+    "bytes": 55136,
+    "sha256": "a80db872e48ca7dfa016312717ccc0c0a6ae7c3a721311e29aa46f2079d3c4f6"
+  },
+  {
+    "path": "第七卷/第06章 欧洲世界的新教教士群体（中文）.md",
+    "bytes": 38891,
+    "sha256": "55d5f042130c9db993190517da830b237f64595f96079bc06f45242a47582b6a"
+  },
+  {
+    "path": "第七卷/第06章 欧洲世界的新教教士群体（英文）.md",
+    "bytes": 54487,
+    "sha256": "5de4034d860d550ebebf1c372636998bce43a19d0b44ec349f1d354d69555731"
+  },
+  {
+    "path": "第七卷/第07章 面向听众：欧洲的讲道与演说（中文）.md",
+    "bytes": 40565,
+    "sha256": "7394a5feb4d4f253450ede4e9b51da720fa534b0a7c18c4940398dbe27fb3847"
+  },
+  {
+    "path": "第七卷/第07章 面向听众：欧洲的讲道与演说（英文）.md",
+    "bytes": 54115,
+    "sha256": "6f2288265da1d48d642e1dc4e081925d17a89e5440942d2f02a74721142ed3bc"
+  },
+  {
+    "path": "第七卷/第08章 基督教教育（中文）.md",
+    "bytes": 36903,
+    "sha256": "0dee699381e895afd7103f57fb648e73bb3b4301a0ef12fe4abbb5aed55c445c"
+  },
+  {
+    "path": "第七卷/第08章 基督教教育（英文）.md",
+    "bytes": 56300,
+    "sha256": "b4bbeb61f6bcac761f0731165ef1f48efce238cbae99935807b9389f3acc37af"
+  },
+  {
+    "path": "第七卷/第09章 基督教与性别（中文）.md",
+    "bytes": 38986,
+    "sha256": "fb3797596802c0e558e3370ad16f700de6f75acf9091413d1e2eefd034aa6719"
+  },
+  {
+    "path": "第七卷/第09章 基督教与性别（英文）.md",
+    "bytes": 54136,
+    "sha256": "737cb02eab7886aeb5df69ef2c679e7e6aafce448d99d4a7d0c20db3e15aeb5a"
+  },
+  {
+    "path": "第七卷/第10章 民众宗教（中文）.md",
+    "bytes": 50661,
+    "sha256": "eb27cf4e4f78cfec2f90e21cf26cd3f7dfef69b7656b9c5f920b67fcfbd0fab2"
+  },
+  {
+    "path": "第七卷/第10章 民众宗教（英文）.md",
+    "bytes": 68762,
+    "sha256": "7ee638b2acf0f3a2bbc16bacbe4ec4b026c27a468a7f0262f1093a1a73c869db"
+  },
+  {
+    "path": "第七卷/第11章 犹太教与基督教的关系（中文）.md",
+    "bytes": 37755,
+    "sha256": "0580e123fa07e791259848f8e6ac79a837a172c3d4771eabd8057fe3162bb02e"
+  },
+  {
+    "path": "第七卷/第11章 犹太教与基督教的关系（英文）.md",
+    "bytes": 49786,
+    "sha256": "efef5a59edb16e148b3c3f2f1e11171216d83f734052568f752f875ed6580416"
+  },
+  {
+    "path": "第七卷/第12章 建筑与基督教（中文）.md",
+    "bytes": 35838,
+    "sha256": "1a993d5ce6adac02c5af2365325167bb188a1bfdf603547ba4aa26bed1aea5ee"
+  },
+  {
+    "path": "第七卷/第12章 建筑与基督教（英文）.md",
+    "bytes": 50865,
+    "sha256": "f2aa013e081b3e36402975438a33f133e433c1dd3628b39a02142bc381b5b0e4"
+  },
+  {
+    "path": "第七卷/第13章 基督教与科学的兴起：1660—1815（中文）.md",
+    "bytes": 36399,
+    "sha256": "165663f38cb171e5f732de10e68614c87a15bd3efcc24f53114db3ebb75c7350"
+  },
+  {
+    "path": "第七卷/第13章 基督教与科学的兴起：1660—1815（英文）.md",
+    "bytes": 42546,
+    "sha256": "ad0f9522dd0a7215f104179ea8d330099914e8a9f788ef984d8f9e8b4fa6a170"
+  },
+  {
+    "path": "第七卷/第14章 启蒙运动对基督教的批判（中文）.md",
+    "bytes": 43975,
+    "sha256": "2317ee07049ed210e946a4f91de1332fb7d9dc8b709cf67e73b0a1719fd521d1"
+  },
+  {
+    "path": "第七卷/第14章 启蒙运动对基督教的批判（英文）.md",
+    "bytes": 52782,
+    "sha256": "8df4230d429c0379d72def14b9a917cebf4b5153693ff8403f0ed10041c95a20"
+  },
+  {
+    "path": "第七卷/第15章 基督教启蒙运动（中文）.md",
+    "bytes": 42655,
+    "sha256": "df811e115e34b8c096be3af5268813cf5b1899ab214236df7e2341f405e5aac5"
+  },
+  {
+    "path": "第七卷/第15章 基督教启蒙运动（英文）.md",
+    "bytes": 53249,
+    "sha256": "8ec423536cf312fc46cc9a252ed1c0fc18d2415f625dd6b26131c853d1ecf3ea"
+  },
+  {
+    "path": "第七卷/第16章 詹森主义与耶稣会在各国遭到取缔（中文）.md",
+    "bytes": 65047,
+    "sha256": "80d901485b9dc04a2d6fbb0b22edc8d690b150f250dfb5c90685c5700eb840c7"
+  },
+  {
+    "path": "第七卷/第16章 詹森主义与耶稣会在各国遭到取缔（英文）.md",
+    "bytes": 80031,
+    "sha256": "0fd174b50e132315935965431e8ca5924ccf75cb941b4754a77dace1f5156fc5"
+  },
+  {
+    "path": "第七卷/第17章 北大西洋世界的福音复兴（中文）.md",
+    "bytes": 44816,
+    "sha256": "4526fefdf6d3a534a85b9b2c1b57f28355fe0aae91d8bf9902561b281a0276d8"
+  },
+  {
+    "path": "第七卷/第17章 北大西洋世界的福音复兴（英文）.md",
+    "bytes": 55385,
+    "sha256": "158db0db9d7ffe698866c6fc734aa62b04df410c32b2ff981d3b08325c6bfeea"
+  },
+  {
+    "path": "第七卷/第18章 宗教宽容与基督徒再合一运动：1660—1789（中文）.md",
+    "bytes": 51459,
+    "sha256": "f452bf0c2034fe7cc663aa2c1f9ac4d181407c796b5b7278a0131c9967fdcb84"
+  },
+  {
+    "path": "第七卷/第18章 宗教宽容与基督徒再合一运动：1660—1789（英文）.md",
+    "bytes": 67537,
+    "sha256": "a4575ced2d3ad5dc01c17f199dde2cbfd770bcc9f8271772dcc62bd2e66df4f5"
+  },
+  {
+    "path": "第七卷/第19章 伊比利亚美洲的基督教（中文）.md",
+    "bytes": 39062,
+    "sha256": "3f99af0bbab4d225d992a61cce35005d50ff026bbf39f05e01f6b8b8d7fa5da9"
+  },
+  {
+    "path": "第七卷/第19章 伊比利亚美洲的基督教（英文）.md",
+    "bytes": 52142,
+    "sha256": "ad5aef2274ce57303fe169558c990d2e5c6135adbab1368628f830e5fb536b43"
+  },
+  {
+    "path": "第七卷/第20章 1765年以前的英属、法属北美（中文）.md",
+    "bytes": 45550,
+    "sha256": "ca7895dc530acc197bf8c809ecb50734f2c94479de5637e81003f54830855735"
+  },
+  {
+    "path": "第七卷/第20章 1765年以前的英属、法属北美（英文）.md",
+    "bytes": 54754,
+    "sha256": "b398495d5f100c55112f48383557fd4d1b73724d15a3dd9a7b24edd63a84684e"
+  },
+  {
+    "path": "第七卷/第21章 非洲的基督教（中文）.md",
+    "bytes": 53021,
+    "sha256": "d9448bf3fd894549e8cf6783dfb0dbaa591b1a8147f651e67755872f1ed35760"
+  },
+  {
+    "path": "第七卷/第21章 非洲的基督教（英文）.md",
+    "bytes": 60663,
+    "sha256": "b28fa705c5de28676307f8b82bd8cea43e14d7292252508d874852a586d7bc28"
+  },
+  {
+    "path": "第七卷/第22章 南亚与东南亚的基督教（中文）.md",
+    "bytes": 41144,
+    "sha256": "3c9d42318e10385efd9f742c09c308d2a0a7d48289aed86c4edcb23138990551"
+  },
+  {
+    "path": "第七卷/第22章 南亚与东南亚的基督教（英文）.md",
+    "bytes": 46365,
+    "sha256": "f1e6939129bbb3151b3ecc48ee4690e9e45f624778f057a76a3e7c78b5ed7b1d"
+  },
+  {
+    "path": "第七卷/第23章 东亚的基督教（中文）.md",
+    "bytes": 49605,
+    "sha256": "14d3f8fb19297ffdd75f1e55add6236ccc87bbcfa4aa15f4b3c850e34bfb7c5c"
+  },
+  {
+    "path": "第七卷/第23章 东亚的基督教（英文）.md",
+    "bytes": 61773,
+    "sha256": "21c217fc534111e9e6a22500772961e5957dd1792924114de1974ff61057d0b2"
+  },
+  {
+    "path": "第七卷/第24章 基督教与其他世界宗教的相遇（中文）.md",
+    "bytes": 47423,
+    "sha256": "526e998eccf7c84761fea91e40c7b3b7e36b870b721084e8c6a6230dae9f7a8e"
+  },
+  {
+    "path": "第七卷/第24章 基督教与其他世界宗教的相遇（英文）.md",
+    "bytes": 56736,
+    "sha256": "a5b3444b21e9f97deb93882f53c187ea96a756481c7a0566d50f73a4b5f25866"
+  },
+  {
+    "path": "第七卷/第25章 美国革命与宗教：1765—1815（中文）.md",
+    "bytes": 47324,
+    "sha256": "f5c5afcedeb70d17f775989cd31b526fc37dce13d845f5b7846ea4463db83daa"
+  },
+  {
+    "path": "第七卷/第25章 美国革命与宗教：1765—1815（英文）.md",
+    "bytes": 54763,
+    "sha256": "9929bb0381c197f779c3b6cc493fb45430e5255d23149bebfdf93d2d75c323df"
+  },
+  {
+    "path": "第七卷/第26章 基督教与反对奴隶制、奴隶贸易的运动（中文）.md",
+    "bytes": 45359,
+    "sha256": "0b0f62c0a65a13c4273e9776d10e0332abeadc91872ae0a8d55fc34193e2394e"
+  },
+  {
+    "path": "第七卷/第26章 基督教与反对奴隶制、奴隶贸易的运动（英文）.md",
+    "bytes": 55852,
+    "sha256": "a4504f7adfdd92bb3f949da62d881adbad77f2bbf249f95996e4842041833639"
+  },
+  {
+    "path": "第七卷/第27章 1794年以前的法国革命与宗教（中文）.md",
+    "bytes": 42547,
+    "sha256": "50a71e3e61bb10f38788b03ea14974ca7adfe034a15fc4f22ed026b732a2dd6f"
+  },
+  {
+    "path": "第七卷/第27章 1794年以前的法国革命与宗教（英文）.md",
+    "bytes": 57592,
+    "sha256": "79d9dd6a0af6687788a9029202c9f0db446897196a0fcbb4572091fbca894319"
+  },
+  {
+    "path": "第七卷/第28章 法国革命与宗教：1795—1815（中文）.md",
+    "bytes": 44305,
+    "sha256": "63d9906737093fdaacb4d11832f2910c7b35635b0e25b1e13dbc6890680827ac"
+  },
+  {
+    "path": "第七卷/第28章 法国革命与宗教：1795—1815（英文）.md",
+    "bytes": 55379,
+    "sha256": "d8e86dd51399c8dbf90f448a8070778fa11dcc5f4109014b15be9c988bd69512"
+  },
+  {
+    "path": "第七卷/第29章 革命时代欧洲的基督教复兴运动：1790—1815（中文）.md",
+    "bytes": 48108,
+    "sha256": "1433516310300adbdcb5b463e971b568d31a05b92447f0f5daded55580fc4dcc"
+  },
+  {
+    "path": "第七卷/第29章 革命时代欧洲的基督教复兴运动：1790—1815（英文）.md",
+    "bytes": 60107,
+    "sha256": "ebf71f4d1d345185539eec32bae68be354f6255961ca92ebbf5d1723b84cd772"
+  },
+  {
+    "path": "第七卷/第一编 欧洲世界的教会、国家与社会：1660—1780（中文）.md",
+    "bytes": 232,
+    "sha256": "272f97a0ada3a89c4412c4f677c0d7313a639f1ab86bee228ca94bcf5fe850f9"
+  },
+  {
+    "path": "第七卷/第一编 欧洲世界的教会、国家与社会：1660—1780（英文）.md",
+    "bytes": 353,
+    "sha256": "f7e890034e6514c2c75125286888ecae4a088bd5dcdfa5c128f3fe5c0c3460a5"
+  },
+  {
+    "path": "第七卷/第三编 运动与挑战（中文）.md",
+    "bytes": 198,
+    "sha256": "06767b3ebc8bb42612f72f06c7e5617780af2c6d4525e01a923b90621176bf57"
+  },
+  {
+    "path": "第七卷/第三编 运动与挑战（英文）.md",
+    "bytes": 260,
+    "sha256": "00409ade44b9f23b7addc65565784d59f103ec1ddb1cb06250843a0fce2563de"
+  },
+  {
+    "path": "第七卷/第二编 欧洲世界的基督徒生活：1660—1780（中文）.md",
+    "bytes": 225,
+    "sha256": "cae40d25dcc1566f4f5cee92ed41cf5fc801d516e63093ab88ce7b9d3ccdca57"
+  },
+  {
+    "path": "第七卷/第二编 欧洲世界的基督徒生活：1660—1780（英文）.md",
+    "bytes": 327,
+    "sha256": "b13cab36705ff6dabd32853d149eb0824acb54be8a6128868a30d1b1e2d1cec2"
+  },
+  {
+    "path": "第七卷/第五编 革命与基督教世界（中文）.md",
+    "bytes": 207,
+    "sha256": "2003494d360b51d8a9de5277748b6f809ed401936577cb648400533ac30f5d81"
+  },
+  {
+    "path": "第七卷/第五编 革命与基督教世界（英文）.md",
+    "bytes": 279,
+    "sha256": "8e71ca3b23d44dacbf90030559285aa7b5b72869382e554cb57536b392023fe3"
+  },
+  {
+    "path": "第七卷/第四编 非欧洲世界的基督教发展（中文）.md",
+    "bytes": 216,
+    "sha256": "35a795814c21c52ac052752a40f301499f46e42a938f47de407663bf2289252d"
+  },
+  {
+    "path": "第七卷/第四编 非欧洲世界的基督教发展（英文）.md",
+    "bytes": 321,
+    "sha256": "1489f6aff77a06713cd2f8473d1d94868e8f90e017d317ef78b93d94d5da30b2"
+  },
+  {
+    "path": "第七卷/索引（中文）.md",
+    "bytes": 113853,
+    "sha256": "9d34be3e6fff97eae3cd8b8c557c5d55ee029713ecfaed5735b955f0b9f03eeb"
+  },
+  {
+    "path": "第七卷/索引（英文）.md",
+    "bytes": 87736,
+    "sha256": "9398df01d8a750370903c14947559d2eddda19a090ea610a0979f71b3b7ed991"
+  },
+  {
+    "path": "第七卷/翻译规范.md",
+    "bytes": 2494,
+    "sha256": "ec3dccdc09ddd0e374e162c39883aa89a782169f63055108d485e058e88c1c3c"
+  },
+  {
+    "path": "第七卷/致谢（中文）.md",
+    "bytes": 894,
+    "sha256": "15991d9d2233dbab0102f28fbd09cbb7778ba609c39442e2a5440c28ef35b203"
+  },
+  {
+    "path": "第七卷/致谢（英文）.md",
+    "bytes": 1150,
+    "sha256": "05414679647464fc664478c878b3e8c5d5cc9df57d8cae15c65d408589cc19e9"
+  },
+  {
+    "path": "第三卷/03 中世纪早期基督教（中文全译）.md",
+    "bytes": 2208233,
+    "sha256": "3edd773a6cd932ebc5d7a8bc3afeec2370f9c54558bb6320b79775cfab45e917"
+  },
+  {
+    "path": "第三卷/03 中世纪早期基督教（英文全文）.md",
+    "bytes": 2495622,
+    "sha256": "d30a5772fbc7c6b10bb8922d98f9b52b3247a0167c4cea864d49f0b47eec1f73"
+  },
+  {
+    "path": "第三卷/assets/pdf-001.png",
+    "bytes": 589705,
+    "sha256": "d0139eb4f81a4aa8ae8459ca62a06d073bb321e48bc27a7f837ce9c0b74801e5"
+  },
+  {
+    "path": "第三卷/assets/pdf-006.png",
+    "bytes": 76211,
+    "sha256": "9bfb0a94ea7cdda7457502fc1307dc0f2e367cd3e5e97c5b86e4f6f703e7a0aa"
+  },
+  {
+    "path": "第三卷/assets/pdf-024.png",
+    "bytes": 325620,
+    "sha256": "e6ea424e8230fb3cea19291ee46d6011e131e5eb039cbaa4fb828a68f4b56dc1"
+  },
+  {
+    "path": "第三卷/assets/pdf-025.png",
+    "bytes": 689733,
+    "sha256": "3aad60a984f9d8874f84eef6a563bb0bdc5c89355d4f0b271756e90f6f505e41"
+  },
+  {
+    "path": "第三卷/assets/pdf-026.png",
+    "bytes": 319466,
+    "sha256": "508e4f564f48be18f2425af23f38340a3175f7b65975e4bdecdc5e81c911a674"
+  },
+  {
+    "path": "第三卷/assets/pdf-027.png",
+    "bytes": 528221,
+    "sha256": "d89bf8ef58890d1e302c33b7de9c58180ed26f7b0293d1bc6c6a9a4c1296fb85"
+  },
+  {
+    "path": "第三卷/assets/pdf-028.png",
+    "bytes": 462252,
+    "sha256": "c59d9d239b59ad70ba4af39556ed755067e5f97520be33dff22fb903b749070e"
+  },
+  {
+    "path": "第三卷/assets/pdf-029.png",
+    "bytes": 307601,
+    "sha256": "dddfad86af80ebe7e9081c6cfa998d2e9d2f71575664ab5754d3ccaece6992f8"
+  },
+  {
+    "path": "第三卷/assets/pdf-509.png",
+    "bytes": 1261888,
+    "sha256": "29bb497d6da28459cb5ea9cd05e7acc8c6f8f47820f7f90816a60c1fbc314b40"
+  },
+  {
+    "path": "第三卷/assets/pdf-513.png",
+    "bytes": 836836,
+    "sha256": "ed2ece0f5f8290aabfc84da75ba12de409adc37bec79fc06d2a396bf1e154fb7"
+  },
+  {
+    "path": "第三卷/assets/pdf-593.png",
+    "bytes": 1242731,
+    "sha256": "2eaf84c87493ca4494343d65e87fe41ff0da7b025b59552daee2a662a763be0f"
+  },
+  {
+    "path": "第三卷/assets/pdf-594.png",
+    "bytes": 1145376,
+    "sha256": "603e79fdccb7124eb6e58060971576426f8f6c9d72c4f75086cf3569292e2b43"
+  },
+  {
+    "path": "第三卷/assets/pdf-595.png",
+    "bytes": 884892,
+    "sha256": "ed9bbd661a330698cfdfdc81266838060a04deaf7b61bafc3f4472b18e6866f7"
+  },
+  {
+    "path": "第三卷/卷首资料（中文）.md",
+    "bytes": 48136,
+    "sha256": "da94aa45f1edbfa31198ed179b154f85270443117e48fde3abf8931eb39ef184"
+  },
+  {
+    "path": "第三卷/卷首资料（英文）.md",
+    "bytes": 38188,
+    "sha256": "97c02ebc23a5add8fcd6ffec7ee2a6b959e94b48089644f380e03e9759d974d4"
+  },
+  {
+    "path": "第三卷/参考文献（中文）.md",
+    "bytes": 506907,
+    "sha256": "8980dd4f915cf9480818dd73fd8f70ff732d5c3c8129206f1671ad920142ed42"
+  },
+  {
+    "path": "第三卷/参考文献（英文）.md",
+    "bytes": 511816,
+    "sha256": "e4096646d5cc53531e7ede16a5006e2b178340693e164af0ecdf706fdcd07926"
+  },
+  {
+    "path": "第三卷/序言（中文）.md",
+    "bytes": 8522,
+    "sha256": "46fa8bad0bda1a67f9d583d1f5fe7aa850d5fe3a57e845b09d595776eed8a60f"
+  },
+  {
+    "path": "第三卷/序言（英文）.md",
+    "bytes": 10219,
+    "sha256": "3c7d798f64a5c8ab40687dc46d15733a56521665a2716e6d9827e8daa193b6eb"
+  },
+  {
+    "path": "第三卷/引言：约600年的基督教世界（中文）.md",
+    "bytes": 44579,
+    "sha256": "358ebc7af2f70595304f67619e12407bb6f66adb64eb48a42e40ac681fc29fd0"
+  },
+  {
+    "path": "第三卷/引言：约600年的基督教世界（英文）.md",
+    "bytes": 48990,
+    "sha256": "91cea1f9df19eb1a472fd5f61c98dd9ed982ede4b214d6802531d7ccadb8d32a"
+  },
+  {
+    "path": "第三卷/文件尾页（中文）.md",
+    "bytes": 273,
+    "sha256": "cbfb431173eef5663bb935aa46db0c25cb318d16c8b936bd9ba423b8b7ec3e33"
+  },
+  {
+    "path": "第三卷/文件尾页（英文）.md",
+    "bytes": 195,
+    "sha256": "4e7fd142e4b56eff58d31c23792f10207932646eaf7018a6b9530f40b6f3111d"
+  },
+  {
+    "path": "第三卷/第01章 罗马晚期的基督教诸形态（中文）.md",
+    "bytes": 70773,
+    "sha256": "2ef7905843b536407f0ed96a864b8a299facd75f675792d001d711c1a6e9b747"
+  },
+  {
+    "path": "第三卷/第01章 罗马晚期的基督教诸形态（英文）.md",
+    "bytes": 74298,
+    "sha256": "8fbd70e52c511667f542d703cd352cd4909e3cb91c228b05e43df11d5fc58ec0"
+  },
+  {
+    "path": "第三卷/第02章 拜占庭正教的形成（600—1095年）（中文）.md",
+    "bytes": 45774,
+    "sha256": "04dda9a3611b9e6a70e4c41f7bd65105c8d1bfd4c1c91e02db0a3b9f82357db3"
+  },
+  {
+    "path": "第三卷/第02章 拜占庭正教的形成（600—1095年）（英文）.md",
+    "bytes": 54014,
+    "sha256": "11a7aa0a487938391d46a60c04a815bbc6fc2159bcf8f97f5b12694f5beffe2b"
+  },
+  {
+    "path": "第三卷/第03章 帝国之外之一：从波斯征服到突厥征服的东方基督教诸形态（604—1071年）（中文）.md",
+    "bytes": 47022,
+    "sha256": "194ee1d520eb0620fee7b24b9bbffd4a863c53d39bee814d03fbecd7bcfe80b9"
+  },
+  {
+    "path": "第三卷/第03章 帝国之外之一：从波斯征服到突厥征服的东方基督教诸形态（604—1071年）（英文）.md",
+    "bytes": 58398,
+    "sha256": "ea23650eb67ee1d2c0574fdf94d91d83888aadd1d457b89c56362bb8fa594436"
+  },
+  {
+    "path": "第三卷/第04章 帝国之外之二：凯尔特诸民族的基督教诸形态（中文）.md",
+    "bytes": 51717,
+    "sha256": "531927a5d1f43ae301be587def77ee8ec99d667f5a64a27c49de8b5e8217f8c7"
+  },
+  {
+    "path": "第三卷/第04章 帝国之外之二：凯尔特诸民族的基督教诸形态（英文）.md",
+    "bytes": 61608,
+    "sha256": "4477e8485350c94df4f4c1a863ff752ca4e6a38680cf0528b1618056574a4b02"
+  },
+  {
+    "path": "第三卷/第05章 日耳曼的基督教诸形态（中文）.md",
+    "bytes": 53053,
+    "sha256": "678d4f04693f30985a9e29ebdf243e6af0d930822a86fb13ab0f12da27a13931"
+  },
+  {
+    "path": "第三卷/第05章 日耳曼的基督教诸形态（英文）.md",
+    "bytes": 67148,
+    "sha256": "37cc4afb22149c8c63e444bb8c221143218915c7249eda66d0174f3730c295e0"
+  },
+  {
+    "path": "第三卷/第06章 斯拉夫的基督教诸形态（800—1100年）（中文）.md",
+    "bytes": 60827,
+    "sha256": "52d772d6ed56d86766490ebc7ff6823aa657ee343d2e99d690ce84319bd37d78"
+  },
+  {
+    "path": "第三卷/第06章 斯拉夫的基督教诸形态（800—1100年）（英文）.md",
+    "bytes": 75103,
+    "sha256": "3b840a60561702cb6b2dba82fa41e1e325a7856a531d3d7cbf60ffa51104cb14"
+  },
+  {
+    "path": "第三卷/第07章 基督徒与犹太人（中文）.md",
+    "bytes": 48835,
+    "sha256": "0d2426634aeea7edd970d2a70c41d2828e8109fcb3fd736f30e6d01b0dbd8246"
+  },
+  {
+    "path": "第三卷/第07章 基督徒与犹太人（英文）.md",
+    "bytes": 56212,
+    "sha256": "d0ece3b1c02df75f4117ade4567a3cd2c75a4e48a486c8f828c72d30e740432b"
+  },
+  {
+    "path": "第三卷/第08章 地中海边疆：基督教与伊斯兰教的相遇（600—1050年）（中文）.md",
+    "bytes": 42447,
+    "sha256": "691b86458466806f759b74a522affd63a9ad9c911044428195abb5cb516e5f96"
+  },
+  {
+    "path": "第三卷/第08章 地中海边疆：基督教与伊斯兰教的相遇（600—1050年）（英文）.md",
+    "bytes": 52121,
+    "sha256": "e5261b48d729afbdb42b0838948a04087caff15bee572511e25768a48783f382"
+  },
+  {
+    "path": "第三卷/第09章 穆斯林统治下的基督徒（中文）.md",
+    "bytes": 37246,
+    "sha256": "f92633b3dab9ad49e372fd5b23e0dadfac52fbc7e64c6593cee8d35dc1b83553"
+  },
+  {
+    "path": "第三卷/第09章 穆斯林统治下的基督徒（英文）.md",
+    "bytes": 44051,
+    "sha256": "631b86be9ef2348df2df714b72011cd37c5bbdf09167fc989eee4848d847288b"
+  },
+  {
+    "path": "第三卷/第10章 拉丁基督徒与希腊基督徒（中文）.md",
+    "bytes": 41225,
+    "sha256": "8c336fb75ba11459f71017712dc54029be0e7e8e99fe8c5ff862910f970d5b93"
+  },
+  {
+    "path": "第三卷/第10章 拉丁基督徒与希腊基督徒（英文）.md",
+    "bytes": 48433,
+    "sha256": "cae6637fcb3f5d0a6cfb9d98c405da10a8f03a8f3d50684e22a9408e0f8a95c9"
+  },
+  {
+    "path": "第三卷/第11章 北方边疆：基督教与异教的相遇（中文）.md",
+    "bytes": 37547,
+    "sha256": "a541ddd6acbf82dfdaa61a65ffc66c765467860b808ff6cde70a5901a13970d2"
+  },
+  {
+    "path": "第三卷/第11章 北方边疆：基督教与异教的相遇（英文）.md",
+    "bytes": 45698,
+    "sha256": "9a1be349bc944d5ea2de3dd4fea8e790e9f5394ac05e4139039671de0bc56385"
+  },
+  {
+    "path": "第三卷/第12章 作为制度的基督教会（中文）.md",
+    "bytes": 61099,
+    "sha256": "94ecbd084082c0788917af76f49c1fd76813a697993ca63f48c4b55e627c7635"
+  },
+  {
+    "path": "第三卷/第12章 作为制度的基督教会（英文）.md",
+    "bytes": 72467,
+    "sha256": "2427347510752897fe6053eb7dc1c4246d45a1f17c484726eb3a335108b77330"
+  },
+  {
+    "path": "第三卷/第13章 禁欲及其制度（中文）.md",
+    "bytes": 54341,
+    "sha256": "4ce90c7966a2a304e4687806d947bb74eab445bc26392b69848475ad46ca802c"
+  },
+  {
+    "path": "第三卷/第13章 禁欲及其制度（英文）.md",
+    "bytes": 70582,
+    "sha256": "7ca9976390b8bd0f4246c6a8e5bdbf7321327efea027cefde5085e4d8822cbfc"
+  },
+  {
+    "path": "第三卷/第14章 法律及其运用（中文）.md",
+    "bytes": 69498,
+    "sha256": "75020fcc2b478317ee0916a01be95bbab6d0dd60cec7df05d423c1df275c9f69"
+  },
+  {
+    "path": "第三卷/第14章 法律及其运用（英文）.md",
+    "bytes": 84677,
+    "sha256": "23847c1aa635b5c6ac5bf75a31378f1dd0b6a2aff278e2e0b0009d40961ca302"
+  },
+  {
+    "path": "第三卷/第15章 财产问题（中文）.md",
+    "bytes": 39682,
+    "sha256": "99ce834019d5cc07ccfa8e3d632688ae8008a87f5f37c4cc849e46f7ebf96afe"
+  },
+  {
+    "path": "第三卷/第15章 财产问题（英文）.md",
+    "bytes": 53450,
+    "sha256": "27f87459a319ce5eb3aede69f3629694b5215dad42ee4ec22518c99a8609e9eb"
+  },
+  {
+    "path": "第三卷/第16章 改革的观念与实践（中文）.md",
+    "bytes": 43428,
+    "sha256": "a1d2b14e5afe4e12894629d3887e5721513d794494d206bb5be0f07f983ea0cf"
+  },
+  {
+    "path": "第三卷/第16章 改革的观念与实践（英文）.md",
+    "bytes": 54721,
+    "sha256": "54b4571d273f2a354d3505c56aebfe5fe11d14e79d4d1dbf90e302db6e7974d3"
+  },
+  {
+    "path": "第三卷/第17章 景观中的教堂（中文）.md",
+    "bytes": 32228,
+    "sha256": "59212ca1da503877b070f868fda4c5a62a7d50193df087c21f668d2b7a093fb1"
+  },
+  {
+    "path": "第三卷/第17章 景观中的教堂（英文）.md",
+    "bytes": 47687,
+    "sha256": "0ca5e93e6b93eeda70f75ec5d2c586f0e1da2eeb97163f4286692e9c725cfffa"
+  },
+  {
+    "path": "第三卷/第18章 出生与死亡（中文）.md",
+    "bytes": 29690,
+    "sha256": "5b0848f96ca8e74decf98ffe8827c5051d2d24808b5a906c6dbf91bec7d83d93"
+  },
+  {
+    "path": "第三卷/第18章 出生与死亡（英文）.md",
+    "bytes": 43978,
+    "sha256": "269f6c0fab5bc37031db4b6546eb12e533b6e613d895304d237dec1308dfd808"
+  },
+  {
+    "path": "第三卷/第19章 罪的补救（中文）.md",
+    "bytes": 31160,
+    "sha256": "85672a9cc5f464ed226c6e1a1b9e22f1a67cb55c265413736f47c6cb49db7180"
+  },
+  {
+    "path": "第三卷/第19章 罪的补救（英文）.md",
+    "bytes": 48592,
+    "sha256": "4bb1bb815ccbfa670115e86c10f6b567c0b7153d9fcdfa6ac86a2391fe18bdff"
+  },
+  {
+    "path": "第三卷/第20章 疾病与医治（中文）.md",
+    "bytes": 42221,
+    "sha256": "e027426a2cc0e344ad8a3031b39a4295f844528e3629bce34ad0bea4cf38a6ab"
+  },
+  {
+    "path": "第三卷/第20章 疾病与医治（英文）.md",
+    "bytes": 47794,
+    "sha256": "30327f463a92c6a86a9b1bcc4b8bcc04ea9c6ddcb5099f01719282420d2b22af"
+  },
+  {
+    "path": "第三卷/第21章 性别与身体（中文）.md",
+    "bytes": 52179,
+    "sha256": "d5077ca641ce3ac3b88142181482f7b670f19fa16382d70c2bc2bfbf8f3bd8a0"
+  },
+  {
+    "path": "第三卷/第21章 性别与身体（英文）.md",
+    "bytes": 59971,
+    "sha256": "67d3ed838fd0c4df1c36d3a8a8cf4bec03ba468cc158313b21433e886836d3c2"
+  },
+  {
+    "path": "第三卷/第22章 拉丁基督教中的祭献、馈赠与祈祷（中文）.md",
+    "bytes": 41897,
+    "sha256": "0646db78a6c23898adf4048ceaf82ccb07899f7aaa2a1affcc6d1d55c4ca5b63"
+  },
+  {
+    "path": "第三卷/第22章 拉丁基督教中的祭献、馈赠与祈祷（英文）.md",
+    "bytes": 54113,
+    "sha256": "75a1228453f050453082d7a9367819dee86f1a05d99906d7c4894687833094f5"
+  },
+  {
+    "path": "第三卷/第23章 礼仪的施行（中文）.md",
+    "bytes": 29939,
+    "sha256": "311317c9da2e3e6252136967e9bfa1dee6f7169e85404853137bebd448a88035"
+  },
+  {
+    "path": "第三卷/第23章 礼仪的施行（英文）.md",
+    "bytes": 42390,
+    "sha256": "8614970f835a6dfed310c70ec3f2ad8479515fbbb9b26fc7f30b21ee1825d4f1"
+  },
+  {
+    "path": "第三卷/第24章 上帝的异象（中文）.md",
+    "bytes": 41458,
+    "sha256": "e69ec554dd10bf0620af724a10db874fb7ce3f05bcfdfe1c9210fff4ef93e527"
+  },
+  {
+    "path": "第三卷/第24章 上帝的异象（英文）.md",
+    "bytes": 52934,
+    "sha256": "65eee00d07c41bc4e07cff6970b9d2e22e5c8d1e7219632158ce337e6c2cf89b"
+  },
+  {
+    "path": "第三卷/第25章 正统与偏离（中文）.md",
+    "bytes": 51065,
+    "sha256": "008241de7e8991f25e29a415dc2166f6ba1edb5a0a4e3c68c14b4eea515e2ee5"
+  },
+  {
+    "path": "第三卷/第25章 正统与偏离（英文）.md",
+    "bytes": 63354,
+    "sha256": "c267495f89067dc2a841c7fef0d64387fe5cbb5e74f2d305a71025805c7f310d"
+  },
+  {
+    "path": "第三卷/第26章 理解《圣经》（中文）.md",
+    "bytes": 55823,
+    "sha256": "7d3d1fc81fd081592dcee55dde98cdf389262f3e8731d8335707a54fb2f05aa0"
+  },
+  {
+    "path": "第三卷/第26章 理解《圣经》（英文）.md",
+    "bytes": 66864,
+    "sha256": "caa38815e3ce462b92dbad68083f31c413720b35c488e59d292d44f256de3459"
+  },
+  {
+    "path": "第三卷/第27章 中世纪拜占庭的基督教书籍（中文）.md",
+    "bytes": 54076,
+    "sha256": "98b50e1bee82ab09d936149256d8c52fa1c16dd4ca46a03af937c1fc0feaa31c"
+  },
+  {
+    "path": "第三卷/第27章 中世纪拜占庭的基督教书籍（英文）.md",
+    "bytes": 69535,
+    "sha256": "d7924c9f7afc9f60a7fc69bb3eb912d5deca38528642a32adcf13202b82b6f98"
+  },
+  {
+    "path": "第三卷/第28章 圣徒及其崇敬（中文）.md",
+    "bytes": 55996,
+    "sha256": "527c837b41b3395986ae69cf6bdc6d3e228ffffb4bc1e98aa25256b8c8750a40"
+  },
+  {
+    "path": "第三卷/第28章 圣徒及其崇敬（英文）.md",
+    "bytes": 71675,
+    "sha256": "34d63ce64771d0a0cce62c295acfb38b23ac0931caa36b58679a27e10853f9cd"
+  },
+  {
+    "path": "第三卷/第29章 末后之事（中文）.md",
+    "bytes": 39542,
+    "sha256": "a1bc44efa85e5c15d211c83bf529ce58d8e300f7a2300e1318de4be725a8f655"
+  },
+  {
+    "path": "第三卷/第29章 末后之事（英文）.md",
+    "bytes": 51824,
+    "sha256": "353f76541c6685eeed237257f6622a721137441c82f99e967b42e0e8bac78cf1"
+  },
+  {
+    "path": "第三卷/第一编 基础：民族、地域与传统（中文）.md",
+    "bytes": 251,
+    "sha256": "b0420576826352813ab1d6c982559dec73fcd7deeeb46b52160118ebd26df83e"
+  },
+  {
+    "path": "第三卷/第一编 基础：民族、地域与传统（英文）.md",
+    "bytes": 292,
+    "sha256": "292deb91f500b24412e0adc093307e4e5b0d8f46c3f83b0db1111f6e067d6b70"
+  },
+  {
+    "path": "第三卷/第三编 社会与政治秩序中的基督教（中文）.md",
+    "bytes": 196,
+    "sha256": "32b194a1271aa2afc97ec40cf38e15039c758f6553408d3bf3301cc2ea58e576"
+  },
+  {
+    "path": "第三卷/第三编 社会与政治秩序中的基督教（英文）.md",
+    "bytes": 307,
+    "sha256": "00437b3f3ebf7b696068b65c5df621a086b3c0f7810984cff449938eb0fcfeeb"
+  },
+  {
+    "path": "第三卷/第二编 交锋中的基督教（中文）.md",
+    "bytes": 216,
+    "sha256": "97418a94dde8b7c6b015079e4e18aa234e77a4ff5cc6b3f22705b0bc7a4ec968"
+  },
+  {
+    "path": "第三卷/第二编 交锋中的基督教（英文）.md",
+    "bytes": 270,
+    "sha256": "153c458b1cfa28ba1efa96325ee67422272c9cf6e3a58d514311ccbafacaf9b8"
+  },
+  {
+    "path": "第三卷/第五编 基督教：书籍与观念（中文）.md",
+    "bytes": 114,
+    "sha256": "a3476252c24a7c075218bc7b9161d5cb2c018b1e99d39088a1144cfc1faa0ee6"
+  },
+  {
+    "path": "第三卷/第五编 基督教：书籍与观念（英文）.md",
+    "bytes": 195,
+    "sha256": "c569a26a6800515eeb4147aa728e7c7d338f16992ab61eed51e81078282d913c"
+  },
+  {
+    "path": "第三卷/第四编 作为生活经验的基督教（中文）.md",
+    "bytes": 190,
+    "sha256": "6a23c921ed6e4ace995af3751ca0add2a8c948260f0796f09f75cc080e71f058"
+  },
+  {
+    "path": "第三卷/第四编 作为生活经验的基督教（英文）.md",
+    "bytes": 281,
+    "sha256": "c8f48696d24812a12216be16f78af6c7200a68ba6e9412c851cde7663828d25f"
+  },
+  {
+    "path": "第三卷/索引（中文）.md",
+    "bytes": 200852,
+    "sha256": "40f356b9ea04da82abdef2a396b7b97504625b57c94f37bfcb50f30c4dbcde56"
+  },
+  {
+    "path": "第三卷/索引（英文）.md",
+    "bytes": 156244,
+    "sha256": "9ea84d31ff6981f827e12cf45886e553ac22e210b700b523d73d89d17d0cc871"
+  },
+  {
+    "path": "第三卷/结语：约1100年的基督教世界（中文）.md",
+    "bytes": 42080,
+    "sha256": "403ec84315053d3456101771aa89dbbb3b6378890e4d7e2f7df77070b0bdaee3"
+  },
+  {
+    "path": "第三卷/结语：约1100年的基督教世界（英文）.md",
+    "bytes": 55986,
+    "sha256": "531cf3c4ff33c017a949b3e8c11e6a0d6b67daa4ed7e16e9913028b37b541165"
+  },
+  {
+    "path": "第三卷/翻译规范.md",
+    "bytes": 46674,
+    "sha256": "9297a587213ca6dd2d6bb0d90eb6ab3f2b9693611da7497d68f6714a0f32c811"
+  },
+  {
+    "path": "第九卷/09 世界基督教（1914-2000）（中文译稿，缺第20章）.md",
+    "bytes": 1672612,
+    "sha256": "673cfa3e69cb1a427726d04508b5c22fb23b1c687100490be551e66a7d53f8df"
+  },
+  {
+    "path": "第九卷/09 世界基督教（1914-2000）（英文全文）.md",
+    "bytes": 1961126,
+    "sha256": "563ae5cdc4c010616bc8798778d28b4edd684a3d7762512dfc8fda882f24c22e"
+  },
+  {
+    "path": "第九卷/assets/figure-31-1.png",
+    "bytes": 148822,
+    "sha256": "3177161621792c1333dc30f9b4209acfbd946e943013096b707c6508c36b99cd"
+  },
+  {
+    "path": "第九卷/assets/figure-31-2.png",
+    "bytes": 319164,
+    "sha256": "78f0c908400ee514e9f91143383ead15682a910ae2d2c3a983d5b08474526372"
+  },
+  {
+    "path": "第九卷/assets/figure-31-3.png",
+    "bytes": 356159,
+    "sha256": "d68c6ac3bb9f68c1bd929a841489bbaea2d22232df02aff10c83fb57a2922a26"
+  },
+  {
+    "path": "第九卷/assets/map-18-1.png",
+    "bytes": 275128,
+    "sha256": "f52e7b157d6252b126e617e54b10948ed90a98a56ff1946e557ca24e13b3d08b"
+  },
+  {
+    "path": "第九卷/assets/map-18-2.png",
+    "bytes": 199155,
+    "sha256": "4ddfbf00a9f7987fb5541506b65d020977a23739c352d55ac46347999f77503b"
+  },
+  {
+    "path": "第九卷/assets/map-18-3.png",
+    "bytes": 159626,
+    "sha256": "5ab6531acc3bc275591a6890ba99a902e201312ac90189b87939a15659c0795e"
+  },
+  {
+    "path": "第九卷/assets/map-22-1.png",
+    "bytes": 207854,
+    "sha256": "955423f69e04c410483fb56d843827693280a465e70d2e2d60c3e771180fe169"
+  },
+  {
+    "path": "第九卷/assets/pdf-001.png",
+    "bytes": 901246,
+    "sha256": "c0efeb61d11b506bb30342e41f6ba96d3429a65de5418559942ce86a8db42890"
+  },
+  {
+    "path": "第九卷/assets/pdf-345.png",
+    "bytes": 363464,
+    "sha256": "edbda6ec8152e4d1a5c567b221c445c04b23db436f242e0fb560cf967e4c87af"
+  },
+  {
+    "path": "第九卷/assets/pdf-361.png",
+    "bytes": 229767,
+    "sha256": "bc6dd19642b3fab7bde5b4dc13a5bed9758a895718685a4c9be39c8694f705e0"
+  },
+  {
+    "path": "第九卷/assets/pdf-362.png",
+    "bytes": 187874,
+    "sha256": "0005713c85a13dbaa03d5596e2414de0e9e4c54feaa28621029861de1ec15f8c"
+  },
+  {
+    "path": "第九卷/assets/pdf-403.png",
+    "bytes": 306404,
+    "sha256": "86cac1f793d1fe7b3fcdaa864c727c8a8a2d0c7acf995ca6ac5ca45f4512140d"
+  },
+  {
+    "path": "第九卷/assets/pdf-610.png",
+    "bytes": 477239,
+    "sha256": "f5f60bacaa7ab9469a9f55f61f01ef08708758807ef8d1b68340d21485d3b319"
+  },
+  {
+    "path": "第九卷/assets/pdf-616.png",
+    "bytes": 638860,
+    "sha256": "537d94324fe7f925b5ab888121a085b0c57a3211a15604184d3534284414c4e5"
+  },
+  {
+    "path": "第九卷/assets/pdf-618.png",
+    "bytes": 728481,
+    "sha256": "f5002d9df89a5df9219f8d5a9f2e4fd556cfaefa7910a188687373814316f482"
+  },
+  {
+    "path": "第九卷/卷首资料（中文）.md",
+    "bytes": 25318,
+    "sha256": "e352fab8c9bf26eaecd4aace469a111566f96f74a2d43fab7da09f19fefc426f"
+  },
+  {
+    "path": "第九卷/卷首资料（英文）.md",
+    "bytes": 28114,
+    "sha256": "3e5828a83df07a189ba0f373e139166856d6a527bb6386567c017291a1e436b6"
+  },
+  {
+    "path": "第九卷/参考书目（中文）.md",
+    "bytes": 131619,
+    "sha256": "f66c1bf28ee9700837e524b097c131e0e2294b1e64f40ec6bc1662a28a1f79e9"
+  },
+  {
+    "path": "第九卷/参考书目（英文）.md",
+    "bytes": 129841,
+    "sha256": "3294a80b84543a234074e6807924e054866a5937f07e61b2c65fe918d7f4690a"
+  },
+  {
+    "path": "第九卷/第01章 导论（中文）.md",
+    "bytes": 33166,
+    "sha256": "42971e411787aef7373cf680694976c60bc5a19eccb086713668451f07fd5ced"
+  },
+  {
+    "path": "第九卷/第01章 导论（英文）.md",
+    "bytes": 38457,
+    "sha256": "09db80911d4e076aee3aa2798f8fd1863feee9a08629488904291689752513c1"
+  },
+  {
+    "path": "第九卷/第02章 二十世纪初的基督徒生活（中文）.md",
+    "bytes": 28766,
+    "sha256": "db394b5c02c19dcf91e6587805b1b08f52e1acc6f1ae4a9c411285edfbbbc8f7"
+  },
+  {
+    "path": "第九卷/第02章 二十世纪初的基督徒生活（英文）.md",
+    "bytes": 33251,
+    "sha256": "eb61669966a1112469a893ea19a839a7db61bea86894d7c57a76fa1be9bf05b9"
+  },
+  {
+    "path": "第九卷/第03章 教皇制度（中文）.md",
+    "bytes": 52039,
+    "sha256": "16ee42f1e8f23e1469af8301e3fc258983c373354047d48c8896040c2666c450"
+  },
+  {
+    "path": "第九卷/第03章 教皇制度（英文）.md",
+    "bytes": 58830,
+    "sha256": "9f1a97b3c5e41196f2412de8f51de68bd243e3ba1fdb756356f14c5181086589"
+  },
+  {
+    "path": "第九卷/第04章 普世教会运动（中文）.md",
+    "bytes": 49479,
+    "sha256": "02cd5e5c934f01a5875d4b8efa1cb39ce03217ee0f7ceac3d3ed13c315a608af"
+  },
+  {
+    "path": "第九卷/第04章 普世教会运动（英文）.md",
+    "bytes": 57303,
+    "sha256": "262aecf03edfb1df762e67e877bc4bd5a1de48fb6871e3e5946a2393f86532ea"
+  },
+  {
+    "path": "第九卷/第05章 基督教、殖民主义与传教（中文）.md",
+    "bytes": 40962,
+    "sha256": "b920e6a183e2665143146c370171d079e7bc2d3be42e7936cf345aae3d63515b"
+  },
+  {
+    "path": "第九卷/第05章 基督教、殖民主义与传教（英文）.md",
+    "bytes": 48323,
+    "sha256": "c563492efd058349d01ce96982ac0914e4907c22bdfa9669f214ab977f99196b"
+  },
+  {
+    "path": "第九卷/第06章 五旬节运动与灵恩运动（中文）.md",
+    "bytes": 45185,
+    "sha256": "446e323be67f6066cebe096f7e8d75ba0a7a6883fbaec95256bfc10f5c4949dc"
+  },
+  {
+    "path": "第九卷/第06章 五旬节运动与灵恩运动（英文）.md",
+    "bytes": 51401,
+    "sha256": "289d589f9a92527bf4fe0f7c9ce6ec28aed33b5193fd9201a25f60984527c5ac"
+  },
+  {
+    "path": "第九卷/第07章 非洲与亚洲的独立教会运动（中文）.md",
+    "bytes": 51209,
+    "sha256": "d795c5d787fe70102b63bbc94d2b7d41d26e224c20f614aeced324b3de2c6f22"
+  },
+  {
+    "path": "第九卷/第07章 非洲与亚洲的独立教会运动（英文）.md",
+    "bytes": 58511,
+    "sha256": "aedf3d8ef5840d7193616f86d877415078624787f025920c340976c4ee18ba1f"
+  },
+  {
+    "path": "第九卷/第08章 第一次世界大战（中文）.md",
+    "bytes": 44555,
+    "sha256": "b44de86b673cd6cf770abd6cade02562d94ee4db3e0dfd1efa7a4cfca5804cfe"
+  },
+  {
+    "path": "第九卷/第08章 第一次世界大战（英文）.md",
+    "bytes": 56999,
+    "sha256": "5472e11ee2660597fcde03cd8786032172d7d4321805eaab7f3b729e9fa9b4d9"
+  },
+  {
+    "path": "第九卷/第09章 欧洲基督教会与政治（1914—1939年）（中文）.md",
+    "bytes": 64422,
+    "sha256": "52b2fd6d6fc08cefb8700566a746d91ef7b22f8f9b6bdfc7bd2679ff119435f0"
+  },
+  {
+    "path": "第九卷/第09章 欧洲基督教会与政治（1914—1939年）（英文）.md",
+    "bytes": 81990,
+    "sha256": "382379f41498cb16563128a20315523bef6eacf96723c599ca390e178413e78b"
+  },
+  {
+    "path": "第九卷/第10章 拉丁美洲（约1914—约1950年）（中文）.md",
+    "bytes": 40418,
+    "sha256": "9974f3ffa6cba2508f6491eae6251df4383bce483f678c0bbb4340b98c0fe430"
+  },
+  {
+    "path": "第九卷/第10章 拉丁美洲（约1914—约1950年）（英文）.md",
+    "bytes": 51297,
+    "sha256": "efb6639706fea85148874bd95a6eddebca6f8bc8099b7a4ab6bdfef8d4f4b8d7"
+  },
+  {
+    "path": "第九卷/第11章 非洲基督教：从世界大战到非殖民化（中文）.md",
+    "bytes": 50558,
+    "sha256": "4bc8c39d7e095bf18e3238374db49932d1a990f7f97bc2cb8f94bde1f2525301"
+  },
+  {
+    "path": "第九卷/第11章 非洲基督教：从世界大战到非殖民化（英文）.md",
+    "bytes": 61459,
+    "sha256": "97039d6d7616c383a62904b90ac1e899b169cf56b9a888912eeee1a38e67a886"
+  },
+  {
+    "path": "第九卷/第12章 加勒比与欧洲的非洲离散群体：从奴隶解放前到当代（中文）.md",
+    "bytes": 41238,
+    "sha256": "c42922bc954ff01f2b4735514864a122cfa1befd14975c25775809c9e5f18dc6"
+  },
+  {
+    "path": "第九卷/第12章 加勒比与欧洲的非洲离散群体：从奴隶解放前到当代（英文）.md",
+    "bytes": 50050,
+    "sha256": "c60346429c61adf3013057b19ead742181f708d5d4d1b71083259929246bf302"
+  },
+  {
+    "path": "第九卷/第13章 两次世界大战之间的美国基督教（中文）.md",
+    "bytes": 33718,
+    "sha256": "e3776cdc8502eaefc97185628f17962f4eee5444e7c4b12eebdc73fa878968e0"
+  },
+  {
+    "path": "第九卷/第13章 两次世界大战之间的美国基督教（英文）.md",
+    "bytes": 45015,
+    "sha256": "9814e732ccdfea8386197346a803c5678dc46c814a6fac8843c47237dd7e531a"
+  },
+  {
+    "path": "第九卷/第14章 澳大利亚、新西兰与太平洋的基督教会（1914—1970年）（中文）.md",
+    "bytes": 19787,
+    "sha256": "0b00201f629d5279a0460d38e479408fbd370d43842ccbc283cbf69059a2daee"
+  },
+  {
+    "path": "第九卷/第14章 澳大利亚、新西兰与太平洋的基督教会（1914—1970年）（英文）.md",
+    "bytes": 26088,
+    "sha256": "40f094171ff806b7dcfd09e799ac8e25f5ac8f94a28dbe8897e4e5e4f4a892b8"
+  },
+  {
+    "path": "第九卷/第15章 欧洲第二次世界大战中的天主教与新教（中文）.md",
+    "bytes": 44897,
+    "sha256": "c616c03b86cf65e3ecabb572e5734d981f646236b21020c3a19038cf0be8a5ff"
+  },
+  {
+    "path": "第九卷/第15章 欧洲第二次世界大战中的天主教与新教（英文）.md",
+    "bytes": 62326,
+    "sha256": "9d3b42d9a1b00c0ee4f370a3d85e4b6841715868a3a0886395e4006c0132166b"
+  },
+  {
+    "path": "第九卷/第16章 冷战、美国霸权与基督教民主主义的黄金时代（中文）.md",
+    "bytes": 40765,
+    "sha256": "3dbda520915c03f9d5ee35e9b6d5f0f6b86c100b501c522bad25a6cf089f38c8"
+  },
+  {
+    "path": "第九卷/第16章 冷战、美国霸权与基督教民主主义的黄金时代（英文）.md",
+    "bytes": 54450,
+    "sha256": "701e381b8730ad94207d38018d1065ff0f6cb08ef4e84228fd8d5b17707ed219"
+  },
+  {
+    "path": "第九卷/第17章 六十年代的宗教激荡（中文）.md",
+    "bytes": 45467,
+    "sha256": "1a971470cf1389bf6226b14eecb665b9277cc5cb15447660b9617c435c90ba04"
+  },
+  {
+    "path": "第九卷/第17章 六十年代的宗教激荡（英文）.md",
+    "bytes": 51594,
+    "sha256": "a50707992ee411fce4c7bab8723f59e671ad3a25fd786a979faf0a4d935dadcd"
+  },
+  {
+    "path": "第九卷/第18章 西方基督教的危机：走向后基督教时代？（中文）.md",
+    "bytes": 51954,
+    "sha256": "97aa659a2e63a472be4016adfb72e58bcc3625e39ca73cd8833518e8f5865449"
+  },
+  {
+    "path": "第九卷/第18章 西方基督教的危机：走向后基督教时代？（英文）.md",
+    "bytes": 62762,
+    "sha256": "17a60c62363873e355d7eea8ed118d4a098745b4b999e16e155833292b433d0b"
+  },
+  {
+    "path": "第九卷/第19章 东欧剧变与后共产主义时代的开端（中文）.md",
+    "bytes": 40344,
+    "sha256": "fa6783170259e068f821db54ca2790b7702f68e37c1b8eae73f3c2cbafbb6453"
+  },
+  {
+    "path": "第九卷/第19章 东欧剧变与后共产主义时代的开端（英文）.md",
+    "bytes": 50089,
+    "sha256": "7e2c75de767bb28672c8c7bac10b3ab64ad7c692b4c30640039b9287cd986428"
+  },
+  {
+    "path": "第九卷/第20章 原文缺失说明.md",
+    "bytes": 453,
+    "sha256": "ef5c5b094389f149199e2d0de7c1669b751b89a280e76f11c24d41c6cfa1b961"
+  },
+  {
+    "path": "第九卷/第20章 拉丁美洲基督教的转型（约1950—2000年）（英文）.md",
+    "bytes": 315,
+    "sha256": "aba373e4cb9b231fff550f32fdfd1fd110d2b2a5bd502710f634f39b7cb11bd6"
+  },
+  {
+    "path": "第九卷/第21章 宗教与种族主义：围绕种族隔离、“吉姆·克劳”与南非种族隔离制度的斗争（中文）.md",
+    "bytes": 38688,
+    "sha256": "02ef1cb76fdeed3f59df9773a71cb447a636077669e0b0a2710ddf8836fe02b8"
+  },
+  {
+    "path": "第九卷/第21章 宗教与种族主义：围绕种族隔离、“吉姆·克劳”与南非种族隔离制度的斗争（英文）.md",
+    "bytes": 45087,
+    "sha256": "41553ea43eb903922fb6b1437312522d94e97071fff68c2470a720249805c0b1"
+  },
+  {
+    "path": "第九卷/第22章 后殖民时代非洲的基督教（中文）.md",
+    "bytes": 48080,
+    "sha256": "f51fb8184196b0747e105823fc7ef200ea11d85f7931fcad57550ad51477e299"
+  },
+  {
+    "path": "第九卷/第22章 后殖民时代非洲的基督教（英文）.md",
+    "bytes": 57798,
+    "sha256": "7ccff8403be58bed879716e52297f231478a4e5ec323653026c72925d58b5e73"
+  },
+  {
+    "path": "第九卷/第23章 南亚（1911—2003年）（中文）.md",
+    "bytes": 31032,
+    "sha256": "9ecbe25d592882a35229270ed4e8ec77a4ece62cc95d6dc4132e16f8d4d0b1b2"
+  },
+  {
+    "path": "第九卷/第23章 南亚（1911—2003年）（英文）.md",
+    "bytes": 38433,
+    "sha256": "f5894255ff6f547ba371825cd50b5138cf5dec7b175b01bb392b3273d1b380d1"
+  },
+  {
+    "path": "第九卷/第24章 东南亚的基督教（1914—2000年）（中文）.md",
+    "bytes": 31596,
+    "sha256": "7622a22198b03a02388bfef3d7b3d321fdb3e11785d82ae3128da44169968bcd"
+  },
+  {
+    "path": "第九卷/第24章 东南亚的基督教（1914—2000年）（英文）.md",
+    "bytes": 37159,
+    "sha256": "d7a89f99d5399b2da0a39ce5c92c43b726ee58cf04ff62e2da07d71b7b7d45af"
+  },
+  {
+    "path": "第九卷/第25章 东亚（中文）.md",
+    "bytes": 41752,
+    "sha256": "948c3836819c1f645e7e433d005c940bec46c4429960e87406ef40a7c0407d89"
+  },
+  {
+    "path": "第九卷/第25章 东亚（英文）.md",
+    "bytes": 50153,
+    "sha256": "93302541f5c8b48b654042263be99d15c868a040a948822c9eee3543d58cde92"
+  },
+  {
+    "path": "第九卷/第26章 礼拜仪式（中文）.md",
+    "bytes": 25144,
+    "sha256": "bb179eb9b973253716badfa642311db9ff08a66070d2bc40a721b32d695cdc3d"
+  },
+  {
+    "path": "第九卷/第26章 礼拜仪式（英文）.md",
+    "bytes": 32516,
+    "sha256": "bd77d5bd3227ed2c1d5501f3a06ee79ed91241b8b2084c8827c90e7c49176497"
+  },
+  {
+    "path": "第九卷/第27章 “他者”（中文）.md",
+    "bytes": 68693,
+    "sha256": "5a59d5421c87c2506cdcea8e0e131f1503ef2937d46f6082379adbde03270bfc"
+  },
+  {
+    "path": "第九卷/第27章 “他者”（英文）.md",
+    "bytes": 87544,
+    "sha256": "e652d4e11e78b65bdc498305954af7f7056efc1473709c5ee8614abe67987144"
+  },
+  {
+    "path": "第九卷/第28章 财富与贫困（中文）.md",
+    "bytes": 41155,
+    "sha256": "728837ae3fed9c67247f425ab42d3f0ab3739efa990329d3648b45a13729f80c"
+  },
+  {
+    "path": "第九卷/第28章 财富与贫困（英文）.md",
+    "bytes": 52997,
+    "sha256": "b79c7bcf03a96e97909e9607c1d1c49e5dc5037de26a73d27730d4b88889c7a8"
+  },
+  {
+    "path": "第九卷/第29章 男性与女性（中文）.md",
+    "bytes": 76988,
+    "sha256": "e76c0800d0b97500b0daae4a554da3ea5149ddff2284a9cf39a95255bd628298"
+  },
+  {
+    "path": "第九卷/第29章 男性与女性（英文）.md",
+    "bytes": 98625,
+    "sha256": "fe5d9fae0fe5dee1dc78dc2bb2af576b4f64c42ee4f7e62b36c4694f78bca801"
+  },
+  {
+    "path": "第九卷/第30章 基督教与科学（中文）.md",
+    "bytes": 25438,
+    "sha256": "6d333163e7896c348b782ece271e1a177d160608855a8a58efc18056c2dcda55"
+  },
+  {
+    "path": "第九卷/第30章 基督教与科学（英文）.md",
+    "bytes": 33781,
+    "sha256": "b1ac224bfe49e06a03be4e062f3ee8841cac6f765bcc2fa936c08b1552a9121f"
+  },
+  {
+    "path": "第九卷/第31章 文学与艺术（中文）.md",
+    "bytes": 88608,
+    "sha256": "d78533fb3c489602b18ad4940b2f3c5a7e6369031303a75a4cfe4b587e3133af"
+  },
+  {
+    "path": "第九卷/第31章 文学与艺术（英文）.md",
+    "bytes": 95676,
+    "sha256": "4d1c2a48b08b35735cd6bcdce1760ee26bc4b3c99e62e92927c80a437d41e847"
+  },
+  {
+    "path": "第九卷/第32章 榜样（中文）.md",
+    "bytes": 44142,
+    "sha256": "ff78108609ab44429477acf1990a9f3c334101e7170f8313cc98de771940e5dc"
+  },
+  {
+    "path": "第九卷/第32章 榜样（英文）.md",
+    "bytes": 50138,
+    "sha256": "0d322b1575e0f32f9d3fbbac776614025de990e5946f4826428f90fdde96f4d5"
+  },
+  {
+    "path": "第九卷/第33章 二十世纪末的基督徒生活（中文）.md",
+    "bytes": 28407,
+    "sha256": "a656bc6d2294e04ebc4553040610a9072b0c281ef64f7ba9348b6e76d86658e2"
+  },
+  {
+    "path": "第九卷/第33章 二十世纪末的基督徒生活（英文）.md",
+    "bytes": 33588,
+    "sha256": "68f0ceaefe27532f4ec9ee3a78dfa8f66a7c14b91585f77323e885265ae13072"
+  },
+  {
+    "path": "第九卷/第一编 制度与运动（中文）.md",
+    "bytes": 192,
+    "sha256": "71fb27d540862562c367be98145a942b6bdaec374d2b193bf50fd94a43ea4611"
+  },
+  {
+    "path": "第九卷/第一编 制度与运动（英文）.md",
+    "bytes": 256,
+    "sha256": "50dd3744e9a90faa5b369c9ca4f70905385ef8e55eebbf7c6006f7978623cf49"
+  },
+  {
+    "path": "第九卷/第三编 社会与文化影响（中文）.md",
+    "bytes": 208,
+    "sha256": "294ded41420dcce724530f3d7a30b1e427f4173b88d8a68a1a9fdd827f4073ac"
+  },
+  {
+    "path": "第九卷/第三编 社会与文化影响（英文）.md",
+    "bytes": 268,
+    "sha256": "6cf70ec2a2d8934c0914e1079fdaae8d8f01f838bc63bbe91d017d6d4e1eb86e"
+  },
+  {
+    "path": "第九卷/第二编 变迁的历程（中文）.md",
+    "bytes": 196,
+    "sha256": "4a75b158e1cf2fde0cbc16609f26fc327f4111ac2954d007f4d77136c1bd51a4"
+  },
+  {
+    "path": "第九卷/第二编 变迁的历程（英文）.md",
+    "bytes": 247,
+    "sha256": "b64345473b0f903961a4b273bf252d973f0792272837b3a0d9e8ea089d7ba4fa"
+  },
+  {
+    "path": "第九卷/索引（中文）.md",
+    "bytes": 102513,
+    "sha256": "37ee4e3d73ac028f3ba28b0f134c21dd105950daf93a5fa37ddab20d747796fd"
+  },
+  {
+    "path": "第九卷/索引（英文）.md",
+    "bytes": 83243,
+    "sha256": "e81a01538656aea5942284bdc3cf90339417454fec4eb25dd9bd86b8d74b8adb"
+  },
+  {
+    "path": "第九卷/翻译规范.md",
+    "bytes": 2983,
+    "sha256": "e058b17a7757b2bb6d70c959624bd1dae3ab49b44b49ada68a9377c29ec588fd"
+  },
+  {
+    "path": "第二卷/02 君士坦丁至600年（中文全译）.md",
+    "bytes": 1965899,
+    "sha256": "8057e7a8d25445581d80d4aa79dcd1da380263c042258078527c57c6c3a2a86e"
+  },
+  {
+    "path": "第二卷/02 君士坦丁至600年（英文全文）.md",
+    "bytes": 2202188,
+    "sha256": "c5baee3f81f512d5ae27641827fff48069c1d67d539d3b2cb7189929ac734925"
+  },
+  {
+    "path": "第二卷/assets/pdf-001.png",
+    "bytes": 822570,
+    "sha256": "80b785b81e4fa9c54945a13528dd0b3d7f9e12f5ae837a87a42f29ecc4061caa"
+  },
+  {
+    "path": "第二卷/assets/pdf-006.png",
+    "bytes": 57491,
+    "sha256": "4a46dcd597ed83b8a0e9964806d41ef3ddb1f9869ed854dace773b58b0ed5961"
+  },
+  {
+    "path": "第二卷/assets/pdf-017.png",
+    "bytes": 8771,
+    "sha256": "3953395a78a8956723f1e73183a33579f392cdb1ea191d3e9921bfe35278ffdd"
+  },
+  {
+    "path": "第二卷/assets/pdf-018.png",
+    "bytes": 1088444,
+    "sha256": "35e0d13153a40c167509d5ffaad0e94fb7cf6990c6b58d14a35eb6bae8dc8cc3"
+  },
+  {
+    "path": "第二卷/assets/pdf-019.png",
+    "bytes": 386596,
+    "sha256": "54e7b014ff99a6436f1bb66fdae923b5ca8dd763b040b33cd75ae8d877282667"
+  },
+  {
+    "path": "第二卷/assets/pdf-020.png",
+    "bytes": 401534,
+    "sha256": "376b8874c6cd6011b241fea1803e1880b42c227c71e6a55956cf8ffd397745d5"
+  },
+  {
+    "path": "第二卷/assets/pdf-021.png",
+    "bytes": 410538,
+    "sha256": "0e837e6954557d72cd81af06804a35d57defaa175ab79de8a5ebff8fae7f4192"
+  },
+  {
+    "path": "第二卷/卷首资料（中文）.md",
+    "bytes": 10852,
+    "sha256": "ed12ad1c22c6d89b02637d9858b0ce98beb0b59498e2675f23402ed991dcd4dd"
+  },
+  {
+    "path": "第二卷/引言（中文）.md",
+    "bytes": 12539,
+    "sha256": "afb10e1ae128c28e533780c3b126a587eafcfcf55c22b2d61dfdd33f728704b2"
+  },
+  {
+    "path": "第二卷/引言（英文）.md",
+    "bytes": 13691,
+    "sha256": "0f7c6a33d4e03f793b272c2dcde9f058ae34b4f85aa90f9f283b96cc47508698"
+  },
+  {
+    "path": "第二卷/第01章 西方的基督教诸形态（中文）.md",
+    "bytes": 115859,
+    "sha256": "440af450703f8a259ef0e778f92f62b8942158cedda6dd766a4e49eba6520259"
+  },
+  {
+    "path": "第二卷/第01章 西方的基督教诸形态（英文）.md",
+    "bytes": 128716,
+    "sha256": "922094480e265aae07376500fac716196f2647bc810488022ae35f8b55f62103"
+  },
+  {
+    "path": "第二卷/第02章 日耳曼与凯尔特的基督教诸形态（中文）.md",
+    "bytes": 41620,
+    "sha256": "d235b3c2f8e640c4245b34ebb1b2c5bbb0e293fbbee6419e6cef38655fbec32d"
+  },
+  {
+    "path": "第二卷/第02章 日耳曼与凯尔特的基督教诸形态（英文）.md",
+    "bytes": 50565,
+    "sha256": "8ee3c20044734c753b0360b26b66c89680bc4f9be48cff304c06dfcb96c751cc"
+  },
+  {
+    "path": "第二卷/第03章 希腊世界的基督教诸形态（中文）.md",
+    "bytes": 128525,
+    "sha256": "43db1729650af7e37e892c24a02e21b23ae4c9587812686a264695b7924a1240"
+  },
+  {
+    "path": "第二卷/第03章 希腊世界的基督教诸形态（英文）.md",
+    "bytes": 138369,
+    "sha256": "af2607934af3677cb3f220b993c32017164e0c0559734f9a897126dd6b253c58"
+  },
+  {
+    "path": "第二卷/第04章 早期亚洲与东非的基督教诸形态（中文）.md",
+    "bytes": 77092,
+    "sha256": "439950a3dae4af15d32cf7d9fe105b504c82c716e29c3bc0b2e1a0e740e18857"
+  },
+  {
+    "path": "第二卷/第04章 早期亚洲与东非的基督教诸形态（英文）.md",
+    "bytes": 87425,
+    "sha256": "af68aa14d0039d869f06d672c99a800a14732f996e2d2fe0f8ee854c502e5eaf"
+  },
+  {
+    "path": "第二卷/第05章 古代晚期基督徒与犹太人之间的宗教互动（312—640年）（中文）.md",
+    "bytes": 51172,
+    "sha256": "c34f5424f3399ada88465e819812f406976bae6aa575dd50dd4452543e0d73c3"
+  },
+  {
+    "path": "第二卷/第05章 古代晚期基督徒与犹太人之间的宗教互动（312—640年）（英文）.md",
+    "bytes": 60172,
+    "sha256": "0522eb1a3a34e5bef27ba67095edfeff2c27c233f9badeb60dab8813292e4d2f"
+  },
+  {
+    "path": "第二卷/第06章 基督教与异教之一：埃及（中文）.md",
+    "bytes": 40437,
+    "sha256": "df1d2e9ea86a8d675b60b8c633c7552c23100c01cbb6dc987d85b033c8326c12"
+  },
+  {
+    "path": "第二卷/第06章 基督教与异教之一：埃及（英文）.md",
+    "bytes": 46120,
+    "sha256": "bc76d945ab3f4121f6b599a8c97e0ef333ff9151ab2a1c869e842ad812141d38"
+  },
+  {
+    "path": "第二卷/第07章 基督教与异教之二：小亚细亚（中文）.md",
+    "bytes": 54156,
+    "sha256": "5f9e1cb43ad8aaa93ddcedd31f4c0856c2822581e65c203df20b75f193b2bcc1"
+  },
+  {
+    "path": "第二卷/第07章 基督教与异教之二：小亚细亚（英文）.md",
+    "bytes": 62467,
+    "sha256": "e441cf9a610af0b6fb44fd4a47efe9d2dfd08dc361bc014406fe4e3b432f6c2f"
+  },
+  {
+    "path": "第二卷/第08章 基督教与异教之三：意大利（中文）.md",
+    "bytes": 50996,
+    "sha256": "de702aa07d6821c0d9d081a2c959ad28ecf3a0f509a4b835305a807d2b9f2062"
+  },
+  {
+    "path": "第二卷/第08章 基督教与异教之三：意大利（英文）.md",
+    "bytes": 61557,
+    "sha256": "b0b12b70434ab4804b7a50088606ba05c4ed10389a04a9cba06631fb08aa91ba"
+  },
+  {
+    "path": "第二卷/第09章 基督教与异教之四：北非（中文）.md",
+    "bytes": 46225,
+    "sha256": "e389fb621d3ac0253acc04c1b4de61ee596b0f988d316ccbd01af711b8cea161"
+  },
+  {
+    "path": "第二卷/第09章 基督教与异教之四：北非（英文）.md",
+    "bytes": 52920,
+    "sha256": "b1aa4c93a6e1d2cb198fc965c8f002048c5b85e7be875d340ba64fa3d314f8b8"
+  },
+  {
+    "path": "第二卷/第10章 基督徒与异教徒之间的思想论争（中文）.md",
+    "bytes": 72710,
+    "sha256": "c28b2371a382c918bbbb182ddb84752c21a4ba3729dcec8b970b9129fff7db47"
+  },
+  {
+    "path": "第二卷/第10章 基督徒与异教徒之间的思想论争（英文）.md",
+    "bytes": 87821,
+    "sha256": "ce210f9783ecf22701ee9ad7dc7e319c12ee25aa529b860875871c4c3b56e260"
+  },
+  {
+    "path": "第二卷/第11章 基督教与摩尼教（中文）.md",
+    "bytes": 41588,
+    "sha256": "1cf336c972701cc504cd9f7f26b2e3063a331da23cda9c319eda9774a3fc4947"
+  },
+  {
+    "path": "第二卷/第11章 基督教与摩尼教（英文）.md",
+    "bytes": 47838,
+    "sha256": "7ee8f7b3dd5ebbd027276642a02d4e8b133a72ef6527948e908761a32d75f864"
+  },
+  {
+    "path": "第二卷/第12章 异端学：“异端”与“分裂”的发明（中文）.md",
+    "bytes": 49916,
+    "sha256": "4122fa47b7a95fae89a897775f508d62b29796b4f0630ff46aa44f2578a07063"
+  },
+  {
+    "path": "第二卷/第12章 异端学：“异端”与“分裂”的发明（英文）.md",
+    "bytes": 53604,
+    "sha256": "dc14d866144a88ed0a11323b127728a1bb9ff3788c41b690fb39efb48b09d74b"
+  },
+  {
+    "path": "第二卷/第13章 走向基督教文化的界定：古典文学的基督教转化（中文）.md",
+    "bytes": 69612,
+    "sha256": "0431b226509e5744e2f7e8143639b1e777d05c4a5a0577b42f25853cfcd1f439"
+  },
+  {
+    "path": "第二卷/第13章 走向基督教文化的界定：古典文学的基督教转化（英文）.md",
+    "bytes": 76871,
+    "sha256": "c87b21768f4f3bdfcefd8e44775f0c50ed1128cf144eb6bb71f6e85e6eb48c39"
+  },
+  {
+    "path": "第二卷/第14章 主教与社会（中文）.md",
+    "bytes": 57196,
+    "sha256": "9f0dc2c112d966571831829f6cf838f7100c2cf2e2a52a08a930749d641e5296"
+  },
+  {
+    "path": "第二卷/第14章 主教与社会（英文）.md",
+    "bytes": 67708,
+    "sha256": "221bc94b57c23a9de9fbd071d9ba950ee95651873ccca6b7ac725f188d17bddb"
+  },
+  {
+    "path": "第二卷/第15章 主教会议与大公会议（中文）.md",
+    "bytes": 49673,
+    "sha256": "b56f87ebd21a9d6bdb0203da837d448f66631c770895eda8ab329f75beb821d4"
+  },
+  {
+    "path": "第二卷/第15章 主教会议与大公会议（英文）.md",
+    "bytes": 53757,
+    "sha256": "6e0ecb1f1720d932929bde663ba507748ffa61218957a42e190385b9e4dc3f10"
+  },
+  {
+    "path": "第二卷/第16章 教会法的发展（中文）.md",
+    "bytes": 40529,
+    "sha256": "6ff64130626c1390097ad9da7d074e06c5c2e18342eeb40e691c682d697766c9"
+  },
+  {
+    "path": "第二卷/第16章 教会法的发展（英文）.md",
+    "bytes": 47622,
+    "sha256": "d16527dc1bc9a1058a067897cd48a2e5ad2e7fb1664ec7cd4f21c53924535b1a"
+  },
+  {
+    "path": "第二卷/第17章 教会、社会与政治权力（中文）.md",
+    "bytes": 65605,
+    "sha256": "9ceaaf9f83fea0759ae723ef67917c272d4c8efb1489cd5fc0b72b36e7043781"
+  },
+  {
+    "path": "第二卷/第17章 教会、社会与政治权力（英文）.md",
+    "bytes": 76570,
+    "sha256": "86fe946fb81e7428c83ede0a229232fec35ee6b9454d29443b05832e687c7c1c"
+  },
+  {
+    "path": "第二卷/第18章 论三一（中文）.md",
+    "bytes": 69546,
+    "sha256": "a46754cc8faf54e071e462e11d2699a2e10db56740a102b88951a2e371b74ed3"
+  },
+  {
+    "path": "第二卷/第18章 论三一（英文）.md",
+    "bytes": 84547,
+    "sha256": "1833dac71c628281c31beed21631041646e5deb30f1ae9fcd9cb6fb47ee83850"
+  },
+  {
+    "path": "第二卷/第19章 七世纪以前的基督论史（中文）.md",
+    "bytes": 100969,
+    "sha256": "7540dce7d01279d6f9a8082b275e9a2c204d65627cd9c6b58148f9c4d545299d"
+  },
+  {
+    "path": "第二卷/第19章 七世纪以前的基督论史（英文）.md",
+    "bytes": 115866,
+    "sha256": "f6ebee27943cd48587700d0608689f5cf8e923b2d9f70abb6fe744e688f3b64a"
+  },
+  {
+    "path": "第二卷/第1部分 扉页（中文）.md",
+    "bytes": 91,
+    "sha256": "6e2953f153e7a0e6461b07bcd16ce260e647126971e21639840c76f348927cbd"
+  },
+  {
+    "path": "第二卷/第20章 罪与救恩：经验与反思（中文）.md",
+    "bytes": 77639,
+    "sha256": "4b7cfed38263ee4a870752a6e00d782c54f263443b029de03c9af77ab743140e"
+  },
+  {
+    "path": "第二卷/第20章 罪与救恩：经验与反思（英文）.md",
+    "bytes": 90900,
+    "sha256": "e7635345171ce8b135c76071cfd56b13a42a4019c707414a268772b33e00346d"
+  },
+  {
+    "path": "第二卷/第21章 从安提阿到阿尔勒：处境中的平信徒虔敬（中文）.md",
+    "bytes": 42468,
+    "sha256": "bde3e1ccc0706a250ea95334fbcc2911dacac77da7edcc9cc7e67279ef224471"
+  },
+  {
+    "path": "第二卷/第21章 从安提阿到阿尔勒：处境中的平信徒虔敬（英文）.md",
+    "bytes": 49999,
+    "sha256": "30f4a8ed851bfbf3090389cebb33d64cc61d0622b5b60ab6f6a1607668da6163"
+  },
+  {
+    "path": "第二卷/第22章 圣徒与圣人（中文）.md",
+    "bytes": 43936,
+    "sha256": "5a6b998fbe33ef1bb57d160f34dcdf1e97d25b114aa8da0bb5063400154f9473"
+  },
+  {
+    "path": "第二卷/第22章 圣徒与圣人（英文）.md",
+    "bytes": 53098,
+    "sha256": "0bad863c846831ceb394f364a380791eac39455e682d186956973b8351ae9d4a"
+  },
+  {
+    "path": "第二卷/第23章 牧养与纪律（中文）.md",
+    "bytes": 40608,
+    "sha256": "e85cd5866027c11d5d5c8a03300200be31dab08e1b5713f6de545e0cf001d9f1"
+  },
+  {
+    "path": "第二卷/第23章 牧养与纪律（英文）.md",
+    "bytes": 49391,
+    "sha256": "c06797d6786050e80f146720d46da16412ea970c3df45693dc620d1814dc9298"
+  },
+  {
+    "path": "第二卷/第24章 性、婚姻与家庭（中文）.md",
+    "bytes": 37472,
+    "sha256": "eeba28dc4f9b4a14d1984621b47d0cc65c4d424dde2df89b0e8c852c1b4aa506"
+  },
+  {
+    "path": "第二卷/第24章 性、婚姻与家庭（英文）.md",
+    "bytes": 46104,
+    "sha256": "a3c58c94e6872f7d8d8ae7ff0401e40b047fecb977d18c95d2223ca80e52d42b"
+  },
+  {
+    "path": "第二卷/第25章 礼仪与教会年的发展（中文）.md",
+    "bytes": 37813,
+    "sha256": "c388acfae2920e783997aa9e1107fe0c74f34b63f47c3db683f4b8a5174768dc"
+  },
+  {
+    "path": "第二卷/第25章 礼仪与教会年的发展（英文）.md",
+    "bytes": 46012,
+    "sha256": "6c51e1481ee5b74798ec2b7da3fa0909b53c8f6da596a87a56ecb8cb6d7b3949"
+  },
+  {
+    "path": "第二卷/第26章 圣经诠释（中文）.md",
+    "bytes": 46404,
+    "sha256": "89addfc6bb06c7675694c5073f51c6bda072002824a8734461351d257f7071c5"
+  },
+  {
+    "path": "第二卷/第26章 圣经诠释（英文）.md",
+    "bytes": 53609,
+    "sha256": "82cf0c25118d3120e763c1a24b4ee996824de0071d88a022d273b701c877cb25"
+  },
+  {
+    "path": "第二卷/第27章 禁欲与修道生活之一：东方（中文）.md",
+    "bytes": 74073,
+    "sha256": "0240903a122459529bf622f889cd879f11faca2d8b8693d026b1468d7f8a8655"
+  },
+  {
+    "path": "第二卷/第27章 禁欲与修道生活之一：东方（英文）.md",
+    "bytes": 94412,
+    "sha256": "4729b861ba6585bc3fd72bb0ca150a98970978ca7462346c93222434339b9290"
+  },
+  {
+    "path": "第二卷/第28章 禁欲与修道生活之二：西方（中文）.md",
+    "bytes": 54209,
+    "sha256": "7d2739f5bcfcd392f4d9f83ff2470b33cea9924d44b0c0c17b3236eb2dc79c31"
+  },
+  {
+    "path": "第二卷/第28章 禁欲与修道生活之二：西方（英文）.md",
+    "bytes": 63706,
+    "sha256": "892664bd3f9cbe5d4ea46d2a7b84d21f2f4fe6b9173796fba8144bcf27ae77bd"
+  },
+  {
+    "path": "第二卷/第29章 艺术与信仰传播：300—600年的基督教艺术与建筑（中文）.md",
+    "bytes": 78406,
+    "sha256": "03a9051b326b4d2c8d216389f51c8d68ce50b92850c53864b3edffe23ccfbe1d"
+  },
+  {
+    "path": "第二卷/第29章 艺术与信仰传播：300—600年的基督教艺术与建筑（英文）.md",
+    "bytes": 100212,
+    "sha256": "24efbb1c1002a6e2c8edc0fde70c2cceb94a1c1aec4fc6ae87cced9c49c77d04"
+  },
+  {
+    "path": "第二卷/第2部分 扉页（中文）.md",
+    "bytes": 141,
+    "sha256": "8ad26f7a12520e469f827e90c746926b703f09ec339da1ebb7cefdefd0929e85"
+  },
+  {
+    "path": "第二卷/第3部分 扉页（中文）.md",
+    "bytes": 156,
+    "sha256": "9e8a9ee03b2f2a0d462ab811ec9d3e603b60d07f2b7522ea57e26e370844f7de"
+  },
+  {
+    "path": "第二卷/第4部分 扉页（中文）.md",
+    "bytes": 158,
+    "sha256": "257b15acd06c1983ddd310e4bd9a03f55ef7726ac40e09f51d72c85d8518aa35"
+  },
+  {
+    "path": "第二卷/索引（中文）.md",
+    "bytes": 140282,
+    "sha256": "1240bf62efd58ebfac7d1a086c0d19587151ca8157b9e6412c4213a5e3131405"
+  },
+  {
+    "path": "第二卷/索引（英文）.md",
+    "bytes": 107500,
+    "sha256": "7ac4a5faadb7a0cb4a54bc271a39f74e286bb6707b0bd2b7574a3e172715b9d1"
+  },
+  {
+    "path": "第二卷/缩写表与地图（中文）.md",
+    "bytes": 24473,
+    "sha256": "2a5992bdb9da62cbbaff7e5d5e2297d2d83d4c3aa383b8b4b437f21fb022cd3b"
+  },
+  {
+    "path": "第二卷/翻译规范.md",
+    "bytes": 33077,
+    "sha256": "dc7cc1ad0bd5fb16cd2e033a67d33409693a920b59bf902b5b96d5426e3bcc8e"
+  },
+  {
+    "path": "第五卷/05 东方基督教（中文全译）.md",
+    "bytes": 1880246,
+    "sha256": "4699d950a18009009dd597639bb9e943ddc9f0959e12ed6c78d54f24689d21c9"
+  },
+  {
+    "path": "第五卷/05 东方基督教（英文全文）.md",
+    "bytes": 2169723,
+    "sha256": "c7c61a81e285a80e6d1145ed6d6784a61c1584a8f1253feba96eb0acca9b3b27"
+  },
+  {
+    "path": "第五卷/assets/figure-12-1.png",
+    "bytes": 758197,
+    "sha256": "3542e83023d03e23c12aeac37c7a13376cc4408b0283ae736df953b0689053e2"
+  },
+  {
+    "path": "第五卷/assets/figure-12-2.png",
+    "bytes": 629625,
+    "sha256": "d517f7528e5bad98ac306cf12cc68567046fa72316143ccbfdf8227e2f03c5fe"
+  },
+  {
+    "path": "第五卷/assets/figure-12-3.png",
+    "bytes": 668789,
+    "sha256": "032a12040bcec7a7eadfed14cd903778b5f5f597621ae189d84d44a7e804df5e"
+  },
+  {
+    "path": "第五卷/assets/figure-3-1.png",
+    "bytes": 453585,
+    "sha256": "1d71bd38c1808e06aceb1b791fe4373762b720f34eb4e290c65480b16dd09c1c"
+  },
+  {
+    "path": "第五卷/assets/figure-5-1.png",
+    "bytes": 461909,
+    "sha256": "0b1a13db5ab424b0dd907f3356c3361f0e550f3011d65cb29c71304b99cb442a"
+  },
+  {
+    "path": "第五卷/assets/figure-5-2.png",
+    "bytes": 447064,
+    "sha256": "e9bfcdeea711a2b16b1e5bfcf89988b70cdb6b67db171f878ae3033db028e539"
+  },
+  {
+    "path": "第五卷/assets/figure-5-3.png",
+    "bytes": 428435,
+    "sha256": "97cb6ea45f1ed44254e7ab0b7714ff734f9c80370b4375e4f3c0df73f9546b3a"
+  },
+  {
+    "path": "第五卷/assets/figure-5-4.png",
+    "bytes": 476235,
+    "sha256": "08ba6e4953904d47e0a3a26e90102060fdb5458c3f432adad23ee5d6bf16b3fb"
+  },
+  {
+    "path": "第五卷/assets/figure-5-5.png",
+    "bytes": 266692,
+    "sha256": "c94d736529ecc2a69045a98983dbcc031ddda52a67cde63bf1262313e3add6c6"
+  },
+  {
+    "path": "第五卷/assets/figure-9-1.png",
+    "bytes": 311692,
+    "sha256": "3ec932c4ef8f2054e29b6c7f4089c8c07e4e4e8fc97255ee32458571f644c062"
+  },
+  {
+    "path": "第五卷/assets/figure-9-2.png",
+    "bytes": 229723,
+    "sha256": "242397e4d8706e0c8cc3fa6a17396ae7dfd2d570c449525e168cf2513cb2a9b6"
+  },
+  {
+    "path": "第五卷/assets/map-01.png",
+    "bytes": 59257,
+    "sha256": "60c2710abb53d6a1f788b5c8bcd0bd30f148eb5f73d656d214e7aff459fae4a5"
+  },
+  {
+    "path": "第五卷/assets/map-02.png",
+    "bytes": 35781,
+    "sha256": "66ec1eb0363ef9caec4e7cc5310b0bfffe4564301d79cb3fd324dc627ad36e17"
+  },
+  {
+    "path": "第五卷/assets/map-03.png",
+    "bytes": 42516,
+    "sha256": "89e8afadcf0c93bccdda749a55810eb8355be134bc9efb1bfa80d4765c0724fa"
+  },
+  {
+    "path": "第五卷/assets/map-04.png",
+    "bytes": 55728,
+    "sha256": "6de40b969c3d79554a94aba974b767bd4f1d719937bb4e5db5d04e0f6130f8ac"
+  },
+  {
+    "path": "第五卷/assets/map-05.png",
+    "bytes": 40881,
+    "sha256": "af5108f60ffc3b3125fa807400cc7d22218a2da2c93cbad46ad9365eb6391ae3"
+  },
+  {
+    "path": "第五卷/assets/map-06.png",
+    "bytes": 32150,
+    "sha256": "4ce6003306d413508404ba02d98ac5740e651420b2cefa94fdccfa891990504f"
+  },
+  {
+    "path": "第五卷/assets/map-07.png",
+    "bytes": 57607,
+    "sha256": "2a5351fc21b9b4ef50953b15164e41cba4d57ecb483d7a4ddf6e0b92cca31271"
+  },
+  {
+    "path": "第五卷/assets/pdf-001.png",
+    "bytes": 690371,
+    "sha256": "85c48fa6db9e3d07ae7b73f1d0c4a3a0b132b6482be6af632227a2d0f4708588"
+  },
+  {
+    "path": "第五卷/assets/pdf-006.png",
+    "bytes": 60388,
+    "sha256": "9cffa4bf8cfefbb76ab083172bde3347bc0d0f8868c89a9fae3d76faa0e99f5d"
+  },
+  {
+    "path": "第五卷/assets/pdf-025.png",
+    "bytes": 455792,
+    "sha256": "61154cbbe42e9a4b355f198116ec9f4d2574c11909758b6b221d7033a04986bb"
+  },
+  {
+    "path": "第五卷/assets/pdf-034.png",
+    "bytes": 217913,
+    "sha256": "3821974ab98ae302b4bc4548a19e758827d7050fc1d781baa50fce906dd37c3b"
+  },
+  {
+    "path": "第五卷/assets/pdf-116.png",
+    "bytes": 1137902,
+    "sha256": "4d118ab771c9939bc489a1fffc2c3ff3e597183fff8c4b5829895e95a7184aef"
+  },
+  {
+    "path": "第五卷/assets/pdf-153.png",
+    "bytes": 1167921,
+    "sha256": "4d531eb192fe8e251c63cb93d5011471cf4de8b143936c8541f84e277bd264b9"
+  },
+  {
+    "path": "第五卷/assets/pdf-156.png",
+    "bytes": 1112905,
+    "sha256": "3048f01c60d2be94323eedb238ccbe42ef6f3ec565b58a153169e6dbd0857d34"
+  },
+  {
+    "path": "第五卷/assets/pdf-161.png",
+    "bytes": 1104872,
+    "sha256": "c535ebb8e61d6ef833c5d089e870f09be643d5b71bca9426d94f8c6bd998e9c1"
+  },
+  {
+    "path": "第五卷/assets/pdf-163.png",
+    "bytes": 1206149,
+    "sha256": "1f8885ef584fe4970d97c818b2642c9cea6a1b0415b044bdd9ea6a9f50b1b2a2"
+  },
+  {
+    "path": "第五卷/assets/pdf-170.png",
+    "bytes": 908941,
+    "sha256": "1e876a447dafc24ce21570e31b9286ae9af5aac85d985b8710c87e64f085347a"
+  },
+  {
+    "path": "第五卷/assets/pdf-232.png",
+    "bytes": 380289,
+    "sha256": "0bade7969811a5bb61ef3758fa46d3154a5760537d6232e2295339f82dfffea7"
+  },
+  {
+    "path": "第五卷/assets/pdf-235.png",
+    "bytes": 783947,
+    "sha256": "ad6a6faabe121b2621b2e7ed3ca4df9c03e07983bd77f5ae36112f07356fdfd8"
+  },
+  {
+    "path": "第五卷/assets/pdf-244.png",
+    "bytes": 830500,
+    "sha256": "638aa591f66710d90d367e5f12e28c8873dcd356fd4b505170269356a6b4dbb7"
+  },
+  {
+    "path": "第五卷/assets/pdf-275.png",
+    "bytes": 432822,
+    "sha256": "984b31e44a9a0264beeefa71246f0dd5bf071e87c3fc992c89306c3f4da5254a"
+  },
+  {
+    "path": "第五卷/assets/pdf-301.png",
+    "bytes": 1105483,
+    "sha256": "ea123ec914f8d566222229c86d84656ae8f3259d89ae03ca3f6683e93d7e7fac"
+  },
+  {
+    "path": "第五卷/assets/pdf-305.png",
+    "bytes": 1009440,
+    "sha256": "30f158cba30a993ab10b25e3542f5e56352d655a0459e101862049461d402a74"
+  },
+  {
+    "path": "第五卷/assets/pdf-319.png",
+    "bytes": 966582,
+    "sha256": "14654a0ef322dcb16804032bfab675e7e34ca82b1fdea28f1981c1083dc385fc"
+  },
+  {
+    "path": "第五卷/assets/pdf-395.png",
+    "bytes": 227428,
+    "sha256": "e6b9cad207c6686c0fa216ff578e6363e1cccc06393ff2bdbd168eacf240d7b6"
+  },
+  {
+    "path": "第五卷/assets/pdf-426.png",
+    "bytes": 306168,
+    "sha256": "f8bdcdf3bbf72d677e2c01b75e3043d76073cf8868c8a96692658d9e82258055"
+  },
+  {
+    "path": "第五卷/assets/pdf-479.png",
+    "bytes": 274203,
+    "sha256": "4e60c76b0c3a0d6a8c974f2725ea39ffee49e0abaf3d2b9e172dd1d70beb29d7"
+  },
+  {
+    "path": "第五卷/前言（中文）.md",
+    "bytes": 6930,
+    "sha256": "7b06dec9225417fa347be5c92937453c34a173f3f159a9db7ce6a9cf056705f9"
+  },
+  {
+    "path": "第五卷/前言（英文）.md",
+    "bytes": 7537,
+    "sha256": "beeee90b85371a81b69d9c904f8bbeab46482fcd75357baf8c9d24e119486954"
+  },
+  {
+    "path": "第五卷/卷首资料（中文）.md",
+    "bytes": 17969,
+    "sha256": "1a67ec82f341a6989bc9280e230b1b4dbe8514217875665523b12e84db687904"
+  },
+  {
+    "path": "第五卷/卷首资料（英文）.md",
+    "bytes": 16492,
+    "sha256": "bcd93466d8579589df9149a347dc4909b26fc0cd1b10c5a5f3a514a4504c7eac"
+  },
+  {
+    "path": "第五卷/参考书目选编（中文）.md",
+    "bytes": 252262,
+    "sha256": "7ab0f052e63d9bf8b4931043ee128ea48e138d3eaef28d68456bfa941973b5c7"
+  },
+  {
+    "path": "第五卷/参考书目选编（英文）.md",
+    "bytes": 256624,
+    "sha256": "b6e4f9c9391e5d3a02c690f3609d57f3efb5fb18d37ed56074c8898ef539b601"
+  },
+  {
+    "path": "第五卷/第01章 拜占庭共同体（1000—1550年）（中文）.md",
+    "bytes": 139897,
+    "sha256": "0b68631e4022fad91aae6d276c6f45a556156417932ffd15607c0ecbb2fce33f"
+  },
+  {
+    "path": "第五卷/第01章 拜占庭共同体（1000—1550年）（英文）.md",
+    "bytes": 145107,
+    "sha256": "9312a05f44f8424db01472d4123c6e42c644026f44b6f2f1d1826ce0fb91936e"
+  },
+  {
+    "path": "第五卷/第02章 拜占庭与西方（1204—1453年）（中文）.md",
+    "bytes": 68174,
+    "sha256": "ee7ebed1114fd1bc0935935134f5a4a9378c77f246565af58b01d7812c29f35c"
+  },
+  {
+    "path": "第五卷/第02章 拜占庭与西方（1204—1453年）（英文）.md",
+    "bytes": 76376,
+    "sha256": "9b5b67fbcdd417a8c97cae63c5b3251e771d290394f444566c668315e9ae35c7"
+  },
+  {
+    "path": "第五卷/第03章 中世纪拜占庭的平信徒虔敬文化（1054—1453年）（中文）.md",
+    "bytes": 52415,
+    "sha256": "a43c175ea3b7abdb12ba15eaadd29fb84de48d4836856ceb0c503dd39d83bb3a"
+  },
+  {
+    "path": "第五卷/第03章 中世纪拜占庭的平信徒虔敬文化（1054—1453年）（英文）.md",
+    "bytes": 62857,
+    "sha256": "c0a51b6894db18884035ff68f75c1f6c314b0712b914a7728aa5e3c308c8200e"
+  },
+  {
+    "path": "第五卷/第04章 静修主义的兴起（中文）.md",
+    "bytes": 66759,
+    "sha256": "3f8b63f31b41abe7a0329d3c3590257a7924db5509489c674545d18c56e2cbf7"
+  },
+  {
+    "path": "第五卷/第04章 静修主义的兴起（英文）.md",
+    "bytes": 78824,
+    "sha256": "b36a6a2a8767bd36f2b5ea6aab6978fdd68bbfc375be42617df0072a5ce8780b"
+  },
+  {
+    "path": "第五卷/第05章 拜占庭帝国晚期的艺术与礼仪（中文）.md",
+    "bytes": 59853,
+    "sha256": "7280d86875352bb189dd68e855ae4f0106e0b439e30aad7961c7514fb31fb315"
+  },
+  {
+    "path": "第五卷/第05章 拜占庭帝国晚期的艺术与礼仪（英文）.md",
+    "bytes": 68966,
+    "sha256": "e8724cd5119b0a8d78cc19a8091fbaaf8570c2369305742ef640a84076e63121"
+  },
+  {
+    "path": "第五卷/第06章 阿索斯山与奥斯曼人（约1350—1550年）（中文）.md",
+    "bytes": 36869,
+    "sha256": "161fa9f2d0672954d0ee603704e65a34803d949e19cb11c1a05d4ca054aa3ba5"
+  },
+  {
+    "path": "第五卷/第06章 阿索斯山与奥斯曼人（约1350—1550年）（英文）.md",
+    "bytes": 44831,
+    "sha256": "ee1fafd4d3775dee2ce216143ea0e6183c0f6ca6feda7b8f96a7ceb6c5d27259"
+  },
+  {
+    "path": "第五卷/第07章 被囚禁的大教会（1453—1586年）（中文）.md",
+    "bytes": 41838,
+    "sha256": "5c1b67ad5c737910a66f865233d62758de5aa768a0ff7c90f5db5fc82ca6b03e"
+  },
+  {
+    "path": "第五卷/第07章 被囚禁的大教会（1453—1586年）（英文）.md",
+    "bytes": 52774,
+    "sha256": "814e3dc0842be4ca6da11311484a045623a5a74ed25d0076df57baa6315da482"
+  },
+  {
+    "path": "第五卷/第08章 正教与西方：从宗教改革到启蒙运动（中文）.md",
+    "bytes": 53268,
+    "sha256": "6f3a49e5551bd644c4b5fc8d2ed424900530717b25da19e7d037438eb69b00bb"
+  },
+  {
+    "path": "第五卷/第08章 正教与西方：从宗教改革到启蒙运动（英文）.md",
+    "bytes": 69142,
+    "sha256": "ec90fb2424c3c0a089ff7cc7d1f36f99e749e200d722c71dd927700bd95f726d"
+  },
+  {
+    "path": "第五卷/第09章 巴尔斯基与正教共同体（中文）.md",
+    "bytes": 37216,
+    "sha256": "73612b510c1c3e76b9a426b7fde1f00bb9f6a6c68edd83ea13d1983479924a61"
+  },
+  {
+    "path": "第五卷/第09章 巴尔斯基与正教共同体（英文）.md",
+    "bytes": 51269,
+    "sha256": "80948ecf30ebd666ba5668470dad0f823e32852900770b52ec73a7f350acc572"
+  },
+  {
+    "path": "第五卷/第10章 法国大革命的遗产：正教与民族主义（中文）.md",
+    "bytes": 48823,
+    "sha256": "3a2d96ec4356bb8d627c29af1054570eda14d75f933d0e7d6fa5798062b31a0f"
+  },
+  {
+    "path": "第五卷/第10章 法国大革命的遗产：正教与民族主义（英文）.md",
+    "bytes": 59881,
+    "sha256": "9c66445d92dd2e69453bf0011d250e633affddf980551461a41ce0b779fc10aa"
+  },
+  {
+    "path": "第五卷/第11章 俄国的虔敬与正教文化（1380—1589年）（中文）.md",
+    "bytes": 63888,
+    "sha256": "50db2f6ceafbc516801dd8d98f6fc3b015b0aecef1a5203d0df124dd0f27c6cb"
+  },
+  {
+    "path": "第五卷/第11章 俄国的虔敬与正教文化（1380—1589年）（英文）.md",
+    "bytes": 69787,
+    "sha256": "727a9b424d956cddc0eca2f15353ea22c95cd7b8afb3e77b8689473f2bbab01c"
+  },
+  {
+    "path": "第五卷/第12章 俄国的艺术与礼仪：鲁布廖夫及其继承者（中文）.md",
+    "bytes": 59380,
+    "sha256": "2aecb510e17232e1f178dc252f9aa01e37288135ed2f458ad9d69abc87b2d459"
+  },
+  {
+    "path": "第五卷/第12章 俄国的艺术与礼仪：鲁布廖夫及其继承者（英文）.md",
+    "bytes": 68625,
+    "sha256": "4e330664dca74cba439ea8b7a3262baaf7d7b72aca8a43409246c6a9d3d09a77"
+  },
+  {
+    "path": "第五卷/第13章 反宗教改革时代俄国与乌克兰的东正教（中文）.md",
+    "bytes": 53202,
+    "sha256": "f760a98ce742ec18ba1ac1b66151afde150ed8291cc66526ea52b35f8cab5517"
+  },
+  {
+    "path": "第五卷/第13章 反宗教改革时代俄国与乌克兰的东正教（英文）.md",
+    "bytes": 65694,
+    "sha256": "5eecf24528c8a320844c3b4b4de2c99bf5fd109f0731b84087fb348f53ed2efd"
+  },
+  {
+    "path": "第五卷/第14章 俄罗斯帝国时期的俄罗斯东正教会（1721—1917年）（中文）.md",
+    "bytes": 64794,
+    "sha256": "2e84c729bb0e4f90282a0c950045519011da786fbfe94fbd26796902d5d88eed"
+  },
+  {
+    "path": "第五卷/第14章 俄罗斯帝国时期的俄罗斯东正教会（1721—1917年）（英文）.md",
+    "bytes": 74870,
+    "sha256": "d06542bbd3486cb998e8104d54b93668c22c2e47574261dacc522c2bc5e9f4f2"
+  },
+  {
+    "path": "第五卷/第15章 从彼得大帝到1917年的俄国虔敬与文化（中文）.md",
+    "bytes": 55383,
+    "sha256": "a256399896be769d5d56c176866096e07d85b11e7a6e9e909df05587bea02016"
+  },
+  {
+    "path": "第五卷/第15章 从彼得大帝到1917年的俄国虔敬与文化（英文）.md",
+    "bytes": 70995,
+    "sha256": "fd4253084a2b30f1ee8f4d725df00698948dc49f8ccc2347e0df534425cac758"
+  },
+  {
+    "path": "第五卷/第16章 东方基督教诸形态（十一至十四世纪）：科普特人、麦勒凯派、涅斯托里乌斯派与雅各派（中文）.md",
+    "bytes": 72134,
+    "sha256": "ed7e2331afd70ec46e03c905e620a83d81f2566e930622d15895c617832c064a"
+  },
+  {
+    "path": "第五卷/第16章 东方基督教诸形态（十一至十四世纪）：科普特人、麦勒凯派、涅斯托里乌斯派与雅各派（英文）.md",
+    "bytes": 92813,
+    "sha256": "5798fdcc10eb01e80a10a6de2ce9fefb2cf8d15445bd7b698592e3c8849d1fb3"
+  },
+  {
+    "path": "第五卷/第17章 十字军时代的亚美尼亚人（1050—1350年）（中文）.md",
+    "bytes": 63012,
+    "sha256": "c047b6e62ae62edfe2f8993ce046c6bd0532f499c8c8e0902fe7312055a27eea"
+  },
+  {
+    "path": "第五卷/第17章 十字军时代的亚美尼亚人（1050—1350年）（英文）.md",
+    "bytes": 76397,
+    "sha256": "425949c8298422132b5c8346f72e38d438a45bb30910b92c72a393d78e643a9b"
+  },
+  {
+    "path": "第五卷/第18章 教会与离散：亚美尼亚人的个案（中文）.md",
+    "bytes": 58658,
+    "sha256": "0724d1341ae8025c87b40b0419bbad52316e5cbbf8b1be7824af0433a76f3025"
+  },
+  {
+    "path": "第五卷/第18章 教会与离散：亚美尼亚人的个案（英文）.md",
+    "bytes": 76490,
+    "sha256": "e8b246f0b1e64751c4856f1ad4f2ffcf9ed415f5996b32a2d06a47f26d1ae6ff"
+  },
+  {
+    "path": "第五卷/第19章 教会与民族：埃塞俄比亚正统合一教会（十三至二十世纪）（中文）.md",
+    "bytes": 72424,
+    "sha256": "3951b15dd056bf916aa519eca82130a0bf4b89a475d73165916a9f7089b42fce"
+  },
+  {
+    "path": "第五卷/第19章 教会与民族：埃塞俄比亚正统合一教会（十三至二十世纪）（英文）.md",
+    "bytes": 96525,
+    "sha256": "a536e351039b5e626c52b0b3e9cef08fe850ae7efebff6204fbff154b67de3a3"
+  },
+  {
+    "path": "第五卷/第20章 现代埃及的科普特基督教（中文）.md",
+    "bytes": 42715,
+    "sha256": "da038ea6e3474b17c967ef5f5306b13f7dc95f3cd3e67a3b1cd612eb5970db89"
+  },
+  {
+    "path": "第五卷/第20章 现代埃及的科普特基督教（英文）.md",
+    "bytes": 68784,
+    "sha256": "9fa3c787324f880994889384092f0d46dc87ab14b477259157665d71460e255a"
+  },
+  {
+    "path": "第五卷/第21章 现代中东的叙利亚传统基督教（中文）.md",
+    "bytes": 48090,
+    "sha256": "9b5b85ebedff9a45048f91e2865e9c45f55daa0a09f38afbb3e036f4b2087a83"
+  },
+  {
+    "path": "第五卷/第21章 现代中东的叙利亚传统基督教（英文）.md",
+    "bytes": 75128,
+    "sha256": "f08a3b9c89c93c41fe682e8335420527df5dc52b0a3ca87afb3e67c251d171c8"
+  },
+  {
+    "path": "第五卷/第22章 俄国流亡者的离散问题（中文）.md",
+    "bytes": 30171,
+    "sha256": "ba13db70c71b14db613e679b3d3b6da6ce983755ca5ecebb209f23c36da05c49"
+  },
+  {
+    "path": "第五卷/第22章 俄国流亡者的离散问题（英文）.md",
+    "bytes": 53652,
+    "sha256": "7f8a599bcae762d767d73c47cc548c0348d16239f418130aa08bf26126c211c4"
+  },
+  {
+    "path": "第五卷/第23章 东正教会与共产主义（中文）.md",
+    "bytes": 30257,
+    "sha256": "9bd6f6b52b3d70a163d9f2606bd0ef6c6a1c6a5c7f349ba211ef7e1799426026"
+  },
+  {
+    "path": "第五卷/第23章 东正教会与共产主义（英文）.md",
+    "bytes": 60660,
+    "sha256": "3607296f1996b193a7043215d70744edba56396cdfeb355b136f3a19966da59c"
+  },
+  {
+    "path": "第五卷/第24章 现代灵修与东正教会（中文）.md",
+    "bytes": 45022,
+    "sha256": "b9f706193257819cfd7bc060ac6788b8b5bef79ebaf06201c94b663e14050c7c"
+  },
+  {
+    "path": "第五卷/第24章 现代灵修与东正教会（英文）.md",
+    "bytes": 57489,
+    "sha256": "ce0cf24d6745d8f8e809839aa1f790240bf6adb2bcd1ed3793270e957b1a8fda"
+  },
+  {
+    "path": "第五卷/第一编 普世牧首区（中文）.md",
+    "bytes": 271,
+    "sha256": "b88709f2b046bc17b9aad7ecf5b805007ff74bd5e3bafded7a51ea6991ad0ff5"
+  },
+  {
+    "path": "第五卷/第一编 普世牧首区（英文）.md",
+    "bytes": 267,
+    "sha256": "0d108780851a57e5323f3ef28b791d86163293cf7f61182f765b04c9511e423d"
+  },
+  {
+    "path": "第五卷/第三编 东方基督教诸形态（中文）.md",
+    "bytes": 177,
+    "sha256": "65be3dcd4abb293ad872e11ad59211c1c4a92cfd2e5cff8266071526f9544970"
+  },
+  {
+    "path": "第五卷/第三编 东方基督教诸形态（英文）.md",
+    "bytes": 274,
+    "sha256": "70f731adf05be24d5f1ea83b5630df04f457594f7eb72fb6bb26e5cb46a5506a"
+  },
+  {
+    "path": "第五卷/第二编 俄罗斯教会（中文）.md",
+    "bytes": 168,
+    "sha256": "57738835caf8d8f9e8e400da519e7def8103339cc58e2a0e406187e005360d21"
+  },
+  {
+    "path": "第五卷/第二编 俄罗斯教会（英文）.md",
+    "bytes": 252,
+    "sha256": "71f0fe55d0a3e84c8be6fdd473cebd7be9b78d6069f5481ebc909bf8458ee38e"
+  },
+  {
+    "path": "第五卷/第四编 现代世界（中文）.md",
+    "bytes": 158,
+    "sha256": "5f9ee9b802568e8b1986791d196fc3a097c83aced51a0dbdada8eb5e7b0e24f0"
+  },
+  {
+    "path": "第五卷/第四编 现代世界（英文）.md",
+    "bytes": 246,
+    "sha256": "2aa3ab6ed4a35bd8cf3a809f12f49228a5a10da7f80d3941e9fa968c392ef054"
+  },
+  {
+    "path": "第五卷/索引（中文）.md",
+    "bytes": 230375,
+    "sha256": "07d03c343540602f5343c2c8669dc768de296ff987cd7aefb8ab9adc097966fa"
+  },
+  {
+    "path": "第五卷/索引（英文）.md",
+    "bytes": 155087,
+    "sha256": "5077a4db3844b16073c2bad469e07687627285614e13e2aa392fbcc703d7dbd8"
+  },
+  {
+    "path": "第五卷/缩略语（中文）.md",
+    "bytes": 5020,
+    "sha256": "36531b7eb83164b097781a0535364b28ba917625070ea94607b79dbf572124aa"
+  },
+  {
+    "path": "第五卷/缩略语（英文）.md",
+    "bytes": 2689,
+    "sha256": "9af292af80a4309048f1d3def4d3fff40d3e4869cf6c5a3ef2450cab93410d01"
+  },
+  {
+    "path": "第五卷/翻译规范.md",
+    "bytes": 25919,
+    "sha256": "3eb247b1a55ae6ba41da48683b3b9543e2f3299e25715d58bc74298ccc691548"
+  },
+  {
+    "path": "第八卷/08 世界基督教（1815-1914）（中文全译）.md",
+    "bytes": 1601839,
+    "sha256": "c5aad79da7501d75da703a597d7c7952d21169ee226582939625e30717fb3071"
+  },
+  {
+    "path": "第八卷/08 世界基督教（1815-1914）（英文全文）.md",
+    "bytes": 1941042,
+    "sha256": "f74844c7714d32f73f6da799d6277b774d8f4989a5732c1308863a2f00f85d17"
+  },
+  {
+    "path": "第八卷/assets/pdf-001.png",
+    "bytes": 345255,
+    "sha256": "57059c6ad2912bf032b0044c419b4b944c9e69cbbf181672d9760bb84a4687ea"
+  },
+  {
+    "path": "第八卷/assets/pdf-004.png",
+    "bytes": 46219,
+    "sha256": "d6b9a821308aa888ecf394a43b4deb6267544ef2ebf7d39aa234d461690e222a"
+  },
+  {
+    "path": "第八卷/卷首资料（中文）.md",
+    "bytes": 33435,
+    "sha256": "d1faf775b231dd0f3d7dee9d52acc3e23eba7acecbaf43b701f35c2892a5043e"
+  },
+  {
+    "path": "第八卷/卷首资料（英文）.md",
+    "bytes": 36147,
+    "sha256": "e645a948486a9dfd25a7cd36913b4ba48f1a94ee02b3421e278921df60abc28a"
+  },
+  {
+    "path": "第八卷/参考书目（中文）.md",
+    "bytes": 166617,
+    "sha256": "6c79c72ff71cba30dc81f180e3f44582ed88663eda1c27eb587fad7249722c37"
+  },
+  {
+    "path": "第八卷/参考书目（英文）.md",
+    "bytes": 165817,
+    "sha256": "3e6b7f52d45fd0f839462c6f7a59a2a9d9d966b5a598b5937b08a090f189f99f"
+  },
+  {
+    "path": "第八卷/第01章 导论（中文）.md",
+    "bytes": 19989,
+    "sha256": "7b68649e105efad76e9b8d2e4b98faa8e8c0438ea458b5d7d328c179153b9edc"
+  },
+  {
+    "path": "第八卷/第01章 导论（英文）.md",
+    "bytes": 24626,
+    "sha256": "30f6b25600a7c77a20937e7a765aa5c9954d5b90ba3b27fac645273504726a13"
+  },
+  {
+    "path": "第八卷/第02章 教皇制度（中文）.md",
+    "bytes": 40886,
+    "sha256": "feb810a7c86411528b109b4bb0524881db4349589d151704a600f6e14ef6abb0"
+  },
+  {
+    "path": "第八卷/第02章 教皇制度（英文）.md",
+    "bytes": 46943,
+    "sha256": "5af665a57bf70bedab70ce3453fe69be43cbe122a27653eccd72735f256d7807"
+  },
+  {
+    "path": "第八卷/第03章 神学与反抗启蒙运动（中文）.md",
+    "bytes": 48939,
+    "sha256": "fa81669fe8fe13afa16b296e2e1a69e05e97e4d95eeb970dc231162fad91ab88"
+  },
+  {
+    "path": "第八卷/第03章 神学与反抗启蒙运动（英文）.md",
+    "bytes": 61865,
+    "sha256": "81a7193dfb6ec14d5687247026052c06276212d4d9b4b76b41c85d753c515a6d"
+  },
+  {
+    "path": "第八卷/第04章 自愿性宗教的增长（中文）.md",
+    "bytes": 33777,
+    "sha256": "7fa735f015f4ee93fd342e7fecb46fc7ddc5999c99d35df71bad932c95068e2b"
+  },
+  {
+    "path": "第八卷/第04章 自愿性宗教的增长（英文）.md",
+    "bytes": 47692,
+    "sha256": "fbba230418c0ab06e742938762eb66106ce4b25b24577d12019c2267cca9dbbc"
+  },
+  {
+    "path": "第八卷/第05章 礼拜与灵修中的天主教复兴（中文）.md",
+    "bytes": 28204,
+    "sha256": "d30cdfa849567b6df7cb6f995f86669c8f1268d9f4cf9062c7dc4bc757ec3c13"
+  },
+  {
+    "path": "第八卷/第05章 礼拜与灵修中的天主教复兴（英文）.md",
+    "bytes": 41051,
+    "sha256": "783e32cec908784fef50ce4fc578c1aa6b91d2c8def3883e08db510e61f3700b"
+  },
+  {
+    "path": "第八卷/第06章 女性讲道人与新修会（中文）.md",
+    "bytes": 35911,
+    "sha256": "764c4213b234b40abfcdb31b42ed0071c0c4d27c8c127c6b219e4af4e154e25d"
+  },
+  {
+    "path": "第八卷/第06章 女性讲道人与新修会（英文）.md",
+    "bytes": 53239,
+    "sha256": "151f5533b271814068ed2c5291e1ef663ed54a4536bd81e289caa1d6ed4ba720"
+  },
+  {
+    "path": "第八卷/第07章 教会建筑与宗教艺术（中文）.md",
+    "bytes": 36447,
+    "sha256": "e03b6e897d7054c73a1f9b4a0e407b1974cde369bad5c15fc8a4a5782bc428e3"
+  },
+  {
+    "path": "第八卷/第07章 教会建筑与宗教艺术（英文）.md",
+    "bytes": 50557,
+    "sha256": "9ff1b19f8adb086fd80d3461465ba2d8608ef24290537828dc76f6f6329ba00f"
+  },
+  {
+    "path": "第八卷/第08章 音乐潮流与西方教会：“古”与“今”的碰撞（中文）.md",
+    "bytes": 30120,
+    "sha256": "ae40696f495484e8ad66d4a2f808bc18915c798bd1314c04482f0b29deba6d51"
+  },
+  {
+    "path": "第八卷/第08章 音乐潮流与西方教会：“古”与“今”的碰撞（英文）.md",
+    "bytes": 43784,
+    "sha256": "7d8819770f3fa10f3c51c0264813b6514d530ff1d9f90c599c5a7c3fd551b9e2"
+  },
+  {
+    "path": "第八卷/第09章 基督教与英语文学（中文）.md",
+    "bytes": 12505,
+    "sha256": "ee4bfe95520200c451a99445a1d4e7819fdc8cbedaf4e06f5108948ceec3e930"
+  },
+  {
+    "path": "第八卷/第09章 基督教与英语文学（英文）.md",
+    "bytes": 16218,
+    "sha256": "bd62cab6d119c3803390c8f1653206d5da01e3b2f28ca3ed2029bc29a89bcade"
+  },
+  {
+    "path": "第八卷/第10章 基督教社会思想（中文）.md",
+    "bytes": 40254,
+    "sha256": "97ba0b0abbcf1cefc1d1b61e69ed833f55f1bee91739490b2d19a32bb9d8c08d"
+  },
+  {
+    "path": "第八卷/第10章 基督教社会思想（英文）.md",
+    "bytes": 60875,
+    "sha256": "979f3524d129c1e937684c193520ae495bd7c66eaf1a44baad64cddbea9fc278"
+  },
+  {
+    "path": "第八卷/第11章 基督教与科学（中文）.md",
+    "bytes": 43518,
+    "sha256": "157e9fad9e83728ef57bb785d0d028bf8d717d41e1639201ce328f60c29d28c4"
+  },
+  {
+    "path": "第八卷/第11章 基督教与科学（英文）.md",
+    "bytes": 50279,
+    "sha256": "442b56c113c1a8fbdfea706ec9df54647a7610ba293149bd715614b9bbd58142"
+  },
+  {
+    "path": "第八卷/第12章 历史与《圣经》（中文）.md",
+    "bytes": 37122,
+    "sha256": "7f9c225646f2f62f9b9a617b3f817f9237cb197f9e9d1dc2761037818d07b1bd"
+  },
+  {
+    "path": "第八卷/第12章 历史与《圣经》（英文）.md",
+    "bytes": 44824,
+    "sha256": "36510ec52060c743c38eb7b5879cf185e4f484af516d13481f0a8afc81689715"
+  },
+  {
+    "path": "第八卷/第13章 城乡民众宗教与不信宗教（中文）.md",
+    "bytes": 39901,
+    "sha256": "a9c6b2a1e537a67d4ecd6f0b12ed76f49fdfa10ea339399b2f23e11d2a8bc52f"
+  },
+  {
+    "path": "第八卷/第13章 城乡民众宗教与不信宗教（英文）.md",
+    "bytes": 48958,
+    "sha256": "275f1d3dc8c0131e9fae1c33573669fd6bf3412ec3bb079d1f5813d8d3a6189e"
+  },
+  {
+    "path": "第八卷/第14章 法国的天主教：从王朝复辟到政教分离（1815—1905年）（中文）.md",
+    "bytes": 36651,
+    "sha256": "4bf3923c5437ef0d8d6a42e88d93c57692a57672b712051fa76385f00923def0"
+  },
+  {
+    "path": "第八卷/第14章 法国的天主教：从王朝复辟到政教分离（1815—1905年）（英文）.md",
+    "bytes": 45946,
+    "sha256": "a4168a82927eb79182817f301096c32f5fb38f622a3e6520628665e36661a11a"
+  },
+  {
+    "path": "第八卷/第15章 意大利：教会与民族复兴运动（中文）.md",
+    "bytes": 39957,
+    "sha256": "84eb7ca4f0c248d3ecf174b59ae82c9e01ea26f58bbab5e3eb99612a2db290f6"
+  },
+  {
+    "path": "第八卷/第15章 意大利：教会与民族复兴运动（英文）.md",
+    "bytes": 48640,
+    "sha256": "0f4eb23e66ab199e63abd05dedc6f2c5f379f547ba107f25b481248b12cfd58f"
+  },
+  {
+    "path": "第八卷/第16章 天主教、爱尔兰与爱尔兰离散群体（中文）.md",
+    "bytes": 23785,
+    "sha256": "297af8da33488b07bc05867560a3facc045820c31f2662fe3af9ed9829e79bc0"
+  },
+  {
+    "path": "第八卷/第16章 天主教、爱尔兰与爱尔兰离散群体（英文）.md",
+    "bytes": 26760,
+    "sha256": "49c90638e35b540f3ca8d87016511e1f4699ef8ab013cbe050572fa98a1d7891"
+  },
+  {
+    "path": "第八卷/第17章 大匈牙利与波兰的天主教民族主义（中文）.md",
+    "bytes": 46793,
+    "sha256": "7525650bfe158fa0182c2878a7fb3ada288d535e3e2af66281cd7f077a25b55a"
+  },
+  {
+    "path": "第八卷/第17章 大匈牙利与波兰的天主教民族主义（英文）.md",
+    "bytes": 61855,
+    "sha256": "f6b0cfe222a72981a7ea73384738327228107560acbdede9deb04557b8c923e8"
+  },
+  {
+    "path": "第八卷/第18章 基督教与德意志的建立（中文）.md",
+    "bytes": 42173,
+    "sha256": "77c06414caa7edc8124f2ad89eda548c2065c769f9e5a0a7583d4ceeb791bb1f"
+  },
+  {
+    "path": "第八卷/第18章 基督教与德意志的建立（英文）.md",
+    "bytes": 53487,
+    "sha256": "5197d68bed930153ed99618efc59ee25907e72fccaa303a49c3e847476e1c382"
+  },
+  {
+    "path": "第八卷/第19章 圣公会、长老宗与联合王国的宗教认同（中文）.md",
+    "bytes": 50541,
+    "sha256": "18faba09ebc0be50fd755325df0ee17a15783da3f41cc6e6f94103335a609719"
+  },
+  {
+    "path": "第八卷/第19章 圣公会、长老宗与联合王国的宗教认同（英文）.md",
+    "bytes": 63193,
+    "sha256": "b1274dbd0a4c880bef6baa1088ae7b1c5cb7061605baab834f1bd107b34f18a7"
+  },
+  {
+    "path": "第八卷/第20章 新教的主导地位与宗派政治：瑞士和荷兰（中文）.md",
+    "bytes": 41318,
+    "sha256": "ca940449ba76a8c7774194966f15e1e93f4b44963c00d99dbad85308374902bf"
+  },
+  {
+    "path": "第八卷/第20章 新教的主导地位与宗派政治：瑞士和荷兰（英文）.md",
+    "bytes": 51358,
+    "sha256": "8f246d085eb12562e396b1f9ed5d8afc729e00d01b183b799aeb38836d79fb63"
+  },
+  {
+    "path": "第八卷/第21章 斯堪的纳维亚：路德宗与民族认同（中文）.md",
+    "bytes": 35644,
+    "sha256": "e6a2f4f370ddde689af70019ba8660bbf4b6912f9e2af4fcf5e02ccbfbf09c53"
+  },
+  {
+    "path": "第八卷/第21章 斯堪的纳维亚：路德宗与民族认同（英文）.md",
+    "bytes": 47229,
+    "sha256": "3b370ef57d5596584c9ae6da0992ee925258e694e195dd32744403c91d3dae08"
+  },
+  {
+    "path": "第八卷/第22章 “基督教美国”与“基督教加拿大”（中文）.md",
+    "bytes": 51401,
+    "sha256": "a2af81b9fe96a711e89b3a91968ca8afbb0fd0800871800b5ee999a9ea5a2df8"
+  },
+  {
+    "path": "第八卷/第22章 “基督教美国”与“基督教加拿大”（英文）.md",
+    "bytes": 61858,
+    "sha256": "925a1aa7f6ad731391af83ba276105ae6d972e4df00d14c19f259bf4c9b96f8d"
+  },
+  {
+    "path": "第八卷/第23章 西班牙与葡萄牙：教会面临的挑战（中文）.md",
+    "bytes": 32636,
+    "sha256": "f6fb9b494110c314940bbf4f77868bcba84fc94716f1573f2fda99fc4fcf3973"
+  },
+  {
+    "path": "第八卷/第23章 西班牙与葡萄牙：教会面临的挑战（英文）.md",
+    "bytes": 39419,
+    "sha256": "179a0660872288a498e57f197f64cd69dd2ecb813fcff959da03ea2f15c43bb2"
+  },
+  {
+    "path": "第八卷/第24章 拉丁美洲：教会与民族独立（中文）.md",
+    "bytes": 39258,
+    "sha256": "2190c9e7443f93d14fd916dc6a7b6f0b93d978ba4721a71a280d3260fa4e8d43"
+  },
+  {
+    "path": "第八卷/第24章 拉丁美洲：教会与民族独立（英文）.md",
+    "bytes": 47674,
+    "sha256": "02449d1452381a47560546316106657bef5e9d4ba371b1dd617bf620391b31eb"
+  },
+  {
+    "path": "第八卷/第25章 东西方之间：东方天主教（“合一派”）教会（中文）.md",
+    "bytes": 32595,
+    "sha256": "3e631f4d1252b01c7eac69f8060eef490965e25eb5afae6dff8dd7e2ec8b7ae0"
+  },
+  {
+    "path": "第八卷/第25章 东西方之间：东方天主教（“合一派”）教会（英文）.md",
+    "bytes": 35178,
+    "sha256": "c4189df3d1e4394d7d15dc26f8d37a5f6d106158acfa6ca9a9c9e15562842ae3"
+  },
+  {
+    "path": "第八卷/第26章 非裔美国人的基督教（中文）.md",
+    "bytes": 33171,
+    "sha256": "acdb8b7e27de0ae83d39d26c970529dee17764d8be0e4d9e183d1d8f07135420"
+  },
+  {
+    "path": "第八卷/第26章 非裔美国人的基督教（英文）.md",
+    "bytes": 38783,
+    "sha256": "541f58fc11793c599d12e988651e6579b8991ac76dd463fa76ee134e24ccf380"
+  },
+  {
+    "path": "第八卷/第27章 基督教传教、反奴隶制与人道诉求（约1813—1873年）（中文）.md",
+    "bytes": 34484,
+    "sha256": "594cf244d8e1a8e5c9a6f4a389316a148bae7baf99c5df2e10bc6aacb60a5cd5"
+  },
+  {
+    "path": "第八卷/第27章 基督教传教、反奴隶制与人道诉求（约1813—1873年）（英文）.md",
+    "bytes": 42281,
+    "sha256": "1b092078c392d4fc55013d1fb6f007b23cb97517c297c49372b019c25fd60f25"
+  },
+  {
+    "path": "第八卷/第28章 中东：西方传教事业与东方教会、伊斯兰教、犹太教（中文）.md",
+    "bytes": 30954,
+    "sha256": "451e06f5fe61f9997bbfc29e37d3f6fa3115a63cad00d949f97cc69b877b2231"
+  },
+  {
+    "path": "第八卷/第28章 中东：西方传教事业与东方教会、伊斯兰教、犹太教（英文）.md",
+    "bytes": 40890,
+    "sha256": "2d9d0cf1835fd9ab487092f27fb13041bad5845ced4582b43613cd4f1150cda8"
+  },
+  {
+    "path": "第八卷/第29章 英属印度帝国的基督徒与宗教传统（中文）.md",
+    "bytes": 49578,
+    "sha256": "0ad81c60be788856230aff82090f3d208301186bdf4adcc606312c579df78a55"
+  },
+  {
+    "path": "第八卷/第29章 英属印度帝国的基督徒与宗教传统（英文）.md",
+    "bytes": 57510,
+    "sha256": "a65d8f58924d20e5bcbaaea04e29943fb79e02c5e23777fc3d6b400eb1adf794"
+  },
+  {
+    "path": "第八卷/第30章 东亚的基督教：中国、朝鲜与日本（中文）.md",
+    "bytes": 39668,
+    "sha256": "00bcbe2ea6822a5668a9bb3f0c5cec973c6d459f86b9c8bf28886738811b2282"
+  },
+  {
+    "path": "第八卷/第30章 东亚的基督教：中国、朝鲜与日本（英文）.md",
+    "bytes": 55339,
+    "sha256": "7aa12757bb44686b755c4904a4fb1a1998c75b589b730669a6052772afedff64"
+  },
+  {
+    "path": "第八卷/第31章 印度支那的基督教（中文）.md",
+    "bytes": 28031,
+    "sha256": "23a16f564f5c3a8b5e10c5af3191ef64dd1fb7fad1d96b1ef83be455f12484ae"
+  },
+  {
+    "path": "第八卷/第31章 印度支那的基督教（英文）.md",
+    "bytes": 39647,
+    "sha256": "b8eb54644282a373305ed7ad8584a95fad711079a03a7997a82225c674a8eca2"
+  },
+  {
+    "path": "第八卷/第32章 作为教会与叙事的基督教，以及十九世纪菲律宾民族的诞生（中文）.md",
+    "bytes": 30474,
+    "sha256": "3df72edd95e24a4f24630c992df7e2f940b1363039cbaffe33133a1b535ca0f0"
+  },
+  {
+    "path": "第八卷/第32章 作为教会与叙事的基督教，以及十九世纪菲律宾民族的诞生（英文）.md",
+    "bytes": 37319,
+    "sha256": "1338f8dcab3b75524dfb7b033874f9c5892375ba452dc56f098070642ba0f62d"
+  },
+  {
+    "path": "第八卷/第33章 澳大拉西亚与太平洋的基督教（中文）.md",
+    "bytes": 39330,
+    "sha256": "bf0bc53b7a85b0c503d01e001d7ec8536cdf26ec094765cb7c48df98900410ad"
+  },
+  {
+    "path": "第八卷/第33章 澳大拉西亚与太平洋的基督教（英文）.md",
+    "bytes": 49206,
+    "sha256": "efcf4437510ab4b2dc89fe9464f7b3411277e31b0044ed1b3a3922b065447013"
+  },
+  {
+    "path": "第八卷/第34章 传教与帝国（约1873—1914年）（中文）.md",
+    "bytes": 35112,
+    "sha256": "62d3c128cace0899e334adfa7b4ccf2dc251d380c60d65317710e1005597bb64"
+  },
+  {
+    "path": "第八卷/第34章 传教与帝国（约1873—1914年）（英文）.md",
+    "bytes": 45061,
+    "sha256": "2af04d09c5eda9f9de538cb28d2b38243bd01baa3f692f6605e793245c78d66b"
+  },
+  {
+    "path": "第八卷/第35章 埃塞俄比亚主义与现代非洲基督教的根源（中文）.md",
+    "bytes": 37673,
+    "sha256": "988fe3d012d229324bc5e6cb3ec4386c9e121ce68e6c780d70b37f52c4f20940"
+  },
+  {
+    "path": "第八卷/第35章 埃塞俄比亚主义与现代非洲基督教的根源（英文）.md",
+    "bytes": 47740,
+    "sha256": "f97173895b617a601d6a20644179b44075e576f885dd0088b720c3eb6ef4d09c"
+  },
+  {
+    "path": "第八卷/第36章 1914年基督教的前景（中文）.md",
+    "bytes": 15246,
+    "sha256": "15be946aa644fe6111fe37ac580cf60233b1aa7f5436fac500ac0faef423db8b"
+  },
+  {
+    "path": "第八卷/第36章 1914年基督教的前景（英文）.md",
+    "bytes": 20589,
+    "sha256": "542e6d720cebed3c48e50ec941dc1ff7a86e00258a3ccb53f50817e341d58035"
+  },
+  {
+    "path": "第八卷/第一编 基督教与现代性（中文）.md",
+    "bytes": 200,
+    "sha256": "4c8c070f9ffac1957ccf921d9d32eb9a6bec699beaaec3a8c725a4a45b1fcd3f"
+  },
+  {
+    "path": "第八卷/第一编 基督教与现代性（英文）.md",
+    "bytes": 264,
+    "sha256": "96e1f489b734067c6bf0801c60aa0a1e924998d45a673d74a12c5271ffc736cf"
+  },
+  {
+    "path": "第八卷/第三编 基督教的扩展（中文）.md",
+    "bytes": 166,
+    "sha256": "d8f5d18a94f52faae42817af10837a07440403a62c6342f826c2d59bf127d1b9"
+  },
+  {
+    "path": "第八卷/第三编 基督教的扩展（英文）.md",
+    "bytes": 272,
+    "sha256": "e4c6021d4caa689d374ba4feaa66590815218484ed1e1a2d8696ac44fb72fa2b"
+  },
+  {
+    "path": "第八卷/第二编 教会与民族认同（中文）.md",
+    "bytes": 204,
+    "sha256": "9151df1eb66d99a4ebfc808de8a7b401af5cd7ac5c1d14609a37e11ed4a64dbb"
+  },
+  {
+    "path": "第八卷/第二编 教会与民族认同（英文）.md",
+    "bytes": 285,
+    "sha256": "810bfc348953f5903998fb09a9a5c507e2a3abdb2e3ee0056d82781ba1e9c93a"
+  },
+  {
+    "path": "第八卷/索引（中文）.md",
+    "bytes": 103667,
+    "sha256": "45412968d1947d647c164ef64c20b2c333212dcc0359c6588d06a7df2c5bd834"
+  },
+  {
+    "path": "第八卷/索引（英文）.md",
+    "bytes": 85487,
+    "sha256": "dae76ec8435d60be5fc6e92c450eef4848a8193b2fd30c3e21c08427c27aba7e"
+  },
+  {
+    "path": "第八卷/翻译规范.md",
+    "bytes": 2583,
+    "sha256": "c0f6f344199a80b0e089debfec315da53a665fe716e4887cc6ce64ebd479de65"
+  },
+  {
+    "path": "第六卷/06 改革与扩张（中文全译）.md",
+    "bytes": 1803161,
+    "sha256": "6eafc4be1f3d0163097d3958535af58b9399286ad50321126d2a043bed45d752"
+  },
+  {
+    "path": "第六卷/06 改革与扩张（英文全文）.md",
+    "bytes": 2186018,
+    "sha256": "03d7aabf2fbc51092dc8baf62738bff07187ec4fe20bbc7e2e9df1413ed627e1"
+  },
+  {
+    "path": "第六卷/assets/figure-01a.jpg",
+    "bytes": 175429,
+    "sha256": "c8e2309b310477787342654486d40e8e5bce38984f8f2f7957aaa2c9e3266715"
+  },
+  {
+    "path": "第六卷/assets/figure-01b.jpg",
+    "bytes": 210807,
+    "sha256": "1f709c190c4eaea0b32ba21d7612907aab666704b8a669cc97d84c29ad770718"
+  },
+  {
+    "path": "第六卷/assets/figure-02.jpg",
+    "bytes": 63141,
+    "sha256": "3c84345d15b2c1f8a5e790ebce0ff730a6f99302f4bb4c2c52cfbac4cf2b91c8"
+  },
+  {
+    "path": "第六卷/assets/figure-03.jpg",
+    "bytes": 76012,
+    "sha256": "1e7da70472a101195d2ffec481a6ff19cdf8dbc72751d6083feb3687c38b2372"
+  },
+  {
+    "path": "第六卷/assets/figure-04.jpg",
+    "bytes": 88950,
+    "sha256": "f2d5088769881cb1552377adff5cfc5796db352578cb0061a8f35282993f17bd"
+  },
+  {
+    "path": "第六卷/assets/figure-05.jpg",
+    "bytes": 96443,
+    "sha256": "f42c86b4d6b344dbab6a4011070544fbc92de3244cc3c6770de6154994c5a0e8"
+  },
+  {
+    "path": "第六卷/assets/figure-06.jpg",
+    "bytes": 75480,
+    "sha256": "78d4defcee8862eb569029fda4bdeb81b46cd1b3a4272c9b7446343ddc9dae53"
+  },
+  {
+    "path": "第六卷/assets/figure-07.jpg",
+    "bytes": 88720,
+    "sha256": "a978a53ad28790892dfc2f132022b2cca29169ce0bb67c647a47c706600b7efa"
+  },
+  {
+    "path": "第六卷/assets/figure-08.jpg",
+    "bytes": 135781,
+    "sha256": "3b676cc174ce4db90975bae2e843e1d3de31392aaca5712541de7c706fbd4ecd"
+  },
+  {
+    "path": "第六卷/assets/pdf-001.png",
+    "bytes": 963333,
+    "sha256": "60cbbd80d12b76d11d18c16a040ae2f6e984fa265ef135d00905dea654b879c0"
+  },
+  {
+    "path": "第六卷/assets/pdf-006.png",
+    "bytes": 52731,
+    "sha256": "f8f22c2a83f412fa7fd401d41174bb4aeac88e8d939bbdb6a9c25a3e4bbb9858"
+  },
+  {
+    "path": "第六卷/assets/pdf-379.png",
+    "bytes": 1202854,
+    "sha256": "ed6d63612b8c1cc6937173a66e5d494e8697badd157163ee433c9efef9209c3c"
+  },
+  {
+    "path": "第六卷/assets/pdf-380.png",
+    "bytes": 1153634,
+    "sha256": "93bce05e61e966eae11ac6d45ac1a67ce290c7a10c3b26565293a5e56d2a5561"
+  },
+  {
+    "path": "第六卷/assets/pdf-382.png",
+    "bytes": 535144,
+    "sha256": "d49d9ffa38e14c9c7233437417f4afc67a80bbd1a6d22d222bee9fc97b21a0ba"
+  },
+  {
+    "path": "第六卷/assets/pdf-384.png",
+    "bytes": 567294,
+    "sha256": "d80dc409cdb34867183d42bde6e424c27e303b2190874e7a2848ee88fbce3405"
+  },
+  {
+    "path": "第六卷/assets/pdf-385.png",
+    "bytes": 648444,
+    "sha256": "3a33502ab96187bbf9d7467eece496763864589cf202203e70ce3b6ea0c17704"
+  },
+  {
+    "path": "第六卷/assets/pdf-387.png",
+    "bytes": 745973,
+    "sha256": "5fcc2d83a55f259ffc23b472295bc034c1351a4f1d0a508048b3e968c9e7d0f7"
+  },
+  {
+    "path": "第六卷/assets/pdf-388.png",
+    "bytes": 633195,
+    "sha256": "077988186b55cc37707901c07ca31b4f1d4af60223bcfa7eac2d25fa52237299"
+  },
+  {
+    "path": "第六卷/assets/pdf-389.png",
+    "bytes": 693984,
+    "sha256": "ce66384c33a298d5f0a790b95a6f959aeae09cc027bcf1f84c3358efbd00f53d"
+  },
+  {
+    "path": "第六卷/assets/pdf-392.png",
+    "bytes": 807369,
+    "sha256": "d28a3f507d80c0307977ca5429e938e07ecb5bcb78343dd219f3904cf6d939e6"
+  },
+  {
+    "path": "第六卷/卷首资料（中文）.md",
+    "bytes": 13105,
+    "sha256": "709dbc18a09307851d69745743b67178b35fde499aebb1f759208e1ff163641d"
+  },
+  {
+    "path": "第六卷/卷首资料（英文）.md",
+    "bytes": 12569,
+    "sha256": "cbb7356248d2940622acc069d7718f7834ec0633585b392799e17231d5993e3c"
+  },
+  {
+    "path": "第六卷/参考书目（中文）.md",
+    "bytes": 362374,
+    "sha256": "e6f52e66fe176dcafc7db87894262e1e24e716ef22564353352370f31eb4564f"
+  },
+  {
+    "path": "第六卷/参考书目（英文）.md",
+    "bytes": 373237,
+    "sha256": "ea3e871fe69d5e734727efcd4cef851483600cc4db179997f5c9ca87f3266f9a"
+  },
+  {
+    "path": "第六卷/大事年表（中文）.md",
+    "bytes": 12194,
+    "sha256": "323aa00e95239652d0e469519440270167d54055b92477af6ccb1e60e46e212e"
+  },
+  {
+    "path": "第六卷/大事年表（英文）.md",
+    "bytes": 11413,
+    "sha256": "fd744c890b1a49da51605844c23ea62cce275f2a336a0653ea347acf0b6dfa4c"
+  },
+  {
+    "path": "第六卷/第01章 改革者马丁·路德（中文）.md",
+    "bytes": 42964,
+    "sha256": "645539c5a07e1123e016a6668c198ff019c0e7e12e4645480ace824a8c4b7619"
+  },
+  {
+    "path": "第六卷/第01章 改革者马丁·路德（英文）.md",
+    "bytes": 47720,
+    "sha256": "f37414f7710f21c71fa715ab14bd9251adb8be9cf5dd2df90165f72fe3f75e09"
+  },
+  {
+    "path": "第六卷/第02章 新教在神圣罗马帝国的兴起与巩固：至1600年（中文）.md",
+    "bytes": 43945,
+    "sha256": "f830d5ba70c627ab0d459b03e73da86a1e82ec48061265430eefdb1ea5bd2ddf"
+  },
+  {
+    "path": "第六卷/第02章 新教在神圣罗马帝国的兴起与巩固：至1600年（英文）.md",
+    "bytes": 46978,
+    "sha256": "8aaa8fb7d31d66430ca910ef1cc72ef178da56f5210dbef02629d69dc8bd3110"
+  },
+  {
+    "path": "第六卷/第03章 激进宗教改革（中文）.md",
+    "bytes": 48675,
+    "sha256": "b6d0afbb8381d46342db359b95e050ab2fc8958eba5ec89d8dbdc504bacf9270"
+  },
+  {
+    "path": "第六卷/第03章 激进宗教改革（英文）.md",
+    "bytes": 54275,
+    "sha256": "83549e5063d38ebdc4d6fbb83845e1dea251a6cce27401b334820885c312ee34"
+  },
+  {
+    "path": "第六卷/第04章 17世纪的路德宗（中文）.md",
+    "bytes": 35160,
+    "sha256": "80be23fd3277f16b3cb1c1565cfac18ec86230b7fc41cc4516751eca132af5b2"
+  },
+  {
+    "path": "第六卷/第04章 17世纪的路德宗（英文）.md",
+    "bytes": 47408,
+    "sha256": "f5cf3ab70921dc6d1fde9cfda4cc6535fd96dbf15287f53d5adfe33b99db45ad"
+  },
+  {
+    "path": "第六卷/第05章 共同体宗教改革：慈运理、路德与神圣罗马帝国南部（中文）.md",
+    "bytes": 32932,
+    "sha256": "ca770cac7ba22237a472d31d07ec5db2c9408f940b96217489ec1440c58a29c7"
+  },
+  {
+    "path": "第六卷/第05章 共同体宗教改革：慈运理、路德与神圣罗马帝国南部（英文）.md",
+    "bytes": 42654,
+    "sha256": "1ab1efc687bba3af035fcbfd3272ad37947661ede84e8d194135e3266879fd3b"
+  },
+  {
+    "path": "第六卷/第06章 日内瓦的加尔文宗教改革（中文）.md",
+    "bytes": 29549,
+    "sha256": "063015f65c4ada433a2cfe6ce954e0c89371af2b82d436026b439eb6a8ee2fda"
+  },
+  {
+    "path": "第六卷/第06章 日内瓦的加尔文宗教改革（英文）.md",
+    "bytes": 40201,
+    "sha256": "0072d95c0a7cc1198e89249080166fc0e6593638a14427ed855c91e47ff1617a"
+  },
+  {
+    "path": "第六卷/第07章 改革宗基督教的神学与礼仪（中文）.md",
+    "bytes": 51408,
+    "sha256": "f065add26916cdcae788cd0b10df4e8c4076ba0ce95a530c430f368ea9b1df2d"
+  },
+  {
+    "path": "第六卷/第07章 改革宗基督教的神学与礼仪（英文）.md",
+    "bytes": 62086,
+    "sha256": "9a000ef912a7b89fc4f19bb033f80dd6974ccf4f52a708c3ea10e818ffcb78f9"
+  },
+  {
+    "path": "第六卷/第08章 新教扩张的第二波（中文）.md",
+    "bytes": 37014,
+    "sha256": "b5e67faff430589ad187d6f93d1acc396aab7a500f6a820d3ce517336790cb61"
+  },
+  {
+    "path": "第六卷/第08章 新教扩张的第二波（英文）.md",
+    "bytes": 51607,
+    "sha256": "93d1229b52bea4b2922e88b4382e3c79525b7cce2a8896f78816a2faedbb0bd1"
+  },
+  {
+    "path": "第六卷/第09章 重新界定天主教：特伦托及其后（中文）.md",
+    "bytes": 36475,
+    "sha256": "85f6124840adfdf979b940e6e8acc019e589eb075dafd86432949d1104b1e4a3"
+  },
+  {
+    "path": "第六卷/第09章 重新界定天主教：特伦托及其后（英文）.md",
+    "bytes": 49901,
+    "sha256": "5e727a86fb791e3f175c8d8cb3a6e012e228f252fe1992436d3d1c01a4b79a5b"
+  },
+  {
+    "path": "第六卷/第10章 新的男性修会（中文）.md",
+    "bytes": 35691,
+    "sha256": "1bd7e7ee521c8a7b18383d193e2783bda2baace61fd82793f2ed9b88c434e793"
+  },
+  {
+    "path": "第六卷/第10章 新的男性修会（英文）.md",
+    "bytes": 49036,
+    "sha256": "07ec9392c1fc6865b4363a5ace37e535b7cad7a74faf81eb508bd7b9e10745ad"
+  },
+  {
+    "path": "第六卷/第11章 女性圣德：1500—1660年（中文）.md",
+    "bytes": 40177,
+    "sha256": "86aad2b5f27a6840654b6e24cf764624940cf5e155d07196b8a073ae7700a878"
+  },
+  {
+    "path": "第六卷/第11章 女性圣德：1500—1660年（英文）.md",
+    "bytes": 58561,
+    "sha256": "b72d27911e6920c6a022c3879b8a2705b8c98884a0ddb8cd5fbf0e3e40d41ede"
+  },
+  {
+    "path": "第六卷/第12章 特伦托改革后的敬拜与圣徒崇敬（中文）.md",
+    "bytes": 50948,
+    "sha256": "5304bddae5b7822c583fc7cdc45b40ca09ceba4e3fd17b3ef996d8292d35a66b"
+  },
+  {
+    "path": "第六卷/第12章 特伦托改革后的敬拜与圣徒崇敬（英文）.md",
+    "bytes": 73377,
+    "sha256": "584497601d868803d709f16276d218125cda5eb35aadfe9ea0e1b4b44d1a814d"
+  },
+  {
+    "path": "第六卷/第13章 没有和谐的和平：宗教宽容的理论与实践（中文）.md",
+    "bytes": 38254,
+    "sha256": "d0dcd4eb964f84fed0df60996264833dad260c971c78364695d8a0b7f9070876"
+  },
+  {
+    "path": "第六卷/第13章 没有和谐的和平：宗教宽容的理论与实践（英文）.md",
+    "bytes": 51593,
+    "sha256": "c3f9acda1afbb560b76333491b66a1bde4c9accd9135deb7f9f26d123c4b7149"
+  },
+  {
+    "path": "第六卷/第14章 推行教会与社会纪律（中文）.md",
+    "bytes": 33903,
+    "sha256": "ba86dd3ca3fcaf25137a4d29b4d2b363a3a1c42a60a7035fe8b90452fb07fc61"
+  },
+  {
+    "path": "第六卷/第14章 推行教会与社会纪律（英文）.md",
+    "bytes": 50575,
+    "sha256": "51fc9cb6b83e9eb012bc6322371fb4aa481453959b21524efbca318dd3d08b7a"
+  },
+  {
+    "path": "第六卷/第15章 迫害与殉道（中文）.md",
+    "bytes": 47303,
+    "sha256": "08d7b548f99c138e6a9d00129944d168fa473cd8e126bbd768d8312bd7572a21"
+  },
+  {
+    "path": "第六卷/第15章 迫害与殉道（英文）.md",
+    "bytes": 62684,
+    "sha256": "b582d97d514488c4e9b36cea1eeff5cbc5a5be7a4fdbd232877112fd8476048e"
+  },
+  {
+    "path": "第六卷/第16章 欧洲近代早期地中海地区的宗教裁判所（中文）.md",
+    "bytes": 41466,
+    "sha256": "8aef10cb4f5d7299723cb65debd3cae933c23f5291083f322f660144218e6e21"
+  },
+  {
+    "path": "第六卷/第16章 欧洲近代早期地中海地区的宗教裁判所（英文）.md",
+    "bytes": 52139,
+    "sha256": "4fa712d0cf032880f70a52e409cedaa08f8cbe9c12543c51a8019d4e1a3af47e"
+  },
+  {
+    "path": "第六卷/第17章 宗教会谈与宽容（中文）.md",
+    "bytes": 40013,
+    "sha256": "ff10f114d89b27b6230fb89a8d1c7d18ebd32bfe6104f869cd879fa3ff2be731"
+  },
+  {
+    "path": "第六卷/第17章 宗教会谈与宽容（英文）.md",
+    "bytes": 54441,
+    "sha256": "ecff60f69ce44d425e33e250d23dca8a359fec534a210212141fd9b741c89d96"
+  },
+  {
+    "path": "第六卷/第18章 西方基督教与东正教（中文）.md",
+    "bytes": 54628,
+    "sha256": "1c3b4398d628c99b65bc0ac7b7f76b535babe1faa24474e4c1bb3c194547be05"
+  },
+  {
+    "path": "第六卷/第18章 西方基督教与东正教（英文）.md",
+    "bytes": 65483,
+    "sha256": "102131577a7684422d7873a508c6ccf9bda7c2c2d364b28eee7e0838fe42b5d3"
+  },
+  {
+    "path": "第六卷/第19章 宗教改革与视觉艺术（中文）.md",
+    "bytes": 43448,
+    "sha256": "5c766b5cb5f9d7eeb36aa931e6c65c2e55feb7b1f9108aade55702a7ddab5223"
+  },
+  {
+    "path": "第六卷/第19章 宗教改革与视觉艺术（英文）.md",
+    "bytes": 52618,
+    "sha256": "7cf04ca6a5170e3f4dc2a11e5a39d08dcd3944532b879af77647ac2699d50056"
+  },
+  {
+    "path": "第六卷/第20章 近代早期基督教的仪式（中文）.md",
+    "bytes": 34718,
+    "sha256": "42e6b09780a02a3e18a44e65e2f1154ad20f97c2e703dc7d8266ba7df0c4dcc5"
+  },
+  {
+    "path": "第六卷/第20章 近代早期基督教的仪式（英文）.md",
+    "bytes": 42562,
+    "sha256": "96e78d4aab20d5c68703eeb36f528fbc5646dbb44071c407945a4c156a291aee"
+  },
+  {
+    "path": "第六卷/第21章 音乐与宗教变迁（中文）.md",
+    "bytes": 47610,
+    "sha256": "e1db37116a348d89f80d04d579da990b9afb8e62fa6b387b4e12c76f97ce9099"
+  },
+  {
+    "path": "第六卷/第21章 音乐与宗教变迁（英文）.md",
+    "bytes": 56734,
+    "sha256": "87c65a0e28fc15daf7422cae17892894ed35223b026e94d28d2ec5898fbcaa5a"
+  },
+  {
+    "path": "第六卷/第22章 恶魔学：1500—1660年（中文）.md",
+    "bytes": 46276,
+    "sha256": "b6d9f6d8cf1dbc1fbb64aea462955bb76e8ef7901cc034acab6e86287a423153"
+  },
+  {
+    "path": "第六卷/第22章 恶魔学：1500—1660年（英文）.md",
+    "bytes": 54275,
+    "sha256": "cd986b03027f1530f4516e0040f7d39c8a6ea0c0fa835ae3a8ab7fd09aeb8fd4"
+  },
+  {
+    "path": "第六卷/第23章 科学与宗教（中文）.md",
+    "bytes": 46701,
+    "sha256": "a834f768e7bb13917d96dacd0294ddcb381e5b529d624932f599937967c28692"
+  },
+  {
+    "path": "第六卷/第23章 科学与宗教（英文）.md",
+    "bytes": 55272,
+    "sha256": "7666351e9518e71c78a5b45d004799b95034c8dd830da114b3afc6ade75fcab0"
+  },
+  {
+    "path": "第六卷/第24章 新的教士群体（中文）.md",
+    "bytes": 48791,
+    "sha256": "1ba894567de66b3f452f9987a286090c7e6a046f5c46050b38b187a8c824497f"
+  },
+  {
+    "path": "第六卷/第24章 新的教士群体（英文）.md",
+    "bytes": 62674,
+    "sha256": "9228d28fe5ee32c6e82573cf7bdfb35d3e7ffba834c4cd91aae019cd7c47bfa6"
+  },
+  {
+    "path": "第六卷/第25章 妇女与宗教变迁（中文）.md",
+    "bytes": 43652,
+    "sha256": "e9dd476d02561e4fd47cff2a672ef96cfc4a3228381330c426290256bd7f0782"
+  },
+  {
+    "path": "第六卷/第25章 妇女与宗教变迁（英文）.md",
+    "bytes": 51309,
+    "sha256": "aa48d8f03084e9aed7faffa6fd928107ce816e452aa2758582ea6c37d005b9fe"
+  },
+  {
+    "path": "第六卷/第26章 基督教与犹太教（中文）.md",
+    "bytes": 46305,
+    "sha256": "547a9bcf5b2c6317efce505fc16738c85104a3077c6d18e5673c34995f054088"
+  },
+  {
+    "path": "第六卷/第26章 基督教与犹太教（英文）.md",
+    "bytes": 53927,
+    "sha256": "a49597ebafbcdaa5b856db2e1156c13019a11e83d2a2d4c3a3ba5fb199e7c85b"
+  },
+  {
+    "path": "第六卷/第27章 安第斯基督教诸形态的本土化（中文）.md",
+    "bytes": 73384,
+    "sha256": "5b6fddddc723d1fa58d4eb4f00f100a880aa0adfc00eec4e8b0a24c70a14b278"
+  },
+  {
+    "path": "第六卷/第27章 安第斯基督教诸形态的本土化（英文）.md",
+    "bytes": 92214,
+    "sha256": "7ad2c06fead40a2a1e9ba726dded336c27c0230f835d3d23ac4e2178a906ddd9"
+  },
+  {
+    "path": "第六卷/第28章 伊斯兰教与东正教之间：东南欧的新教徒与天主教徒（中文）.md",
+    "bytes": 42108,
+    "sha256": "fb250f71e6e0a5928549c3e75cf1f659f9eb9fcbfdc417d35ffbf94694e0ef91"
+  },
+  {
+    "path": "第六卷/第28章 伊斯兰教与东正教之间：东南欧的新教徒与天主教徒（英文）.md",
+    "bytes": 60813,
+    "sha256": "5744a6ba3cc20fc31c532641218f92bf99c339423dd0f33de7e039e9adc8c95b"
+  },
+  {
+    "path": "第六卷/第29章 由中国人塑造的基督教（中文）.md",
+    "bytes": 35032,
+    "sha256": "c5c36e4ed695b85fd5ec3b9327439bb19430f542a9ed1857869b01cb181f92d8"
+  },
+  {
+    "path": "第六卷/第29章 由中国人塑造的基督教（英文）.md",
+    "bytes": 52955,
+    "sha256": "64064f7a5b17919ee0aba8f72b05130c5d748ff0a0153a2617f830c669903158"
+  },
+  {
+    "path": "第六卷/第30章 对印度教与佛教的接受（中文）.md",
+    "bytes": 42405,
+    "sha256": "4c9bb61fa22ad1ae1c610ae692a3f391856b3ae1582df14e33f88e2f538af66d"
+  },
+  {
+    "path": "第六卷/第30章 对印度教与佛教的接受（英文）.md",
+    "bytes": 59901,
+    "sha256": "72afe7c4a8ea5d0f6930a8a6484cb3c52e9ae109e5dd8f073d75ae78f160fe72"
+  },
+  {
+    "path": "第六卷/第一编 路德与神圣罗马帝国（中文）.md",
+    "bytes": 298,
+    "sha256": "95c814343643117bbf0b46402d8c1c7b1e1b146221618dd87851a3dc0759afae"
+  },
+  {
+    "path": "第六卷/第一编 路德与神圣罗马帝国（英文）.md",
+    "bytes": 270,
+    "sha256": "2bf19c204207a99915d8abd5e94ca91eda3e2650682ee828a81d1940e977b05e"
+  },
+  {
+    "path": "第六卷/第三编 天主教更新（中文）.md",
+    "bytes": 212,
+    "sha256": "1169a732625ef9ccccdd7837068381c16d8b0fc9049168e03768e28105fadf86"
+  },
+  {
+    "path": "第六卷/第三编 天主教更新（英文）.md",
+    "bytes": 241,
+    "sha256": "99a90e5b89987eadc4d1fb1649abee7818ac0eb62551c76f83d4011c827aae91"
+  },
+  {
+    "path": "第六卷/第二编 第二次宗教改革（中文）.md",
+    "bytes": 213,
+    "sha256": "5b52dd56deb454decf82c03e6c4cf1f1fed61c2c58234b87fb0940ac8877b3e5"
+  },
+  {
+    "path": "第六卷/第二编 第二次宗教改革（英文）.md",
+    "bytes": 255,
+    "sha256": "d532331b2e54b44b93eca660d0b1e4cb9ea0c6d71622529e08b88779e50293cc"
+  },
+  {
+    "path": "第六卷/第五编 宗教、社会与文化（中文）.md",
+    "bytes": 207,
+    "sha256": "071c303111d7e1cab28901ebb676fe0fa33fceda12a2c84544d2218610360d8a"
+  },
+  {
+    "path": "第六卷/第五编 宗教、社会与文化（英文）.md",
+    "bytes": 272,
+    "sha256": "bc7037ec1f9500e379ca3571e5aaf17174857417cc1825ba47984cc6d53df933"
+  },
+  {
+    "path": "第六卷/第六编 基督教与其他信仰（中文）.md",
+    "bytes": 207,
+    "sha256": "02e306dd265448c35af4bc6cebec7e85138e98d63ff41dbdb6786b49fc46814c"
+  },
+  {
+    "path": "第六卷/第六编 基督教与其他信仰（英文）.md",
+    "bytes": 274,
+    "sha256": "a6cefe51a9b2aefe8027a50964e63c373f94c547d429ca238a9e0947dfad260b"
+  },
+  {
+    "path": "第六卷/第四编 化解宗派冲突（中文）.md",
+    "bytes": 215,
+    "sha256": "676e91ffa3d9cd925cdd9bda4bbea84bf598ea95ee31e98c7f414592e0882b2f"
+  },
+  {
+    "path": "第六卷/第四编 化解宗派冲突（英文）.md",
+    "bytes": 275,
+    "sha256": "e15a2484f9790a570f4659b64956ac326bed5fe0a6f486ab179f3deb06986928"
+  },
+  {
+    "path": "第六卷/索引（中文）.md",
+    "bytes": 117847,
+    "sha256": "82700b43749249358b35c49328141ad48b85a798520b90d471712450e039680d"
+  },
+  {
+    "path": "第六卷/索引（英文）.md",
+    "bytes": 122566,
+    "sha256": "3353439be9244a9296582716f67954c36044e1913fd88d98b24079730d8d6de9"
+  },
+  {
+    "path": "第六卷/编者序（中文）.md",
+    "bytes": 2611,
+    "sha256": "dcde91a3de5ab5692e00b876d52d4aca2f9c35a471bed426b245353e8b3f35d5"
+  },
+  {
+    "path": "第六卷/编者序（英文）.md",
+    "bytes": 3277,
+    "sha256": "4980da22e4b3c9396faf06eb2818a1ccffb91b20f6bc94375f8b7526c89ed1b4"
+  },
+  {
+    "path": "第六卷/翻译规范.md",
+    "bytes": 7412,
+    "sha256": "a3b3699f6cda0e2cd15e4de67892d1f9a2906e994fc5667242add0389097d491"
+  },
+  {
+    "path": "第四卷/04 西欧基督教（中文全译）.md",
+    "bytes": 1452779,
+    "sha256": "2f41957dd9c7bf504eefb57c15d596468831c68b67890536e4f63434d578a4cf"
+  },
+  {
+    "path": "第四卷/04 西欧基督教（英文全文）.md",
+    "bytes": 1668689,
+    "sha256": "5ef44a7d8cdf617717f16d2bba921172104e6dbaaa5b08550debfa24940d87f9"
+  },
+  {
+    "path": "第四卷/assets/fig-14-1.png",
+    "bytes": 3876160,
+    "sha256": "c98f4b92b1970d9e66993ea1bebf2cea30ae65155bf6270e40eb4e505356a199"
+  },
+  {
+    "path": "第四卷/assets/fig-14-2.png",
+    "bytes": 3766466,
+    "sha256": "60d8f0281823e081142324bec5ade5dcd09e86891b20101fbc28b876293a5808"
+  },
+  {
+    "path": "第四卷/assets/fig-15-1.png",
+    "bytes": 619841,
+    "sha256": "91de5efd721b9199d99ff71fc43de233f3830c32e6908ae01a8b6d8c3a72fb19"
+  },
+  {
+    "path": "第四卷/assets/fig-17-1.png",
+    "bytes": 2877255,
+    "sha256": "ec6552ae9fac492681df4a3a26ac3f669b8da6c4910fc640aeb027951e0f313c"
+  },
+  {
+    "path": "第四卷/assets/fig-17-2.png",
+    "bytes": 3390766,
+    "sha256": "9fcfd6ec473c200cae3e7fdfedbaf86a1b29e358bc60003b8a45e5a5f2d4fce4"
+  },
+  {
+    "path": "第四卷/assets/fig-17-3.png",
+    "bytes": 998828,
+    "sha256": "596e41d2291353707253f958792810ab2c94ec9b6081c25beb75890d4128b12b"
+  },
+  {
+    "path": "第四卷/assets/fig-17-4.png",
+    "bytes": 1079013,
+    "sha256": "1c305bc65ce3038399e57fdf1d886ced25c46225abf464e7e0143358dba8f343"
+  },
+  {
+    "path": "第四卷/assets/fig-17-5.png",
+    "bytes": 2925251,
+    "sha256": "58deaf7f00556f41ed45a1e220f50f44a64738962ac50bfa7d087e2b6ade1da7"
+  },
+  {
+    "path": "第四卷/assets/fig-17-6a.png",
+    "bytes": 711344,
+    "sha256": "37845860ac5658fe137ce34710c56a8e2f227c7b64c93b41f1d22b366eaefe30"
+  },
+  {
+    "path": "第四卷/assets/fig-17-6b.png",
+    "bytes": 702781,
+    "sha256": "f58f623c6ea0857dcae95a42d3be376e9d2953b7469f1532e7cd579b9d151d66"
+  },
+  {
+    "path": "第四卷/assets/map-1.png",
+    "bytes": 478771,
+    "sha256": "b169d2052fe7ba630bbe51566a528f9a920dc35d195e8a6c6d977d74e53c8bb1"
+  },
+  {
+    "path": "第四卷/assets/map-2.png",
+    "bytes": 415583,
+    "sha256": "29c9d3923ccd461a49c7be033215bb59e3a532e668a401898e316b66380cf170"
+  },
+  {
+    "path": "第四卷/assets/map-3.png",
+    "bytes": 279687,
+    "sha256": "f68ca5cc4a94fc6f6d87cbd40397844e3c24dca64b8fab2808ba3ebbca6d5788"
+  },
+  {
+    "path": "第四卷/assets/map-4.png",
+    "bytes": 218070,
+    "sha256": "14bfae892fb9a4f1f1e3073af0d91de416b3b39c4a81205117fe88ce75a68f9d"
+  },
+  {
+    "path": "第四卷/assets/pdf-001.png",
+    "bytes": 521305,
+    "sha256": "7b7b60db4820a9b5d441cdaa100e3832a410517838ac2e12f40b8e9bc455005f"
+  },
+  {
+    "path": "第四卷/assets/pdf-006.png",
+    "bytes": 81040,
+    "sha256": "ffde3added4acf7d6f7b766e4985d92ec21c07c5fd8c9090f93f2d64582862d8"
+  },
+  {
+    "path": "第四卷/assets/pdf-017.png",
+    "bytes": 9285,
+    "sha256": "3f0419cba42361cadecf650089c0491f0721d7aa18b868be3f76121d8ae80c05"
+  },
+  {
+    "path": "第四卷/assets/pdf-018.png",
+    "bytes": 75580,
+    "sha256": "4e7e410d94c0de865fac9ced1d6d983173274ea8fb60ae892a69915ed301158a"
+  },
+  {
+    "path": "第四卷/assets/pdf-019.png",
+    "bytes": 298643,
+    "sha256": "67a495466d1920f13b7a18231ba60dfc32348f85aad71d5f76fabf5598077feb"
+  },
+  {
+    "path": "第四卷/assets/pdf-020.png",
+    "bytes": 238453,
+    "sha256": "46e193b37dea26bdc598eb82f231cc6a98474f6d47cb469b02efe11b7c8ab670"
+  },
+  {
+    "path": "第四卷/assets/pdf-223.png",
+    "bytes": 2395814,
+    "sha256": "fe3e41041fdec4d1b8b6edefdece1ad4dadf679a5015c5a8f0ffc5affa30171a"
+  },
+  {
+    "path": "第四卷/assets/pdf-235.png",
+    "bytes": 2103649,
+    "sha256": "abb83ca8181fbfdc5e45c486771de470514a3844622f8bd81812c7d015199fb1"
+  },
+  {
+    "path": "第四卷/assets/pdf-240.png",
+    "bytes": 830729,
+    "sha256": "11dc78f5d484ac74acc799119d6f16ef1bbe618cc7a968be91665226d3035947"
+  },
+  {
+    "path": "第四卷/assets/pdf-281.png",
+    "bytes": 1663146,
+    "sha256": "27e85e86c3e0be911149f53a00235eba1d74e490f113b77240c646ab186d8116"
+  },
+  {
+    "path": "第四卷/assets/pdf-283.png",
+    "bytes": 2031060,
+    "sha256": "66d7052d5b384737b91d8166e78ed3b28094664e798f05ac1ef03c976f1b662b"
+  },
+  {
+    "path": "第四卷/assets/pdf-288.png",
+    "bytes": 1128277,
+    "sha256": "cb57dcd33c566020310aae0922d1b5af2e9f17860c3f8cf410d11e2fcc3b02bd"
+  },
+  {
+    "path": "第四卷/assets/pdf-293.png",
+    "bytes": 976003,
+    "sha256": "d3f2dba8cc6fa94bc7e87f4747779be3ba968d20034ad6df78cddb8c41a966fa"
+  },
+  {
+    "path": "第四卷/assets/pdf-295.png",
+    "bytes": 1601575,
+    "sha256": "47422929456291db36b3dcd4a1c3d2ae024fa9a1af0cd587892f27272e28d6b8"
+  },
+  {
+    "path": "第四卷/assets/pdf-299.png",
+    "bytes": 970741,
+    "sha256": "9d0f2035c406f8f72390bf54644cba03600517d075770eaa2d8610afb477261c"
+  },
+  {
+    "path": "第四卷/卷首资料（中文）.md",
+    "bytes": 28775,
+    "sha256": "feb891668fa71ab54a6710a9175bc90c7626f360a600306db38efe636b7807ea"
+  },
+  {
+    "path": "第四卷/卷首资料（英文）.md",
+    "bytes": 16925,
+    "sha256": "e2a6adbfae73964e991a32efc5a6f3ff1901e581fa19081cc5c5e2edf9387032"
+  },
+  {
+    "path": "第四卷/参考书目选编（中文）.md",
+    "bytes": 207055,
+    "sha256": "16f6f0def9c3d6db7fd1d85cfa30760de5eba4f76093f6955e9bd731781c6c9a"
+  },
+  {
+    "path": "第四卷/参考书目选编（英文）.md",
+    "bytes": 208712,
+    "sha256": "467662ca60756f657fff39c5af2bd67518fe7a7a0ffaff9f7ff8178367e8fb8b"
+  },
+  {
+    "path": "第四卷/引言（中文）.md",
+    "bytes": 17233,
+    "sha256": "aa379aa163783d47c568f3be289417687d5df9d687ddfd3182d91f3675fd4f6a"
+  },
+  {
+    "path": "第四卷/引言（英文）.md",
+    "bytes": 19653,
+    "sha256": "2e8212cb6ca51392a2f1039bdb7d4914dda281d4a34031198ea5a2035034beb3"
+  },
+  {
+    "path": "第四卷/第01章 教士的贞洁与重整秩序的世界（中文）.md",
+    "bytes": 28412,
+    "sha256": "5fba68df527b08f39fec2783cc4b1abdedac4ddbb702bd3a8629b46fa7006913"
+  },
+  {
+    "path": "第四卷/第01章 教士的贞洁与重整秩序的世界（英文）.md",
+    "bytes": 31689,
+    "sha256": "9a8e93855c9976e87db1b454dcadfdc81913c8670076fba5cb371b4223d5d264"
+  },
+  {
+    "path": "第四卷/第02章 罗马主教（1100—1300年）（中文）.md",
+    "bytes": 46506,
+    "sha256": "588e966e233c9b2378826784ff68e5c5a4ed51a3bc049540ff9aafce41df9a37"
+  },
+  {
+    "path": "第四卷/第02章 罗马主教（1100—1300年）（英文）.md",
+    "bytes": 51228,
+    "sha256": "b8901d4bad163dc71e7af06487f471700b0284aa22ea2c75b48551b4169d6ab9"
+  },
+  {
+    "path": "第四卷/第03章 宗教贫穷与对完美的追求（中文）.md",
+    "bytes": 34917,
+    "sha256": "ca1ce57b90b53ae93e2db6e9c31f98387ea9fc02ea9c062c958578c98a48ffea"
+  },
+  {
+    "path": "第四卷/第03章 宗教贫穷与对完美的追求（英文）.md",
+    "bytes": 40253,
+    "sha256": "4afd7eaf2f02e719e2babcb43b13c2aecf30e9611aec947b919faf2ddb710851"
+  },
+  {
+    "path": "第四卷/第04章 修道会与其他修会（约1100—约1350年）（中文）.md",
+    "bytes": 42239,
+    "sha256": "b172e9ade0d6b3fdb364b556e4a4f09e22737b9f38e480b4991b29107eeebc77"
+  },
+  {
+    "path": "第四卷/第04章 修道会与其他修会（约1100—约1350年）（英文）.md",
+    "bytes": 51034,
+    "sha256": "b8cbdfadc304d0a0b9ab7a0b842e72ac4a06ac692b48af1c306f6cb512c2fdfb"
+  },
+  {
+    "path": "第四卷/第05章 神学框架（中文）.md",
+    "bytes": 32144,
+    "sha256": "30d322479b1ba4cd555bb6528f0d1fff51a7e263871e98f5cc678b40d7bf58f8"
+  },
+  {
+    "path": "第四卷/第05章 神学框架（英文）.md",
+    "bytes": 40537,
+    "sha256": "21a923a89a315e7fbb91151e149392be26694b87687fe0c01d48ffeb904d22a7"
+  },
+  {
+    "path": "第四卷/第06章 法律基础（中文）.md",
+    "bytes": 22974,
+    "sha256": "e8631a4ffca43cab7506bca65b805cd1b9fbdb691f44280bce3dfa2dc4ecf23d"
+  },
+  {
+    "path": "第四卷/第06章 法律基础（英文）.md",
+    "bytes": 28870,
+    "sha256": "b2a457e7ebd87ad7e5ba3c123f9ceb8335d7f3e64de842b3c10b191f280a6af1"
+  },
+  {
+    "path": "第四卷/第07章 物质支持之一：堂区（中文）.md",
+    "bytes": 16583,
+    "sha256": "cf1b242f112b1d28d743198ce1cb6aeb71e9a318c23f31149f3546bcc6171df6"
+  },
+  {
+    "path": "第四卷/第07章 物质支持之一：堂区（英文）.md",
+    "bytes": 22867,
+    "sha256": "dad7133e1b53c6fccaa9b8f05daed5a1a64a50bc451d201fec01d3f9887fc660"
+  },
+  {
+    "path": "第四卷/第08章 物质支持之二：修会（中文）.md",
+    "bytes": 15322,
+    "sha256": "078fc08a556219b8b542611be65f8669eb2c14ab766f1ce5e36b2a43fd39d715"
+  },
+  {
+    "path": "第四卷/第08章 物质支持之二：修会（英文）.md",
+    "bytes": 19832,
+    "sha256": "f30d1779c95d2528f583afe941a24ca8142a5fb0293ebfbb9854323fadb22664"
+  },
+  {
+    "path": "第四卷/第09章 圣言及其传播（中文）.md",
+    "bytes": 41160,
+    "sha256": "5ea2dfb5adce02fb8f641c8bd3529c87b8faa4f617c38b58dc98aed9a22d6a5a"
+  },
+  {
+    "path": "第四卷/第09章 圣言及其传播（英文）.md",
+    "bytes": 54737,
+    "sha256": "b91bd4a8b70828273ac18fd2b83ac893812841105d216381e8a15dc46e6146d6"
+  },
+  {
+    "path": "第四卷/第10章 基督徒与犹太人（中文）.md",
+    "bytes": 33712,
+    "sha256": "4de11d601f3091ff2c511fabf3bdebda93b6b5c5e0dddda4ad9f3f5c279f3c9e"
+  },
+  {
+    "path": "第四卷/第10章 基督徒与犹太人（英文）.md",
+    "bytes": 42579,
+    "sha256": "eafa37185f3033f8230a86cc90ec328e448887547e261a3644075d7a10a67424"
+  },
+  {
+    "path": "第四卷/第11章 基督教世界与伊斯兰教（中文）.md",
+    "bytes": 53219,
+    "sha256": "16e41c2569612346636dc23f0fe4f5aa71cc47b06009e9d25adf0c1aa64e5701"
+  },
+  {
+    "path": "第四卷/第11章 基督教世界与伊斯兰教（英文）.md",
+    "bytes": 64542,
+    "sha256": "80dc42713ad0e2058f79f8eab33cbcb7423197a4ce299e28ade6019cf903652d"
+  },
+  {
+    "path": "第四卷/第12章 基督徒与异端（中文）.md",
+    "bytes": 37976,
+    "sha256": "b628438423493c52b5d1e1641320b7c91c06d332559adc13c7187e6e7152f872"
+  },
+  {
+    "path": "第四卷/第12章 基督徒与异端（英文）.md",
+    "bytes": 49001,
+    "sha256": "72724d037c77c0c8fe3522689368c08262e5bff3e43751472744a27b0ac722d0"
+  },
+  {
+    "path": "第四卷/第13章 女人与男人（中文）.md",
+    "bytes": 30786,
+    "sha256": "5d7343104ff1df477e84e8a1fd80fdc16a21bd952e76773e0ba69e4d28e4c134"
+  },
+  {
+    "path": "第四卷/第13章 女人与男人（英文）.md",
+    "bytes": 39133,
+    "sha256": "835fc0097d0a08d14cb1602761ff0b7bb29400d5947b69d7d4918203492a3260"
+  },
+  {
+    "path": "第四卷/第14章 天堂、地狱与炼狱（1100—1500年）（中文）.md",
+    "bytes": 35891,
+    "sha256": "85a7a0c53393685f623848ba5530985e1bb1b790b8da229eb1ee375bca835ce3"
+  },
+  {
+    "path": "第四卷/第14章 天堂、地狱与炼狱（1100—1500年）（英文）.md",
+    "bytes": 45669,
+    "sha256": "c5acc6bc5f1f38ea805a4cb8324fb38a3ad726c9dc3f8643f62b0ab06684c9a7"
+  },
+  {
+    "path": "第四卷/第15章 圣事生活（中文）.md",
+    "bytes": 36561,
+    "sha256": "3919349caa4fefdec525bfc22c49dda6ed6d4a4e6c7e98c579f2bfb25fc5a5e5"
+  },
+  {
+    "path": "第四卷/第15章 圣事生活（英文）.md",
+    "bytes": 51565,
+    "sha256": "c0f027414f9bc5e8d2dd420f3cee45668c9abf13071336a7037d8e2a2a52b4ac"
+  },
+  {
+    "path": "第四卷/第16章 宗教声景：礼仪与音乐（中文）.md",
+    "bytes": 38297,
+    "sha256": "d2741ecb5ed71f25b09108c677f02104da7feceb6c3fef05501994e70cd6f40e"
+  },
+  {
+    "path": "第四卷/第16章 宗教声景：礼仪与音乐（英文）.md",
+    "bytes": 47338,
+    "sha256": "08fd789afda3d928bf8d18138a0d3099920715c9f0c6fb648b8f85328863c75e"
+  },
+  {
+    "path": "第四卷/第17章 图像及其用途（中文）.md",
+    "bytes": 54166,
+    "sha256": "4e8aac7efa33e682f4ac72d7ac4011c84650bb2a9bd6862cfdf7622ab6ce58fd"
+  },
+  {
+    "path": "第四卷/第17章 图像及其用途（英文）.md",
+    "bytes": 72430,
+    "sha256": "4fe258227a4527c1c4b767bf27a0ad24343e3d6d0fb9600a19bb681bfa376f52"
+  },
+  {
+    "path": "第四卷/第18章 玛利亚（中文）.md",
+    "bytes": 28430,
+    "sha256": "21531b7f12740ff5a3cf44797c3c0f015e180961b75ab243a86535f29518e68c"
+  },
+  {
+    "path": "第四卷/第18章 玛利亚（英文）.md",
+    "bytes": 39284,
+    "sha256": "45a294fa574261c49b7e83b037682117b003c412dc54a2c0da52a644d4714f3a"
+  },
+  {
+    "path": "第四卷/第19章 神秘主义与超越（中文）.md",
+    "bytes": 26340,
+    "sha256": "0ac359661f271c1a0b2ac63bdaedbf5e5b603602f3efdd75ad7b2b4e6230c1c8"
+  },
+  {
+    "path": "第四卷/第19章 神秘主义与超越（英文）.md",
+    "bytes": 29058,
+    "sha256": "81038d9b47f48af6500eea86ac67279cb8e26bde42faa9890075e4681bebc8dc"
+  },
+  {
+    "path": "第四卷/第20章 宗教生活的边缘：隐修士、独居修士、悔罪者、第三会会士、贝居安女子与贝格哈德男子（中文）.md",
+    "bytes": 37122,
+    "sha256": "b8fb45b929424fa6e56b1547b1f49fb3331caf482c08ff99b967fcfdb945a0cf"
+  },
+  {
+    "path": "第四卷/第20章 宗教生活的边缘：隐修士、独居修士、悔罪者、第三会会士、贝居安女子与贝格哈德男子（英文）.md",
+    "bytes": 41437,
+    "sha256": "cde957641a0659827d9785c4fa92194ebcd951395d84f762e2c673f12042c694"
+  },
+  {
+    "path": "第四卷/第21章 圣徒与朝圣：新与旧（中文）.md",
+    "bytes": 35846,
+    "sha256": "4e4c8b141aa35bc1e0ecb6454831f72d650964bbd475a6a6ffbc460c9b87eeee"
+  },
+  {
+    "path": "第四卷/第21章 圣徒与朝圣：新与旧（英文）.md",
+    "bytes": 46079,
+    "sha256": "65fbf4aaecd75e9662302a8d8706eb62a8101380189854ebe340de4e574ee6e9"
+  },
+  {
+    "path": "第四卷/第22章 十字军与征服（中文）.md",
+    "bytes": 29316,
+    "sha256": "de2fb74cf3770237acb38221e9233f63c23bab72bd114fa4379e1abd6858d0cd"
+  },
+  {
+    "path": "第四卷/第22章 十字军与征服（英文）.md",
+    "bytes": 37741,
+    "sha256": "98de01d97e7a41cdf6e8dc9f1a6bf4c1522bcfa55492c00001371524b88bb88d"
+  },
+  {
+    "path": "第四卷/第23章 镇压与权力（中文）.md",
+    "bytes": 38633,
+    "sha256": "a3c9c17be5887355a96bfadc95518d93ed1a4da6736b9803c1ec1cdbe7b2a86b"
+  },
+  {
+    "path": "第四卷/第23章 镇压与权力（英文）.md",
+    "bytes": 47647,
+    "sha256": "fae3037da672f7d0ab2b8c4c08875795865b27bd490e6d5dd1af135f9907a236"
+  },
+  {
+    "path": "第四卷/第24章 信仰与知识人之一（中文）.md",
+    "bytes": 53449,
+    "sha256": "f8e34a3a1e11738debe9f1d38526379ead859b219617ea59d97e42c1ca2f646d"
+  },
+  {
+    "path": "第四卷/第24章 信仰与知识人之一（英文）.md",
+    "bytes": 66099,
+    "sha256": "178c608a8ff88acd57670ae3327ce38fa0f2aa11310e1b1b3a00bd3907478654"
+  },
+  {
+    "path": "第四卷/第25章 信仰与知识人之二（中文）.md",
+    "bytes": 28347,
+    "sha256": "f5363e71ecca4b93386eb2e0b5c18dfe18865a2679c16e39d6e070fa2042ed5d"
+  },
+  {
+    "path": "第四卷/第25章 信仰与知识人之二（英文）.md",
+    "bytes": 33235,
+    "sha256": "1a2b576a46ec4b76a594cea6821d18765290828ad6e8ad883df5453ace14e5e1"
+  },
+  {
+    "path": "第四卷/第26章 通过阅读、写作与榜样获得力量：新虔敬运动（中文）.md",
+    "bytes": 29695,
+    "sha256": "e1726940c66e434d999700ec19b99b61dba4057281e3bfd4b6116941df104075"
+  },
+  {
+    "path": "第四卷/第26章 通过阅读、写作与榜样获得力量：新虔敬运动（英文）.md",
+    "bytes": 37733,
+    "sha256": "a6dffaf4290d77115eb9d13343a4fad4b58a2cbe2e65cef5f918fa79cf142896"
+  },
+  {
+    "path": "第四卷/第27章 魔鬼与基督徒共同体（中文）.md",
+    "bytes": 31149,
+    "sha256": "6fd93c6ce031bf0b6a1fac272731e2bdaa61834d5eb4087b94d798e2ba448584"
+  },
+  {
+    "path": "第四卷/第27章 魔鬼与基督徒共同体（英文）.md",
+    "bytes": 38616,
+    "sha256": "bfb729e53cbde335cf4bb6dc94aef8613382f1e2e3eda4a757f88a1c7e980791"
+  },
+  {
+    "path": "第四卷/第28章 威克里夫主义与罗拉德派（中文）.md",
+    "bytes": 36645,
+    "sha256": "6c3cf00733859efd0ba7a4b3bc718dae3ed047f432744e62c9f806827c52dc80"
+  },
+  {
+    "path": "第四卷/第28章 威克里夫主义与罗拉德派（英文）.md",
+    "bytes": 43779,
+    "sha256": "3acc0f886019887ba8e1e7123791d94567824cbfa26977b124932eeee75aeec6"
+  },
+  {
+    "path": "第四卷/第29章 修会的严规改革（中文）.md",
+    "bytes": 29745,
+    "sha256": "e4ba7d5878c16ce816c1f36d4beb354dff5594ceb469966fbfa557a707721644"
+  },
+  {
+    "path": "第四卷/第29章 修会的严规改革（英文）.md",
+    "bytes": 36748,
+    "sha256": "7a958373d2b6b4f87a65c612e3728464aa648defd8c7785cd9a2367d3c73761e"
+  },
+  {
+    "path": "第四卷/第30章 公共纯洁与纪律：国家与宗教更新（中文）.md",
+    "bytes": 30370,
+    "sha256": "bc53cfbf10b860ccc782561b9caa38dd6042a9ad662b144a7b1bcbc9791e2c0d"
+  },
+  {
+    "path": "第四卷/第30章 公共纯洁与纪律：国家与宗教更新（英文）.md",
+    "bytes": 40123,
+    "sha256": "08604bc2549c34fa5b3428d96d811533ff695f77057e70d9c8fa2d008cb09864"
+  },
+  {
+    "path": "第四卷/第31章 十五世纪的《圣经》（中文）.md",
+    "bytes": 66466,
+    "sha256": "8b8525052fb4d7dcdfcaa733e9a0160d9a20954e42c9f8853249c36e914e81bf"
+  },
+  {
+    "path": "第四卷/第31章 十五世纪的《圣经》（英文）.md",
+    "bytes": 75299,
+    "sha256": "ce61456d68af6322049ae5629ce69843fe33eac94f3b5c606677d351501db156"
+  },
+  {
+    "path": "第四卷/第一编 制度与变革（1100—1200年）（中文）.md",
+    "bytes": 270,
+    "sha256": "eab0c4fb0dc866d153f90d1e4533fe1f1bdba00acde3c7a3bd7b7578d6bc09c1"
+  },
+  {
+    "path": "第四卷/第一编 制度与变革（1100—1200年）（英文）.md",
+    "bytes": 287,
+    "sha256": "e769c22560f8e13530522268a2a26734303f3b9d92b3b90239e752e985f81fe5"
+  },
+  {
+    "path": "第四卷/第七编 改革与更新（中文）.md",
+    "bytes": 203,
+    "sha256": "a8d0d2f6af5d0fadc72107e13deb006617694cb8b26b9d1293f4722dc87129dd"
+  },
+  {
+    "path": "第四卷/第七编 改革与更新（英文）.md",
+    "bytes": 246,
+    "sha256": "2c7c919e0be06406d23ea8cdb62f975e398093f327ba73841af9b57cae7338b5"
+  },
+  {
+    "path": "第四卷/第三编 边界的建立（中文）.md",
+    "bytes": 235,
+    "sha256": "5e71ce8b12c34924d06b794421605e2ca7e890430f761d46d8870b75229173c6"
+  },
+  {
+    "path": "第四卷/第三编 边界的建立（英文）.md",
+    "bytes": 253,
+    "sha256": "0f64f99a6435924128670dea6a1054b1d2ae3f95c6beb1bf05a1f755eac7e881"
+  },
+  {
+    "path": "第四卷/第二编 基督教世界的塑造（1200—1300年）（中文）.md",
+    "bytes": 288,
+    "sha256": "08800b8995fc012ba2c511468a9fdd0dfbd3fa846d2ccdae2ebe07d02b5d8cd9"
+  },
+  {
+    "path": "第四卷/第二编 基督教世界的塑造（1200—1300年）（英文）.md",
+    "bytes": 298,
+    "sha256": "d66d8c9f50e82ec19bf5af7f2a58efe12eb7c33f930c13a5406f93e31f40275c"
+  },
+  {
+    "path": "第四卷/第五编 运动中的基督徒生活（中文）.md",
+    "bytes": 215,
+    "sha256": "76981170b73e9db38827b6d8bf2a6910c8a9e98cd2305cb21fa0a49920640a1f"
+  },
+  {
+    "path": "第四卷/第五编 运动中的基督徒生活（英文）.md",
+    "bytes": 263,
+    "sha256": "5cd81047f3c9f98d25c53238c522c3302d9df03ce835d99094097694101be98a"
+  },
+  {
+    "path": "第四卷/第六编 基督教社会面临的挑战（中文）.md",
+    "bytes": 218,
+    "sha256": "fbba17782074b447c62ff1975dc41e47d09a61668e363a909e0db5c72e24720d"
+  },
+  {
+    "path": "第四卷/第六编 基督教社会面临的挑战（英文）.md",
+    "bytes": 284,
+    "sha256": "6e56d2b3388b43e508dbf8f1ada4bf2875c1119fae0ac62990487b012176a042"
+  },
+  {
+    "path": "第四卷/第四编 基督教世界的形态（中文）.md",
+    "bytes": 200,
+    "sha256": "77a20a003a87d04a6c640d52d4866d52c041686a194909974788f158bf3738bd"
+  },
+  {
+    "path": "第四卷/第四编 基督教世界的形态（英文）.md",
+    "bytes": 261,
+    "sha256": "2b40e33b261331387ba95d836ac4f11a0c5f8d14d1f2c421326b8a881935847c"
+  },
+  {
+    "path": "第四卷/索引（中文）.md",
+    "bytes": 92988,
+    "sha256": "ff665e84e61c825e26f814c48df16b6c317c475f9052126e4dce13308a836368"
+  },
+  {
+    "path": "第四卷/索引（英文）.md",
+    "bytes": 59366,
+    "sha256": "6d581c01752022d8ec906ee44efa5daccd8ec97e6918b9e822483da6c53eb20e"
+  },
+  {
+    "path": "第四卷/翻译规范.md",
+    "bytes": 65777,
+    "sha256": "9234483e2792e6517df69d76b2e73fd9dfdbaf5050f02203187c768f2e9042c5"
+  }
+]

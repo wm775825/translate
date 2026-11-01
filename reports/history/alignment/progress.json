@@ -1,0 +1,84 @@
+{
+  "task": "九卷校订标准、主要术语及版本名称对齐",
+  "started_at": "2026-10-31T21:11:08",
+  "status": "complete",
+  "volume6_pending_chapters": [],
+  "volume6_completed_chapters": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "cross_volume_terms_complete": true,
+  "filenames_and_statuses_aligned": true,
+  "pdfs_verified": true,
+  "scope": "先补第六卷第13—26章完整句法、论证与例证，再检查主要跨卷译名，统一实际校订范围与版本名称。保持各卷原书语境，不冒称专业逐句独立精校。",
+  "completed_at": "2026-10-31T23:20:54+08:00",
+  "report": "九卷校订说明.md",
+  "output_pdfs": {
+    "1": {
+      "file": "E:\\codes\\cambridge\\output\\pdf\\01 起源至君士坦丁（中文校订版）.pdf",
+      "pages": 731,
+      "sha256": "06c79b138e15423e559e620aef1987cc4202968bde0685e2300b5534e177df86",
+      "regenerated": false
+    },
+    "2": {
+      "file": "E:\\codes\\cambridge\\output\\pdf\\02 君士坦丁至600年（中文校订版）.pdf",
+      "pages": 726,
+      "sha256": "0d2c51194f8176e1bd303ec6e63ac4ef59c48a4583d42647f3734380206d1c54",
+      "regenerated": true
+    },
+    "3": {
+      "file": "E:\\codes\\cambridge\\output\\pdf\\03 中世纪早期基督教（中文校订版）.pdf",
+      "pages": 771,
+      "sha256": "ebaa3b8f6a3bb93ca3399cf7a31aa81e676aa704fd8237b9a346c0b1577c5914",
+      "regenerated": false
+    },
+    "4": {
+      "file": "E:\\codes\\cambridge\\output\\pdf\\04 西欧基督教（中文校订版）.pdf",
+      "pages": 515,
+      "sha256": "79615907f2921c3c495bc6780f389035846e887c1fb34d6874399473183a2326",
+      "regenerated": false
+    },
+    "5": {
+      "file": "E:\\codes\\cambridge\\output\\pdf\\05 东方基督教（中文校订版）.pdf",
+      "pages": 652,
+      "sha256": "a92ac2e3095c7ed74bfa55d06f5172ca2435195d28f04b6f6002a14c7c2f7f7e",
+      "regenerated": false
+    },
+    "6": {
+      "file": "E:\\codes\\cambridge\\output\\pdf\\06 改革与扩张（中文校订版）.pdf",
+      "pages": 639,
+      "sha256": "20df8095d48a312facd843995c2082582493f64f294f2601fe1d65ddd33480c3",
+      "regenerated": true
+    },
+    "7": {
+      "file": "E:\\codes\\cambridge\\output\\pdf\\07 启蒙、复兴与革命（中文校订版）.pdf",
+      "pages": 596,
+      "sha256": "1552db0c40fa7d07da8e89c492c673fc14dc803897971f8e91a3f327226daf62",
+      "regenerated": true
+    },
+    "8": {
+      "file": "E:\\codes\\cambridge\\output\\pdf\\08 世界基督教（1815-1914）（中文校订版）.pdf",
+      "pages": 627,
+      "sha256": "5859eca323b0e91ff1c588da6ce1b7ea4d0c1ad2560b9e7a516ad185cfa880d7",
+      "regenerated": true
+    },
+    "9": {
+      "file": "E:\\codes\\cambridge\\output\\pdf\\09 世界基督教（1914-2000）（中文校订版，缺第20章）.pdf",
+      "pages": 580,
+      "sha256": "e491c1040dcb53a146272800e2df24098e656b4c1069cf97fc973605c07b97f1",
+      "regenerated": true
+    }
+  }
+}

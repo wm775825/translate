@@ -1,0 +1,57 @@
+{
+  "checked_date": "2026-10-31",
+  "chapter": 20,
+  "title": "The transformation of Latin American Christianity, c.1950–2000",
+  "author": "Edward L. Cleary",
+  "original_pages": [
+    366,
+    384
+  ],
+  "doi": "10.1017/CHOL9780521815000.021",
+  "publisher_page": "https://www.cambridge.org/core/books/abs/cambridge-history-of-christianity/transformation-of-latin-american-christianity-c19502000/3015E2C9EE65B4B858BC190534BC1BB6",
+  "publisher_result": "公开页面提供摘要与参考书目；全文提示个人或机构访问权限。页面元数据中的正常PDF下载链接实测重定向回摘要页，未取得PDF。",
+  "researchgate_page": "https://www.researchgate.net/publication/291863305_The_transformation_of_Latin_American_Christianity_c1950-2000",
+  "researchgate_result": "页面标记No full-text available；未提供公开全文。",
+  "full_text_obtained": false,
+  "source_gap_resolved": false,
+  "checked_online_pdf_copies": [
+    {
+      "url": "https://dl.ziliaozhan.win/%E4%B9%A6%E7%B1%8D/pdf/%E5%8E%86%E5%8F%B2/%E5%89%91%E6%A1%A5%E5%9F%BA%E7%9D%A3%E6%95%99%E5%8F%B2/9%E5%89%91%E6%A1%A5%E5%9F%BA%E7%9D%A3%E6%95%99%E5%8F%B2%E7%AC%AC%E4%B9%9D%E5%8D%B7.pdf",
+      "downloaded_pdf_pages": 690,
+      "sha256": "f8d98731909880c46d69026080f40d4894ce8ee7ccda37d0ce387deb1c0e63b2",
+      "chapter20_missing": true,
+      "evidence": "印刷页码365之后为空白占位页，再直接进入第21章、印刷页码385。"
+    },
+    {
+      "url": "https://www.bethanyipcmm.org/wp-content/uploads/2020/10/Volume-6-World-Christianities-C.1914-C.2000-Hugh-McLeod.pdf",
+      "downloaded_pdf_pages": 720,
+      "sha256": "f2f7287504c1203cd83d53ecf16bae0b00f772c48445b7129ab030c887b73c51",
+      "chapter20_missing": true,
+      "evidence": "印刷页码365之后为空白占位页，再直接进入第21章、印刷页码385。"
+    }
+  ],
+  "missing_chapter_reason_investigation": {
+    "checked_date": "2026-10-31",
+    "queries": [
+      "Cambridge Christianity chapter 20 missing",
+      "World Christianities missing chapter",
+      "Chapter 20 missing Christianity",
+      "剑桥基督教史 缺章",
+      "The transformation of Latin American Christianity censorship"
+    ],
+    "discussion_result": "本次公开检索未找到明确解释该章缺失原因的可靠讨论或出版社声明，不能据此断言无人讨论过。",
+    "publisher_evidence": "出版社仍列有该章独立页面、摘要、页码和DOI；未见页面标注撤稿或删除。",
+    "contemporary_review": {
+      "url": "https://academic.oup.com/ehr/article-abstract/CXXI/493/1152/546019",
+      "author": "Ian Bradley",
+      "journal": "The English Historical Review",
+      "published": "2006-09-01",
+      "doi": "10.1093/ehr/cel250",
+      "evidence": "搜索索引中的书评摘录明确列举了1950年后拉丁美洲基督教的转型这一章题。"
+    },
+    "pdf_evidence": "本地PDF与Bethany版本书签都注明Chapter 20 missing；三个已查文件在同一位置保留416.16×637.2点的占位页面，前后正文页面为430.866×646.299点。Ziliaozhan占位页虽含一张图像，但实际渲染后仍为空白，仅有出版社版权页脚。",
+    "inference": "这些现象与流传电子版制作、拼接或传递时缺章相符，多站副本可能共享早期不完整来源；尚不能确定哪一步造成缺章。",
+    "censorship_assessment": "没有查到证据将缺章归因于敏感内容或审查；也不能证明技术遗漏就是唯一原因。",
+    "causation_status": "unknown"
+  }
+}

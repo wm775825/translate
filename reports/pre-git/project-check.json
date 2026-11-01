@@ -1,0 +1,64 @@
+{
+  "all_checks_passed": true,
+  "books": [
+    {
+      "volume": 1,
+      "translated_chapters": 32,
+      "missing_chapters": [],
+      "notes": 2212
+    },
+    {
+      "volume": 2,
+      "translated_chapters": 29,
+      "missing_chapters": [],
+      "notes": 1706
+    },
+    {
+      "volume": 3,
+      "translated_chapters": 29,
+      "missing_chapters": [],
+      "notes": 2004
+    },
+    {
+      "volume": 4,
+      "translated_chapters": 31,
+      "missing_chapters": [],
+      "notes": 1086
+    },
+    {
+      "volume": 5,
+      "translated_chapters": 24,
+      "missing_chapters": [],
+      "notes": 1646
+    },
+    {
+      "volume": 6,
+      "translated_chapters": 30,
+      "missing_chapters": [],
+      "notes": 1197
+    },
+    {
+      "volume": 7,
+      "translated_chapters": 29,
+      "missing_chapters": [],
+      "notes": 538
+    },
+    {
+      "volume": 8,
+      "translated_chapters": 36,
+      "missing_chapters": [],
+      "notes": 810
+    },
+    {
+      "volume": 9,
+      "translated_chapters": 32,
+      "missing_chapters": [
+        20
+      ],
+      "notes": 1014
+    }
+  ],
+  "translated_chapters": 272,
+  "migration_content_hashes_checked": 937,
+  "errors": []
+}

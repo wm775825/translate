@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Cover",
+    "pdf_start": 1,
+    "depth": 0
+  },
+  {
+    "title": "Title Page",
+    "pdf_start": 6,
+    "depth": 0
+  },
+  {
+    "title": "Copyright",
+    "pdf_start": 7,
+    "depth": 0
+  },
+  {
+    "title": "Contents",
+    "pdf_start": 8,
+    "depth": 0
+  },
+  {
+    "title": "List of maps",
+    "pdf_start": 12,
+    "depth": 0
+  },
+  {
+    "title": "List of contributors",
+    "pdf_start": 13,
+    "depth": 0
+  },
+  {
+    "title": "List of abbreviations",
+    "pdf_start": 14,
+    "depth": 0
+  },
+  {
+    "title": "Introduction",
+    "pdf_start": 22,
+    "depth": 0
+  },
+  {
+    "title": "Part I. Christianity: Regional Developments",
+    "pdf_start": 28,
+    "depth": 0
+  },
+  {
+    "title": "1. Western Christianities",
+    "pdf_start": 30,
+    "depth": 1
+  },
+  {
+    "title": "2. Germanic and Celtic Christianities",
+    "pdf_start": 73,
+    "depth": 1
+  },
+  {
+    "title": "3. Greek Christianities",
+    "pdf_start": 91,
+    "depth": 1
+  },
+  {
+    "title": "4. Early Asian and East African Christianities",
+    "pdf_start": 139,
+    "depth": 1
+  },
+  {
+    "title": "Part II. Christianity Contested",
+    "pdf_start": 170,
+    "depth": 0
+  },
+  {
+    "title": "5. Religious dynamics between Christians and Jews in late antiquity (312–640)",
+    "pdf_start": 172,
+    "depth": 1
+  },
+  {
+    "title": "6. Christianity and paganism, I: Egypt",
+    "pdf_start": 194,
+    "depth": 1
+  },
+  {
+    "title": "7. Christianity and paganism, II: Asia Minor",
+    "pdf_start": 210,
+    "depth": 1
+  },
+  {
+    "title": "8. Christianity and paganism, III: Italy",
+    "pdf_start": 231,
+    "depth": 1
+  },
+  {
+    "title": "9. Christianity and paganism, IV: North Africa",
+    "pdf_start": 252,
+    "depth": 1
+  },
+  {
+    "title": "10. The intellectual debate between Christians and pagans",
+    "pdf_start": 269,
+    "depth": 1
+  },
+  {
+    "title": "11. Christianity and Manichaeism",
+    "pdf_start": 300,
+    "depth": 1
+  },
+  {
+    "title": "12. Heresiology: The invention of ‘heresy’ and ‘schism’",
+    "pdf_start": 317,
+    "depth": 1
+  },
+  {
+    "title": "Part III. Christian Culture and Society",
+    "pdf_start": 336,
+    "depth": 0
+  },
+  {
+    "title": "13. Towards defining a Christian culture: The Christian transformation of classical literature",
+    "pdf_start": 338,
+    "depth": 1
+  },
+  {
+    "title": "14. Bishops and society",
+    "pdf_start": 364,
+    "depth": 1
+  },
+  {
+    "title": "15. Synods and councils",
+    "pdf_start": 388,
+    "depth": 1
+  },
+  {
+    "title": "16. The growth of church law",
+    "pdf_start": 407,
+    "depth": 1
+  },
+  {
+    "title": "17. The church, society and political power",
+    "pdf_start": 424,
+    "depth": 1
+  },
+  {
+    "title": "Part IV. Christian Beliefs and Practices",
+    "pdf_start": 450,
+    "depth": 0
+  },
+  {
+    "title": "18. Discourse on the Trinity",
+    "pdf_start": 452,
+    "depth": 1
+  },
+  {
+    "title": "19. History of Christology to the seventh century",
+    "pdf_start": 481,
+    "depth": 1
+  },
+  {
+    "title": "20. Sin and salvation: Experiences and reflections",
+    "pdf_start": 522,
+    "depth": 1
+  },
+  {
+    "title": "21. From Antioch to Arles: Lay devotion in context",
+    "pdf_start": 552,
+    "depth": 1
+  },
+  {
+    "title": "22. Saints and holy men",
+    "pdf_start": 569,
+    "depth": 1
+  },
+  {
+    "title": "23. Pastoral care and discipline",
+    "pdf_start": 588,
+    "depth": 1
+  },
+  {
+    "title": "24. Sexuality, marriage and the family",
+    "pdf_start": 606,
+    "depth": 1
+  },
+  {
+    "title": "25. The growth of liturgy and the church year",
+    "pdf_start": 622,
+    "depth": 1
+  },
+  {
+    "title": "26. Interpreting scripture",
+    "pdf_start": 639,
+    "depth": 1
+  },
+  {
+    "title": "27. Asceticism and monasticism, I: Eastern",
+    "pdf_start": 658,
+    "depth": 1
+  },
+  {
+    "title": "28. Asceticism and monasticism, II:Western",
+    "pdf_start": 690,
+    "depth": 1
+  },
+  {
+    "title": "29. Art and Propaganda fide: Christian art and architecture, 300–600",
+    "pdf_start": 712,
+    "depth": 1
+  },
+  {
+    "title": "Index",
+    "pdf_start": 747,
+    "depth": 0
+  }
+]

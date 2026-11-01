@@ -1,0 +1,69 @@
+{
+  "aligned_at": "2026-10-31T23:20:54+08:00",
+  "version_label": "中文校订版",
+  "scope": "本套“中文校订版”表示已完成译文整理、主要术语一致性检查、重点原文复核以及结构和版面校核；未进行全卷独立专业逐句精校，也未据其他史料逐项核定原书事实。",
+  "translation_status": "complete_except_missing_ch20",
+  "professional_proofreading_complete": false,
+  "comprehensive_independent_sentence_review": false,
+  "current_round": "主要跨卷术语检索与上下文复核；沿用原有逐章译校、重点复核与版面校核记录；统一版本状态。",
+  "source_language_revision_chapters": [],
+  "pdf_verification_pending": false,
+  "translation_scope_notice": "第20章原书366—384页在源PDF中缺失，按用户要求跳过；其余32章与现有卷首卷末资料已完成中文译稿。文献原题名与出版信息保留原文，说明文字译为中文。",
+  "pdf": {
+    "file": "../output/pdf/09 世界基督教（1914-2000）（中文校订版，缺第20章）.pdf",
+    "pages": 580,
+    "bytes": 8333707,
+    "sha256": "e491c1040dcb53a146272800e2df24098e656b4c1069cf97fc973605c07b97f1"
+  },
+  "current_round_pdf_regenerated": true,
+  "source_language_revision_pending_chapters": [],
+  "pdf_qa": {
+    "pages": 580,
+    "sha256": "e491c1040dcb53a146272800e2df24098e656b4c1069cf97fc973605c07b97f1",
+    "text_fragments_checked": 6035,
+    "links": 7496,
+    "missing_paragraphs": [],
+    "broken_internal_links": [],
+    "link_rectangles_outside_page": [],
+    "words_outside_page": [],
+    "words_outside_margins": [],
+    "outline_roots": 41,
+    "font_preflight": {}
+  },
+  "visual_review": {
+    "checked_at": "2026-10-31T23:20:54+08:00",
+    "pdf_sha256": "e491c1040dcb53a146272800e2df24098e656b4c1069cf97fc973605c07b97f1",
+    "contact_sheets_actually_viewed": [],
+    "all_pages_contact_reviewed": false,
+    "thumbnail_pages_viewed": 0,
+    "enlarged_pages_actually_viewed": [
+      1,
+      2,
+      3,
+      10,
+      292,
+      492,
+      580
+    ],
+    "all_changed_text_pages_enlarged": true,
+    "method": "新旧PDF逐页比较提取文字；实际放大检查全部文字变化页及封面、阅读说明、目录、卷末等代表页；页数及书签定位与旧版一致。",
+    "result": "未见裁切、重叠、缺字、图注脱离或异常空白。",
+    "issues_remaining": []
+  },
+  "source_gaps": [
+    {
+      "chapter": 20,
+      "title_zh": "拉丁美洲基督教的转型（约1950—2000年）",
+      "original_start": 366,
+      "original_end": 384,
+      "placeholder_pdf_page": 385,
+      "reason": "源PDF缺章；书签明确标记Chapter 20 missing，原书页码365后直接跳至385。"
+    }
+  ],
+  "current_markdown": {
+    "file": "09 世界基督教（1914-2000）（中文译稿，缺第20章）.md",
+    "bytes": 1672612,
+    "sha256": "673cfa3e69cb1a427726d04508b5c22fb23b1c687100490be551e66a7d53f8df",
+    "han_characters": 375179
+  }
+}

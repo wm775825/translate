@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-10-31T00:41:10+08:00",
+  "scope": "卷首资料、第1章导论、第一编题页、第2章教皇制度",
+  "full_book_complete": false,
+  "completed_chapters": [
+    1,
+    2
+  ],
+  "total_chapters": 36,
+  "remaining_chapters": 34,
+  "source_pdf_pages": [
+    1,
+    46
+  ],
+  "original_notes": 4,
+  "full_english_page_anchors": 702,
+  "full_english_notes": 793,
+  "full_english_notes_reference_definition_match": true,
+  "source_pdf_unchanged": true,
+  "pdf_file": "../output/pdf/08 世界基督教（1815-1914）（中文翻译中）.pdf",
+  "pdf_pages": 43,
+  "pdf_sha256": "6501d59b1d5fc45246f8ad15137cafe9e4392664532294469ed9831a2a8ed520",
+  "pdf_qa": {
+    "pages": 43,
+    "sha256": "6501d59b1d5fc45246f8ad15137cafe9e4392664532294469ed9831a2a8ed520",
+    "text_fragments_checked": 360,
+    "links": 16,
+    "missing_paragraphs": [],
+    "broken_internal_links": [],
+    "link_rectangles_outside_page": [],
+    "words_outside_page": [],
+    "words_outside_margins": [],
+    "outline_roots": 6,
+    "font_preflight": {}
+  },
+  "visual_review": {
+    "all_pages_contact_reviewed": 43,
+    "enlarged_pages_reviewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      15,
+      20,
+      25,
+      27,
+      28,
+      29,
+      30,
+      35,
+      40,
+      43
+    ],
+    "issues_remaining": []
+  },
+  "original_source_queries": "原书第23—24页的关系、姓名、年代疑点已标识，尚未据其他史料逐项核定。",
+  "limitation": "结构、注释对应和版面检查不等于专业译文精校；未译部分的英文底稿仍须随章核对。",
+  "source_glyph_pages_pending_review": [
+    475
+  ],
+  "next_chapter": 3,
+  "next_chapter_title": "神学与反抗启蒙运动",
+  "next_source_pdf_pages": [
+    47,
+    69
+  ],
+  "next_original_notes": 18
+}

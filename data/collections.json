@@ -1,0 +1,38 @@
+{
+  "1": {
+    "header_file": "data/volume1/collection-header.md",
+    "collection_file": "第一卷/01 起源至君士坦丁（中文全译）.md"
+  },
+  "2": {
+    "header_file": "data/volume2/collection-header.md",
+    "collection_file": "第二卷/02 君士坦丁至600年（中文全译）.md"
+  },
+  "3": {
+    "header_file": "data/volume3/collection-header.md",
+    "collection_file": "第三卷/03 中世纪早期基督教（中文全译）.md"
+  },
+  "4": {
+    "header_file": "data/volume4/collection-header.md",
+    "collection_file": "第四卷/04 西欧基督教（中文全译）.md"
+  },
+  "5": {
+    "header_file": "data/volume5/collection-header.md",
+    "collection_file": "第五卷/05 东方基督教（中文全译）.md"
+  },
+  "6": {
+    "header_file": "data/volume6/collection-header.md",
+    "collection_file": "第六卷/06 改革与扩张（中文全译）.md"
+  },
+  "7": {
+    "header_file": "data/volume7/collection-header.md",
+    "collection_file": "第七卷/07 启蒙、复兴与革命（中文全译）.md"
+  },
+  "8": {
+    "header_file": "data/volume8/collection-header.md",
+    "collection_file": "第八卷/08 世界基督教（1815-1914）（中文全译）.md"
+  },
+  "9": {
+    "header_file": "data/volume9/collection-header.md",
+    "collection_file": "第九卷/09 世界基督教（1914-2000）（中文译稿，缺第20章）.md"
+  }
+}

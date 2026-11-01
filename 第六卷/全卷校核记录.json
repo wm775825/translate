@@ -1,0 +1,317 @@
+{
+  "checked_at": "2026-10-31T23:20:54+08:00",
+  "status": "consistency_and_targeted_source_review_complete",
+  "source": {
+    "file": "06 改革与扩张.pdf",
+    "pages": 774,
+    "sha256": "afaf2be935a22b1c3c257ae823cab4e6e71b111606c69f3d1a5b2642e7d01893",
+    "unchanged": true
+  },
+  "translated": {
+    "chapters": 30,
+    "source_page_anchors": 774,
+    "footnote_calls": 1197,
+    "footnote_definitions": 1197,
+    "original_visible_note_calls": 1196,
+    "editorial_note_calls": [
+      "p210-27"
+    ],
+    "bibliography_source_pages": 115,
+    "index_source_pages": 39,
+    "index_entries": 3107,
+    "translated_index_labels": 2311,
+    "original_name_labels": 796
+  },
+  "markdown": {
+    "file": "06 改革与扩张（中文全译）.md",
+    "bytes": 1803161,
+    "sha256": "6eafc4be1f3d0163097d3958535af58b9399286ad50321126d2a043bed45d752",
+    "missing_notes": 0,
+    "cid_or_replacement_characters": 0,
+    "han_characters": 346405
+  },
+  "pdf": {
+    "file": "../output/pdf/06 改革与扩张（中文校订版）.pdf",
+    "pages": 639,
+    "bytes": 7593096,
+    "sha256": "20df8095d48a312facd843995c2082582493f64f294f2601fe1d65ddd33480c3",
+    "text_fragments_checked": 8095,
+    "links": 7533,
+    "missing_paragraphs": [],
+    "broken_internal_links": [],
+    "link_rectangles_outside_page": [],
+    "words_outside_page": [],
+    "words_outside_margins": [],
+    "outline_roots": 43,
+    "font_preflight": {}
+  },
+  "visual_review": {
+    "checked_at": "2026-10-31T23:20:54+08:00",
+    "pdf_sha256": "20df8095d48a312facd843995c2082582493f64f294f2601fe1d65ddd33480c3",
+    "contact_sheets_actually_viewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "all_pages_contact_reviewed": true,
+    "thumbnail_pages_viewed": 639,
+    "enlarged_pages_actually_viewed": [
+      1,
+      2,
+      3,
+      189,
+      195,
+      202,
+      214,
+      221,
+      230,
+      245,
+      259,
+      278,
+      287,
+      290,
+      292,
+      297,
+      300,
+      303,
+      308,
+      315,
+      331,
+      346,
+      362,
+      378,
+      393,
+      400,
+      475,
+      591,
+      639
+    ],
+    "all_changed_text_pages_enlarged": false,
+    "method": "查看全639页缩略图，另放大检查修订章起始、正文、插图、参考书目与索引。",
+    "result": "未见裁切、重叠、缺字、图注脱离或异常空白。",
+    "issues_remaining": []
+  },
+  "remaining": {
+    "untranslated_chapters": [],
+    "untranslated_sections": [],
+    "priority_chapters": [],
+    "source_language_revision_pending_chapters": [],
+    "professional_language_proofreading_pending": true,
+    "description": "本套“中文校订版”表示已完成译文整理、主要术语一致性检查、重点原文复核以及结构和版面校核；未进行全卷独立专业逐句精校，也未据其他史料逐项核定原书事实。"
+  },
+  "previous_edition_record": "../reports/history/alignment/before/第六卷/全卷校核记录.json",
+  "version_label": "中文校订版",
+  "common_review_scope": "本套“中文校订版”表示已完成译文整理、主要术语一致性检查、重点原文复核以及结构和版面校核；未进行全卷独立专业逐句精校，也未据其他史料逐项核定原书事实。",
+  "professional_proofreading_complete": false,
+  "comprehensive_independent_sentence_review": false,
+  "alignment_record": "版本对齐记录.json",
+  "final_pdf_verified": true,
+  "previous_edition_visual_review": {
+    "contact_sheets_viewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "pages_checked": 586,
+    "enlarged_pages_viewed": [
+      2,
+      355,
+      422,
+      538,
+      586
+    ],
+    "result": "缩略图全页检查及重点页放大检查未见裁切、重叠或乱码"
+  },
+  "source_language_revision": {
+    "method": "逐章逐页实际阅读英文并修订中文；另检查来源页、注释、图像和基础语言。独立专业精校未进行。",
+    "chapters": [
+      {
+        "chapter": 13,
+        "source_pdf_pages": [
+          250,
+          266
+        ],
+        "source_pages_checked": 17,
+        "notes_preserved": 63,
+        "images_preserved": 0,
+        "han_before": 7832,
+        "han_after": 8385
+      },
+      {
+        "chapter": 14,
+        "source_pdf_pages": [
+          267,
+          283
+        ],
+        "source_pages_checked": 17,
+        "notes_preserved": 29,
+        "images_preserved": 0,
+        "han_before": 5695,
+        "han_after": 6801
+      },
+      {
+        "chapter": 15,
+        "source_pdf_pages": [
+          284,
+          305
+        ],
+        "source_pages_checked": 22,
+        "notes_preserved": 46,
+        "images_preserved": 0,
+        "han_before": 10338,
+        "han_after": 11598
+      },
+      {
+        "chapter": 16,
+        "source_pdf_pages": [
+          306,
+          324
+        ],
+        "source_pages_checked": 19,
+        "notes_preserved": 49,
+        "images_preserved": 0,
+        "han_before": 8751,
+        "han_after": 10412
+      },
+      {
+        "chapter": 17,
+        "source_pdf_pages": [
+          325,
+          343
+        ],
+        "source_pages_checked": 19,
+        "notes_preserved": 40,
+        "images_preserved": 0,
+        "han_before": 8113,
+        "han_after": 9896
+      },
+      {
+        "chapter": 18,
+        "source_pdf_pages": [
+          344,
+          365
+        ],
+        "source_pages_checked": 22,
+        "notes_preserved": 84,
+        "images_preserved": 0,
+        "han_before": 8033,
+        "han_after": 10779
+      },
+      {
+        "chapter": 19,
+        "source_pdf_pages": [
+          368,
+          393
+        ],
+        "source_pages_checked": 26,
+        "notes_preserved": 44,
+        "images_preserved": 9,
+        "han_before": 7943,
+        "han_after": 10748
+      },
+      {
+        "chapter": 20,
+        "source_pdf_pages": [
+          394,
+          408
+        ],
+        "source_pages_checked": 15,
+        "notes_preserved": 39,
+        "images_preserved": 0,
+        "han_before": 5595,
+        "han_after": 8528
+      },
+      {
+        "chapter": 21,
+        "source_pdf_pages": [
+          409,
+          428
+        ],
+        "source_pages_checked": 20,
+        "notes_preserved": 25,
+        "images_preserved": 0,
+        "han_before": 6971,
+        "han_after": 12346
+      },
+      {
+        "chapter": 22,
+        "source_pdf_pages": [
+          429,
+          447
+        ],
+        "source_pages_checked": 19,
+        "notes_preserved": 18,
+        "images_preserved": 0,
+        "han_before": 6289,
+        "han_after": 11693
+      },
+      {
+        "chapter": 23,
+        "source_pdf_pages": [
+          448,
+          466
+        ],
+        "source_pages_checked": 19,
+        "notes_preserved": 67,
+        "images_preserved": 0,
+        "han_before": 5839,
+        "han_after": 11106
+      },
+      {
+        "chapter": 24,
+        "source_pdf_pages": [
+          467,
+          487
+        ],
+        "source_pages_checked": 21,
+        "notes_preserved": 83,
+        "images_preserved": 0,
+        "han_before": 5415,
+        "han_after": 12101
+      },
+      {
+        "chapter": 25,
+        "source_pdf_pages": [
+          488,
+          505
+        ],
+        "source_pages_checked": 18,
+        "notes_preserved": 13,
+        "images_preserved": 0,
+        "han_before": 4702,
+        "han_after": 11847
+      },
+      {
+        "chapter": 26,
+        "source_pdf_pages": [
+          508,
+          526
+        ],
+        "source_pages_checked": 19,
+        "notes_preserved": 34,
+        "images_preserved": 0,
+        "han_before": 5189,
+        "han_after": 12322
+      }
+    ],
+    "source_pages": 273,
+    "notes": 634,
+    "han_before": 96705,
+    "han_after": 148562
+  },
+  "heading_review": "逐章对照英文底稿的章、节标题；原文各节保留。书签净减少12项来自译者说明类标题的整理。"
+}

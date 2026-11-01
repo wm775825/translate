@@ -1,0 +1,42 @@
+{
+  "pdf_sha256": "1b12343ca5d46402c30987b7a45fa2428f74282f681e3b28ea148cdb521e12fd",
+  "reviewed_at": "2026-10-31T20:18:40+08:00",
+  "all_page_thumbnails_viewed": true,
+  "thumbnail_pages": 580,
+  "contact_sheets_actually_viewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "final_enlarged_pages_actually_viewed": [
+    1,
+    2,
+    3,
+    228,
+    260,
+    271,
+    292,
+    307,
+    333,
+    356,
+    428,
+    437,
+    440,
+    458,
+    463,
+    465,
+    492,
+    538,
+    580
+  ],
+  "result": "实际查看全580页缩略图及19页放大图，包括目录、正文、缺章说明、四幅地图、三幅照片、两处诗歌、希腊文、章末注、书目与双栏索引；未见裁切、重叠、缺字或图注脱离。",
+  "automated_text_fragments_checked": 6035,
+  "internal_and_external_link_annotations_checked": 7496
+}

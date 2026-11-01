@@ -1,0 +1,99 @@
+{
+  "checked_at": "2026-10-31T16:25:20+08:00",
+  "scope": "阶段稿：已完成正文11/32章、卷首资料及已译编页。其余部分尚未翻译完成。",
+  "source_pdf": "09 世界基督教（1914-2000）.pdf",
+  "source_sha256": "a32883c8a55076a3b24bce01282f0b2a5996c94d177c1352a6c6ef6568f50738",
+  "source_pdf_unchanged": true,
+  "english_existing_pdf_anchors": 720,
+  "english_conversion_review": "其他章节待逐段复核，不能据提取成功宣称全卷原注已校核。",
+  "source_gaps": [
+    {
+      "chapter": 20,
+      "title_zh": "拉丁美洲基督教的转型（约1950—2000年）",
+      "original_start": 366,
+      "original_end": 384,
+      "placeholder_pdf_page": 385,
+      "reason": "源PDF缺章；书签明确标记Chapter 20 missing，原书页码365后直接跳至385。"
+    }
+  ],
+  "source_reference_multiplicity_pending_review": {
+    "p343-3": 4,
+    "p345-10": 4,
+    "p345-11": 4,
+    "p345-20": 4,
+    "p345-21": 4,
+    "p345-40": 2,
+    "p345-41": 2,
+    "p360-38": 2,
+    "p403-10": 2,
+    "p403-11": 2,
+    "p403-40": 2,
+    "p403-41": 2
+  },
+  "source_glyph_pages_pending_review": [
+    465,
+    551,
+    552,
+    584,
+    682
+  ],
+  "translated_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "translated_other_sections": [
+    "front_matter",
+    "part1",
+    "part2"
+  ],
+  "translated_source_pages": 237,
+  "translated_notes": 333,
+  "chinese_han_characters": 134279,
+  "pdf": "E:\\codes\\cambridge\\output\\pdf\\09 世界基督教（1914-2000）（中文翻译中）.pdf",
+  "pdf_sha256": "b73a6067116c722ce162bfbd773e58d907deb98c0af3ac51279ae7dcdd4a5044",
+  "pdf_pages": 36,
+  "pdf_qa": {
+    "pages": 180,
+    "sha256": "b73a6067116c722ce162bfbd773e58d907deb98c0af3ac51279ae7dcdd4a5044",
+    "text_fragments_checked": 970,
+    "links": 700,
+    "missing_paragraphs": [],
+    "broken_internal_links": [],
+    "link_rectangles_outside_page": [],
+    "words_outside_page": [],
+    "words_outside_margins": [],
+    "outline_roots": 16,
+    "font_preflight": {}
+  },
+  "visual_review": {
+    "pdf_sha256": "b73a6067116c722ce162bfbd773e58d907deb98c0af3ac51279ae7dcdd4a5044",
+    "reviewed_at": "2026-10-31T16:25:20+08:00",
+    "all_page_thumbnails_viewed": true,
+    "thumbnail_pages": 180,
+    "final_enlarged_pages_actually_viewed": [
+      2,
+      3,
+      55,
+      165,
+      172,
+      180
+    ],
+    "result": "未见文字裁切、重叠、缺字或链接定位异常；已核对目录、章节起始与章末注。"
+  },
+  "previous_volume_pdf_unchanged": true,
+  "limitations": [
+    "尚未完成；下一章为第12章。",
+    "第20章原书366—384页缺失，按用户要求暂跳过，不计为已译。",
+    "书目作者、原文题名及出版信息保留原文。",
+    "尚未经专业精校；历史判断与相对时间依2006年原书语境。"
+  ]
+}

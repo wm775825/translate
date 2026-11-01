@@ -1,0 +1,741 @@
+{
+  "scope": "第五卷全书；用户要求继续直到整本翻译完成；当前代理逐章翻译",
+  "source_pdf": "05 东方基督教.pdf",
+  "source_sha256": "10abeed6904c4218e62d64a0f2841203c44fe41f4bc2191ca116732e5f3718de",
+  "source_pages": 745,
+  "source_publication_year": 2006,
+  "translation_status": "complete",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The Byzantine Commonwealth 1000–1550",
+      "title_zh": "拜占庭共同体（1000—1550年）",
+      "pdf_start": 24,
+      "pdf_end": 73,
+      "english_file": "第01章 拜占庭共同体（1000—1550年）（英文）.md",
+      "chinese_file": "第01章 拜占庭共同体（1000—1550年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 20792,
+      "source_notes": 107,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 50,
+      "translated_notes": 107,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 2,
+      "title": "Byzantium and the west 1204–1453",
+      "title_zh": "拜占庭与西方（1204—1453年）",
+      "pdf_start": 74,
+      "pdf_end": 99,
+      "english_file": "第02章 拜占庭与西方（1204—1453年）（英文）.md",
+      "chinese_file": "第02章 拜占庭与西方（1204—1453年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 11486,
+      "source_notes": 62,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 26,
+      "translated_notes": 62,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 3,
+      "title": "The culture of lay piety in medieval Byzantium 1054–1453",
+      "title_zh": "中世纪拜占庭的平信徒虔敬文化（1054—1453年）",
+      "pdf_start": 100,
+      "pdf_end": 121,
+      "english_file": "第03章 中世纪拜占庭的平信徒虔敬文化（1054—1453年）（英文）.md",
+      "chinese_file": "第03章 中世纪拜占庭的平信徒虔敬文化（1054—1453年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9549,
+      "source_notes": 62,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 62,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 4,
+      "title": "The rise of hesychasm",
+      "title_zh": "静修主义的兴起",
+      "pdf_start": 122,
+      "pdf_end": 147,
+      "english_file": "第04章 静修主义的兴起（英文）.md",
+      "chinese_file": "第04章 静修主义的兴起（中文）.md",
+      "status": "translated",
+      "english_words_approx": 11392,
+      "source_notes": 120,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 26,
+      "translated_notes": 120,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 5,
+      "title": "Art and liturgy in the later Byzantine Empire",
+      "title_zh": "拜占庭帝国晚期的艺术与礼仪",
+      "pdf_start": 148,
+      "pdf_end": 174,
+      "english_file": "第05章 拜占庭帝国晚期的艺术与礼仪（英文）.md",
+      "chinese_file": "第05章 拜占庭帝国晚期的艺术与礼仪（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10044,
+      "source_notes": 81,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 27,
+      "translated_notes": 81,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 6,
+      "title": "Mount Athos and the Ottomans c.1350–1550",
+      "title_zh": "阿索斯山与奥斯曼人（约1350—1550年）",
+      "pdf_start": 175,
+      "pdf_end": 189,
+      "english_file": "第06章 阿索斯山与奥斯曼人（约1350—1550年）（英文）.md",
+      "chinese_file": "第06章 阿索斯山与奥斯曼人（约1350—1550年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 6733,
+      "source_notes": 44,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 15,
+      "translated_notes": 44,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 7,
+      "title": "The Great Church in captivity 1453–1586",
+      "title_zh": "被囚禁的大教会（1453—1586年）",
+      "pdf_start": 190,
+      "pdf_end": 207,
+      "english_file": "第07章 被囚禁的大教会（1453—1586年）（英文）.md",
+      "chinese_file": "第07章 被囚禁的大教会（1453—1586年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7906,
+      "source_notes": 59,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 18,
+      "translated_notes": 59,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 8,
+      "title": "Orthodoxy and the west: Reformation to Enlightenment",
+      "title_zh": "正教与西方：从宗教改革到启蒙运动",
+      "pdf_start": 208,
+      "pdf_end": 230,
+      "english_file": "第08章 正教与西方：从宗教改革到启蒙运动（英文）.md",
+      "chinese_file": "第08章 正教与西方：从宗教改革到启蒙运动（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10457,
+      "source_notes": 44,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 23,
+      "translated_notes": 44,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 9,
+      "title": "Bars’kyj and the Orthodox community",
+      "title_zh": "巴尔斯基与正教共同体",
+      "pdf_start": 231,
+      "pdf_end": 249,
+      "english_file": "第09章 巴尔斯基与正教共同体（英文）.md",
+      "chinese_file": "第09章 巴尔斯基与正教共同体（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7747,
+      "source_notes": 62,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 62,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 10,
+      "title": "The legacy of the French Revolution: Orthodoxy and nationalism",
+      "title_zh": "法国大革命的遗产：正教与民族主义",
+      "pdf_start": 250,
+      "pdf_end": 271,
+      "english_file": "第10章 法国大革命的遗产：正教与民族主义（英文）.md",
+      "chinese_file": "第10章 法国大革命的遗产：正教与民族主义（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8844,
+      "source_notes": 34,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 34,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 11,
+      "title": "Russian piety and Orthodox culture 1380–1589",
+      "title_zh": "俄国的虔敬与正教文化（1380—1589年）",
+      "pdf_start": 274,
+      "pdf_end": 296,
+      "english_file": "第11章 俄国的虔敬与正教文化（1380—1589年）（英文）.md",
+      "chinese_file": "第11章 俄国的虔敬与正教文化（1380—1589年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9808,
+      "source_notes": 81,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 23,
+      "translated_notes": 81,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 12,
+      "title": "Art and liturgy in Russia: Rublev and his successors",
+      "title_zh": "俄国的艺术与礼仪：鲁布廖夫及其继承者",
+      "pdf_start": 297,
+      "pdf_end": 322,
+      "english_file": "第12章 俄国的艺术与礼仪：鲁布廖夫及其继承者（英文）.md",
+      "chinese_file": "第12章 俄国的艺术与礼仪：鲁布廖夫及其继承者（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9805,
+      "source_notes": 95,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 26,
+      "translated_notes": 95,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 13,
+      "title": "Eastern Orthodoxy in Russia and Ukraine in the age of the Counter-Reformation",
+      "title_zh": "反宗教改革时代俄国与乌克兰的东正教",
+      "pdf_start": 323,
+      "pdf_end": 345,
+      "english_file": "第13章 反宗教改革时代俄国与乌克兰的东正教（英文）.md",
+      "chinese_file": "第13章 反宗教改革时代俄国与乌克兰的东正教（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9417,
+      "source_notes": 30,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 23,
+      "translated_notes": 30,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 14,
+      "title": "The Russian Orthodox Church in imperial Russia 1721–1917",
+      "title_zh": "俄罗斯帝国时期的俄罗斯东正教会（1721—1917年）",
+      "pdf_start": 346,
+      "pdf_end": 368,
+      "english_file": "第14章 俄罗斯帝国时期的俄罗斯东正教会（1721—1917年）（英文）.md",
+      "chinese_file": "第14章 俄罗斯帝国时期的俄罗斯东正教会（1721—1917年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9925,
+      "source_notes": 102,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 23,
+      "translated_notes": 102,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 15,
+      "title": "Russian piety and culture from Peter the Great to 1917",
+      "title_zh": "从彼得大帝到1917年的俄国虔敬与文化",
+      "pdf_start": 369,
+      "pdf_end": 391,
+      "english_file": "第15章 从彼得大帝到1917年的俄国虔敬与文化（英文）.md",
+      "chinese_file": "第15章 从彼得大帝到1917年的俄国虔敬与文化（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9942,
+      "source_notes": 50,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 23,
+      "translated_notes": 50,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 16,
+      "title": "Eastern Christianities (eleventh to fourteenth century): Copts, Melkites, Nestorians and Jacobites",
+      "title_zh": "东方基督教诸形态（十一至十四世纪）：科普特人、麦勒凯派、涅斯托里乌斯派与雅各派",
+      "pdf_start": 394,
+      "pdf_end": 424,
+      "english_file": "第16章 东方基督教诸形态（十一至十四世纪）：科普特人、麦勒凯派、涅斯托里乌斯派与雅各派（英文）.md",
+      "chinese_file": "第16章 东方基督教诸形态（十一至十四世纪）：科普特人、麦勒凯派、涅斯托里乌斯派与雅各派（中文）.md",
+      "status": "translated",
+      "english_words_approx": 13559,
+      "source_notes": 82,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 31,
+      "translated_notes": 82,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 17,
+      "title": "The Armenians in the era of the crusades 1050–1350",
+      "title_zh": "十字军时代的亚美尼亚人（1050—1350年）",
+      "pdf_start": 425,
+      "pdf_end": 450,
+      "english_file": "第17章 十字军时代的亚美尼亚人（1050—1350年）（英文）.md",
+      "chinese_file": "第17章 十字军时代的亚美尼亚人（1050—1350年）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10639,
+      "source_notes": 121,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 26,
+      "translated_notes": 121,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 18,
+      "title": "Church and diaspora: the case of the Armenians",
+      "title_zh": "教会与离散：亚美尼亚人的个案",
+      "pdf_start": 451,
+      "pdf_end": 477,
+      "english_file": "第18章 教会与离散：亚美尼亚人的个案（英文）.md",
+      "chinese_file": "第18章 教会与离散：亚美尼亚人的个案（中文）.md",
+      "status": "translated",
+      "english_words_approx": 11031,
+      "source_notes": 77,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 27,
+      "translated_notes": 77,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 19,
+      "title": "Church and nation: the Ethiopian Orthodox Tawahedo Church (from the thirteenth to the twentieth century)",
+      "title_zh": "教会与民族：埃塞俄比亚正统合一教会（十三至二十世纪）",
+      "pdf_start": 478,
+      "pdf_end": 508,
+      "english_file": "第19章 教会与民族：埃塞俄比亚正统合一教会（十三至二十世纪）（英文）.md",
+      "chinese_file": "第19章 教会与民族：埃塞俄比亚正统合一教会（十三至二十世纪）（中文）.md",
+      "status": "translated",
+      "english_words_approx": 13299,
+      "source_notes": 90,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 31,
+      "translated_notes": 90,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 20,
+      "title": "Coptic Christianity in modern Egypt",
+      "title_zh": "现代埃及的科普特基督教",
+      "pdf_start": 509,
+      "pdf_end": 531,
+      "english_file": "第20章 现代埃及的科普特基督教（英文）.md",
+      "chinese_file": "第20章 现代埃及的科普特基督教（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10030,
+      "source_notes": 50,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 23,
+      "translated_notes": 50,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 21,
+      "title": "Syriac Christianity in the modern Middle East",
+      "title_zh": "现代中东的叙利亚传统基督教",
+      "pdf_start": 532,
+      "pdf_end": 557,
+      "english_file": "第21章 现代中东的叙利亚传统基督教（英文）.md",
+      "chinese_file": "第21章 现代中东的叙利亚传统基督教（中文）.md",
+      "status": "translated",
+      "english_words_approx": 10630,
+      "source_notes": 83,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 26,
+      "translated_notes": 83,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 22,
+      "title": "Diaspora problems of the Russian emigration",
+      "title_zh": "俄国流亡者的离散问题",
+      "pdf_start": 560,
+      "pdf_end": 578,
+      "english_file": "第22章 俄国流亡者的离散问题（英文）.md",
+      "chinese_file": "第22章 俄国流亡者的离散问题（中文）.md",
+      "status": "translated",
+      "english_words_approx": 7751,
+      "source_notes": 52,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 19,
+      "translated_notes": 52,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 23,
+      "title": "The Orthodox Church and communism",
+      "title_zh": "东正教会与共产主义",
+      "pdf_start": 579,
+      "pdf_end": 600,
+      "english_file": "第23章 东正教会与共产主义（英文）.md",
+      "chinese_file": "第23章 东正教会与共产主义（中文）.md",
+      "status": "translated",
+      "english_words_approx": 9182,
+      "source_notes": 36,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 22,
+      "translated_notes": 36,
+      "review_status": "final_checked"
+    },
+    {
+      "chapter": 24,
+      "title": "Modern spirituality and the Orthodox Church",
+      "title_zh": "现代灵修与东正教会",
+      "pdf_start": 601,
+      "pdf_end": 620,
+      "english_file": "第24章 现代灵修与东正教会（英文）.md",
+      "chinese_file": "第24章 现代灵修与东正教会（中文）.md",
+      "status": "translated",
+      "english_words_approx": 8768,
+      "source_notes": 22,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 20,
+      "translated_notes": 22,
+      "review_status": "final_checked"
+    }
+  ],
+  "other_sections": [
+    {
+      "key": "front_matter",
+      "title_zh": "卷首资料",
+      "pdf_start": 1,
+      "pdf_end": 16,
+      "english_file": "卷首资料（英文）.md",
+      "chinese_file": "卷首资料（中文）.md",
+      "status": "translated",
+      "english_words_approx": 2534,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 16,
+      "translated_notes": 0,
+      "review_status": "final_checked"
+    },
+    {
+      "key": "foreword",
+      "title_zh": "前言",
+      "pdf_start": 17,
+      "pdf_end": 19,
+      "english_file": "前言（英文）.md",
+      "chinese_file": "前言（中文）.md",
+      "status": "translated",
+      "english_words_approx": 1181,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 3,
+      "translated_notes": 0,
+      "review_status": "final_checked"
+    },
+    {
+      "key": "abbreviations",
+      "title_zh": "缩略语",
+      "pdf_start": 20,
+      "pdf_end": 21,
+      "english_file": "缩略语（英文）.md",
+      "chinese_file": "缩略语（中文）.md",
+      "status": "translated",
+      "english_words_approx": 324,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "final_checked"
+    },
+    {
+      "key": "part1",
+      "title_zh": "第一编 普世牧首区",
+      "pdf_start": 22,
+      "pdf_end": 23,
+      "english_file": "第一编 普世牧首区（英文）.md",
+      "chinese_file": "第一编 普世牧首区（中文）.md",
+      "status": "translated",
+      "english_words_approx": 43,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "final_checked"
+    },
+    {
+      "key": "part2",
+      "title_zh": "第二编 俄罗斯教会",
+      "pdf_start": 272,
+      "pdf_end": 273,
+      "english_file": "第二编 俄罗斯教会（英文）.md",
+      "chinese_file": "第二编 俄罗斯教会（中文）.md",
+      "status": "translated",
+      "english_words_approx": 37,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "final_checked"
+    },
+    {
+      "key": "part3",
+      "title_zh": "第三编 东方基督教诸形态",
+      "pdf_start": 392,
+      "pdf_end": 393,
+      "english_file": "第三编 东方基督教诸形态（英文）.md",
+      "chinese_file": "第三编 东方基督教诸形态（中文）.md",
+      "status": "translated",
+      "english_words_approx": 44,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "final_checked"
+    },
+    {
+      "key": "part4",
+      "title_zh": "第四编 现代世界",
+      "pdf_start": 558,
+      "pdf_end": 559,
+      "english_file": "第四编 现代世界（英文）.md",
+      "chinese_file": "第四编 现代世界（中文）.md",
+      "status": "translated",
+      "english_words_approx": 36,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 2,
+      "translated_notes": 0,
+      "review_status": "final_checked"
+    },
+    {
+      "key": "bibliography",
+      "title_zh": "参考书目选编",
+      "pdf_start": 621,
+      "pdf_end": 699,
+      "english_file": "参考书目选编（英文）.md",
+      "chinese_file": "参考书目选编（中文）.md",
+      "status": "translated",
+      "english_words_approx": 30253,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 79,
+      "translated_notes": 0,
+      "review_status": "final_checked",
+      "validation": {
+        "source_pages": 79,
+        "bibliographic_entries": 1582,
+        "translated_heading_blocks": 95,
+        "source_numeric_sequence_verified": true,
+        "reviewed_line_break_hyphens": 163,
+        "cid_remaining": 0
+      }
+    },
+    {
+      "key": "index",
+      "title_zh": "索引",
+      "pdf_start": 700,
+      "pdf_end": 745,
+      "english_file": "索引（英文）.md",
+      "chinese_file": "索引（中文）.md",
+      "status": "translated",
+      "english_words_approx": 14139,
+      "source_notes": 0,
+      "conversion_issues": {
+        "unmatched_references": [],
+        "unmatched_definitions": []
+      },
+      "translated_source_pages": 46,
+      "translated_notes": 0,
+      "review_status": "final_checked",
+      "validation": {
+        "entries": 3547,
+        "unique_translated_labels": 3156,
+        "primary_entries": 2005,
+        "subentries": 1542,
+        "source_pages": 46,
+        "untranslated_labels": 0,
+        "source_numeric_sequence_verified": true,
+        "cross_reference_rows": 191,
+        "cross_reference_numbers_verified": true,
+        "locator_number_tokens": 5812,
+        "columns_and_indentation_restored": true
+      }
+    }
+  ],
+  "conversion_issues": {
+    "unmatched_references": [],
+    "unmatched_definitions": []
+  },
+  "image_pages": [
+    1,
+    6,
+    25,
+    34,
+    116,
+    153,
+    156,
+    161,
+    163,
+    170,
+    232,
+    235,
+    244,
+    275,
+    301,
+    305,
+    319,
+    395,
+    426,
+    479
+  ],
+  "extraction_warnings": [
+    {
+      "page": 153,
+      "review": "Landscape/rotated source page: preserve complete raw text and inspect layout before translation."
+    },
+    {
+      "page": 235,
+      "review": "Landscape/rotated source page: preserve complete raw text and inspect layout before translation."
+    },
+    {
+      "page": 395,
+      "review": "Landscape/rotated source page: preserve complete raw text and inspect layout before translation."
+    }
+  ],
+  "source_discrepancies": [
+    {
+      "pdf_page": 24,
+      "description": "第一章原目录为1000–1500；章首页及页眉为1000–1550。译文章题依正文。"
+    }
+  ],
+  "translated_chapters": 24,
+  "translated_other_sections": [
+    "front_matter",
+    "foreword",
+    "abbreviations",
+    "part1",
+    "part2",
+    "part3",
+    "part4",
+    "bibliography",
+    "index"
+  ],
+  "translated_notes": 1646,
+  "updated_at": "2026-10-30T00:02:32",
+  "current_chinese_file": "05 东方基督教（中文全译）.md",
+  "current_pdf": "../output/pdf/05 东方基督教（中文校订版）.pdf",
+  "current_pdf_pages": 652,
+  "proofreading_status": "consistency_and_targeted_source_review_complete",
+  "pdf_status": "complete",
+  "current_stage_record": "最终校核记录.json",
+  "next_chapter": null,
+  "current_pdf_chapters": 24,
+  "translation_scope_notice": "第23章PDF587—588页引文中的简易爆响装置制作、点火步骤，以概述替代；已在译文标明。其余篇章、引文及解释性注释，按原文翻译。",
+  "complete_chinese_file": "05 东方基督教（中文全译）.md",
+  "final_pdf_sha256": "a92ac2e3095c7ed74bfa55d06f5172ca2435195d28f04b6f6002a14c7c2f7f7e",
+  "revision_alignment_complete": true,
+  "version_label": "中文校订版",
+  "common_review_scope": "本套“中文校订版”表示已完成译文整理、主要术语一致性检查、重点原文复核以及结构和版面校核；未进行全卷独立专业逐句精校，也未据其他史料逐项核定原书事实。",
+  "professional_proofreading_complete": false,
+  "comprehensive_independent_sentence_review": false,
+  "alignment_record": "版本对齐记录.json",
+  "current_pdf_sha256": "a92ac2e3095c7ed74bfa55d06f5172ca2435195d28f04b6f6002a14c7c2f7f7e",
+  "final_pdf_verified": true,
+  "current_stage": "中文校订版：一致性校订、重点原文复核及版面校核完成。",
+  "next_work": "本轮对齐已完成；校订范围见版本对齐记录。",
+  "last_alignment_checked_at": "2026-10-31T23:20:54+08:00",
+  "pdf_export": {
+    "status": "complete",
+    "file": "../output/pdf/05 东方基督教（中文校订版）.pdf",
+    "pages": 652,
+    "bytes": 14034623,
+    "sha256": "a92ac2e3095c7ed74bfa55d06f5172ca2435195d28f04b6f6002a14c7c2f7f7e"
+  },
+  "editing_source": "分章中文Markdown；合订稿由分章稿生成，旧分块不再作为发布输入。"
+}

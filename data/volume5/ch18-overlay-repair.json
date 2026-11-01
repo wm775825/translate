@@ -1,0 +1,41 @@
+{
+  "changed_pages": [
+    451,
+    452,
+    454,
+    455,
+    456,
+    458,
+    459,
+    461,
+    463,
+    464,
+    466,
+    468,
+    469,
+    471,
+    473
+  ],
+  "changed_notes": [
+    "p451-1",
+    "p452-3",
+    "p454-12",
+    "p455-18",
+    "p456-21",
+    "p458-30",
+    "p458-31",
+    "p459-32",
+    "p466-49",
+    "p468-53",
+    "p473-68"
+  ],
+  "notes": 1646,
+  "references": 1646,
+  "warnings": [],
+  "source_changes": [
+    "Included smaller quotation and heading superscripts",
+    "Excluded Univers map lettering from footnotes",
+    "Restored chapter 10 upper body lines and removed folios",
+    "Restored blockquote layout and chapter 10 paragraph indentation"
+  ]
+}

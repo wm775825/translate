@@ -1,0 +1,11 @@
+{
+  "snapshot_date": "2026-11-01",
+  "source": "E:\\codes\\cambridge",
+  "archive": "E:\\codes\\cambridge-archive-20261101\\project-before-git.zip",
+  "archive_sha256": "86e36f219b839086dcc29107af7f89bed51e6d582a03a786db48b77fa9a4e847",
+  "files": 12206,
+  "original_bytes": 1571607660,
+  "archive_bytes": 1373326352,
+  "every_file_sha256_verified": true,
+  "verified_at": "2026-11-01T12:13:51+08:00"
+}

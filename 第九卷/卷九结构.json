@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Cover",
+    "pdf_start": 1,
+    "level": 0
+  },
+  {
+    "title": "Title Page",
+    "pdf_start": 6,
+    "level": 0
+  },
+  {
+    "title": "Copyright",
+    "pdf_start": 7,
+    "level": 0
+  },
+  {
+    "title": "Contents",
+    "pdf_start": 8,
+    "level": 0
+  },
+  {
+    "title": "List of maps",
+    "pdf_start": 12,
+    "level": 0
+  },
+  {
+    "title": "List of illustrations",
+    "pdf_start": 13,
+    "level": 0
+  },
+  {
+    "title": "Notes on contributors",
+    "pdf_start": 14,
+    "level": 0
+  },
+  {
+    "title": "1. Introduction",
+    "pdf_start": 20,
+    "level": 0
+  },
+  {
+    "title": "2. Being a Christian in the early twentieth century",
+    "pdf_start": 34,
+    "level": 0
+  },
+  {
+    "title": "Part I. Institutions and Movements",
+    "pdf_start": 46,
+    "level": 0
+  },
+  {
+    "title": "3. The papacy",
+    "pdf_start": 48,
+    "level": 1
+  },
+  {
+    "title": "4. Ecumenism",
+    "pdf_start": 69,
+    "level": 1
+  },
+  {
+    "title": "5. Christianity, colonialism and missions",
+    "pdf_start": 90,
+    "level": 1
+  },
+  {
+    "title": "6. The Pentecostal and Charismatic movements",
+    "pdf_start": 108,
+    "level": 1
+  },
+  {
+    "title": "7. Independency in Africa and Asia",
+    "pdf_start": 126,
+    "level": 1
+  },
+  {
+    "title": "Part II. Narratives of Change",
+    "pdf_start": 148,
+    "level": 0
+  },
+  {
+    "title": "8. The Great War",
+    "pdf_start": 150,
+    "level": 1
+  },
+  {
+    "title": "9. The Christian churches and politics in Europe, 1914–1939",
+    "pdf_start": 170,
+    "level": 1
+  },
+  {
+    "title": "10. Latin America, c.1914–c.1950",
+    "pdf_start": 198,
+    "level": 1
+  },
+  {
+    "title": "11. African Christianity: from the world wars to decolonisation",
+    "pdf_start": 216,
+    "level": 1
+  },
+  {
+    "title": "12. The African diaspora in the Caribbean and Europe from pre-emancipation to the present day",
+    "pdf_start": 238,
+    "level": 1
+  },
+  {
+    "title": "13. Christianity in the United States during the inter-war years",
+    "pdf_start": 255,
+    "level": 1
+  },
+  {
+    "title": "14. Christian churches in Australia, New Zealand and the Pacific, 1914–1970",
+    "pdf_start": 271,
+    "level": 1
+  },
+  {
+    "title": "15. Catholicism and Protestantism in the Second World War in Europe",
+    "pdf_start": 281,
+    "level": 1
+  },
+  {
+    "title": "16. The Cold War, the hegemony of the United States and the golden age of Christian democracy",
+    "pdf_start": 304,
+    "level": 1
+  },
+  {
+    "title": "17. The religious ferment of the sixties",
+    "pdf_start": 323,
+    "level": 1
+  },
+  {
+    "title": "18. The crisis of Christianity in the West: entering a post-Christian era?",
+    "pdf_start": 342,
+    "level": 1
+  },
+  {
+    "title": "19. The revolutions in eastern Europe and the beginnings of the post-communist era",
+    "pdf_start": 367,
+    "level": 1
+  },
+  {
+    "title": "*** Chapter 20 missing ***",
+    "pdf_start": 385,
+    "level": 1
+  },
+  {
+    "title": "21. Religion and racism: struggles around segregation, ‘Jim Crow’ and apartheid",
+    "pdf_start": 386,
+    "level": 1
+  },
+  {
+    "title": "22. Post-colonial Christianity in Africa",
+    "pdf_start": 402,
+    "level": 1
+  },
+  {
+    "title": "23. South Asia, 1911–2003",
+    "pdf_start": 423,
+    "level": 1
+  },
+  {
+    "title": "24. Christianity in south-east Asia, 1914–2000",
+    "pdf_start": 437,
+    "level": 1
+  },
+  {
+    "title": "25. East Asia",
+    "pdf_start": 451,
+    "level": 1
+  },
+  {
+    "title": "Part III. Social and Cultural Impact",
+    "pdf_start": 470,
+    "level": 0
+  },
+  {
+    "title": "26. Liturgy",
+    "pdf_start": 472,
+    "level": 1
+  },
+  {
+    "title": "27. The ‘other’",
+    "pdf_start": 484,
+    "level": 1
+  },
+  {
+    "title": "28. Wealth and poverty",
+    "pdf_start": 515,
+    "level": 1
+  },
+  {
+    "title": "29. Male and female",
+    "pdf_start": 535,
+    "level": 1
+  },
+  {
+    "title": "30. Christianity and the sciences",
+    "pdf_start": 570,
+    "level": 1
+  },
+  {
+    "title": "31. Literature and the arts",
+    "pdf_start": 583,
+    "level": 1
+  },
+  {
+    "title": "32. Role models",
+    "pdf_start": 619,
+    "level": 1
+  },
+  {
+    "title": "33. Being a Christian at the end of the twentieth century",
+    "pdf_start": 637,
+    "level": 1
+  },
+  {
+    "title": "Bibliography",
+    "pdf_start": 649,
+    "level": 0
+  },
+  {
+    "title": "Index",
+    "pdf_start": 692,
+    "level": 0
+  }
+]

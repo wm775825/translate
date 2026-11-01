@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-01",
+  "volume": 6,
+  "fresh_build_without_old_tmp": true,
+  "formal_pdf_unchanged": true,
+  "original_pdf_sha256": "20df8095d48a312facd843995c2082582493f64f294f2601fe1d65ddd33480c3",
+  "rebuilt_pdf_sha256": "2c920efdc5d9b09ff15ff8e8351355be45a37fe3ee165fa7ff35668dc01a57b9",
+  "pages": 639,
+  "all_page_drawing_streams_identical": true,
+  "different_drawing_pages": [],
+  "all_image_streams_identical": true,
+  "outline_titles_and_destinations_identical": true,
+  "outline_entries": 317,
+  "qa": {
+    "pages": 639,
+    "sha256": "2c920efdc5d9b09ff15ff8e8351355be45a37fe3ee165fa7ff35668dc01a57b9",
+    "text_fragments_checked": 8095,
+    "links": 7533,
+    "missing_paragraphs": [],
+    "broken_internal_links": [],
+    "link_rectangles_outside_page": [],
+    "words_outside_page": [],
+    "words_outside_margins": [],
+    "outline_roots": 43,
+    "font_preflight": {}
+  },
+  "visual_review": {
+    "actually_viewed_enlarged_pages": [
+      1,
+      2,
+      3,
+      189,
+      287,
+      591,
+      639
+    ],
+    "method": "实际查看封面、阅读说明、目录、正文、插图和双栏索引；639页绘图流及所有图像流逐项比较一致，故其余页面沿用既有全页核验依据。",
+    "issues_remaining": []
+  },
+  "collection_checks": [
+    {
+      "volume": 1,
+      "matches_current_collection": true
+    },
+    {
+      "volume": 2,
+      "matches_current_collection": true
+    },
+    {
+      "volume": 3,
+      "matches_current_collection": true
+    },
+    {
+      "volume": 4,
+      "matches_current_collection": true
+    },
+    {
+      "volume": 5,
+      "matches_current_collection": true
+    },
+    {
+      "volume": 6,
+      "matches_current_collection": true
+    },
+    {
+      "volume": 7,
+      "matches_current_collection": true
+    },
+    {
+      "volume": 8,
+      "matches_current_collection": true
+    },
+    {
+      "volume": 9,
+      "matches_current_collection": true
+    }
+  ]
+}

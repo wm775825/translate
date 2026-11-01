@@ -1,0 +1,350 @@
+[
+  {
+    "page": 675,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 676,
+    "base": "e",
+    "mark": "¨",
+    "result": "ë"
+  },
+  {
+    "page": 676,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 676,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 676,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 677,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 677,
+    "base": "e",
+    "mark": "ˆ",
+    "result": "ê"
+  },
+  {
+    "page": 679,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 679,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 679,
+    "base": "o",
+    "mark": "¨",
+    "result": "ö"
+  },
+  {
+    "page": 680,
+    "base": "a",
+    "mark": "˚",
+    "result": "å"
+  },
+  {
+    "page": 681,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 682,
+    "base": "o",
+    "mark": "¨",
+    "result": "ö"
+  },
+  {
+    "page": 682,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 682,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 682,
+    "base": "c",
+    "mark": "¸",
+    "result": "ç"
+  },
+  {
+    "page": 682,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 682,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 683,
+    "base": "o",
+    "mark": "¨",
+    "result": "ö"
+  },
+  {
+    "page": 683,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 683,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 683,
+    "base": "ı",
+    "mark": "¨",
+    "result": "ï"
+  },
+  {
+    "page": 684,
+    "base": "a",
+    "mark": "¨",
+    "result": "ä"
+  },
+  {
+    "page": 685,
+    "base": "o",
+    "mark": "ˆ",
+    "result": "ô"
+  },
+  {
+    "page": 685,
+    "base": "e",
+    "mark": "`",
+    "result": "è"
+  },
+  {
+    "page": 685,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 685,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 685,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 685,
+    "base": "c",
+    "mark": "¸",
+    "result": "ç"
+  },
+  {
+    "page": 685,
+    "base": "e",
+    "mark": "`",
+    "result": "è"
+  },
+  {
+    "page": 686,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 686,
+    "base": "c",
+    "mark": "¸",
+    "result": "ç"
+  },
+  {
+    "page": 687,
+    "base": "ı",
+    "mark": "ˆ",
+    "result": "î"
+  },
+  {
+    "page": 687,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 688,
+    "base": "o",
+    "mark": "¨",
+    "result": "ö"
+  },
+  {
+    "page": 688,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 688,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 691,
+    "base": "c",
+    "mark": "¸",
+    "result": "ç"
+  },
+  {
+    "page": 691,
+    "base": "c",
+    "mark": "¸",
+    "result": "ç"
+  },
+  {
+    "page": 694,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 694,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 694,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 694,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 695,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 695,
+    "base": "e",
+    "mark": "¨",
+    "result": "ë"
+  },
+  {
+    "page": 696,
+    "base": "o",
+    "mark": "¯",
+    "result": "ō"
+  },
+  {
+    "page": 696,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 696,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 696,
+    "base": "e",
+    "mark": "`",
+    "result": "è"
+  },
+  {
+    "page": 696,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 696,
+    "base": "e",
+    "mark": "´",
+    "result": "é"
+  },
+  {
+    "page": 696,
+    "base": "e",
+    "mark": "`",
+    "result": "è"
+  },
+  {
+    "page": 696,
+    "base": "o",
+    "mark": "¨",
+    "result": "ö"
+  },
+  {
+    "page": 697,
+    "base": "u",
+    "mark": "¨",
+    "result": "ü"
+  },
+  {
+    "page": 698,
+    "base": "o",
+    "mark": "¯",
+    "result": "ō"
+  },
+  {
+    "page": 698,
+    "base": "ı",
+    "mark": "´",
+    "result": "í"
+  },
+  {
+    "page": 699,
+    "base": "e",
+    "mark": "`",
+    "result": "è"
+  },
+  {
+    "page": 700,
+    "base": "o",
+    "mark": "¨",
+    "result": "ö"
+  }
+]

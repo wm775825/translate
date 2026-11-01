@@ -1,0 +1,222 @@
+[
+  {
+    "file": "第二卷\\第01章 西方的基督教诸形态（中文）.md",
+    "changes": [
+      {
+        "old": "凯撒利亚",
+        "new": "凯撒里亚",
+        "count": 2
+      },
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 24
+      },
+      {
+        "old": "彼得·蒙古斯",
+        "new": "彼得·蒙古斯",
+        "count": 4
+      },
+      {
+        "old": "阿皮亚里乌斯",
+        "new": "阿皮阿里乌斯",
+        "count": 2
+      },
+      {
+        "old": "尼凯提乌斯",
+        "new": "尼刻提乌斯",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "file": "第二卷\\第08章 基督教与异教之三：意大利（中文）.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "file": "第二卷\\第14章 主教与社会（中文）.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "file": "第二卷\\第15章 主教会议与大公会议（中文）.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "file": "第二卷\\第16章 教会法的发展（中文）.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "file": "第二卷\\第18章 论三一（中文）.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "file": "第二卷\\第23章 牧养与纪律（中文）.md",
+    "changes": [
+      {
+        "old": "福图纳图斯",
+        "new": "福尔图纳图斯",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch01-01-zh.md",
+    "changes": [
+      {
+        "old": "凯撒利亚",
+        "new": "凯撒里亚",
+        "count": 2
+      },
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 2
+      },
+      {
+        "old": "彼得·蒙古斯",
+        "new": "彼得·蒙古斯",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch01-02-zh.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch01-03-zh.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 1
+      },
+      {
+        "old": "阿皮亚里乌斯",
+        "new": "阿皮阿里乌斯",
+        "count": 2
+      },
+      {
+        "old": "尼凯提乌斯",
+        "new": "尼刻提乌斯",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch08-01-zh.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch08-02-zh.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch14-03-zh.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch15-02-zh.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch16-03-zh.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch18-03-zh.md",
+    "changes": [
+      {
+        "old": "达马苏斯",
+        "new": "达马苏",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\ch23-03-zh.md",
+    "changes": [
+      {
+        "old": "福图纳图斯",
+        "new": "福尔图纳图斯",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "file": "tmp\\volume2\\index-candidates.json",
+    "changes": [
+      {
+        "old": "凯撒利亚",
+        "new": "凯撒里亚",
+        "count": 1
+      }
+    ]
+  }
+]

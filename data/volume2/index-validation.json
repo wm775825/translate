@@ -1,0 +1,17 @@
+{
+  "entries": 3141,
+  "primary_entries": 1050,
+  "subentries": 2091,
+  "unique_labels": 2147,
+  "untranslated_labels": 0,
+  "source_pdf_pages": "747–779",
+  "source_printed_pages": "726–758",
+  "numeric_sequence_preserved": true,
+  "columns_reconstructed": true,
+  "source_caveats": [
+    "atenae经第750页图像核实为印本原词，按正文译链式注释；Cantenae亦保留原拼写",
+    "君士坦丁二世337–61、马尔基安540–7、希拉克略620–41、Maurice V、Lucus Verus及苏维汇国王归属等依原索引，未静默更改",
+    "数个原词目分项未列定位页码，保持无页码状态",
+    "保罗派指向祈祷派的参见关系依原索引保留"
+  ]
+}

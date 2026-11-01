@@ -1,0 +1,27 @@
+{
+  "aligned_at": "2026-10-31T23:20:54+08:00",
+  "version_label": "中文校订版",
+  "scope": "本套“中文校订版”表示已完成译文整理、主要术语一致性检查、重点原文复核以及结构和版面校核；未进行全卷独立专业逐句精校，也未据其他史料逐项核定原书事实。",
+  "translation_status": "complete",
+  "professional_proofreading_complete": false,
+  "comprehensive_independent_sentence_review": false,
+  "current_round": "主要跨卷术语检索与上下文复核；沿用原有逐章译校、重点复核与版面校核记录；统一版本状态。",
+  "source_language_revision_chapters": [],
+  "pdf_verification_pending": false,
+  "translation_scope_notice": "",
+  "pdf": {
+    "file": "../output/pdf/03 中世纪早期基督教（中文校订版）.pdf",
+    "pages": 771,
+    "bytes": 16989293,
+    "sha256": "ebaa3b8f6a3bb93ca3399cf7a31aa81e676aa704fd8237b9a346c0b1577c5914"
+  },
+  "current_round_pdf_regenerated": false,
+  "source_language_revision_pending_chapters": [],
+  "pdf_verification": "PDF保持此前已核验版本，本轮逐文件校验与对齐前SHA256完全一致。",
+  "current_markdown": {
+    "file": "03 中世纪早期基督教（中文全译）.md",
+    "bytes": 2208233,
+    "sha256": "3edd773a6cd932ebc5d7a8bc3afeec2370f9c54558bb6320b79775cfab45e917",
+    "han_characters": 392282
+  }
+}

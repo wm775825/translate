@@ -1,0 +1,92 @@
+{
+  "checked_at": "2026-10-30T17:11:35",
+  "status": "全译初稿；结构、注释和版面校核完成；语言精校未完成",
+  "source": {
+    "file": "06 改革与扩张.pdf",
+    "pages": 774,
+    "sha256": "afaf2be935a22b1c3c257ae823cab4e6e71b111606c69f3d1a5b2642e7d01893",
+    "unchanged": true
+  },
+  "translated": {
+    "chapters": 30,
+    "source_page_anchors": 774,
+    "footnote_calls": 1197,
+    "footnote_definitions": 1197,
+    "original_visible_note_calls": 1196,
+    "editorial_note_calls": [
+      "p210-27"
+    ],
+    "bibliography_source_pages": 115,
+    "index_source_pages": 39,
+    "index_entries": 3107,
+    "translated_index_labels": 2311,
+    "original_name_labels": 796
+  },
+  "markdown": {
+    "file": "06 改革与扩张（中文全译）.md",
+    "bytes": 1626352,
+    "sha256": "7e96f111da043c37ccc2bdde9476c9550be03fa477551d8a99c1a2d600f999ab",
+    "missing_notes": 0,
+    "cid_or_replacement_characters": 0
+  },
+  "pdf": {
+    "file": "output\\pdf\\06 改革与扩张（中文全译稿）.pdf",
+    "bytes": 7390205,
+    "pages": 586,
+    "sha256": "f5edb44ce31b2a3e324018f4f77050c082d3ec2a35b62626eda3fa81229d31c6",
+    "text_fragments_checked": 7865,
+    "links": 7533,
+    "missing_paragraphs": [],
+    "broken_internal_links": [],
+    "link_rectangles_outside_page": [],
+    "words_outside_page": [],
+    "words_outside_margins": [],
+    "outline_roots": 43,
+    "font_preflight": {}
+  },
+  "visual_review": {
+    "contact_sheets_viewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "pages_checked": 586,
+    "enlarged_pages_viewed": [
+      2,
+      355,
+      422,
+      538,
+      586
+    ],
+    "result": "缩略图全页检查及重点页放大检查未见裁切、重叠或乱码"
+  },
+  "remaining": {
+    "untranslated_chapters": [],
+    "untranslated_sections": [],
+    "language_proofreading": true,
+    "priority_chapters": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "description": "当前为全译初稿。结构、注释对应、字符与版面检查已完成；部分较早章节行文偏简略，尚待逐句语言精校。"
+  }
+}
