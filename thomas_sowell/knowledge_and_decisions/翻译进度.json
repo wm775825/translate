@@ -1,0 +1,210 @@
+{
+  "title": "知识与决策",
+  "english_title": "Knowledge and Decisions",
+  "author": "托马斯·索维尔",
+  "source_pdf": "知识与决策.pdf",
+  "source_sha256": "05bb3a4e3a1aef903a6cfb69300d2014ed98c83a331de8238038d4aa4642b09c",
+  "pdf_pages": 568,
+  "status": "translation_in_progress",
+  "editing_source": "chapters/*（中文）.md",
+  "chapters": [
+    {
+      "chapter": 1,
+      "english_title": "The Role of Knowledge",
+      "title": "知识的作用",
+      "pdf_start": 26,
+      "pdf_end": 46,
+      "printed_start_from_contents": 3,
+      "english_file": "chapters/第01章 知识的作用（英文）.md",
+      "chinese_file": "chapters/第01章 知识的作用（中文）.md",
+      "status": "translated",
+      "last_completed_source_id": "p046-03",
+      "translated_note_count": 4,
+      "source_blocks_checked": 75,
+      "source_review": "当前代理按原文逐段对照",
+      "language_review": "当前代理通读并修订中文，核对跨页接续及术语",
+      "independent_professional_review": false,
+      "chinese_sha256": "550e23432367c425cb358c125f6e68a0a129b8b8c09ea6c138f1fae61f71ba6d",
+      "chinese_characters": 13217
+    },
+    {
+      "chapter": 2,
+      "english_title": "Decision-Making Process",
+      "title": "决策过程",
+      "pdf_start": 47,
+      "pdf_end": 74,
+      "printed_start_from_contents": 21,
+      "english_file": "chapters/第02章 决策过程（英文）.md",
+      "chinese_file": "chapters/第02章 决策过程（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 3,
+      "english_title": "Economic Trade-Offs",
+      "title": "经济权衡",
+      "pdf_start": 75,
+      "pdf_end": 115,
+      "printed_start_from_contents": 45,
+      "english_file": "chapters/第03章 经济权衡（英文）.md",
+      "chinese_file": "chapters/第03章 经济权衡（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 4,
+      "english_title": "Social Trade-Offs",
+      "title": "社会权衡",
+      "pdf_start": 116,
+      "pdf_end": 153,
+      "printed_start_from_contents": 81,
+      "english_file": "chapters/第04章 社会权衡（英文）.md",
+      "chinese_file": "chapters/第04章 社会权衡（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 5,
+      "english_title": "Political Trade-Offs",
+      "title": "政治权衡",
+      "pdf_start": 154,
+      "pdf_end": 193,
+      "printed_start_from_contents": 114,
+      "english_file": "chapters/第05章 政治权衡（英文）.md",
+      "chinese_file": "chapters/第05章 政治权衡（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 6,
+      "english_title": "An Overview",
+      "title": "总览",
+      "pdf_start": 194,
+      "pdf_end": 205,
+      "printed_start_from_contents": 150,
+      "english_file": "chapters/第06章 总览（英文）.md",
+      "chinese_file": "chapters/第06章 总览（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 7,
+      "english_title": "Historical Trends",
+      "title": "历史趋势",
+      "pdf_start": 207,
+      "pdf_end": 211,
+      "printed_start_from_contents": 163,
+      "english_file": "chapters/第07章 历史趋势（英文）.md",
+      "chinese_file": "chapters/第07章 历史趋势（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 8,
+      "english_title": "Trends in Economics",
+      "title": "经济领域的趋势",
+      "pdf_start": 212,
+      "pdf_end": 282,
+      "printed_start_from_contents": 167,
+      "english_file": "chapters/第08章 经济领域的趋势（英文）.md",
+      "chinese_file": "chapters/第08章 经济领域的趋势（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 9,
+      "english_title": "Trends in Law",
+      "title": "法律领域的趋势",
+      "pdf_start": 283,
+      "pdf_end": 369,
+      "printed_start_from_contents": 229,
+      "english_file": "chapters/第09章 法律领域的趋势（英文）.md",
+      "chinese_file": "chapters/第09章 法律领域的趋势（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 10,
+      "english_title": "Trends in Politics",
+      "title": "政治领域的趋势",
+      "pdf_start": 370,
+      "pdf_end": 460,
+      "printed_start_from_contents": 305,
+      "english_file": "chapters/第10章 政治领域的趋势（英文）.md",
+      "chinese_file": "chapters/第10章 政治领域的趋势（中文）.md",
+      "status": "pending"
+    }
+  ],
+  "other_sections": [
+    {
+      "id": "front",
+      "title": "版权及原书目录",
+      "pdf_start": 1,
+      "pdf_end": 5,
+      "english_file": "chapters/版权及原书目录（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "preface",
+      "title": "1996年版序言",
+      "pdf_start": 6,
+      "pdf_end": 22,
+      "english_file": "chapters/1996年版序言（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "acknowledgments",
+      "title": "致谢",
+      "pdf_start": 23,
+      "pdf_end": 24,
+      "english_file": "chapters/致谢（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "part1",
+      "title": "第一部分 社会制度",
+      "pdf_start": 25,
+      "pdf_end": 25,
+      "english_file": "chapters/第一部分 社会制度（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "part2",
+      "title": "第二部分 趋势与问题",
+      "pdf_start": 206,
+      "pdf_end": 206,
+      "english_file": "chapters/第二部分 趋势与问题（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "notes",
+      "title": "原注",
+      "pdf_start": 461,
+      "pdf_end": 529,
+      "english_file": "chapters/原注（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "index",
+      "title": "索引",
+      "pdf_start": 530,
+      "pdf_end": 565,
+      "english_file": "chapters/索引（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "back-cover",
+      "title": "封底",
+      "pdf_start": 566,
+      "pdf_end": 566,
+      "english_file": "chapters/封底（英文）.md",
+      "status": "pending",
+      "source_kind": "image"
+    },
+    {
+      "id": "generated-toc",
+      "title": "电子版导航目录",
+      "pdf_start": 567,
+      "pdf_end": 568,
+      "english_file": "chapters/电子版导航目录（英文）.md",
+      "status": "pending"
+    }
+  ],
+  "last_completed_pdf_page": 46,
+  "next_step": "从第二章《决策过程》PDF物理第47页开始，先读取第47—51页，再结合上下文逐段翻译；本章原注在data/notes.json的chapter2下。1996年版序言及致谢仍待译。",
+  "current_pdf": null,
+  "full_book_complete": false,
+  "completed_chapters": 1
+}

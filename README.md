@@ -8,6 +8,7 @@
 |---|---|---|
 | [剑桥历史系列](<cambridge_history/README.md>) | [基督教史](<cambridge_history/christianity/README.md>) | 九卷中文PDF、原书和中文校订稿 |
 | [马克斯·韦伯](<max_weber/README.md>) | [新教伦理与资本主义精神](<max_weber/protestant_ethic/README.md>) | 德文原书、既有中文终校稿、历次底稿及工具 |
+| [托马斯·索维尔](<thomas_sowell/README.md>) | [知识与决策](<thomas_sowell/knowledge_and_decisions/README.md>) | 原书、英文全文与分章稿，中文翻译进行中 |
 
 ~~~text
 translations/
@@ -20,11 +21,19 @@ translations/
 │       ├── scripts/
 │       ├── reports/
 │       └── output/pdf/
-└── max_weber/
-    └── protestant_ethic/
-        ├── 新教伦理与资本主义精神.pdf
-        ├── 新教伦理与资本主义精神_德文原文.md
-        ├── 新教伦理与资本主义精神_中文终校稿.md
+├── max_weber/
+│   └── protestant_ethic/
+│       ├── 新教伦理与资本主义精神.pdf
+│       ├── 新教伦理与资本主义精神_德文原文.md
+│       ├── 新教伦理与资本主义精神_中文终校稿.md
+│       ├── data/
+│       ├── scripts/
+│       └── reports/
+└── thomas_sowell/
+    └── knowledge_and_decisions/
+        ├── 知识与决策.pdf
+        ├── 知识与决策（英文全文）.md
+        ├── chapters/
         ├── data/
         ├── scripts/
         └── reports/

@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-01",
+  "chapter": 1,
+  "title": "知识的作用",
+  "source_pdf_range": [
+    26,
+    46
+  ],
+  "note_source_pdf_pages": [
+    462
+  ],
+  "chinese_file": "chapters/第01章 知识的作用（中文）.md",
+  "chinese_sha256": "550e23432367c425cb358c125f6e68a0a129b8b8c09ea6c138f1fae61f71ba6d",
+  "source_blocks_read_and_mapped": 75,
+  "source_english_words": 7647,
+  "chinese_characters": 13217,
+  "original_notes": 4,
+  "translation_scope": "本章全部正文、标题及原注；纯书目内容保留原文。",
+  "review_scope": {
+    "source": "当前代理逐段阅读并对照，核对例证、限定条件与跨页接续。",
+    "language": "当前代理通读中文并定向修订；区分单次决策与不可逆决定。",
+    "independent_professional_review": false,
+    "source_renders_created": [
+      1,
+      27,
+      30,
+      34,
+      36,
+      38,
+      46,
+      462
+    ],
+    "source_renders_actually_viewed": [
+      1,
+      27,
+      30,
+      34,
+      36,
+      38,
+      46,
+      462
+    ],
+    "source_image_actually_viewed": [
+      566
+    ],
+    "pdf_authored": false
+  },
+  "source_repairs": [
+    {
+      "source_id": "p026-01",
+      "raw": "Chapter i",
+      "treatment": "依原目录及章序识为第1章；原始提取稿保持原样。"
+    },
+    {
+      "source_id": "p029-01",
+      "raw": "false- hoods",
+      "treatment": "中文按falsehoods词义翻译；原始文字保留。"
+    },
+    {
+      "source_id": "p035-01",
+      "raw": [
+        "photoghraphic",
+        "acutal"
+      ],
+      "treatment": "按photographic和actual的明确语义翻译，未改写原始提取数据。"
+    }
+  ],
+  "note_call_reconstruction": [
+    {
+      "source_id": "p030-02",
+      "note": "c01-1",
+      "basis": "原电子文本引注为单引号样标记；按本章注序及弗里德曼方法论文献恢复。"
+    },
+    {
+      "source_id": "p034-03",
+      "note": "c01-2",
+      "basis": "诗句后引注已退化；按本章注序及Kenneth Fearing诗集文献恢复。"
+    },
+    {
+      "source_id": "p038-01",
+      "note": "c01-3",
+      "basis": "奴隶反抗叙述后的引注为单引号样标记；对应Genovese奴隶制研究。"
+    },
+    {
+      "source_id": "p038-01",
+      "note": "c01-4",
+      "basis": "奴隶制下经济激励叙述后的引注为单引号样标记；对应Sowell书目。"
+    }
+  ],
+  "note_reconstruction_limitation": "恢复依据为原注次序和对应语境；当前PDF中的数字本身并非清晰可见，不表述为直接识别原数字。",
+  "untranslated_remainder": "第2—10章及卷首卷末资料待译。",
+  "automated_check": {
+    "all_checks_passed": true,
+    "source_pdf_unchanged": true,
+    "source_pages": 568,
+    "chapters_inventoried": 10,
+    "images_verified": 25,
+    "completed_chapters": [
+      {
+        "chapter": 1,
+        "source_blocks": 75,
+        "notes": 4,
+        "chinese_characters": 13217
+      }
+    ],
+    "scope": "结构及文件身份检查，不代替语义复核或PDF排版校核。",
+    "errors": []
+  }
+}

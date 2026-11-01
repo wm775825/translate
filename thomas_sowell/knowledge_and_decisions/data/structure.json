@@ -1,0 +1,197 @@
+{
+  "pdf_pages": 568,
+  "parts": [
+    25,
+    206
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "english_title": "The Role of Knowledge",
+      "title": "知识的作用",
+      "pdf_start": 26,
+      "pdf_end": 46,
+      "printed_start_from_contents": 3,
+      "english_file": "chapters/第01章 知识的作用（英文）.md",
+      "chinese_file": "chapters/第01章 知识的作用（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 2,
+      "english_title": "Decision-Making Process",
+      "title": "决策过程",
+      "pdf_start": 47,
+      "pdf_end": 74,
+      "printed_start_from_contents": 21,
+      "english_file": "chapters/第02章 决策过程（英文）.md",
+      "chinese_file": "chapters/第02章 决策过程（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 3,
+      "english_title": "Economic Trade-Offs",
+      "title": "经济权衡",
+      "pdf_start": 75,
+      "pdf_end": 115,
+      "printed_start_from_contents": 45,
+      "english_file": "chapters/第03章 经济权衡（英文）.md",
+      "chinese_file": "chapters/第03章 经济权衡（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 4,
+      "english_title": "Social Trade-Offs",
+      "title": "社会权衡",
+      "pdf_start": 116,
+      "pdf_end": 153,
+      "printed_start_from_contents": 81,
+      "english_file": "chapters/第04章 社会权衡（英文）.md",
+      "chinese_file": "chapters/第04章 社会权衡（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 5,
+      "english_title": "Political Trade-Offs",
+      "title": "政治权衡",
+      "pdf_start": 154,
+      "pdf_end": 193,
+      "printed_start_from_contents": 114,
+      "english_file": "chapters/第05章 政治权衡（英文）.md",
+      "chinese_file": "chapters/第05章 政治权衡（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 6,
+      "english_title": "An Overview",
+      "title": "总览",
+      "pdf_start": 194,
+      "pdf_end": 205,
+      "printed_start_from_contents": 150,
+      "english_file": "chapters/第06章 总览（英文）.md",
+      "chinese_file": "chapters/第06章 总览（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 7,
+      "english_title": "Historical Trends",
+      "title": "历史趋势",
+      "pdf_start": 207,
+      "pdf_end": 211,
+      "printed_start_from_contents": 163,
+      "english_file": "chapters/第07章 历史趋势（英文）.md",
+      "chinese_file": "chapters/第07章 历史趋势（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 8,
+      "english_title": "Trends in Economics",
+      "title": "经济领域的趋势",
+      "pdf_start": 212,
+      "pdf_end": 282,
+      "printed_start_from_contents": 167,
+      "english_file": "chapters/第08章 经济领域的趋势（英文）.md",
+      "chinese_file": "chapters/第08章 经济领域的趋势（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 9,
+      "english_title": "Trends in Law",
+      "title": "法律领域的趋势",
+      "pdf_start": 283,
+      "pdf_end": 369,
+      "printed_start_from_contents": 229,
+      "english_file": "chapters/第09章 法律领域的趋势（英文）.md",
+      "chinese_file": "chapters/第09章 法律领域的趋势（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 10,
+      "english_title": "Trends in Politics",
+      "title": "政治领域的趋势",
+      "pdf_start": 370,
+      "pdf_end": 460,
+      "printed_start_from_contents": 305,
+      "english_file": "chapters/第10章 政治领域的趋势（英文）.md",
+      "chinese_file": "chapters/第10章 政治领域的趋势（中文）.md",
+      "status": "pending"
+    }
+  ],
+  "other_sections": [
+    {
+      "id": "front",
+      "title": "版权及原书目录",
+      "pdf_start": 1,
+      "pdf_end": 5,
+      "english_file": "chapters/版权及原书目录（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "preface",
+      "title": "1996年版序言",
+      "pdf_start": 6,
+      "pdf_end": 22,
+      "english_file": "chapters/1996年版序言（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "acknowledgments",
+      "title": "致谢",
+      "pdf_start": 23,
+      "pdf_end": 24,
+      "english_file": "chapters/致谢（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "part1",
+      "title": "第一部分 社会制度",
+      "pdf_start": 25,
+      "pdf_end": 25,
+      "english_file": "chapters/第一部分 社会制度（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "part2",
+      "title": "第二部分 趋势与问题",
+      "pdf_start": 206,
+      "pdf_end": 206,
+      "english_file": "chapters/第二部分 趋势与问题（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "notes",
+      "title": "原注",
+      "pdf_start": 461,
+      "pdf_end": 529,
+      "english_file": "chapters/原注（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "index",
+      "title": "索引",
+      "pdf_start": 530,
+      "pdf_end": 565,
+      "english_file": "chapters/索引（英文）.md",
+      "status": "pending"
+    },
+    {
+      "id": "back-cover",
+      "title": "封底",
+      "pdf_start": 566,
+      "pdf_end": 566,
+      "english_file": "chapters/封底（英文）.md",
+      "status": "pending",
+      "source_kind": "image"
+    },
+    {
+      "id": "generated-toc",
+      "title": "电子版导航目录",
+      "pdf_start": 567,
+      "pdf_end": 568,
+      "english_file": "chapters/电子版导航目录（英文）.md",
+      "status": "pending"
+    }
+  ],
+  "notes_start": 461,
+  "index_start": 530,
+  "pagination": "Reflowed Calibre PDF; no fixed offset to original printed pagination."
+}

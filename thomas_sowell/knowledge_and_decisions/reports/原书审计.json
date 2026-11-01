@@ -1,0 +1,220 @@
+{
+  "title": "Knowledge and Decisions",
+  "author": "Thomas Sowell",
+  "copyright_year": 1980,
+  "edition_preface_year": 1996,
+  "source_sha256": "05bb3a4e3a1aef903a6cfb69300d2014ed98c83a331de8238038d4aa4642b09c",
+  "pdf_pages": 568,
+  "chapter_count": 10,
+  "text_empty_pages": [
+    1,
+    566
+  ],
+  "image_assets": [
+    "assets/source-p001-01.jpg",
+    "assets/source-p003-01.jpg",
+    "assets/source-p003-02.jpg",
+    "assets/source-p003-03.jpg",
+    "assets/source-p026-01.jpg",
+    "assets/source-p027-01.jpg",
+    "assets/source-p047-01.jpg",
+    "assets/source-p048-01.jpg",
+    "assets/source-p075-01.jpg",
+    "assets/source-p076-01.jpg",
+    "assets/source-p116-01.jpg",
+    "assets/source-p117-01.jpg",
+    "assets/source-p154-01.jpg",
+    "assets/source-p155-01.jpg",
+    "assets/source-p194-01.jpg",
+    "assets/source-p195-01.jpg",
+    "assets/source-p207-01.jpg",
+    "assets/source-p208-01.jpg",
+    "assets/source-p212-01.jpg",
+    "assets/source-p213-01.jpg",
+    "assets/source-p283-01.jpg",
+    "assets/source-p284-01.jpg",
+    "assets/source-p370-01.jpg",
+    "assets/source-p371-01.jpg",
+    "assets/source-p566-01.jpg"
+  ],
+  "parts": [
+    25,
+    206
+  ],
+  "chapter_ranges": [
+    {
+      "chapter": 1,
+      "english_title": "The Role of Knowledge",
+      "title": "知识的作用",
+      "pdf_start": 26,
+      "pdf_end": 46,
+      "printed_start_from_contents": 3,
+      "english_file": "chapters/第01章 知识的作用（英文）.md",
+      "chinese_file": "chapters/第01章 知识的作用（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 2,
+      "english_title": "Decision-Making Process",
+      "title": "决策过程",
+      "pdf_start": 47,
+      "pdf_end": 74,
+      "printed_start_from_contents": 21,
+      "english_file": "chapters/第02章 决策过程（英文）.md",
+      "chinese_file": "chapters/第02章 决策过程（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 3,
+      "english_title": "Economic Trade-Offs",
+      "title": "经济权衡",
+      "pdf_start": 75,
+      "pdf_end": 115,
+      "printed_start_from_contents": 45,
+      "english_file": "chapters/第03章 经济权衡（英文）.md",
+      "chinese_file": "chapters/第03章 经济权衡（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 4,
+      "english_title": "Social Trade-Offs",
+      "title": "社会权衡",
+      "pdf_start": 116,
+      "pdf_end": 153,
+      "printed_start_from_contents": 81,
+      "english_file": "chapters/第04章 社会权衡（英文）.md",
+      "chinese_file": "chapters/第04章 社会权衡（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 5,
+      "english_title": "Political Trade-Offs",
+      "title": "政治权衡",
+      "pdf_start": 154,
+      "pdf_end": 193,
+      "printed_start_from_contents": 114,
+      "english_file": "chapters/第05章 政治权衡（英文）.md",
+      "chinese_file": "chapters/第05章 政治权衡（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 6,
+      "english_title": "An Overview",
+      "title": "总览",
+      "pdf_start": 194,
+      "pdf_end": 205,
+      "printed_start_from_contents": 150,
+      "english_file": "chapters/第06章 总览（英文）.md",
+      "chinese_file": "chapters/第06章 总览（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 7,
+      "english_title": "Historical Trends",
+      "title": "历史趋势",
+      "pdf_start": 207,
+      "pdf_end": 211,
+      "printed_start_from_contents": 163,
+      "english_file": "chapters/第07章 历史趋势（英文）.md",
+      "chinese_file": "chapters/第07章 历史趋势（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 8,
+      "english_title": "Trends in Economics",
+      "title": "经济领域的趋势",
+      "pdf_start": 212,
+      "pdf_end": 282,
+      "printed_start_from_contents": 167,
+      "english_file": "chapters/第08章 经济领域的趋势（英文）.md",
+      "chinese_file": "chapters/第08章 经济领域的趋势（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 9,
+      "english_title": "Trends in Law",
+      "title": "法律领域的趋势",
+      "pdf_start": 283,
+      "pdf_end": 369,
+      "printed_start_from_contents": 229,
+      "english_file": "chapters/第09章 法律领域的趋势（英文）.md",
+      "chinese_file": "chapters/第09章 法律领域的趋势（中文）.md",
+      "status": "pending"
+    },
+    {
+      "chapter": 10,
+      "english_title": "Trends in Politics",
+      "title": "政治领域的趋势",
+      "pdf_start": 370,
+      "pdf_end": 460,
+      "printed_start_from_contents": 305,
+      "english_file": "chapters/第10章 政治领域的趋势（英文）.md",
+      "chinese_file": "chapters/第10章 政治领域的趋势（中文）.md",
+      "status": "pending"
+    }
+  ],
+  "note_counts": {
+    "preface": 16,
+    "chapter1": 4,
+    "chapter2": 13,
+    "chapter3": 11,
+    "chapter4": 29,
+    "chapter5": 41,
+    "chapter6": 16,
+    "chapter7": 2,
+    "chapter8": 145,
+    "chapter9": 411,
+    "chapter10": 307
+  },
+  "source_chapter_label_defects": [
+    {
+      "pdf_page": 26,
+      "raw": "Chapter i",
+      "chapter": 1
+    },
+    {
+      "pdf_page": 154,
+      "raw": "Chapter S",
+      "chapter": 5
+    },
+    {
+      "pdf_page": 370,
+      "raw": "Chapter io",
+      "chapter": 10
+    }
+  ],
+  "issues": [
+    "Bookmarks were not used as chapter boundaries; actual chapter cover and headings were checked.",
+    "Printed page starts are recorded from the original contents, not inferred per PDF page.",
+    "The source is reflowed and contains pre-existing OCR/word-joining defects; review each translated block against the PDF."
+  ],
+  "note_parsing_requires_later_page_review": {
+    "chapter9": {
+      "unparsed_note_number_candidates": [
+        54
+      ],
+      "duplicate_numbers": []
+    },
+    "chapter10": {
+      "unparsed_note_number_candidates": [
+        50,
+        152,
+        159,
+        258
+      ],
+      "duplicate_numbers": []
+    }
+  },
+  "image_only_pages_review": {
+    "1": "封面图像，保留原图。",
+    "566": "封底图像，含出版宣传文字；卷末阶段另行处理。"
+  },
+  "index_pdf_range": [
+    530,
+    565
+  ],
+  "generated_navigation_pdf_range": [
+    567,
+    568
+  ]
+}
