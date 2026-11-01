@@ -1,6 +1,6 @@
 # Rebuildable outputs and local runtime files.
-/tmp/
-/output/
+**/tmp/
+**/output/
 __pycache__/
 *.py[cod]
 .venv/

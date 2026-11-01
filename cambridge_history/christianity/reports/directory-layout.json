@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-01",
+  "source_project_directory": "E:/codes/cambridge",
+  "repository_directory": "E:/codes/translations",
+  "book_directory": "cambridge_history/christianity",
+  "git_head_before": "a4ac9ac3f915db7fd8e1464464fa95adb27d7cec",
+  "migration_method": "Copy and verify Git metadata, move book contents, then remove the verified original copy and empty directory; whole-directory rename blocked by active directory watchers.",
+  "files_before": 1406,
+  "content_files_preserved_byte_for_byte": 1402,
+  "documentation_and_ignore_files_updated": [
+    ".gitignore",
+    "AGENTS.md",
+    "cambridge_history/christianity/README.md",
+    "cambridge_history/christianity/reports/pre-git/README.md"
+  ],
+  "original_pdfs": 9,
+  "formal_chinese_pdfs": 9,
+  "old_directory_removed": true,
+  "archive_directory": "E:/codes/cambridge-archive-20261101",
+  "before_manifest": "before-restructure-manifest.json in archive_directory",
+  "before_documents_backup": "before-restructure-documents.zip in archive_directory",
+  "git_metadata_copy_sha256_verified": true,
+  "git_fsck_passed": true,
+  "commands_working_directory": "cambridge_history/christianity",
+  "historical_report_paths_preserved": true,
+  "validation": {
+    "project_checks": {
+      "all_checks_passed": true,
+      "books": [
+        {
+          "volume": 1,
+          "translated_chapters": 32,
+          "missing_chapters": [],
+          "notes": 2212
+        },
+        {
+          "volume": 2,
+          "translated_chapters": 29,
+          "missing_chapters": [],
+          "notes": 1706
+        },
+        {
+          "volume": 3,
+          "translated_chapters": 29,
+          "missing_chapters": [],
+          "notes": 2004
+        },
+        {
+          "volume": 4,
+          "translated_chapters": 31,
+          "missing_chapters": [],
+          "notes": 1086
+        },
+        {
+          "volume": 5,
+          "translated_chapters": 24,
+          "missing_chapters": [],
+          "notes": 1646
+        },
+        {
+          "volume": 6,
+          "translated_chapters": 30,
+          "missing_chapters": [],
+          "notes": 1197
+        },
+        {
+          "volume": 7,
+          "translated_chapters": 29,
+          "missing_chapters": [],
+          "notes": 538
+        },
+        {
+          "volume": 8,
+          "translated_chapters": 36,
+          "missing_chapters": [],
+          "notes": 810
+        },
+        {
+          "volume": 9,
+          "translated_chapters": 32,
+          "missing_chapters": [
+            20
+          ],
+          "notes": 1014
+        }
+      ],
+      "translated_chapters": 272,
+      "migration_content_hashes_checked": 937,
+      "errors": []
+    },
+    "all_nine_collections_match": true,
+    "all_ten_commands_exit_zero": true,
+    "updated_document_links_passed": true,
+    "original_and_formal_pdf_counts": {
+      "source": 9,
+      "chinese": 9
+    },
+    "git_index": {
+      "tracked_before": 1397,
+      "tracked_after": 1400,
+      "unchanged_blob_ids_after_path_mapping": 1393,
+      "intentional_documentation_changes": [
+        ".gitignore",
+        "AGENTS.md",
+        "cambridge_history/christianity/README.md",
+        "cambridge_history/christianity/reports/pre-git/README.md"
+      ],
+      "new_documents": [
+        "README.md",
+        "cambridge_history/README.md",
+        "cambridge_history/christianity/reports/directory-layout.json"
+      ],
+      "staged_status_counts": {
+        "M": 3,
+        "A": 3,
+        "R100": 1392,
+        "R066": 1
+      },
+      "tracked_source_pdfs": 9,
+      "ignored_formal_pdfs": 9,
+      "no_output_or_tmp_files_staged": true,
+      "all_expected_files_present": true
+    }
+  },
+  "new_documents": [
+    "README.md",
+    "cambridge_history/README.md",
+    "cambridge_history/christianity/reports/directory-layout.json"
+  ]
+}
