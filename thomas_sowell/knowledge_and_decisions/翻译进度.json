@@ -172,10 +172,10 @@
       "status": "translated",
       "last_completed_source_id": "p369-01",
       "source_blocks_checked": 285,
-      "chinese_sha256": "bb63c578f007f3eb849ff6e7664ca0a29a722ce21c75feadb1bb4e6df3facd18",
-      "chinese_characters": 45281,
+      "chinese_sha256": "cc8caa1997521a62c07a6f1a0ea3a94906fbd99b2bc0e520d3bd899e0bcc6003",
+      "chinese_characters": 45504,
       "source_review": "当前代理按分块逐段阅读全部正文与413条原注并对照翻译；核对论证、限定、数字、引文和跨页接续",
-      "language_review": "分块中文检查与定向修订；全书中文统一通读待完成",
+      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
       "independent_professional_review": false,
       "notes_translation_file": "data/第09章说明性原注译文.json",
       "translated_note_count": 413
@@ -371,7 +371,7 @@
   ],
   "completed_original_notes": 1001,
   "language_review_cursor": {
-    "next_pdf_page": 283,
+    "next_pdf_page": 370,
     "completed_ranges": [
       [
         26,
@@ -520,6 +520,50 @@
       [
         276,
         282
+      ],
+      [
+        283,
+        290
+      ],
+      [
+        291,
+        298
+      ],
+      [
+        299,
+        306
+      ],
+      [
+        307,
+        314
+      ],
+      [
+        315,
+        322
+      ],
+      [
+        323,
+        330
+      ],
+      [
+        331,
+        338
+      ],
+      [
+        339,
+        346
+      ],
+      [
+        347,
+        354
+      ],
+      [
+        355,
+        362
+      ],
+      [
+        363,
+        369
       ]
     ],
     "independent_professional_review": false

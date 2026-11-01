@@ -7,14 +7,14 @@
     369
   ],
   "chinese_file": "chapters/第09章 法律领域的趋势（中文）.md",
-  "chinese_sha256": "bb63c578f007f3eb849ff6e7664ca0a29a722ce21c75feadb1bb4e6df3facd18",
-  "chinese_characters": 45281,
+  "chinese_sha256": "cc8caa1997521a62c07a6f1a0ea3a94906fbd99b2bc0e520d3bd899e0bcc6003",
+  "chinese_characters": 45504,
   "source_blocks_read_and_mapped": 285,
   "original_notes": 413,
   "translation_scope": "285个正文来源分块及全部413条原注，包括63a；说明性文字译出，纯书目保留原文。",
   "review_scope": {
     "source": "当前代理按分块逐段阅读全部正文与413条原注并对照翻译；核对论证、限定、数字、引文和跨页接续",
-    "language": "分块中文检查与定向修订；全书中文统一通读待完成",
+    "language": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
     "independent_professional_review": false,
     "pdf_authored": false
   },
