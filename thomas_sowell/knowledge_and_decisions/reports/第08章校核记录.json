@@ -7,7 +7,7 @@
     282
   ],
   "chinese_file": "chapters/第08章 经济领域的趋势（中文）.md",
-  "chinese_sha256": "0e79bc08468fb48d8aaddac60884955d3fe1e3166bcb2ff1cf465e08d6d86e7a",
+  "chinese_sha256": "6a8c70f7bf7e726991662a3501845dadfba5640801c2ce78f1a032b6ddf99047",
   "chinese_characters": 42046,
   "source_blocks_read_and_mapped": 243,
   "original_notes": 145,
@@ -680,5 +680,86 @@
   "visual_source_pages_actually_viewed": [
     222
   ],
-  "heading_hierarchy": "依据原页行数据恢复：四个主节14.4磅，九个分节8.64磅；非仅按译文逻辑猜测。"
+  "heading_hierarchy": "依据原页行数据恢复：四个主节14.4磅，九个分节8.64磅；非仅按译文逻辑猜测。",
+  "heading_hierarchy_checked": [
+    {
+      "source_id": "p214-04",
+      "source_heading": "CONTROLLING PRICES",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p214-05",
+      "source_heading": "FORCIBLY RAISING PRICES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p223-04",
+      "source_heading": "FORCIBLY LOWERING PRICES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p230-02",
+      "source_heading": "FORCIBLY CHANGING COSTS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p241-02",
+      "source_heading": "FORCIBLE TRANSFERS OF RESOURCES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p244-04",
+      "source_heading": "CONTROLLING PRODUCERS AND SELLERS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p245-02",
+      "source_heading": "FORCIBLE RESTRICTION OF COMPETITION",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p252-03",
+      "source_heading": "ANTITRUST",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p266-02",
+      "source_heading": "ECONOMIC \"PLANNING\"",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p267-03",
+      "source_heading": "ARTICULATION",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p270-02",
+      "source_heading": "KNOWLEDGE TRANSFER",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p277-03",
+      "source_heading": "NON-ECONOMIC RATIONALES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p281-03",
+      "source_heading": "SUMMARY AND IMPLICATIONS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    }
+  ],
+  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
 }

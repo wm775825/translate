@@ -10,15 +10,15 @@
     462
   ],
   "chinese_file": "chapters/第01章 知识的作用（中文）.md",
-  "chinese_sha256": "550e23432367c425cb358c125f6e68a0a129b8b8c09ea6c138f1fae61f71ba6d",
+  "chinese_sha256": "d7783745cb4df26c003bafcb60be5f48f7eb1b4d828e7852f4a85c20a43f91a4",
   "source_blocks_read_and_mapped": 75,
   "source_english_words": 7647,
-  "chinese_characters": 13217,
+  "chinese_characters": 13197,
   "original_notes": 4,
   "translation_scope": "本章全部正文、标题及原注；纯书目内容保留原文。",
   "review_scope": {
     "source": "当前代理逐段阅读并对照，核对例证、限定条件与跨页接续。",
-    "language": "当前代理通读中文并定向修订；区分单次决策与不可逆决定。",
+    "language": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
     "independent_professional_review": false,
     "source_renders_created": [
       1,
@@ -105,5 +105,50 @@
     ],
     "scope": "结构及文件身份检查，不代替语义复核或PDF排版校核。",
     "errors": []
-  }
+  },
+  "heading_hierarchy_checked": [
+    {
+      "source_id": "p028-01",
+      "source_heading": "IDEAS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p030-04",
+      "source_heading": "THE QUANTITY OF KNOWLEDGE",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p032-03",
+      "source_heading": "THE MEANING OF \"KNOWING\"",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p036-02",
+      "source_heading": "DECISION-MAKING UNITS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p040-02",
+      "source_heading": "THE STRUCTURE OF INCENTIVES",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p042-02",
+      "source_heading": "TIME",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p042-04",
+      "source_heading": "IMPLICATIONS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    }
+  ],
+  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
 }

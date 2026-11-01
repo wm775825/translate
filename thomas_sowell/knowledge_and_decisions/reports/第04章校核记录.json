@@ -7,7 +7,7 @@
     153
   ],
   "chinese_file": "chapters/第04章 社会权衡（中文）.md",
-  "chinese_sha256": "46c76d40249762f0939714330f238660f87542f9220c67b3f83ca75a52565089",
+  "chinese_sha256": "1100dbb845733ad8453ed355b416681a767f928534cbc62747672afedd04fec8",
   "source_blocks_read_and_mapped": 130,
   "chinese_characters": 22338,
   "original_notes": 29,
@@ -151,5 +151,68 @@
       ],
       "treatment": "按prevalent与incompatibilities的明确词义译出；原数据不变。"
     }
-  ]
+  ],
+  "heading_hierarchy_checked": [
+    {
+      "source_id": "p119-05",
+      "source_heading": "SORTING AND LABELING",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p121-03",
+      "source_heading": "ORGANIZATIONS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p123-01",
+      "source_heading": "PEOPLE",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p128-02",
+      "source_heading": "THE FINENESS OF SORTING",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p130-03",
+      "source_heading": "TIME",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p132-04",
+      "source_heading": "TIME HORIZONS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p135-01",
+      "source_heading": "THE ANIMISTIC FALLACY",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p136-03",
+      "source_heading": "SYSTEMIC ANALYSIS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p138-04",
+      "source_heading": "CULTURE AND INDIVIDUALISM",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p149-03",
+      "source_heading": "SUMMARY AND IMPLICATIONS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    }
+  ],
+  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
 }

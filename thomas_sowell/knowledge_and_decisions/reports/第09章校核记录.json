@@ -7,7 +7,7 @@
     369
   ],
   "chinese_file": "chapters/第09章 法律领域的趋势（中文）.md",
-  "chinese_sha256": "b3df536e1d0b182345f25f2d9df759aaebf21bc879f2ed16a38b5d4d67719599",
+  "chinese_sha256": "bb63c578f007f3eb849ff6e7664ca0a29a722ce21c75feadb1bb4e6df3facd18",
   "chinese_characters": 45281,
   "source_blocks_read_and_mapped": 285,
   "original_notes": 413,
@@ -1904,5 +1904,98 @@
     "p363-01：供词案恢复387，避孕法律的后一个引文恢复389，原标367、388损坏。",
     "p364-02—p369-01：390—412按连续注序与对应原注逐项核对。"
   ],
-  "limitation": "结构与原注呼应检查不等于独立专业审校；原书引文和书目仍有明示疑点，第63a注位置为译校补置。网上判例只查阅相关首部、定位和文字检索，未声称通读全部判决或查看所有判决原页图像。"
+  "limitation": "结构与原注呼应检查不等于独立专业审校；原书引文和书目仍有明示疑点，第63a注位置为译校补置。网上判例只查阅相关首部、定位和文字检索，未声称通读全部判决或查看所有判决原页图像。",
+  "heading_hierarchy_checked": [
+    {
+      "source_id": "p287-02",
+      "source_heading": "ADMINISTRATIVE AGENCIES",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p293-02",
+      "source_heading": "FREE SPEECH",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p303-03",
+      "source_heading": "RACE",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p303-06",
+      "source_heading": "STATE ACTION",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p306-02",
+      "source_heading": "AFFIRMATIVE ACTION",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p319-02",
+      "source_heading": "SCHOOL INTEGRATION",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p326-03",
+      "source_heading": "THE SPECIALNESS OF RACE",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p330-01",
+      "source_heading": "CRIME",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p334-03",
+      "source_heading": "CRIME RATES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p336-03",
+      "source_heading": "CRIMINAL LAW PROCEDURE",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p342-02",
+      "source_heading": "PUNISHMENT",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p351-03",
+      "source_heading": "CONSTITUTIONAL INTERPRETATION",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p353-03",
+      "source_heading": "JUDICIAL ACTIVISM",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p360-04",
+      "source_heading": "DUE PROCESS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p363-02",
+      "source_heading": "SUMMARY AND IMPLICATIONS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    }
+  ],
+  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
 }

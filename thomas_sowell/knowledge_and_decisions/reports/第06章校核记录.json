@@ -7,7 +7,7 @@
     205
   ],
   "chinese_file": "chapters/第06章 总览（中文）.md",
-  "chinese_sha256": "7fd1c5ec1fdb41822ce257de8d9345d901d87823f8a9877c86b38d8699f697ce",
+  "chinese_sha256": "21254cfe8150501ef5f5234248e551851f0490cdf85129ba7c048c4e36a33952",
   "source_blocks_read_and_mapped": 35,
   "chinese_characters": 6141,
   "original_notes": 16,
@@ -102,5 +102,7 @@
   "terminology_followup": {
     "source_id": "p202-02",
     "issue": "重读原文，对照第十章intelligence与intellectual process之别，将三个intellectual译法统一为智识，保留其他原意。"
-  }
+  },
+  "heading_hierarchy_checked": [],
+  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
 }

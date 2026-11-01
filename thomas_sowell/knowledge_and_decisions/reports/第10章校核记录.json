@@ -10,7 +10,7 @@
   "source_blocks_read_and_translated": 304,
   "chapter_total_blocks": 304,
   "chinese_file": "chapters/第10章 政治领域的趋势（中文）.md",
-  "chinese_sha256": "50d70f3666b23cb0040c76f77fde4d0ced2d3f6a90e863961084218837a74ed3",
+  "chinese_sha256": "cc178f505e000cce47c4f38ebe561f853841d87c9da7a4e71abb775662018d03",
   "chinese_characters": 57517,
   "notes_translation_file": "data/第10章说明性原注译文.json",
   "notes_translation_sha256": "455d9807243b6ce081a00ed65dbb7046f13fc292aac33f2c60eb665e13bfa18b",
@@ -1446,5 +1446,6 @@
     "p451—p453：恢复267、270、271、275、277、281；首个276按所引武器资料恢复275。",
     "p455—p458：恢复283、284、290、292、294、297、298、305、306、308、310；211及288分别按引文恢复297和298。"
   ],
-  "limitation": "第十章译齐与结构检查；全书中文通读及PDF校核仍待进行，未经独立专业译者复审。"
+  "limitation": "第十章译齐与结构检查；全书中文通读及PDF校核仍待进行，未经独立专业译者复审。",
+  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
 }

@@ -7,7 +7,7 @@
     193
   ],
   "chinese_file": "chapters/第05章 政治权衡（中文）.md",
-  "chinese_sha256": "9b53b6704e48f861ea738cfb3597d53ca13abef9c9c7bb961f096b3c41feb831",
+  "chinese_sha256": "eacdfb7d58fa9222e82491e84dd882d764e6bfe9096de2250c9fe6a3364b5266",
   "source_blocks_read_and_mapped": 129,
   "chinese_characters": 24225,
   "original_notes": 41,
@@ -215,5 +215,98 @@
   "visual_source_pages_actually_viewed": [
     186,
     471
-  ]
+  ],
+  "heading_hierarchy_checked": [
+    {
+      "source_id": "p156-03",
+      "source_heading": "FREEDOM AND FORCE",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p160-01",
+      "source_heading": "NONGOVERNMENTAL \"POWER\"",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p160-04",
+      "source_heading": "DEMOCRACY",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p163-03",
+      "source_heading": "RIGHTS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p164-03",
+      "source_heading": "PROPERTY RIGHTS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p168-03",
+      "source_heading": "EQUAL RIGHTS VERSUS SPECIAL RIGHTS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p172-02",
+      "source_heading": "GENERAL RIGHTS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p174-02",
+      "source_heading": "TIME",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p175-03",
+      "source_heading": "TEMPORAL BIAS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p179-02",
+      "source_heading": "INHERENT CONTINUITY AND ARBITRARY DISCRETENESS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p180-02",
+      "source_heading": "CATEGORICAL VERSUS INCREMENTAL DECISIONS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p182-01",
+      "source_heading": "POLITICAL MACHINES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p184-03",
+      "source_heading": "BUREAUCRACIES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p188-01",
+      "source_heading": "INSTITUTIONAL CHANGES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p190-01",
+      "source_heading": "SUMMARY AND IMPLICATIONS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    }
+  ],
+  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
 }

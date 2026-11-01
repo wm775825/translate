@@ -7,7 +7,7 @@
     211
   ],
   "chinese_file": "chapters/第07章 历史趋势（中文）.md",
-  "chinese_sha256": "8b2a3f64847fa0b8c6596535762f9e8ff5da50cce6efb0ecb2960ce5ec58d293",
+  "chinese_sha256": "1c601c4a2326313e8bbf9cc6c9eeb019fb2741ff7211e1dfb1e65b29030e322a",
   "source_blocks_read_and_mapped": 14,
   "chinese_characters": 2100,
   "original_notes": 2,
@@ -37,5 +37,7 @@
       "source_location": "印刷第63页；PDF物理第76页及目录文字",
       "scope": "已读取出版社原始PDF的提取文字，未声称已核对纸本或该页扫描影像。"
     }
-  ]
+  ],
+  "heading_hierarchy_checked": [],
+  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
 }

@@ -7,15 +7,15 @@
     74
   ],
   "chinese_file": "chapters/第02章 决策过程（中文）.md",
-  "chinese_sha256": "31fea90d82fb216f1337fa27e6a729b3335b368cf5651cbb8faa6d267e3d0035",
+  "chinese_sha256": "b6d784d2b4d00c927e2057992ec9337abe60a9608e75f0bd1e3211b04c75455e",
   "source_blocks_read_and_mapped": 100,
   "source_english_words": 10334,
-  "chinese_characters": 17834,
+  "chinese_characters": 17857,
   "original_notes": 13,
   "translation_scope": "本章全部正文、标题和原注；解释性原注已译，纯书目信息保留原文。",
   "review_scope": {
     "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、例证、限定与跨页接续",
-    "language": "分块中文检查并定向修订；全书完成后的统一通读尚待进行",
+    "language": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
     "independent_professional_review": false,
     "pdf_authored": false
   },
@@ -83,5 +83,44 @@
       "raw_formula": "-Y4 X s/4 X s/4 = 27/64",
       "treatment": "原页可见字形也已损坏；根据正文每项75%及原注结果27/64，恢复为3/4 × 3/4 × 3/4 = 27/64，译文附恢复说明。"
     }
-  ]
+  ],
+  "heading_hierarchy_checked": [
+    {
+      "source_id": "p050-03",
+      "source_heading": "INFORMAL RELATIONSHIPS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p058-04",
+      "source_heading": "STRUCTURED ORGANIZATIONS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p060-04",
+      "source_heading": "ECONOMIC INSTITUTIONS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p064-03",
+      "source_heading": "POLITICAL INSTITUTIONS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p068-05",
+      "source_heading": "JUDICIAL PROCESSES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p070-01",
+      "source_heading": "SUMMARY AND IMPLICATIONS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    }
+  ],
+  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
 }
