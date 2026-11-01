@@ -77,11 +77,11 @@
       "status": "translated",
       "last_completed_source_id": "p153-02",
       "source_blocks_checked": 130,
-      "chinese_sha256": "1100dbb845733ad8453ed355b416681a767f928534cbc62747672afedd04fec8",
-      "chinese_characters": 22338,
+      "chinese_sha256": "c01c26480a968bee0364728e7bf8f1e979049e9c75a764ce99566c9fa5f883bb",
+      "chinese_characters": 22372,
       "translated_note_count": 29,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译，核对论证、引文、例证、限定及跨页接续",
-      "language_review": "分块中文检查并定向修订指代、语法、俗语及追溯性公正术语；全书统一通读待完成",
+      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
       "independent_professional_review": false
     },
     {
@@ -96,11 +96,11 @@
       "status": "translated",
       "last_completed_source_id": "p193-03",
       "source_blocks_checked": 129,
-      "chinese_sha256": "eacdfb7d58fa9222e82491e84dd882d764e6bfe9096de2250c9fe6a3364b5266",
-      "chinese_characters": 24225,
+      "chinese_sha256": "17d7a3dba035530d0e0555e1f0ff5b053101a2e750f6bdc2a5cde24e94480c50",
+      "chinese_characters": 24283,
       "translated_note_count": 41,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
-      "language_review": "分块中文检查与定向修订；全书统一通读待完成",
+      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
       "independent_professional_review": false
     },
     {
@@ -115,11 +115,11 @@
       "status": "translated",
       "last_completed_source_id": "p205-01",
       "source_blocks_checked": 35,
-      "chinese_sha256": "21254cfe8150501ef5f5234248e551851f0490cdf85129ba7c048c4e36a33952",
-      "chinese_characters": 6141,
+      "chinese_sha256": "b41d8cb5e3b6ddbfa0fdec8c1635bd13bd96403a84337c88b4bac436cb221917",
+      "chinese_characters": 6170,
       "translated_note_count": 16,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
-      "language_review": "分块中文检查与定向修订；本次据原文统一p202-02的智识过程、智识投入和智识问题；全书统一通读待完成",
+      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
       "independent_professional_review": false
     },
     {
@@ -134,11 +134,11 @@
       "status": "translated",
       "last_completed_source_id": "p211-02",
       "source_blocks_checked": 14,
-      "chinese_sha256": "1c601c4a2326313e8bbf9cc6c9eeb019fb2741ff7211e1dfb1e65b29030e322a",
-      "chinese_characters": 2100,
+      "chinese_sha256": "f1f4a15b68c2be845d0b43caca40bc766f12b66f8c20f0424b866f1f4c05474d",
+      "chinese_characters": 2112,
       "translated_note_count": 2,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
-      "language_review": "分块中文检查与定向修订；全书统一通读待完成",
+      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
       "independent_professional_review": false
     },
     {
@@ -371,7 +371,7 @@
   ],
   "completed_original_notes": 1001,
   "language_review_cursor": {
-    "next_pdf_page": 116,
+    "next_pdf_page": 212,
     "completed_ranges": [
       [
         26,
@@ -424,6 +424,66 @@
       [
         110,
         115
+      ],
+      [
+        116,
+        122
+      ],
+      [
+        123,
+        129
+      ],
+      [
+        130,
+        136
+      ],
+      [
+        137,
+        143
+      ],
+      [
+        144,
+        150
+      ],
+      [
+        151,
+        153
+      ],
+      [
+        154,
+        160
+      ],
+      [
+        161,
+        167
+      ],
+      [
+        168,
+        174
+      ],
+      [
+        175,
+        181
+      ],
+      [
+        182,
+        188
+      ],
+      [
+        189,
+        193
+      ],
+      [
+        194,
+        201
+      ],
+      [
+        202,
+        205
+      ],
+      [
+        206,
+        211
       ]
     ],
     "independent_professional_review": false

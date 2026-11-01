@@ -7,14 +7,14 @@
     205
   ],
   "chinese_file": "chapters/第06章 总览（中文）.md",
-  "chinese_sha256": "21254cfe8150501ef5f5234248e551851f0490cdf85129ba7c048c4e36a33952",
+  "chinese_sha256": "b41d8cb5e3b6ddbfa0fdec8c1635bd13bd96403a84337c88b4bac436cb221917",
   "source_blocks_read_and_mapped": 35,
-  "chinese_characters": 6141,
+  "chinese_characters": 6170,
   "original_notes": 16,
   "translation_scope": "全部正文、标题与原注；实质性说明译成中文，纯书目信息保留原文。",
   "review_scope": {
     "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
-    "language": "分块中文检查与定向修订；本次据原文统一p202-02的智识过程、智识投入和智识问题；全书统一通读待完成",
+    "language": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
     "independent_professional_review": false,
     "pdf_authored": false
   },

@@ -7,14 +7,14 @@
     153
   ],
   "chinese_file": "chapters/第04章 社会权衡（中文）.md",
-  "chinese_sha256": "1100dbb845733ad8453ed355b416681a767f928534cbc62747672afedd04fec8",
+  "chinese_sha256": "c01c26480a968bee0364728e7bf8f1e979049e9c75a764ce99566c9fa5f883bb",
   "source_blocks_read_and_mapped": 130,
-  "chinese_characters": 22338,
+  "chinese_characters": 22372,
   "original_notes": 29,
   "translation_scope": "全部正文、标题和原注；第18条说明性原注已译，书目作者、原题名及出版定位保留原文。",
   "review_scope": {
     "source": "当前代理按分块逐段阅读原文并对照翻译，核对论证、引文、例证、限定及跨页接续",
-    "language": "分块中文检查并定向修订指代、语法、俗语及追溯性公正术语；全书统一通读待完成",
+    "language": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
     "independent_professional_review": false,
     "pdf_authored": false
   },

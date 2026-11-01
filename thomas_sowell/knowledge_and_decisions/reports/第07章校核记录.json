@@ -7,14 +7,14 @@
     211
   ],
   "chinese_file": "chapters/第07章 历史趋势（中文）.md",
-  "chinese_sha256": "1c601c4a2326313e8bbf9cc6c9eeb019fb2741ff7211e1dfb1e65b29030e322a",
+  "chinese_sha256": "f1f4a15b68c2be845d0b43caca40bc766f12b66f8c20f0424b866f1f4c05474d",
   "source_blocks_read_and_mapped": 14,
-  "chinese_characters": 2100,
+  "chinese_characters": 2112,
   "original_notes": 2,
   "translation_scope": "全部正文、标题与原注；实质性说明译成中文，纯书目信息保留原文。",
   "review_scope": {
     "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
-    "language": "分块中文检查与定向修订；全书统一通读待完成",
+    "language": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
     "independent_professional_review": false,
     "pdf_authored": false
   },
