@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-01",
+  "purpose": "Publish the existing final Chinese PDFs for direct reading and downloading.",
+  "repository": "https://github.com/wm775825/translate",
+  "branch": "master",
+  "files": [
+    {
+      "path": "cambridge_history/christianity/output/pdf/01 起源至君士坦丁（中文校订版）.pdf",
+      "bytes": 21084733,
+      "sha256": "06c79b138e15423e559e620aef1987cc4202968bde0685e2300b5534e177df86",
+      "volume": 1,
+      "pages": 731,
+      "source": "existing_verified_chinese_edition",
+      "regenerated": false,
+      "git_object_id": "b087a6b9b0872ad2ede4974d29c85a57459e2e0c"
+    },
+    {
+      "path": "cambridge_history/christianity/output/pdf/02 君士坦丁至600年（中文校订版）.pdf",
+      "bytes": 9250207,
+      "sha256": "0d2c51194f8176e1bd303ec6e63ac4ef59c48a4583d42647f3734380206d1c54",
+      "volume": 2,
+      "pages": 726,
+      "source": "existing_verified_chinese_edition",
+      "regenerated": false,
+      "git_object_id": "6d2143c1973a32ee9273194f9b82b0154c49d112"
+    },
+    {
+      "path": "cambridge_history/christianity/output/pdf/03 中世纪早期基督教（中文校订版）.pdf",
+      "bytes": 16989293,
+      "sha256": "ebaa3b8f6a3bb93ca3399cf7a31aa81e676aa704fd8237b9a346c0b1577c5914",
+      "volume": 3,
+      "pages": 771,
+      "source": "existing_verified_chinese_edition",
+      "regenerated": false,
+      "git_object_id": "3761f48a3fe612ffa610d430448db97b6ca027f7"
+    },
+    {
+      "path": "cambridge_history/christianity/output/pdf/04 西欧基督教（中文校订版）.pdf",
+      "bytes": 25870229,
+      "sha256": "79615907f2921c3c495bc6780f389035846e887c1fb34d6874399473183a2326",
+      "volume": 4,
+      "pages": 515,
+      "source": "existing_verified_chinese_edition",
+      "regenerated": false,
+      "git_object_id": "5d3f462e17f4717b0e2cd0632cfcf5f9f62791db"
+    },
+    {
+      "path": "cambridge_history/christianity/output/pdf/05 东方基督教（中文校订版）.pdf",
+      "bytes": 14034623,
+      "sha256": "a92ac2e3095c7ed74bfa55d06f5172ca2435195d28f04b6f6002a14c7c2f7f7e",
+      "volume": 5,
+      "pages": 652,
+      "source": "existing_verified_chinese_edition",
+      "regenerated": false,
+      "git_object_id": "b307930d97b77a6f24ea455ca0a63c35d394df0c"
+    },
+    {
+      "path": "cambridge_history/christianity/output/pdf/06 改革与扩张（中文校订版）.pdf",
+      "bytes": 7593096,
+      "sha256": "20df8095d48a312facd843995c2082582493f64f294f2601fe1d65ddd33480c3",
+      "volume": 6,
+      "pages": 639,
+      "source": "existing_verified_chinese_edition",
+      "regenerated": false,
+      "git_object_id": "a563d694d702f61a9be6c2aa39999a99e6d996c9"
+    },
+    {
+      "path": "cambridge_history/christianity/output/pdf/07 启蒙、复兴与革命（中文校订版）.pdf",
+      "bytes": 16506887,
+      "sha256": "1552db0c40fa7d07da8e89c492c673fc14dc803897971f8e91a3f327226daf62",
+      "volume": 7,
+      "pages": 596,
+      "source": "existing_verified_chinese_edition",
+      "regenerated": false,
+      "git_object_id": "0228ebd2e2a3a5f4c48ea541e3271bbde59146dc"
+    },
+    {
+      "path": "cambridge_history/christianity/output/pdf/08 世界基督教（1815-1914）（中文校订版）.pdf",
+      "bytes": 5026034,
+      "sha256": "5859eca323b0e91ff1c588da6ce1b7ea4d0c1ad2560b9e7a516ad185cfa880d7",
+      "volume": 8,
+      "pages": 627,
+      "source": "existing_verified_chinese_edition",
+      "regenerated": false,
+      "git_object_id": "ecc2ad92e0d0bd310a04b2ef55a76d8a20dff5e7"
+    },
+    {
+      "path": "cambridge_history/christianity/output/pdf/09 世界基督教（1914-2000）（中文校订版，缺第20章）.pdf",
+      "bytes": 8333707,
+      "sha256": "e491c1040dcb53a146272800e2df24098e656b4c1069cf97fc973605c07b97f1",
+      "volume": 9,
+      "pages": 580,
+      "source": "existing_verified_chinese_edition",
+      "regenerated": false,
+      "git_object_id": "22a8f1bb771ce3c708321f793afdb8b913986a53"
+    }
+  ],
+  "count": 9,
+  "total_bytes": 124688809,
+  "all_match_pre_git_protected_content_baseline": true,
+  "pdf_content_changed": false,
+  "pdfs_regenerated": false,
+  "validation": {
+    "book_check": {
+      "all_checks_passed": true,
+      "books": [
+        {
+          "volume": 1,
+          "translated_chapters": 32,
+          "missing_chapters": [],
+          "notes": 2212
+        },
+        {
+          "volume": 2,
+          "translated_chapters": 29,
+          "missing_chapters": [],
+          "notes": 1706
+        },
+        {
+          "volume": 3,
+          "translated_chapters": 29,
+          "missing_chapters": [],
+          "notes": 2004
+        },
+        {
+          "volume": 4,
+          "translated_chapters": 31,
+          "missing_chapters": [],
+          "notes": 1086
+        },
+        {
+          "volume": 5,
+          "translated_chapters": 24,
+          "missing_chapters": [],
+          "notes": 1646
+        },
+        {
+          "volume": 6,
+          "translated_chapters": 30,
+          "missing_chapters": [],
+          "notes": 1197
+        },
+        {
+          "volume": 7,
+          "translated_chapters": 29,
+          "missing_chapters": [],
+          "notes": 538
+        },
+        {
+          "volume": 8,
+          "translated_chapters": 36,
+          "missing_chapters": [],
+          "notes": 810
+        },
+        {
+          "volume": 9,
+          "translated_chapters": 32,
+          "missing_chapters": [
+            20
+          ],
+          "notes": 1014
+        }
+      ],
+      "translated_chapters": 272,
+      "migration_content_hashes_checked": 937,
+      "errors": []
+    },
+    "delivery_checks": {
+      "reading_links_checked": 39,
+      "formal_pdf_and_index_files_publishable": 10,
+      "temporary_outputs_still_ignored": true
+    }
+  }
+}

@@ -15,3 +15,5 @@
 历史文件若未保留在仓库中，可按source-files.json中的相对路径从完整ZIP归档恢复。完整归档及本地output/pdf成品需要另外备份，Git不会自动保存首次提交之前的历史。
 
 本目录记录首次入库时的情况；其中原项目绝对路径保持历史原貌。书系内相对路径仍以 cambridge_history/christianity 为根目录，后续目录调整见[目录迁移记录](<../directory-layout.json>)。
+
+后续交付规则已调整：正式中文PDF及阅读索引现已纳入Git并随仓库发布，读者无须自行生成。本目录的原始清单保留首次整理时的记录，当前阅读入口见[九卷PDF](<../../output/pdf/README.md>)。

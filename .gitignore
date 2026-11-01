@@ -1,6 +1,11 @@
 # Rebuildable outputs and local runtime files.
 **/tmp/
-**/output/
+**/output/*
+!**/output/pdf/
+**/output/pdf/*
+# Publish reviewed final PDFs and their reading index.
+!**/output/pdf/*.pdf
+!**/output/pdf/README.md
 __pycache__/
 *.py[cod]
 .venv/
