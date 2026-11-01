@@ -187,4 +187,4 @@ python -X utf8 scripts/book.py qa 6
 python -X utf8 scripts/book.py render 6 --pages 1 2 3 189 287 591 639
 ~~~
 
-data保存人工修正和构建输入，reports保存核验依据，均须入Git。原始PDF、各卷图像和经过核验的正式中文PDF均须保留并入Git；output/pdf内的正式PDF随仓库发布，历史版本由Git保存。tmp、现有backups和其他输出中间文件不入Git，阶段稿留在tmp；不再对已入Git的文件另做常规备份。旧一次性脚本可能写死路径或覆盖记录，不从归档取出后直接运行。
+data保存人工修正和构建输入，reports保存核验依据，均须入Git。原始PDF、各卷图像和经过核验的正式中文PDF均须保留并入Git；output/pdf内的正式PDF随仓库发布，历史版本由Git保存。tmp和其他输出中间文件不入Git，阶段稿留在tmp；不再对已入Git的文件另做常规备份。旧一次性脚本可能写死路径或覆盖记录，不从归档取出后直接运行。
