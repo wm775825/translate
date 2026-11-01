@@ -189,15 +189,16 @@
       "printed_start_from_contents": 305,
       "english_file": "chapters/第10章 政治领域的趋势（英文）.md",
       "chinese_file": "chapters/第10章 政治领域的趋势（中文）.md",
-      "status": "in_progress",
-      "last_completed_source_id": "p417-04",
-      "source_blocks_checked": 163,
-      "chinese_sha256": "c5eb16f36227b330cc2006713a5582e8f68a307cbb4cbd7f873feeb55c8c293f",
-      "chinese_characters": 30285,
-      "source_review": "当前代理按分块逐段阅读并对照翻译至p417-04；原注已阅读1—175，第十章尚未译齐",
+      "status": "translated",
+      "last_completed_source_id": "p460-03",
+      "source_blocks_checked": 304,
+      "chinese_sha256": "50d70f3666b23cb0040c76f77fde4d0ced2d3f6a90e863961084218837a74ed3",
+      "chinese_characters": 57517,
+      "source_review": "当前代理按分块逐段阅读并对照翻译全部304个正文分块及311条原注；核对论证、限定、数字、引文和跨页接续",
       "language_review": "分块中文检查和定向修订；完整中文通读、全书统一与PDF排版校核待进行",
       "independent_professional_review": false,
-      "notes_translation_file": "data/第10章说明性原注译文.json"
+      "notes_translation_file": "data/第10章说明性原注译文.json",
+      "translated_note_count": 311
     }
   ],
   "other_sections": [
@@ -283,16 +284,17 @@
       "status": "pending"
     }
   ],
-  "last_completed_pdf_page": 417,
-  "next_step": "第十章从PDF物理第418页、来源标识p418-01接续；418—423页原文及原注1—175已经阅读，尚未全部译出。",
+  "last_completed_pdf_page": 460,
+  "next_step": "十章正文与985条章末原注译齐；接续1996年版序言、致谢、版权目录、封底及索引，再全书通读与排版。",
   "current_pdf": null,
   "full_book_complete": false,
-  "completed_chapters": 9,
+  "completed_chapters": 10,
   "pending_book_review": [
     "卷首卷末资料翻译",
     "前七章标题层级按原文统一",
     "全书中文通读，修订机械标点、指代与语序",
     "按原文合并跨页连续段落，汇编中文全文",
-    "正式中文PDF排版、图像核验、提交与推送"
+    "正式中文PDF排版、图像核验、提交与推送",
+    "统一UTF-8/LF，刷新当前成稿及译注的哈希，使记录在Git检出后仍一致"
   ]
 }
