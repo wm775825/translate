@@ -10,8 +10,8 @@
   "source_blocks_read_and_translated": 304,
   "chapter_total_blocks": 304,
   "chinese_file": "chapters/第10章 政治领域的趋势（中文）.md",
-  "chinese_sha256": "cc178f505e000cce47c4f38ebe561f853841d87c9da7a4e71abb775662018d03",
-  "chinese_characters": 57517,
+  "chinese_sha256": "a862b0fbc7ae21442eada8b9ac781b12bf107426eacfc421fa9b8cadbd5b60c7",
+  "chinese_characters": 57543,
   "notes_translation_file": "data/第10章说明性原注译文.json",
   "notes_translation_sha256": "455d9807243b6ce081a00ed65dbb7046f13fc292aac33f2c60eb665e13bfa18b",
   "original_notes_after_repairs": 311,
@@ -1358,7 +1358,7 @@
   ],
   "review_scope": {
     "source": "当前代理按分块逐段阅读并对照翻译全部304个正文分块及311条原注；核对论证、限定、数字、引文和跨页接续",
-    "language": "分块中文检查和定向修订；完整中文通读、全书统一与PDF排版校核待进行",
+    "language": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
     "independent_professional_review": false,
     "chinese_pdf_authored": false
   },
