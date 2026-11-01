@@ -7,10 +7,10 @@
     115
   ],
   "chinese_file": "chapters/第03章 经济权衡（中文）.md",
-  "chinese_sha256": "374394d27b60210daae5829a3676f661cfe5f24c3121d87758b9d9df7c303c8a",
+  "chinese_sha256": "4adb558520e5e38f7ecdd76cd25b14cc0f8dca681eaadb1fdc5069d968567101",
   "source_blocks_read_and_mapped": 142,
   "source_english_words": 16393,
-  "chinese_characters": 25902,
+  "chinese_characters": 25994,
   "original_notes": 11,
   "translation_scope": "本章全部正文、标题和原注；解释性原注已译，纯书目信息保留原文。",
   "review_scope": {
@@ -83,6 +83,13 @@
       "source_id": "p091-01",
       "issue": "原书折现数字与按给定利率复算结果不一致",
       "treatment": "保留原文近26美元等表述，另加译校说明；100/(1.08**3)约79.38，现值差约20.62。"
+    },
+    {
+      "source_id": "p103-03",
+      "issue": "引文归属另有较早出处，原书列宁归属未核得原著对应文本",
+      "treatment": "正文保留原归属；译校说明列出Bahr1894访谈集第21页中贝倍尔转引并提及Kronawetter的早期记录，不断言列宁从未引用。",
+      "primary_source": "https://archive.org/stream/derantisemitismu00bahr/derantisemitismu00bahr_djvu.txt",
+      "verification_scope": "已读原书网页OCR相应段及印刷页21标记，未据扫描图逐字校订其德文。"
     }
   ]
 }

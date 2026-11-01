@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-01",
+  "chapter": 5,
+  "title": "政治权衡",
+  "source_pdf_range": [
+    154,
+    193
+  ],
+  "chinese_file": "chapters/第05章 政治权衡（中文）.md",
+  "chinese_sha256": "9b53b6704e48f861ea738cfb3597d53ca13abef9c9c7bb961f096b3c41feb831",
+  "source_blocks_read_and_mapped": 129,
+  "chinese_characters": 24225,
+  "original_notes": 41,
+  "translation_scope": "全部正文、标题与原注；实质性说明译成中文，纯书目信息保留原文。",
+  "review_scope": {
+    "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
+    "language": "分块中文检查与定向修订；全书统一通读待完成",
+    "independent_professional_review": false,
+    "pdf_authored": false
+  },
+  "note_calls": [
+    {
+      "note": "c05-1",
+      "source_id": "p155-02"
+    },
+    {
+      "note": "c05-2",
+      "source_id": "p155-02"
+    },
+    {
+      "note": "c05-3",
+      "source_id": "p155-02"
+    },
+    {
+      "note": "c05-4",
+      "source_id": "p155-03"
+    },
+    {
+      "note": "c05-5",
+      "source_id": "p155-03"
+    },
+    {
+      "note": "c05-6",
+      "source_id": "p156-04"
+    },
+    {
+      "note": "c05-7",
+      "source_id": "p157-03"
+    },
+    {
+      "note": "c05-8",
+      "source_id": "p158-02"
+    },
+    {
+      "note": "c05-9",
+      "source_id": "p158-02"
+    },
+    {
+      "note": "c05-10",
+      "source_id": "p158-02"
+    },
+    {
+      "note": "c05-11",
+      "source_id": "p158-03"
+    },
+    {
+      "note": "c05-12",
+      "source_id": "p159-01"
+    },
+    {
+      "note": "c05-13",
+      "source_id": "p159-01"
+    },
+    {
+      "note": "c05-14",
+      "source_id": "p159-01"
+    },
+    {
+      "note": "c05-15",
+      "source_id": "p159-01"
+    },
+    {
+      "note": "c05-16",
+      "source_id": "p159-02"
+    },
+    {
+      "note": "c05-17",
+      "source_id": "p165-02"
+    },
+    {
+      "note": "c05-18",
+      "source_id": "p165-02"
+    },
+    {
+      "note": "c05-19",
+      "source_id": "p167-01"
+    },
+    {
+      "note": "c05-20",
+      "source_id": "p167-02"
+    },
+    {
+      "note": "c05-21",
+      "source_id": "p168-02"
+    },
+    {
+      "note": "c05-22",
+      "source_id": "p170-01"
+    },
+    {
+      "note": "c05-23",
+      "source_id": "p170-01"
+    },
+    {
+      "note": "c05-24",
+      "source_id": "p171-01"
+    },
+    {
+      "note": "c05-25",
+      "source_id": "p173-03"
+    },
+    {
+      "note": "c05-26",
+      "source_id": "p180-01"
+    },
+    {
+      "note": "c05-27",
+      "source_id": "p180-01"
+    },
+    {
+      "note": "c05-28",
+      "source_id": "p185-02"
+    },
+    {
+      "note": "c05-29",
+      "source_id": "p186-02"
+    },
+    {
+      "note": "c05-30",
+      "source_id": "p186-02"
+    },
+    {
+      "note": "c05-31",
+      "source_id": "p187-02"
+    },
+    {
+      "note": "c05-32",
+      "source_id": "p187-02"
+    },
+    {
+      "note": "c05-33",
+      "source_id": "p190-03"
+    },
+    {
+      "note": "c05-34",
+      "source_id": "p190-03"
+    },
+    {
+      "note": "c05-35",
+      "source_id": "p190-03"
+    },
+    {
+      "note": "c05-36",
+      "source_id": "p190-03"
+    },
+    {
+      "note": "c05-37",
+      "source_id": "p190-03"
+    },
+    {
+      "note": "c05-38",
+      "source_id": "p190-03"
+    },
+    {
+      "note": "c05-39",
+      "source_id": "p190-03"
+    },
+    {
+      "note": "c05-40",
+      "source_id": "p191-02"
+    },
+    {
+      "note": "c05-41",
+      "source_id": "p193-01"
+    }
+  ],
+  "note_reconstruction_limitation": "部分正文注标损坏为引号样符号，结合原注序列与对应语境恢复，不假称所有原数字均清晰可见。",
+  "source_repairs": [
+    {
+      "source_id": "p154-01",
+      "treatment": "章号S按原目录与顺序恢复为5；章名Trade-Os按Trade-Offs译出。"
+    },
+    {
+      "source_id": "p171-01",
+      "treatment": "原注标21按连续注序及爱尔兰移民对应书目恢复为24。"
+    },
+    {
+      "source_id": "p186-02",
+      "treatment": "实际查看PDF第186、471页；定义处仅存9°样损坏注标，第29、30注的确切原呼应位置无法确认。两项书目并列附于定义段，译稿第29注明确标为译校安置，不假称原注位置已恢复。"
+    },
+    {
+      "source_id": "p190-03",
+      "treatment": "irrational处误作36，按33—39注连续序列与对应引文恢复为35；inadequate处恢复第36注。"
+    }
+  ],
+  "editorial_notes": [
+    {
+      "source_id": "p167-02",
+      "issue": "原书将勃列日涅夫称为苏联总理，正文保留并另作职衔说明。",
+      "evidence": "1972年5月24日同期会谈记录分别列Brezhnev为General Secretary、Kosygin为Chairman of the Council of Ministers；后者被称为Prime Minister/Premier。",
+      "source": "https://history.state.gov/historicaldocuments/frus1969-76v14/d265",
+      "scope": "核对职衔；未声称已核到Berliner1976年书中所引说法的原始发言。"
+    }
+  ],
+  "visual_source_pages_actually_viewed": [
+    186,
+    471
+  ]
+}

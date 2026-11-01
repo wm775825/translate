@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-01",
+  "chapter": 7,
+  "title": "历史趋势",
+  "source_pdf_range": [
+    207,
+    211
+  ],
+  "chinese_file": "chapters/第07章 历史趋势（中文）.md",
+  "chinese_sha256": "8b2a3f64847fa0b8c6596535762f9e8ff5da50cce6efb0ecb2960ce5ec58d293",
+  "source_blocks_read_and_mapped": 14,
+  "chinese_characters": 2100,
+  "original_notes": 2,
+  "translation_scope": "全部正文、标题与原注；实质性说明译成中文，纯书目信息保留原文。",
+  "review_scope": {
+    "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
+    "language": "分块中文检查与定向修订；全书统一通读待完成",
+    "independent_professional_review": false,
+    "pdf_authored": false
+  },
+  "note_calls": [
+    {
+      "note": "c07-1",
+      "source_id": "p210-02"
+    },
+    {
+      "note": "c07-2",
+      "source_id": "p211-01"
+    }
+  ],
+  "note_reconstruction_limitation": "部分正文注标损坏为引号样符号，结合原注序列与对应语境恢复，不假称所有原数字均清晰可见。",
+  "editorial_notes": [
+    {
+      "original_note": 2,
+      "issue": "原书书目题名起始年作1876，保留并另说明出版社所列为1867。",
+      "source": "https://assets.press.princeton.edu/about_pup/PUP100/book/fulltext.pdf",
+      "source_location": "印刷第63页；PDF物理第76页及目录文字",
+      "scope": "已读取出版社原始PDF的提取文字，未声称已核对纸本或该页扫描影像。"
+    }
+  ]
+}

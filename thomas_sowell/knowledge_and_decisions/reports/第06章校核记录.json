@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-01",
+  "chapter": 6,
+  "title": "总览",
+  "source_pdf_range": [
+    194,
+    205
+  ],
+  "chinese_file": "chapters/第06章 总览（中文）.md",
+  "chinese_sha256": "abe2d593d581c16f1a33553452830ab7c8fd81af7864178c9000da31f7b1d41f",
+  "source_blocks_read_and_mapped": 35,
+  "chinese_characters": 6141,
+  "original_notes": 16,
+  "translation_scope": "全部正文、标题与原注；实质性说明译成中文，纯书目信息保留原文。",
+  "review_scope": {
+    "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
+    "language": "分块中文检查与定向修订；全书统一通读待完成",
+    "independent_professional_review": false,
+    "pdf_authored": false
+  },
+  "note_calls": [
+    {
+      "note": "c06-1",
+      "source_id": "p195-02"
+    },
+    {
+      "note": "c06-2",
+      "source_id": "p198-03"
+    },
+    {
+      "note": "c06-3",
+      "source_id": "p199-01"
+    },
+    {
+      "note": "c06-4",
+      "source_id": "p199-01"
+    },
+    {
+      "note": "c06-5",
+      "source_id": "p199-01"
+    },
+    {
+      "note": "c06-6",
+      "source_id": "p199-01"
+    },
+    {
+      "note": "c06-7",
+      "source_id": "p199-01"
+    },
+    {
+      "note": "c06-8",
+      "source_id": "p200-01"
+    },
+    {
+      "note": "c06-9",
+      "source_id": "p200-02"
+    },
+    {
+      "note": "c06-10",
+      "source_id": "p200-02"
+    },
+    {
+      "note": "c06-11",
+      "source_id": "p200-02"
+    },
+    {
+      "note": "c06-12",
+      "source_id": "p200-02"
+    },
+    {
+      "note": "c06-13",
+      "source_id": "p200-02"
+    },
+    {
+      "note": "c06-14",
+      "source_id": "p200-02"
+    },
+    {
+      "note": "c06-15",
+      "source_id": "p200-02"
+    },
+    {
+      "note": "c06-16",
+      "source_id": "p202-01"
+    }
+  ],
+  "note_reconstruction_limitation": "部分正文注标损坏为引号样符号，结合原注序列与对应语境恢复，不假称所有原数字均清晰可见。",
+  "substantive_notes_translated": [
+    1,
+    2,
+    7
+  ],
+  "targeted_language_repairs": [
+    "p202-03：澄清是人们不愿自己的孩子被绑架，而非改变句子主语。"
+  ],
+  "source_repairs": [
+    {
+      "source_id": "p202-03",
+      "treatment": "atriculated按articulated的明确上下文译出。"
+    }
+  ]
+}

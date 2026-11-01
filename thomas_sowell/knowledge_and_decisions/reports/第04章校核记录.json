@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-01",
+  "chapter": 4,
+  "title": "社会权衡",
+  "source_pdf_range": [
+    116,
+    153
+  ],
+  "chinese_file": "chapters/第04章 社会权衡（中文）.md",
+  "chinese_sha256": "46c76d40249762f0939714330f238660f87542f9220c67b3f83ca75a52565089",
+  "source_blocks_read_and_mapped": 130,
+  "chinese_characters": 22338,
+  "original_notes": 29,
+  "translation_scope": "全部正文、标题和原注；第18条说明性原注已译，书目作者、原题名及出版定位保留原文。",
+  "review_scope": {
+    "source": "当前代理按分块逐段阅读原文并对照翻译，核对论证、引文、例证、限定及跨页接续",
+    "language": "分块中文检查并定向修订指代、语法、俗语及追溯性公正术语；全书统一通读待完成",
+    "independent_professional_review": false,
+    "pdf_authored": false
+  },
+  "note_calls": [
+    {
+      "note": "c04-1",
+      "source_id": "p117-03"
+    },
+    {
+      "note": "c04-2",
+      "source_id": "p133-02"
+    },
+    {
+      "note": "c04-3",
+      "source_id": "p134-02"
+    },
+    {
+      "note": "c04-4",
+      "source_id": "p137-02"
+    },
+    {
+      "note": "c04-5",
+      "source_id": "p137-02"
+    },
+    {
+      "note": "c04-6",
+      "source_id": "p137-02"
+    },
+    {
+      "note": "c04-7",
+      "source_id": "p137-02"
+    },
+    {
+      "note": "c04-8",
+      "source_id": "p137-04"
+    },
+    {
+      "note": "c04-9",
+      "source_id": "p138-01"
+    },
+    {
+      "note": "c04-10",
+      "source_id": "p138-01"
+    },
+    {
+      "note": "c04-11",
+      "source_id": "p138-02"
+    },
+    {
+      "note": "c04-12",
+      "source_id": "p138-03"
+    },
+    {
+      "note": "c04-13",
+      "source_id": "p139-02"
+    },
+    {
+      "note": "c04-14",
+      "source_id": "p139-02"
+    },
+    {
+      "note": "c04-15",
+      "source_id": "p139-02"
+    },
+    {
+      "note": "c04-16",
+      "source_id": "p140-02"
+    },
+    {
+      "note": "c04-17",
+      "source_id": "p140-03"
+    },
+    {
+      "note": "c04-18",
+      "source_id": "p141-02"
+    },
+    {
+      "note": "c04-19",
+      "source_id": "p141-03"
+    },
+    {
+      "note": "c04-20",
+      "source_id": "p143-01"
+    },
+    {
+      "note": "c04-21",
+      "source_id": "p143-01"
+    },
+    {
+      "note": "c04-22",
+      "source_id": "p144-01"
+    },
+    {
+      "note": "c04-23",
+      "source_id": "p144-01"
+    },
+    {
+      "note": "c04-24",
+      "source_id": "p144-01"
+    },
+    {
+      "note": "c04-25",
+      "source_id": "p144-01"
+    },
+    {
+      "note": "c04-26",
+      "source_id": "p147-01"
+    },
+    {
+      "note": "c04-27",
+      "source_id": "p147-02"
+    },
+    {
+      "note": "c04-28",
+      "source_id": "p147-02"
+    },
+    {
+      "note": "c04-29",
+      "source_id": "p147-03"
+    }
+  ],
+  "note_reconstruction_limitation": "部分注标可读，部分已变为引号样符号；结合原注顺序与对应语境恢复，不假称所有原数字都清晰。",
+  "source_repairs": [
+    {
+      "source_id": "p139-02",
+      "raw": "lime is short",
+      "treatment": "按time is short的明确语境译出；原数据不变。"
+    },
+    {
+      "source_id": "p146-03",
+      "raw": [
+        "prevelant",
+        "incompatabilities"
+      ],
+      "treatment": "按prevalent与incompatibilities的明确词义译出；原数据不变。"
+    }
+  ]
+}
