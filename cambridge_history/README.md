@@ -1,5 +1,5 @@
 # 剑桥历史系列
 
-- [基督教史](<christianity/README.md>)：[九卷中文PDF阅读与下载](<christianity/output/pdf/README.md>)，另附原书、中文译稿和维护工具。第九卷原书缺第20章，现有译稿及成品保留缺章说明。
+- [基督教史](<christianity/README.md>)：九卷中文PDF、原书、中文译稿和维护工具。第九卷原书缺第20章，现有译稿及成品保留缺章说明。
 
 返回[翻译项目目录](<../README.md>)。

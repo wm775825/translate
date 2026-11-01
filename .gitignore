@@ -3,9 +3,8 @@
 **/output/*
 !**/output/pdf/
 **/output/pdf/*
-# Publish reviewed final PDFs and their reading index.
+# Publish reviewed final PDFs.
 !**/output/pdf/*.pdf
-!**/output/pdf/README.md
 __pycache__/
 *.py[cod]
 .venv/
