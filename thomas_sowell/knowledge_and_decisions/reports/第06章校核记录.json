@@ -7,14 +7,14 @@
     205
   ],
   "chinese_file": "chapters/第06章 总览（中文）.md",
-  "chinese_sha256": "abe2d593d581c16f1a33553452830ab7c8fd81af7864178c9000da31f7b1d41f",
+  "chinese_sha256": "7fd1c5ec1fdb41822ce257de8d9345d901d87823f8a9877c86b38d8699f697ce",
   "source_blocks_read_and_mapped": 35,
   "chinese_characters": 6141,
   "original_notes": 16,
   "translation_scope": "全部正文、标题与原注；实质性说明译成中文，纯书目信息保留原文。",
   "review_scope": {
     "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
-    "language": "分块中文检查与定向修订；全书统一通读待完成",
+    "language": "分块中文检查与定向修订；本次据原文统一p202-02的智识过程、智识投入和智识问题；全书统一通读待完成",
     "independent_professional_review": false,
     "pdf_authored": false
   },
@@ -98,5 +98,9 @@
       "source_id": "p202-03",
       "treatment": "atriculated按articulated的明确上下文译出。"
     }
-  ]
+  ],
+  "terminology_followup": {
+    "source_id": "p202-02",
+    "issue": "重读原文，对照第十章intelligence与intellectual process之别，将三个intellectual译法统一为智识，保留其他原意。"
+  }
 }

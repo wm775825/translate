@@ -1,0 +1,617 @@
+{
+  "date": "2026-11-01",
+  "chapter": 10,
+  "status": "partial_translation",
+  "translated_source_pdf_pages": [
+    370,
+    417
+  ],
+  "next_source_id": "p418-01",
+  "source_blocks_read_and_translated": 163,
+  "chapter_total_blocks": 304,
+  "chinese_file": "chapters/第10章 政治领域的趋势（中文）.md",
+  "chinese_sha256": "c5eb16f36227b330cc2006713a5582e8f68a307cbb4cbd7f873feeb55c8c293f",
+  "chinese_characters": 30285,
+  "notes_translation_file": "data/第10章说明性原注译文.json",
+  "notes_translation_sha256": "336901a06e84c6c321ec039e669760cb1ebbba3c76d74bf2d5fef46b7915ecb5",
+  "original_notes_after_repairs": 311,
+  "original_notes_read_through": 175,
+  "original_note_calls_in_translated_prefix": 118,
+  "complete_chapter_notes_check": "待整章译齐后进行；当前未附全部原注定义。",
+  "note_calls": [
+    {
+      "note": "c10-1",
+      "source_id": "p371-05"
+    },
+    {
+      "note": "c10-2",
+      "source_id": "p371-05"
+    },
+    {
+      "note": "c10-3",
+      "source_id": "p371-05"
+    },
+    {
+      "note": "c10-4",
+      "source_id": "p372-01"
+    },
+    {
+      "note": "c10-5",
+      "source_id": "p372-01"
+    },
+    {
+      "note": "c10-6",
+      "source_id": "p372-01"
+    },
+    {
+      "note": "c10-7",
+      "source_id": "p372-02"
+    },
+    {
+      "note": "c10-8",
+      "source_id": "p372-02"
+    },
+    {
+      "note": "c10-9",
+      "source_id": "p372-05"
+    },
+    {
+      "note": "c10-10",
+      "source_id": "p373-01"
+    },
+    {
+      "note": "c10-11",
+      "source_id": "p373-02"
+    },
+    {
+      "note": "c10-12",
+      "source_id": "p373-02"
+    },
+    {
+      "note": "c10-13",
+      "source_id": "p373-02"
+    },
+    {
+      "note": "c10-14",
+      "source_id": "p373-03"
+    },
+    {
+      "note": "c10-15",
+      "source_id": "p373-04"
+    },
+    {
+      "note": "c10-16",
+      "source_id": "p374-01"
+    },
+    {
+      "note": "c10-17",
+      "source_id": "p374-01"
+    },
+    {
+      "note": "c10-18",
+      "source_id": "p374-03"
+    },
+    {
+      "note": "c10-19",
+      "source_id": "p374-03"
+    },
+    {
+      "note": "c10-20",
+      "source_id": "p374-03"
+    },
+    {
+      "note": "c10-21",
+      "source_id": "p375-01"
+    },
+    {
+      "note": "c10-22",
+      "source_id": "p375-03"
+    },
+    {
+      "note": "c10-23",
+      "source_id": "p376-02"
+    },
+    {
+      "note": "c10-24",
+      "source_id": "p376-02"
+    },
+    {
+      "note": "c10-25",
+      "source_id": "p376-02"
+    },
+    {
+      "note": "c10-26",
+      "source_id": "p377-04"
+    },
+    {
+      "note": "c10-27",
+      "source_id": "p377-06"
+    },
+    {
+      "note": "c10-28",
+      "source_id": "p377-06"
+    },
+    {
+      "note": "c10-29",
+      "source_id": "p377-06"
+    },
+    {
+      "note": "c10-30",
+      "source_id": "p378-01"
+    },
+    {
+      "note": "c10-31",
+      "source_id": "p379-01"
+    },
+    {
+      "note": "c10-32",
+      "source_id": "p380-02"
+    },
+    {
+      "note": "c10-33",
+      "source_id": "p381-03"
+    },
+    {
+      "note": "c10-34",
+      "source_id": "p381-03"
+    },
+    {
+      "note": "c10-35",
+      "source_id": "p382-01"
+    },
+    {
+      "note": "c10-36",
+      "source_id": "p383-02"
+    },
+    {
+      "note": "c10-37",
+      "source_id": "p383-03"
+    },
+    {
+      "note": "c10-38",
+      "source_id": "p383-03"
+    },
+    {
+      "note": "c10-39",
+      "source_id": "p383-03"
+    },
+    {
+      "note": "c10-40",
+      "source_id": "p383-03"
+    },
+    {
+      "note": "c10-41",
+      "source_id": "p383-03"
+    },
+    {
+      "note": "c10-42",
+      "source_id": "p384-01"
+    },
+    {
+      "note": "c10-43",
+      "source_id": "p384-01"
+    },
+    {
+      "note": "c10-44",
+      "source_id": "p384-01"
+    },
+    {
+      "note": "c10-45",
+      "source_id": "p384-01"
+    },
+    {
+      "note": "c10-46",
+      "source_id": "p384-03"
+    },
+    {
+      "note": "c10-47",
+      "source_id": "p384-03"
+    },
+    {
+      "note": "c10-48",
+      "source_id": "p384-03"
+    },
+    {
+      "note": "c10-49",
+      "source_id": "p384-03"
+    },
+    {
+      "note": "c10-50",
+      "source_id": "p385-01"
+    },
+    {
+      "note": "c10-51",
+      "source_id": "p386-01"
+    },
+    {
+      "note": "c10-52",
+      "source_id": "p386-01"
+    },
+    {
+      "note": "c10-53",
+      "source_id": "p386-01"
+    },
+    {
+      "note": "c10-54",
+      "source_id": "p386-02"
+    },
+    {
+      "note": "c10-55",
+      "source_id": "p386-02"
+    },
+    {
+      "note": "c10-56",
+      "source_id": "p386-02"
+    },
+    {
+      "note": "c10-57",
+      "source_id": "p387-02"
+    },
+    {
+      "note": "c10-58",
+      "source_id": "p387-02"
+    },
+    {
+      "note": "c10-59",
+      "source_id": "p388-01"
+    },
+    {
+      "note": "c10-60",
+      "source_id": "p388-03"
+    },
+    {
+      "note": "c10-61",
+      "source_id": "p388-03"
+    },
+    {
+      "note": "c10-62",
+      "source_id": "p388-03"
+    },
+    {
+      "note": "c10-63",
+      "source_id": "p389-01"
+    },
+    {
+      "note": "c10-64",
+      "source_id": "p389-01"
+    },
+    {
+      "note": "c10-65",
+      "source_id": "p390-02"
+    },
+    {
+      "note": "c10-66",
+      "source_id": "p390-02"
+    },
+    {
+      "note": "c10-67",
+      "source_id": "p390-02"
+    },
+    {
+      "note": "c10-68",
+      "source_id": "p390-03"
+    },
+    {
+      "note": "c10-69",
+      "source_id": "p390-03"
+    },
+    {
+      "note": "c10-70",
+      "source_id": "p390-03"
+    },
+    {
+      "note": "c10-71",
+      "source_id": "p391-01"
+    },
+    {
+      "note": "c10-72",
+      "source_id": "p391-01"
+    },
+    {
+      "note": "c10-73",
+      "source_id": "p393-01"
+    },
+    {
+      "note": "c10-74",
+      "source_id": "p393-02"
+    },
+    {
+      "note": "c10-75",
+      "source_id": "p394-02"
+    },
+    {
+      "note": "c10-76",
+      "source_id": "p394-02"
+    },
+    {
+      "note": "c10-77",
+      "source_id": "p395-01"
+    },
+    {
+      "note": "c10-78",
+      "source_id": "p396-01"
+    },
+    {
+      "note": "c10-79",
+      "source_id": "p396-01"
+    },
+    {
+      "note": "c10-80",
+      "source_id": "p397-01"
+    },
+    {
+      "note": "c10-81",
+      "source_id": "p398-01"
+    },
+    {
+      "note": "c10-82",
+      "source_id": "p399-01"
+    },
+    {
+      "note": "c10-83",
+      "source_id": "p399-01"
+    },
+    {
+      "note": "c10-84",
+      "source_id": "p399-01"
+    },
+    {
+      "note": "c10-85",
+      "source_id": "p400-04"
+    },
+    {
+      "note": "c10-86",
+      "source_id": "p401-01"
+    },
+    {
+      "note": "c10-87",
+      "source_id": "p402-02"
+    },
+    {
+      "note": "c10-88",
+      "source_id": "p403-02"
+    },
+    {
+      "note": "c10-89",
+      "source_id": "p403-03"
+    },
+    {
+      "note": "c10-90",
+      "source_id": "p405-03"
+    },
+    {
+      "note": "c10-91",
+      "source_id": "p406-01"
+    },
+    {
+      "note": "c10-92",
+      "source_id": "p406-01"
+    },
+    {
+      "note": "c10-93",
+      "source_id": "p406-02"
+    },
+    {
+      "note": "c10-94",
+      "source_id": "p408-02"
+    },
+    {
+      "note": "c10-95",
+      "source_id": "p409-04"
+    },
+    {
+      "note": "c10-96",
+      "source_id": "p410-02"
+    },
+    {
+      "note": "c10-97",
+      "source_id": "p412-01"
+    },
+    {
+      "note": "c10-98",
+      "source_id": "p412-02"
+    },
+    {
+      "note": "c10-99",
+      "source_id": "p412-04"
+    },
+    {
+      "note": "c10-100",
+      "source_id": "p412-04"
+    },
+    {
+      "note": "c10-101",
+      "source_id": "p412-04"
+    },
+    {
+      "note": "c10-102",
+      "source_id": "p412-04"
+    },
+    {
+      "note": "c10-103",
+      "source_id": "p413-02"
+    },
+    {
+      "note": "c10-104",
+      "source_id": "p413-03"
+    },
+    {
+      "note": "c10-105",
+      "source_id": "p413-03"
+    },
+    {
+      "note": "c10-106",
+      "source_id": "p413-03"
+    },
+    {
+      "note": "c10-107",
+      "source_id": "p414-01"
+    },
+    {
+      "note": "c10-108",
+      "source_id": "p414-02"
+    },
+    {
+      "note": "c10-109",
+      "source_id": "p414-03"
+    },
+    {
+      "note": "c10-110",
+      "source_id": "p416-01"
+    },
+    {
+      "note": "c10-111",
+      "source_id": "p416-02"
+    },
+    {
+      "note": "c10-112",
+      "source_id": "p417-03"
+    },
+    {
+      "note": "c10-113",
+      "source_id": "p417-03"
+    },
+    {
+      "note": "c10-114",
+      "source_id": "p417-03"
+    },
+    {
+      "note": "c10-115",
+      "source_id": "p417-03"
+    },
+    {
+      "note": "c10-116",
+      "source_id": "p417-04"
+    },
+    {
+      "note": "c10-117",
+      "source_id": "p417-04"
+    },
+    {
+      "note": "c10-118",
+      "source_id": "p417-04"
+    }
+  ],
+  "heading_hierarchy_checked": [
+    {
+      "source_id": "p371-03",
+      "source_heading": "THE SIZE AND SCOPE OF GOVERNMENT",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p371-04",
+      "source_heading": "SIZE",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p372-04",
+      "source_heading": "TOTALITARIANISM",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p382-02",
+      "source_heading": "CONSTITUTIONAL DEMOCRACY",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p395-02",
+      "source_heading": "RATIONALES FOR POWER",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p395-04",
+      "source_heading": "CRISIS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p401-02",
+      "source_heading": "THE POLITICAL ROLE OF INTELLECTUALS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p404-02",
+      "source_heading": "THE INTELLECTUAL PROCESS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p409-03",
+      "source_heading": "INTELLECTUALS AS A SOCIAL CLASS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p411-05",
+      "source_heading": "RELEVANCE\"",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    }
+  ],
+  "review_scope": {
+    "source": "当前代理按分块逐段阅读并对照翻译至p417-04；原注已阅读1—175，第十章尚未译齐",
+    "language": "分块中文检查和定向修订；完整中文通读、全书统一与PDF排版校核待进行",
+    "independent_professional_review": false,
+    "chinese_pdf_authored": false
+  },
+  "source_page_images_actually_viewed": [
+    402
+  ],
+  "source_and_editorial_issues": [
+    {
+      "source_id": "p370-01",
+      "issue": "原电子版章次io据目录及章节次序作为10处理，保留原提取。"
+    },
+    {
+      "source_id": "p377-06",
+      "note": 27,
+      "issue": "原书1843年照录；已据作者序言和1956年出版者导言，在原注译文另说明1844年写作时间。",
+      "sources": [
+        "https://www.marxists.org/archive/marx/works/1845/holy-family/ch00.htm",
+        "https://www.marxists.org/archive/marx/works/1845/holy-family/introduction.htm"
+      ]
+    },
+    {
+      "source_id": "p402-02",
+      "issue": "已实际查看原PDF402页，底本前两句同样词序错乱。依可辨词组和语法重组，译稿明示未获另一版本逐字核定。"
+    },
+    {
+      "source_id": "p404-04",
+      "issue": "systemically evolved按生物语境译为经系统演化形成；保留罗马算式并附59×33=1947的数字对照。"
+    },
+    {
+      "source_id": "p410-01",
+      "issue": "原书法学、哲学学位括注照录；另据耶拿大学及格拉斯哥大学档案说明可核学位记录。",
+      "sources": [
+        "https://www.uni-jena.de/en/109868/famous-university-teachers-and-students-from-the-history-of-the-university-of-jena-selection",
+        "https://www.gla.ac.uk/myglasgow/archivespecialcollections/digitisedcollections/smith/photogallery/honorarydegree/"
+      ]
+    },
+    {
+      "notes": [
+        16,
+        130
+      ],
+      "issue": "提取页码00及W暂照录，未猜补；未将其声称为已目视核清的原页数字。"
+    }
+  ],
+  "damaged_note_number_repairs": [
+    "p374-01：集中营经济效率对应16，原标误作18。",
+    "p381-03：冲锋队清洗对应34，原标损坏为3°。",
+    "p383-03：伯克引文恢复37；阿拉伯人的自由对应38，原标误作39。",
+    "p384-01—p384-03：据引文及连续原注恢复42、45、46、48等缺损数字。",
+    "p389-01：芝加哥学派引文对应64，原标误作54。",
+    "p390-03：帝制中国对应70，原标误作10。",
+    "p412-01：霍布斯引文对应97，原标误作91。",
+    "p413-03：古典经济学与西斯蒙第引文按注序恢复104、106。",
+    "p417-03—p417-04：按对应书目和引文恢复112—118的缺损注标。",
+    "其余引号状或缺损注标，按连续原注、引文和上下文对应；不声称底本所有数字清晰可读。"
+  ],
+  "limitation": "记录已译前缀，尚非第十章或全书完成报告；结构检查不代替语义、完整中文通读及PDF版式核验。"
+}
