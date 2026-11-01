@@ -47,6 +47,6 @@ python -X utf8 scripts/generate_issue_list_v2.py
 
 ## 来源与记录
 
-[导入清单](<reports/import/manifest.json>)逐项记录原路径、新路径和文件哈希；[翻译进度](<翻译进度.json>)记录当前维护源和此次检查范围。原仓库的Git历史保留在合并记录中，完整原始克隆另存于 E:/codes/translations-import-20261101/translate-original。
+[导入清单](<reports/import/manifest.json>)逐项记录原路径、新路径和文件哈希；[翻译进度](<翻译进度.json>)记录当前维护源和此次检查范围。原仓库的Git历史保留在合并记录中。清单记载的项目外原始克隆备份位置，在本次整理时未找到；保留历史路径，不将其视为当前可用备份。后续阶段成果和历史版本通过Git提交保存，临时文件放在本书目录内的tmp；默认不再另建备份或打包快照。
 
 工作流遵循仓库根目录的[AGENTS.md](<../../AGENTS.md>)。返回[韦伯书目](<../README.md>)。

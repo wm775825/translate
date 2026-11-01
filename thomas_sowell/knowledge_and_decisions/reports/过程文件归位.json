@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-01",
+  "request": "翻译过程文件及备份统一保存在项目目录内",
+  "project_root": "E:/codes/translations",
+  "moved_from": "E:/codes/translations-sowell-20261101",
+  "moved_to": "thomas_sowell/knowledge_and_decisions/backups/20261101",
+  "files_moved": 6,
+  "bytes_moved": 2530580.0,
+  "every_file_sha256_verified": true,
+  "external_source_directory_removed": true,
+  "files": [
+    {
+      "path": "chapter1-before-review.md",
+      "bytes": 48056,
+      "sha256": "d7653aaa67540fa4090fa0caa636299341639391326ed84f99123e1309b15856"
+    },
+    {
+      "path": "completion.json",
+      "bytes": 356,
+      "sha256": "f3a802447d13f51f26d0d52d8f63537b57abefec78780b9a2e68e46cc971c202"
+    },
+    {
+      "path": "continue-001/before.zip",
+      "bytes": 6734,
+      "sha256": "78cb0b151e8ed8993705e59bb8fb9f57b36b9b9e318bae32db3ea6ee42aeadff"
+    },
+    {
+      "path": "continue-001/ch02-before-review/第02章 决策过程（中文）.md",
+      "bytes": 65318,
+      "sha256": "93a7b858390d53eb143b3bcc7589dfd397e9b258c8173d3aaafe9503eda64f91"
+    },
+    {
+      "path": "original-source.pdf",
+      "bytes": 2400395,
+      "sha256": "05bb3a4e3a1aef903a6cfb69300d2014ed98c83a331de8238038d4aa4642b09c"
+    },
+    {
+      "path": "project-documents-before.zip",
+      "bytes": 9721,
+      "sha256": "744756e7d4b7ba06634d2ad29ffaa90bad97a30b276b3429e17cee3f5edb13c5"
+    }
+  ],
+  "historical_external_locations": [
+    {
+      "path": "E:/codes/cambridge-archive-20261101",
+      "exists_at_recorded_path": false,
+      "treatment": "旧记录所列位置未找到；保留历史路径，不声称已移动该归档。"
+    },
+    {
+      "path": "E:/codes/translations-import-20261101/translate-original",
+      "exists_at_recorded_path": false,
+      "treatment": "旧记录所列位置未找到；保留历史路径，不声称已移动该克隆。"
+    }
+  ],
+  "future_locations": {
+    "temporary": "对应书籍目录/tmp",
+    "backups": "对应书籍目录/backups/批次",
+    "source_and_translations": "对应书籍目录及chapters",
+    "formal_pdf": "对应书籍目录/output/pdf"
+  },
+  "translation_resumption": {
+    "completed_chapters": [
+      1,
+      2
+    ],
+    "current_chapter": 3,
+    "last_saved_source_id": "p104-04",
+    "next_source_id": "p105-01",
+    "full_book_complete": false
+  },
+  "documentation_backup": "backups/20261101/layout-before-update.zip",
+  "documentation_backup_sha256": "3f912807dbf9a0bbacb899a26aa13272bd73f603b551f7000bebca5cc98f4a28",
+  "documentation_backup_files": 9,
+  "validation": {
+    "moved_files_unchanged": true,
+    "original_external_directory_absent": true,
+    "updated_backup_reference_resolves": true,
+    "document_backup_verified": true,
+    "translation_progress_unchanged": true,
+    "current_translation_hashes_match_progress": true,
+    "backup_and_temporary_files_ignored_by_git": true,
+    "nine_formal_cambridge_pdfs_remain_tracked": true
+  },
+  "historical_filename_search": {
+    "root": "E:/codes",
+    "matches_found": 0,
+    "targets": [
+      "project-before-git.zip",
+      "before-restructure-manifest.json",
+      "before-restructure-documents.zip",
+      "cambridge-archive-20261101",
+      "translations-import-20261101"
+    ],
+    "excluded_runtime_directories": [
+      ".git",
+      "node_modules",
+      ".venv",
+      "venv",
+      "__pycache__"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
 
 整理日期：2026-11-01。
 
-完整归档位于 E:/codes/cambridge-archive-20261101/project-before-git.zip，归档目录与 translations 仓库同级，未随书系目录移动。归档包含清理前全部12,206个文件，逐文件SHA256已验证。归档文件的SHA256见 archive.json。
+历史记录中的完整归档为E:/codes/cambridge-archive-20261101/project-before-git.zip，记录包含清理前全部12,206个文件及当时的逐文件SHA256核验。2026年11月1日本次整理时，该旧位置未找到归档，未计入迁入文件，也不视为当前可用备份。归档当时的SHA256见archive.json，历史记录保持原样。后续版本通过Git提交保存，默认不再另建备份或打包快照。
 
 本目录保留：
 

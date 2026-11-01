@@ -36,7 +36,15 @@
       "printed_start_from_contents": 21,
       "english_file": "chapters/第02章 决策过程（英文）.md",
       "chinese_file": "chapters/第02章 决策过程（中文）.md",
-      "status": "pending"
+      "status": "translated",
+      "last_completed_source_id": "p074-02",
+      "source_blocks_checked": 100,
+      "chinese_sha256": "31fea90d82fb216f1337fa27e6a729b3335b368cf5651cbb8faa6d267e3d0035",
+      "chinese_characters": 17836,
+      "translated_note_count": 13,
+      "source_review": "当前代理按分块逐段阅读原文并对照翻译；注标依据原注次序与语境恢复",
+      "language_review": "分块中文检查并定向修订；全书完成后的统一通读尚待进行",
+      "independent_professional_review": false
     },
     {
       "chapter": 3,
@@ -47,7 +55,11 @@
       "printed_start_from_contents": 45,
       "english_file": "chapters/第03章 经济权衡（英文）.md",
       "chinese_file": "chapters/第03章 经济权衡（中文）.md",
-      "status": "pending"
+      "status": "in_progress",
+      "last_completed_source_id": "p104-04",
+      "source_blocks_checked": 104,
+      "chinese_sha256": "586f51671727c55334b806abfaa5cf96617ba063608ab2f3a7eec73bcee95fc6",
+      "chinese_characters": 18390
     },
     {
       "chapter": 4,
@@ -202,9 +214,9 @@
       "status": "pending"
     }
   ],
-  "last_completed_pdf_page": 46,
-  "next_step": "从第二章《决策过程》PDF物理第47页开始，先读取第47—51页，再结合上下文逐段翻译；本章原注在data/notes.json的chapter2下。1996年版序言及致谢仍待译。",
+  "last_completed_pdf_page": 104,
+  "next_step": "继续第3章，从p105-01开始。",
   "current_pdf": null,
   "full_book_complete": false,
-  "completed_chapters": 1
+  "completed_chapters": 2
 }
