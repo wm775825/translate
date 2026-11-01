@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "source_pdf_sha256": "05bb3a4e3a1aef903a6cfb69300d2014ed98c83a331de8238038d4aa4642b09c",
+  "pdf": {
+    "path": "output/pdf/知识与决策（中文校订版）.pdf",
+    "pages": 376,
+    "bytes": 2921168,
+    "sha256": "6c069c73fa6d3e8d8cc4b62b54ac51c3b9885f2c056f06f5ed49609bf103f5fb"
+  },
+  "markdown": {
+    "path": "知识与决策（中文校订版）.md",
+    "sha256": "a56dc1a146e94dbd44cdfcb70ba7d728b9bc186dae2b13a26b7b97baa4caafc3"
+  },
+  "chapters": 10,
+  "original_notes": 1001,
+  "source_blocks": 1640,
+  "source_page_anchors": 568,
+  "automatic_checks_passed": true,
+  "visual_checks_passed": true,
+  "independent_professional_review": false,
+  "editing_source": "chapters/*（中文）.md",
+  "source_limits": "底本损坏文字、原注定位不确定及原书疑误均保留对应译校说明；纸本索引页码无法可靠换算为中文页码。"
+}

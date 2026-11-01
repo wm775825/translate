@@ -50,6 +50,40 @@
       "issue": "题名Knowlege、FIM等原版提取文字不静默猜改；封底ISBN末位0与版权文本末位3分别照录并说明。"
     }
   ],
-  "review_scope": "原文分块对照与中文分块检查；全书统一通读、索引翻译及PDF检查尚待进行。",
-  "independent_professional_review": false
+  "review_scope": "已按原文分块对照翻译，另行连续通读卷首卷末中文；全书统一校订、索引翻译及PDF自动和视觉校核均已完成。独立专业逐句精校未进行。",
+  "independent_professional_review": false,
+  "current_files": {
+    "chapters/版权及原书目录（中文）.md": {
+      "sha256": "5f43498a5f15334bcf9c06288c635aba6c6624338894cae810091eaab1a49de4",
+      "chinese_characters": 390
+    },
+    "chapters/1996年版序言（中文）.md": {
+      "sha256": "5a10b67de0eda7b8f8d69cedc7c202a3fd6e16a1c0433a03fb88ffcb571eea53",
+      "chinese_characters": 9262
+    },
+    "chapters/致谢（中文）.md": {
+      "sha256": "8a45dd8a1fc384d5c2762b9d78a7210cd3cd166f92ef264b26c1daa06f521cd6",
+      "chinese_characters": 875
+    },
+    "chapters/第一部分 社会制度（中文）.md": {
+      "sha256": "649424f5d7024cfe7c46007ea5ec9f1ae8e1757ec717a2665a2d6fc0e31ee88b",
+      "chinese_characters": 8
+    },
+    "chapters/第二部分 趋势与问题（中文）.md": {
+      "sha256": "069fe0f714cae7c82de29e68e2d7e08c6c9c9ab50655999a9397de0120f204be",
+      "chinese_characters": 9
+    },
+    "chapters/索引（中文）.md": {
+      "sha256": "2a0147960d5e84f51a3a37654ba5d5aefecfd93896d556f96fb6cdab2fa3f6fe",
+      "chinese_characters": 5921
+    },
+    "chapters/封底（中文）.md": {
+      "sha256": "c81be02eb1cdcb5cc83fd3a2648944b5bab7f8812519331f90c9fcf0e8c83f6a",
+      "chinese_characters": 538
+    },
+    "chapters/电子版导航目录（中文）.md": {
+      "sha256": "9a95b0b61d163daac2343cd754504242f092a5538a2019a9cb4525b8ad74883b",
+      "chinese_characters": 197
+    }
+  }
 }

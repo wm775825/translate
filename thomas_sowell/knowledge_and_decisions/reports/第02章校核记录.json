@@ -15,9 +15,10 @@
   "translation_scope": "本章全部正文、标题和原注；解释性原注已译，纯书目信息保留原文。",
   "review_scope": {
     "source": "当前代理按分块逐段阅读原文并对照翻译；核对论证、例证、限定与跨页接续",
-    "language": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+    "language": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
     "independent_professional_review": false,
-    "pdf_authored": false
+    "pdf_authored": true,
+    "pdf_checks": "全书PDF自动及视觉校核已完成，当前文件身份和范围见对应PDF校核记录。"
   },
   "note_calls": [
     {
@@ -122,5 +123,5 @@
       "markdown_level": 2
     }
   ],
-  "current_file_followup": "标题层级已按原版字号统一，来源说明隐藏为注释，当前文本保存为UTF-8/LF。中文通读实际范围见全书中文语言校订记录。"
+  "current_file_followup": "中文维护稿为UTF-8/LF；标题层级、来源标识和原注保留。全书通读、合订、自动及视觉排版校核已完成，范围分别见全书记录。"
 }

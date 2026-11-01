@@ -1,0 +1,15 @@
+{
+  "file": "知识与决策（中文校订版）.md",
+  "sha256": "a56dc1a146e94dbd44cdfcb70ba7d728b9bc186dae2b13a26b7b97baa4caafc3",
+  "editing_source": "chapters/*（中文）.md",
+  "source_ids": 1640,
+  "source_anchors": 568,
+  "original_notes": 1001,
+  "paragraph_joins": 385,
+  "source_note_mapping": "原注页锚按原注覆盖页集合，跳到该页首条关联原注，不冒充逐字定位。",
+  "source_images_included": [
+    "assets/source-p001-01.jpg",
+    "assets/source-p003-03.jpg",
+    "assets/source-p566-01.jpg"
+  ]
+}

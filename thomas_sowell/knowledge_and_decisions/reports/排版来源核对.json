@@ -1,0 +1,237 @@
+{
+  "source_asset_count": 25,
+  "source_assets_contact_sheet_viewed": "tmp/source-assets-contact.png",
+  "all_25_assets_viewed_on_contact_sheet": true,
+  "assets": [
+    {
+      "asset": "source-p001-01.jpg",
+      "pixels": [
+        489,
+        751
+      ],
+      "sha256": "0d78830260ffc1da8df4a515260b887ac0774a351486b4502a3e74297a26b28d",
+      "handling": "保留原图；在合订稿及PDF中嵌入"
+    },
+    {
+      "asset": "source-p003-01.jpg",
+      "pixels": [
+        337,
+        15
+      ],
+      "sha256": "13a5c30d376851331911290ff1278fbcae60edc9e92ff37c79cc85d5046a7330",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p003-02.jpg",
+      "pixels": [
+        350,
+        19
+      ],
+      "sha256": "94df17831354b7d026b26a5b44599685bb438bfa6efed43c4276643f8b5c713b",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p003-03.jpg",
+      "pixels": [
+        54,
+        84
+      ],
+      "sha256": "d2701eed7945cd3dabb93c3781973552be9a56ef8e75d8a9f08884b587f437eb",
+      "handling": "保留原图；在合订稿及PDF中嵌入"
+    },
+    {
+      "asset": "source-p026-01.jpg",
+      "pixels": [
+        343,
+        17
+      ],
+      "sha256": "485c2e9ef9fa6896bf943b7d2c52ece3fcbfa5e7fd7ec53f3cb6bf4b0d69ab76",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p027-01.jpg",
+      "pixels": [
+        353,
+        17
+      ],
+      "sha256": "dba66bc340fa61a562619dcdb4df92fe786c893d253a39b943548f5d79f4ae46",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p047-01.jpg",
+      "pixels": [
+        339,
+        17
+      ],
+      "sha256": "7993f7e52c00bb546afcce08dd31c5f83c6ed2558a0f990ab99451fa616c9ab9",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p048-01.jpg",
+      "pixels": [
+        345,
+        17
+      ],
+      "sha256": "945a8aa03f28cdbe583115917c941b4855fb87e8d97c77cd868ad09f9a8dd549",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p075-01.jpg",
+      "pixels": [
+        334,
+        13
+      ],
+      "sha256": "a5cde522026db01d85243662ce02fce06006eae082ea056b883c34caef27ce25",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p076-01.jpg",
+      "pixels": [
+        347,
+        17
+      ],
+      "sha256": "ed3ea3e5f4cec6a46bf0e7697a17395504672353d537eb39f23f358dee55d910",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p116-01.jpg",
+      "pixels": [
+        330,
+        15
+      ],
+      "sha256": "0ad3b76bc687f218758aceb1ca1e691de50bc40cfd63fc67a8ccdc4a566fd7c5",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p117-01.jpg",
+      "pixels": [
+        344,
+        15
+      ],
+      "sha256": "e10187de32608424cf242ada4d2b7aff4eb4b27ff49fa159fa98cda9415b14f9",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p154-01.jpg",
+      "pixels": [
+        345,
+        15
+      ],
+      "sha256": "81443a63709674ccad1f65ee5085dfde0277a99cd0d1be74caa83b72858ec657",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p155-01.jpg",
+      "pixels": [
+        347,
+        19
+      ],
+      "sha256": "ec9663eb7b48bc135b2b9c50b78cecff0d4ac0a9afbe65b892b6cab669705cad",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p194-01.jpg",
+      "pixels": [
+        345,
+        15
+      ],
+      "sha256": "2b573fe0a5ff08903c2717063f7f691a986512d795563224bb1fa6d035d87cd1",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p195-01.jpg",
+      "pixels": [
+        345,
+        17
+      ],
+      "sha256": "e054133270cb6ab3f1a8dcbc6582207805e4401b40105a8fca352917ade2e690",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p207-01.jpg",
+      "pixels": [
+        328,
+        11
+      ],
+      "sha256": "d4053b39273b8d6dcc35c93ad1eb38556e52942a9fe2b57eb3542d9e175dc0e2",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p208-01.jpg",
+      "pixels": [
+        343,
+        19
+      ],
+      "sha256": "b6e96ab010edd1ab5a28dc6d0cb4308b3cca376cddb2358c0d1df83ee8557bd2",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p212-01.jpg",
+      "pixels": [
+        337,
+        17
+      ],
+      "sha256": "76bebf8d1d4ea5f126df8ac5ace4e0bcaa3bde9ae0d2efd7a539db39d7ffc160",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p213-01.jpg",
+      "pixels": [
+        347,
+        17
+      ],
+      "sha256": "9e25254729c213a87e4072e8e2bf94758e61ec7919101f59826b2e6dc2ec466c",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p283-01.jpg",
+      "pixels": [
+        336,
+        21
+      ],
+      "sha256": "7f2ecaa4d5aea85c0cbae264e1aa4af5fbd42cbda5184cfdc05157965064e471",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p284-01.jpg",
+      "pixels": [
+        340,
+        19
+      ],
+      "sha256": "1b12daea27bb3ea6abec43a2e9ba7c89b8430cee2f230378b1677bff2b2a1184",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p370-01.jpg",
+      "pixels": [
+        341,
+        17
+      ],
+      "sha256": "e5f6d02685bc627252013a2f61d10cf4154c5ed6c60f31ad08fe4a0c7c4a56d1",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p371-01.jpg",
+      "pixels": [
+        350,
+        17
+      ],
+      "sha256": "39536c1e04f70c438f8b2c0dd1a78982434eb50f1e733e968e5d1a5c7cda9dbc",
+      "handling": "装饰横线；原图保存在assets，中文重排使用统一页眉与章题版式"
+    },
+    {
+      "asset": "source-p566-01.jpg",
+      "pixels": [
+        460,
+        720
+      ],
+      "sha256": "3b9fd43fb4926004290ecfb65749fdd88979241b8b9f807115da94653650cf60",
+      "handling": "保留原图；在合订稿及PDF中嵌入"
+    }
+  ],
+  "quotation_review": "结合导语、引文内容及原注核对，补齐第四、十章独立长引文格式；无缩进的编号列表和作者解释不误作引文。",
+  "join_count": 385,
+  "source_coordinate_candidates": 374,
+  "excluded_new_quote": "p272-01",
+  "same_page_source_page_viewed": 77
+}

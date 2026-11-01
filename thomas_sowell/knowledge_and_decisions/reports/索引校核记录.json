@@ -6,8 +6,8 @@
   ],
   "source_blocks_translated": 57,
   "chinese_file": "chapters/索引（中文）.md",
-  "chinese_sha256": "06349681e7ae8811322d7087194858d869c28f069e325a5f30dd56df4131c569",
-  "chinese_characters": 5919,
+  "chinese_sha256": "2a0147960d5e84f51a3a37654ba5d5aefecfd93896d556f96fb6cdab2fa3f6fe",
+  "chinese_characters": 5921,
   "source_page_images_actually_viewed": [
     530
   ],
@@ -244,6 +244,6 @@
     "世界大战条目的1、11、111按正文对应I、II、III，英文保留底本数字。",
     "p553的Systematic analysis/processes交叉参照对应p561的Systemic主条，中文统一指向系统分析、系统过程；不据此混同正文两个英文概念。"
   ],
-  "review_scope": "当前代理按57个来源分块读完并翻译全部36页索引，保留原顺序、主分项、交叉参照和数字；合并底本跨页重叠文字。",
+  "review_scope": "已逐来源分块翻译全部索引，另行连续通读中文，核对数字并统一已记录译名；PDF保留主分项缩进及原书纸本页码。",
   "independent_professional_review": false
 }

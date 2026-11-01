@@ -1,0 +1,131 @@
+{
+  "file": "output/pdf/知识与决策（中文校订版）.pdf",
+  "sha256": "6c069c73fa6d3e8d8cc4b62b54ac51c3b9885f2c056f06f5ed49609bf103f5fb",
+  "pages": 376,
+  "all_checks_passed": true,
+  "contact_sheet_pages_actually_viewed": [
+    [
+      1,
+      376
+    ]
+  ],
+  "contact_sheets_actually_viewed": [
+    {
+      "file": "tmp/pdfs/render/contact-001-036.png",
+      "sha256": "6ebaa402429f02d3e99385c29ad36b82a64b48af92b4f7221d2c679aeefe3523"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-037-072.png",
+      "sha256": "a0d5c59532777964b87d884c7fa14eb4fe4c8fdd456ec5e3273c04c26c88441a"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-073-108.png",
+      "sha256": "9392d58aafa729a67d1b0314ae54734f6157a3c51bcdbc10f5df0c1b6e3455b6"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-109-144.png",
+      "sha256": "83f3ee6677a4e6c61f1c29d89a11fa3f1bfca6c82b16d1bbb5b120b44414d678"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-145-180.png",
+      "sha256": "bb159da022370ce7e9d2bcbbafe6dc4cabd988e3424edc3100419f6eccdf7371"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-181-216.png",
+      "sha256": "1878b00e660a4e0bf0ea1a9a81c3ad6415639b3e6dc6ea551beac475b241b1a3"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-217-252.png",
+      "sha256": "179b56da2b0533dd7e5fd0b827c7340a32e23e8c215a4249bee825b893976b3d"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-253-288.png",
+      "sha256": "27ac715d974ca7850bd7080fc6872ea4605ae197638dedff510db0d67683e4bb"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-289-324.png",
+      "sha256": "7ed0230c94c4134e80babacf812a60939ba9fd4371e350db49ac0eec0474b1de"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-325-360.png",
+      "sha256": "116810b4cefbd2e8672a427c6190e1e79ca05a932b46d9d8b327270c1fa4491e"
+    },
+    {
+      "file": "tmp/pdfs/render/contact-361-376.png",
+      "sha256": "4c5695505d9eb97117174d675d8297482b00fac808ad90bf3865b9d7fa687748"
+    }
+  ],
+  "detail_sheets_actually_viewed": [
+    {
+      "file": "tmp/pdfs/render/detail-01.png",
+      "sha256": "496764db5975e10c09f9c8362cecb7231139e6f6d0db0e52f76e47161d99e290"
+    },
+    {
+      "file": "tmp/pdfs/render/detail-02.png",
+      "sha256": "c68727c0cb4e666f48746712573791c1b2a055c86c9d2914125cb31e14d1f069"
+    },
+    {
+      "file": "tmp/pdfs/render/detail-03.png",
+      "sha256": "8958ab871e31ef4db729a466c4c7e4acd320b96ea680da4c4b6e7c7c975747cc"
+    },
+    {
+      "file": "tmp/pdfs/render/detail-04.png",
+      "sha256": "b30c446bdd7f81a86a1d420d6778d50f8460e145a469cb96a3155cd49223c776"
+    },
+    {
+      "file": "tmp/pdfs/render/detail-05.png",
+      "sha256": "4cc774a796e74d81b322739564f73272fb9a212b495500b1358ecdf0cc81efc1"
+    },
+    {
+      "file": "tmp/pdfs/render/detail-06.png",
+      "sha256": "323113a53e6b2317cc0bff0f0aec3cefcbaaa51fd30efcd230906d29fc2116d5"
+    },
+    {
+      "file": "tmp/pdfs/render/detail-07.png",
+      "sha256": "75544ea7e537947787adf85c8a66a5099cd9d21bd941e0c30bf59a0ffff6a919"
+    },
+    {
+      "file": "tmp/pdfs/render/detail-08.png",
+      "sha256": "02d7710fc681722387525ab7dec1a4e8201fb2442c232799b7db802439113d02"
+    }
+  ],
+  "pages_viewed_in_enlarged_top_crops": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    17,
+    19,
+    20,
+    35,
+    54,
+    82,
+    106,
+    132,
+    139,
+    140,
+    143,
+    187,
+    236,
+    296,
+    297,
+    308,
+    320,
+    338,
+    339,
+    340,
+    373,
+    374,
+    375,
+    376
+  ],
+  "scope": "实际查看全书11份缩略联系表，以及30页上部的8份放大联系表；覆盖封面、阅读说明、目录、卷首、两部分扉页、各章首页、代表原注、索引及封底。放大图不是全部页面逐字视觉复读。",
+  "findings": [
+    "恢复索引子条目缩进后，重新查看最终索引放大页及全书缩略图。",
+    "未见文字重叠、裁切、空白缺页或图像丢失；独立扉页及章节末余白有对应内容结构依据。",
+    "原书封面、出版标志、封底图像保留；图像中的文字另有中文译文。"
+  ],
+  "temporary_rendering_policy": "渲染图位于本书tmp，不入Git；记录保留范围和图像哈希，对应PDF可重新渲染。"
+}

@@ -241,6 +241,58 @@
     [
       458,
       460
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      25,
+      25
+    ],
+    [
+      6,
+      13
+    ],
+    [
+      14,
+      21
+    ],
+    [
+      22,
+      22
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      566,
+      566
+    ],
+    [
+      567,
+      568
+    ],
+    [
+      530,
+      537
+    ],
+    [
+      538,
+      545
+    ],
+    [
+      546,
+      553
+    ],
+    [
+      554,
+      561
+    ],
+    [
+      562,
+      565
     ]
   ],
   "revisions": [
@@ -1499,6 +1551,129 @@
     {
       "source_id": "p458-02",
       "issue": "依据制宪者引文的导语和原注，将《联邦党人文集》的独立长引文标为引文段。"
+    },
+    {
+      "source_id": "p014-04",
+      "issue": "核对跨页原文，修正独立于验证过程的修饰关系；原译易把知觉误读成另一种验证过程。"
+    },
+    {
+      "source_id": "p015-01",
+      "issue": "补全上一页的宾语结构，使知觉与经济竞争验证过程的关系明确。"
+    },
+    {
+      "source_id": "p532-01",
+      "issue": "统一白璧德的中文译名，与第十章正文一致。"
+    },
+    {
+      "source_id": "p541-01",
+      "issue": "统一美国转售定价法规的译法，与第十章及术语表一致。"
+    },
+    {
+      "source_id": "p542-03",
+      "issue": "统一葛德文的译名，与第十章人口论讨论中的人物对应。"
+    },
+    {
+      "source_id": "p558-01",
+      "issue": "统一桑塔亚那的中文译名，与第十章正文一致。"
+    },
+    {
+      "source_id": "p565-01",
+      "issue": "统一耶克斯的译名，与第十章智力测验讨论一致。"
+    },
+    {
+      "source_id": "p140-02",
+      "issue": "全书引文格式核对：凯恩斯的独立长引文，按导语和原注标为引文段。"
+    },
+    {
+      "source_id": "p147-03",
+      "issue": "全书引文格式核对：亚当·斯密的独立长引文，按导语和原注标为引文段。"
     }
-  ]
+  ],
+  "status": "complete",
+  "completed_source_pdf_ranges_compact": [
+    [
+      1,
+      460
+    ],
+    [
+      530,
+      568
+    ]
+  ],
+  "notes_scope": "解释性原注已随序言及各章中文通读；纯外文书目按原文保留。原注页码以编号及源页集合追溯，不冒充原注原始分块逐段对应。",
+  "current_files": {
+    "chapters/第01章 知识的作用（中文）.md": {
+      "sha256": "d7783745cb4df26c003bafcb60be5f48f7eb1b4d828e7852f4a85c20a43f91a4",
+      "chinese_characters": 13197
+    },
+    "chapters/第02章 决策过程（中文）.md": {
+      "sha256": "b6d784d2b4d00c927e2057992ec9337abe60a9608e75f0bd1e3211b04c75455e",
+      "chinese_characters": 17857
+    },
+    "chapters/第03章 经济权衡（中文）.md": {
+      "sha256": "3e7609ceda7bc12c49ffa51b48fdf7879ca0ca3d91bd6ca9af3585d4a33e01f3",
+      "chinese_characters": 25992
+    },
+    "chapters/第04章 社会权衡（中文）.md": {
+      "sha256": "f51cac0e5d9a1a84d2a063e74633916dc20dad36b4aac88f0f689137b7d6d0df",
+      "chinese_characters": 22372
+    },
+    "chapters/第05章 政治权衡（中文）.md": {
+      "sha256": "17d7a3dba035530d0e0555e1f0ff5b053101a2e750f6bdc2a5cde24e94480c50",
+      "chinese_characters": 24283
+    },
+    "chapters/第06章 总览（中文）.md": {
+      "sha256": "b41d8cb5e3b6ddbfa0fdec8c1635bd13bd96403a84337c88b4bac436cb221917",
+      "chinese_characters": 6170
+    },
+    "chapters/第07章 历史趋势（中文）.md": {
+      "sha256": "f1f4a15b68c2be845d0b43caca40bc766f12b66f8c20f0424b866f1f4c05474d",
+      "chinese_characters": 2112
+    },
+    "chapters/第08章 经济领域的趋势（中文）.md": {
+      "sha256": "1a173eaf9a30ab043404302a8f960a23d8f56207f158abe52699d0be332fbd7f",
+      "chinese_characters": 42081
+    },
+    "chapters/第09章 法律领域的趋势（中文）.md": {
+      "sha256": "cc8caa1997521a62c07a6f1a0ea3a94906fbd99b2bc0e520d3bd899e0bcc6003",
+      "chinese_characters": 45504
+    },
+    "chapters/第10章 政治领域的趋势（中文）.md": {
+      "sha256": "a862b0fbc7ae21442eada8b9ac781b12bf107426eacfc421fa9b8cadbd5b60c7",
+      "chinese_characters": 57543
+    },
+    "chapters/版权及原书目录（中文）.md": {
+      "sha256": "5f43498a5f15334bcf9c06288c635aba6c6624338894cae810091eaab1a49de4",
+      "chinese_characters": 390
+    },
+    "chapters/1996年版序言（中文）.md": {
+      "sha256": "5a10b67de0eda7b8f8d69cedc7c202a3fd6e16a1c0433a03fb88ffcb571eea53",
+      "chinese_characters": 9262
+    },
+    "chapters/致谢（中文）.md": {
+      "sha256": "8a45dd8a1fc384d5c2762b9d78a7210cd3cd166f92ef264b26c1daa06f521cd6",
+      "chinese_characters": 875
+    },
+    "chapters/第一部分 社会制度（中文）.md": {
+      "sha256": "649424f5d7024cfe7c46007ea5ec9f1ae8e1757ec717a2665a2d6fc0e31ee88b",
+      "chinese_characters": 8
+    },
+    "chapters/第二部分 趋势与问题（中文）.md": {
+      "sha256": "069fe0f714cae7c82de29e68e2d7e08c6c9c9ab50655999a9397de0120f204be",
+      "chinese_characters": 9
+    },
+    "chapters/索引（中文）.md": {
+      "sha256": "2a0147960d5e84f51a3a37654ba5d5aefecfd93896d556f96fb6cdab2fa3f6fe",
+      "chinese_characters": 5921
+    },
+    "chapters/封底（中文）.md": {
+      "sha256": "c81be02eb1cdcb5cc83fd3a2648944b5bab7f8812519331f90c9fcf0e8c83f6a",
+      "chinese_characters": 538
+    },
+    "chapters/电子版导航目录（中文）.md": {
+      "sha256": "9a95b0b61d163daac2343cd754504242f092a5538a2019a9cb4525b8ad74883b",
+      "chinese_characters": 197
+    }
+  },
+  "full_book_language_review_complete": true
 }

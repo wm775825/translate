@@ -1,0 +1,1941 @@
+{
+  "scope": "合订时合并原PDF分页形成的连续段落，保留全部来源ID与页面锚点；分节维护稿保持原定位。",
+  "method": "正文与序言依据原PDF段首坐标100.8识别接续，并结合已逐段核对的译文；不把段首无缩进一概当作续段。",
+  "excluded": [
+    {
+      "source_id": "p272-01",
+      "reason": "新起的马克思长引文，不与上一页作者导语合并。"
+    }
+  ],
+  "same_page_checked_visually": [
+    "p077-02 → p077-03"
+  ],
+  "index_continuations": "逐项核对的九处索引跨页或来源分块接续。",
+  "joins": [
+    {
+      "previous": "p028-04",
+      "source_id": "p029-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p029-05",
+      "source_id": "p030-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p030-05",
+      "source_id": "p031-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p031-03",
+      "source_id": "p032-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p032-04",
+      "source_id": "p033-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p033-04",
+      "source_id": "p034-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p035-02",
+      "source_id": "p036-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p036-05",
+      "source_id": "p037-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p037-04",
+      "source_id": "p038-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p038-04",
+      "source_id": "p039-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p039-03",
+      "source_id": "p040-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p040-04",
+      "source_id": "p041-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p041-02",
+      "source_id": "p042-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p042-05",
+      "source_id": "p043-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p043-03",
+      "source_id": "p044-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p044-04",
+      "source_id": "p045-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p045-03",
+      "source_id": "p046-01",
+      "file": "chapters/第01章 知识的作用（中文）.md"
+    },
+    {
+      "previous": "p048-05",
+      "source_id": "p049-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p049-03",
+      "source_id": "p050-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p050-05",
+      "source_id": "p051-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p051-03",
+      "source_id": "p052-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p052-03",
+      "source_id": "p053-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p053-04",
+      "source_id": "p054-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p054-04",
+      "source_id": "p055-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p055-03",
+      "source_id": "p056-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p056-03",
+      "source_id": "p057-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p058-05",
+      "source_id": "p059-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p059-04",
+      "source_id": "p060-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p060-05",
+      "source_id": "p061-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p061-04",
+      "source_id": "p062-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p062-04",
+      "source_id": "p063-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p063-04",
+      "source_id": "p064-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p064-04",
+      "source_id": "p065-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p065-04",
+      "source_id": "p066-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p066-04",
+      "source_id": "p067-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p067-03",
+      "source_id": "p068-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p068-06",
+      "source_id": "p069-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p070-04",
+      "source_id": "p071-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p071-03",
+      "source_id": "p072-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p072-03",
+      "source_id": "p073-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p073-02",
+      "source_id": "p074-01",
+      "file": "chapters/第02章 决策过程（中文）.md"
+    },
+    {
+      "previous": "p076-04",
+      "source_id": "p077-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p078-03",
+      "source_id": "p079-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p079-04",
+      "source_id": "p080-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p080-04",
+      "source_id": "p081-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p082-04",
+      "source_id": "p083-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p083-04",
+      "source_id": "p084-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p084-04",
+      "source_id": "p085-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p085-03",
+      "source_id": "p086-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p086-04",
+      "source_id": "p087-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p087-03",
+      "source_id": "p088-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p089-03",
+      "source_id": "p090-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p090-04",
+      "source_id": "p091-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p091-02",
+      "source_id": "p092-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p092-04",
+      "source_id": "p093-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p093-04",
+      "source_id": "p094-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p094-03",
+      "source_id": "p095-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p095-03",
+      "source_id": "p096-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p096-03",
+      "source_id": "p097-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p097-04",
+      "source_id": "p098-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p098-03",
+      "source_id": "p099-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p099-03",
+      "source_id": "p100-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p100-04",
+      "source_id": "p101-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p101-04",
+      "source_id": "p102-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p102-03",
+      "source_id": "p103-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p103-04",
+      "source_id": "p104-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p104-04",
+      "source_id": "p105-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p105-03",
+      "source_id": "p106-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p106-05",
+      "source_id": "p107-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p107-04",
+      "source_id": "p108-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p108-03",
+      "source_id": "p109-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p109-03",
+      "source_id": "p110-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p112-03",
+      "source_id": "p113-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p113-05",
+      "source_id": "p114-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p114-03",
+      "source_id": "p115-01",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p117-04",
+      "source_id": "p118-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p118-04",
+      "source_id": "p119-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p119-06",
+      "source_id": "p120-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p120-04",
+      "source_id": "p121-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p123-03",
+      "source_id": "p124-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p124-04",
+      "source_id": "p125-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p126-03",
+      "source_id": "p127-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p127-03",
+      "source_id": "p128-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p128-04",
+      "source_id": "p129-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p129-03",
+      "source_id": "p130-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p130-04",
+      "source_id": "p131-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p131-03",
+      "source_id": "p132-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p132-05",
+      "source_id": "p133-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p133-02",
+      "source_id": "p134-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p135-04",
+      "source_id": "p136-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p136-04",
+      "source_id": "p137-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p137-04",
+      "source_id": "p138-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p138-05",
+      "source_id": "p139-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p139-03",
+      "source_id": "p140-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p140-05",
+      "source_id": "p141-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p141-03",
+      "source_id": "p142-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p142-03",
+      "source_id": "p143-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p143-04",
+      "source_id": "p144-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p144-03",
+      "source_id": "p145-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p145-03",
+      "source_id": "p146-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p146-03",
+      "source_id": "p147-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p147-05",
+      "source_id": "p148-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p148-03",
+      "source_id": "p149-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p150-02",
+      "source_id": "p151-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p151-02",
+      "source_id": "p152-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p152-03",
+      "source_id": "p153-01",
+      "file": "chapters/第04章 社会权衡（中文）.md"
+    },
+    {
+      "previous": "p156-05",
+      "source_id": "p157-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p157-03",
+      "source_id": "p158-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p158-04",
+      "source_id": "p159-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p160-05",
+      "source_id": "p161-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p161-02",
+      "source_id": "p162-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p162-04",
+      "source_id": "p163-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p163-04",
+      "source_id": "p164-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p164-05",
+      "source_id": "p165-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p165-03",
+      "source_id": "p166-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p166-03",
+      "source_id": "p167-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p167-03",
+      "source_id": "p168-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p168-04",
+      "source_id": "p169-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p169-03",
+      "source_id": "p170-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p170-02",
+      "source_id": "p171-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p172-04",
+      "source_id": "p173-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p173-04",
+      "source_id": "p174-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p174-05",
+      "source_id": "p175-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p175-04",
+      "source_id": "p176-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p176-02",
+      "source_id": "p177-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p177-04",
+      "source_id": "p178-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p178-02",
+      "source_id": "p179-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p179-04",
+      "source_id": "p180-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p180-03",
+      "source_id": "p181-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p182-04",
+      "source_id": "p183-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p183-03",
+      "source_id": "p184-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p184-04",
+      "source_id": "p185-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p186-02",
+      "source_id": "p187-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p188-03",
+      "source_id": "p189-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p190-03",
+      "source_id": "p191-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p191-04",
+      "source_id": "p192-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p192-03",
+      "source_id": "p193-01",
+      "file": "chapters/第05章 政治权衡（中文）.md"
+    },
+    {
+      "previous": "p195-04",
+      "source_id": "p196-01",
+      "file": "chapters/第06章 总览（中文）.md"
+    },
+    {
+      "previous": "p196-03",
+      "source_id": "p197-01",
+      "file": "chapters/第06章 总览（中文）.md"
+    },
+    {
+      "previous": "p197-03",
+      "source_id": "p198-01",
+      "file": "chapters/第06章 总览（中文）.md"
+    },
+    {
+      "previous": "p198-04",
+      "source_id": "p199-01",
+      "file": "chapters/第06章 总览（中文）.md"
+    },
+    {
+      "previous": "p199-03",
+      "source_id": "p200-01",
+      "file": "chapters/第06章 总览（中文）.md"
+    },
+    {
+      "previous": "p200-03",
+      "source_id": "p201-01",
+      "file": "chapters/第06章 总览（中文）.md"
+    },
+    {
+      "previous": "p201-04",
+      "source_id": "p202-01",
+      "file": "chapters/第06章 总览（中文）.md"
+    },
+    {
+      "previous": "p202-03",
+      "source_id": "p203-01",
+      "file": "chapters/第06章 总览（中文）.md"
+    },
+    {
+      "previous": "p208-04",
+      "source_id": "p209-01",
+      "file": "chapters/第07章 历史趋势（中文）.md"
+    },
+    {
+      "previous": "p209-03",
+      "source_id": "p210-01",
+      "file": "chapters/第07章 历史趋势（中文）.md"
+    },
+    {
+      "previous": "p210-04",
+      "source_id": "p211-01",
+      "file": "chapters/第07章 历史趋势（中文）.md"
+    },
+    {
+      "previous": "p213-04",
+      "source_id": "p214-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p214-06",
+      "source_id": "p215-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p215-05",
+      "source_id": "p216-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p216-04",
+      "source_id": "p217-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p217-03",
+      "source_id": "p218-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p218-03",
+      "source_id": "p219-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p219-03",
+      "source_id": "p220-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p220-03",
+      "source_id": "p221-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p221-03",
+      "source_id": "p222-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p222-03",
+      "source_id": "p223-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p223-06",
+      "source_id": "p224-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p224-03",
+      "source_id": "p225-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p226-02",
+      "source_id": "p227-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p227-04",
+      "source_id": "p228-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p228-03",
+      "source_id": "p229-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p229-04",
+      "source_id": "p230-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p230-03",
+      "source_id": "p231-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p232-03",
+      "source_id": "p233-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p233-06",
+      "source_id": "p234-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p235-03",
+      "source_id": "p236-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p236-03",
+      "source_id": "p237-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p237-05",
+      "source_id": "p238-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p238-04",
+      "source_id": "p239-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p239-03",
+      "source_id": "p240-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p240-03",
+      "source_id": "p241-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p241-04",
+      "source_id": "p242-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p243-02",
+      "source_id": "p244-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p245-04",
+      "source_id": "p246-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p246-03",
+      "source_id": "p247-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p247-03",
+      "source_id": "p248-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p248-02",
+      "source_id": "p249-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p249-04",
+      "source_id": "p250-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p250-04",
+      "source_id": "p251-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p251-03",
+      "source_id": "p252-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p252-04",
+      "source_id": "p253-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p253-03",
+      "source_id": "p254-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p255-03",
+      "source_id": "p256-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p256-04",
+      "source_id": "p257-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p257-03",
+      "source_id": "p258-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p258-04",
+      "source_id": "p259-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p259-02",
+      "source_id": "p260-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p260-03",
+      "source_id": "p261-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p261-03",
+      "source_id": "p262-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p262-03",
+      "source_id": "p263-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p263-04",
+      "source_id": "p264-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p264-03",
+      "source_id": "p265-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p265-05",
+      "source_id": "p266-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p266-04",
+      "source_id": "p267-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p267-05",
+      "source_id": "p268-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p269-03",
+      "source_id": "p270-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p270-04",
+      "source_id": "p271-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p272-04",
+      "source_id": "p273-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p273-04",
+      "source_id": "p274-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p274-03",
+      "source_id": "p275-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p276-03",
+      "source_id": "p277-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p277-05",
+      "source_id": "p278-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p278-02",
+      "source_id": "p279-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p279-03",
+      "source_id": "p280-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p280-03",
+      "source_id": "p281-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p281-04",
+      "source_id": "p282-01",
+      "file": "chapters/第08章 经济领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p284-04",
+      "source_id": "p285-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p285-03",
+      "source_id": "p286-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p286-03",
+      "source_id": "p287-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p287-04",
+      "source_id": "p288-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p288-03",
+      "source_id": "p289-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p289-02",
+      "source_id": "p290-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p290-03",
+      "source_id": "p291-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p291-03",
+      "source_id": "p292-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p293-04",
+      "source_id": "p294-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p294-03",
+      "source_id": "p295-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p295-02",
+      "source_id": "p296-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p296-04",
+      "source_id": "p297-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p297-05",
+      "source_id": "p298-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p298-04",
+      "source_id": "p299-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p300-03",
+      "source_id": "p301-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p301-03",
+      "source_id": "p302-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p302-04",
+      "source_id": "p303-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p303-07",
+      "source_id": "p304-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p304-04",
+      "source_id": "p305-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p307-03",
+      "source_id": "p308-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p308-03",
+      "source_id": "p309-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p310-02",
+      "source_id": "p311-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p311-03",
+      "source_id": "p312-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p312-03",
+      "source_id": "p313-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p313-06",
+      "source_id": "p314-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p314-04",
+      "source_id": "p315-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p315-04",
+      "source_id": "p316-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p316-03",
+      "source_id": "p317-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p319-04",
+      "source_id": "p320-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p320-03",
+      "source_id": "p321-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p322-03",
+      "source_id": "p323-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p323-04",
+      "source_id": "p324-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p324-03",
+      "source_id": "p325-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p325-03",
+      "source_id": "p326-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p326-05",
+      "source_id": "p327-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p328-03",
+      "source_id": "p329-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p331-03",
+      "source_id": "p332-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p332-03",
+      "source_id": "p333-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p333-04",
+      "source_id": "p334-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p334-04",
+      "source_id": "p335-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p335-04",
+      "source_id": "p336-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p336-05",
+      "source_id": "p337-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p337-03",
+      "source_id": "p338-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p339-03",
+      "source_id": "p340-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p340-03",
+      "source_id": "p341-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p341-02",
+      "source_id": "p342-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p342-05",
+      "source_id": "p343-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p344-03",
+      "source_id": "p345-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p345-04",
+      "source_id": "p346-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p346-03",
+      "source_id": "p347-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p347-02",
+      "source_id": "p348-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p349-03",
+      "source_id": "p350-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p350-03",
+      "source_id": "p351-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p351-04",
+      "source_id": "p352-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p352-02",
+      "source_id": "p353-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p353-04",
+      "source_id": "p354-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p354-03",
+      "source_id": "p355-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p355-03",
+      "source_id": "p356-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p356-03",
+      "source_id": "p357-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p357-02",
+      "source_id": "p358-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p358-03",
+      "source_id": "p359-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p359-02",
+      "source_id": "p360-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p360-05",
+      "source_id": "p361-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p361-04",
+      "source_id": "p362-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p362-03",
+      "source_id": "p363-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p363-04",
+      "source_id": "p364-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p365-03",
+      "source_id": "p366-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p366-03",
+      "source_id": "p367-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p368-03",
+      "source_id": "p369-01",
+      "file": "chapters/第09章 法律领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p371-05",
+      "source_id": "p372-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p372-05",
+      "source_id": "p373-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p373-04",
+      "source_id": "p374-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p374-04",
+      "source_id": "p375-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p375-04",
+      "source_id": "p376-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p376-04",
+      "source_id": "p377-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p379-03",
+      "source_id": "p380-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p380-03",
+      "source_id": "p381-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p381-03",
+      "source_id": "p382-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p382-04",
+      "source_id": "p383-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p383-03",
+      "source_id": "p384-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p384-03",
+      "source_id": "p385-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p385-03",
+      "source_id": "p386-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p386-02",
+      "source_id": "p387-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p387-03",
+      "source_id": "p388-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p388-03",
+      "source_id": "p389-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p389-02",
+      "source_id": "p390-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p390-04",
+      "source_id": "p391-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p391-02",
+      "source_id": "p392-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p392-03",
+      "source_id": "p393-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p393-02",
+      "source_id": "p394-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p394-04",
+      "source_id": "p395-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p395-07",
+      "source_id": "p396-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p397-03",
+      "source_id": "p398-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p398-02",
+      "source_id": "p399-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p399-03",
+      "source_id": "p400-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p400-04",
+      "source_id": "p401-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p401-04",
+      "source_id": "p402-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p402-03",
+      "source_id": "p403-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p403-03",
+      "source_id": "p404-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p404-05",
+      "source_id": "p405-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p405-03",
+      "source_id": "p406-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p406-03",
+      "source_id": "p407-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p407-03",
+      "source_id": "p408-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p408-03",
+      "source_id": "p409-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p410-02",
+      "source_id": "p411-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p411-06",
+      "source_id": "p412-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p412-05",
+      "source_id": "p413-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p413-03",
+      "source_id": "p414-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p414-03",
+      "source_id": "p415-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p416-03",
+      "source_id": "p417-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p417-04",
+      "source_id": "p418-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p419-04",
+      "source_id": "p420-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p420-03",
+      "source_id": "p421-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p421-05",
+      "source_id": "p422-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p422-03",
+      "source_id": "p423-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p423-03",
+      "source_id": "p424-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p424-03",
+      "source_id": "p425-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p425-06",
+      "source_id": "p426-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p426-02",
+      "source_id": "p427-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p427-06",
+      "source_id": "p428-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p428-03",
+      "source_id": "p429-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p429-03",
+      "source_id": "p430-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p430-04",
+      "source_id": "p431-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p431-02",
+      "source_id": "p432-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p432-02",
+      "source_id": "p433-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p433-04",
+      "source_id": "p434-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p434-03",
+      "source_id": "p435-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p435-02",
+      "source_id": "p436-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p436-03",
+      "source_id": "p437-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p437-03",
+      "source_id": "p438-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p438-04",
+      "source_id": "p439-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p439-03",
+      "source_id": "p440-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p440-03",
+      "source_id": "p441-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p441-03",
+      "source_id": "p442-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p442-02",
+      "source_id": "p443-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p444-02",
+      "source_id": "p445-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p445-04",
+      "source_id": "p446-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p446-05",
+      "source_id": "p447-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p447-03",
+      "source_id": "p448-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p448-03",
+      "source_id": "p449-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p449-03",
+      "source_id": "p450-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p450-03",
+      "source_id": "p451-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p451-03",
+      "source_id": "p452-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p452-02",
+      "source_id": "p453-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p453-03",
+      "source_id": "p454-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p454-05",
+      "source_id": "p455-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p455-02",
+      "source_id": "p456-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p456-04",
+      "source_id": "p457-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p457-02",
+      "source_id": "p458-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p458-04",
+      "source_id": "p459-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p459-03",
+      "source_id": "p460-01",
+      "file": "chapters/第10章 政治领域的趋势（中文）.md"
+    },
+    {
+      "previous": "p006-06",
+      "source_id": "p007-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p008-04",
+      "source_id": "p009-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p009-04",
+      "source_id": "p010-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p010-04",
+      "source_id": "p011-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p011-06",
+      "source_id": "p012-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p013-04",
+      "source_id": "p014-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p014-04",
+      "source_id": "p015-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p015-03",
+      "source_id": "p016-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p016-05",
+      "source_id": "p017-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p017-05",
+      "source_id": "p018-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p018-03",
+      "source_id": "p019-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p019-03",
+      "source_id": "p020-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p020-05",
+      "source_id": "p021-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p021-07",
+      "source_id": "p022-01",
+      "file": "chapters/1996年版序言（中文）.md"
+    },
+    {
+      "previous": "p077-02",
+      "source_id": "p077-03",
+      "file": "chapters/第03章 经济权衡（中文）.md"
+    },
+    {
+      "previous": "p531-02",
+      "source_id": "p532-01",
+      "file": "chapters/索引（中文）.md"
+    },
+    {
+      "previous": "p532-02",
+      "source_id": "p533-01",
+      "file": "chapters/索引（中文）.md"
+    },
+    {
+      "previous": "p537-01",
+      "source_id": "p537-02",
+      "file": "chapters/索引（中文）.md"
+    },
+    {
+      "previous": "p540-01",
+      "source_id": "p541-01",
+      "file": "chapters/索引（中文）.md"
+    },
+    {
+      "previous": "p542-01",
+      "source_id": "p542-02",
+      "file": "chapters/索引（中文）.md"
+    },
+    {
+      "previous": "p546-01",
+      "source_id": "p547-01",
+      "file": "chapters/索引（中文）.md"
+    },
+    {
+      "previous": "p548-01",
+      "source_id": "p549-01",
+      "file": "chapters/索引（中文）.md"
+    },
+    {
+      "previous": "p559-02",
+      "source_id": "p560-01",
+      "file": "chapters/索引（中文）.md"
+    },
+    {
+      "previous": "p563-02",
+      "source_id": "p564-01",
+      "file": "chapters/索引（中文）.md"
+    },
+    {
+      "previous": "p003-01",
+      "source_id": "p003-02",
+      "file": "chapters/版权及原书目录（中文）.md"
+    },
+    {
+      "previous": "p003-02",
+      "source_id": "p003-03",
+      "file": "chapters/版权及原书目录（中文）.md"
+    }
+  ]
+}

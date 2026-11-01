@@ -1,0 +1,854 @@
+{
+  "pdf": "output/pdf/知识与决策（中文校订版）.pdf",
+  "sha256": "6c069c73fa6d3e8d8cc4b62b54ac51c3b9885f2c056f06f5ed49609bf103f5fb",
+  "bytes": 2921168,
+  "pages": 376,
+  "markdown_sha256": "a56dc1a146e94dbd44cdfcb70ba7d728b9bc186dae2b13a26b7b97baa4caafc3",
+  "original_notes": 1001,
+  "note_references": 1002,
+  "source_anchors": 568,
+  "index_subentries": 425,
+  "images": [
+    "assets/source-p001-01.jpg",
+    "assets/source-p003-03.jpg",
+    "assets/source-p566-01.jpg"
+  ],
+  "missing_glyphs": {},
+  "headings": [
+    {
+      "title": "阅读说明",
+      "key": "heading-001",
+      "level": 0,
+      "page": 2
+    },
+    {
+      "title": "阅读目录",
+      "key": "reading-toc",
+      "level": 0,
+      "page": 3
+    },
+    {
+      "title": "版权及原书目录",
+      "key": "heading-002",
+      "level": 0,
+      "page": 4
+    },
+    {
+      "title": "知识与决策",
+      "key": "heading-003",
+      "level": 1,
+      "page": 4
+    },
+    {
+      "title": "知识与决策",
+      "key": "heading-004",
+      "level": 1,
+      "page": 4
+    },
+    {
+      "title": "原书目录",
+      "key": "heading-005",
+      "level": 1,
+      "page": 5
+    },
+    {
+      "title": "1996年版序言",
+      "key": "heading-006",
+      "level": 0,
+      "page": 6
+    },
+    {
+      "title": "社会趋势",
+      "key": "heading-007",
+      "level": 1,
+      "page": 9
+    },
+    {
+      "title": "经济趋势",
+      "key": "heading-008",
+      "level": 1,
+      "page": 12
+    },
+    {
+      "title": "法律领域的趋势",
+      "key": "heading-009",
+      "level": 1,
+      "page": 13
+    },
+    {
+      "title": "政治趋势",
+      "key": "heading-010",
+      "level": 1,
+      "page": 14
+    },
+    {
+      "title": "总结与结论",
+      "key": "heading-011",
+      "level": 1,
+      "page": 15
+    },
+    {
+      "title": "致谢",
+      "key": "heading-012",
+      "level": 0,
+      "page": 17
+    },
+    {
+      "title": "第一部分 社会制度",
+      "key": "heading-013",
+      "level": 0,
+      "page": 19
+    },
+    {
+      "title": "第1章 知识的作用",
+      "key": "heading-014",
+      "level": 0,
+      "page": 20
+    },
+    {
+      "title": "观念",
+      "key": "heading-015",
+      "level": 1,
+      "page": 20
+    },
+    {
+      "title": "知识的数量",
+      "key": "heading-016",
+      "level": 1,
+      "page": 22
+    },
+    {
+      "title": "“知道”意味着什么",
+      "key": "heading-017",
+      "level": 1,
+      "page": 24
+    },
+    {
+      "title": "决策单位",
+      "key": "heading-018",
+      "level": 1,
+      "page": 26
+    },
+    {
+      "title": "激励结构",
+      "key": "heading-019",
+      "level": 1,
+      "page": 29
+    },
+    {
+      "title": "时间",
+      "key": "heading-020",
+      "level": 1,
+      "page": 31
+    },
+    {
+      "title": "由此引出的含义",
+      "key": "heading-021",
+      "level": 1,
+      "page": 31
+    },
+    {
+      "title": "第2章 决策过程",
+      "key": "heading-022",
+      "level": 0,
+      "page": 35
+    },
+    {
+      "title": "非正式关系",
+      "key": "heading-023",
+      "level": 1,
+      "page": 36
+    },
+    {
+      "title": "结构化组织",
+      "key": "heading-024",
+      "level": 1,
+      "page": 42
+    },
+    {
+      "title": "经济制度",
+      "key": "heading-025",
+      "level": 2,
+      "page": 43
+    },
+    {
+      "title": "政治制度",
+      "key": "heading-026",
+      "level": 2,
+      "page": 46
+    },
+    {
+      "title": "司法过程",
+      "key": "heading-027",
+      "level": 2,
+      "page": 49
+    },
+    {
+      "title": "总结与含义",
+      "key": "heading-028",
+      "level": 1,
+      "page": 50
+    },
+    {
+      "title": "第3章 经济权衡",
+      "key": "heading-029",
+      "level": 0,
+      "page": 54
+    },
+    {
+      "title": "经济中的知识",
+      "key": "heading-030",
+      "level": 1,
+      "page": 55
+    },
+    {
+      "title": "成本与增量替代",
+      "key": "heading-031",
+      "level": 1,
+      "page": 57
+    },
+    {
+      "title": "成本与价值",
+      "key": "heading-032",
+      "level": 2,
+      "page": 58
+    },
+    {
+      "title": "平均成本与增量成本",
+      "key": "heading-033",
+      "level": 2,
+      "page": 60
+    },
+    {
+      "title": "收益递减",
+      "key": "heading-034",
+      "level": 2,
+      "page": 61
+    },
+    {
+      "title": "时间",
+      "key": "heading-035",
+      "level": 1,
+      "page": 63
+    },
+    {
+      "title": "投资与减资",
+      "key": "heading-036",
+      "level": 2,
+      "page": 65
+    },
+    {
+      "title": "风险",
+      "key": "heading-037",
+      "level": 2,
+      "page": 66
+    },
+    {
+      "title": "剩余索取权",
+      "key": "heading-038",
+      "level": 1,
+      "page": 69
+    },
+    {
+      "title": "实物谬误",
+      "key": "heading-039",
+      "level": 1,
+      "page": 71
+    },
+    {
+      "title": "最优状态",
+      "key": "heading-040",
+      "level": 1,
+      "page": 75
+    },
+    {
+      "title": "总结与含义",
+      "key": "heading-041",
+      "level": 1,
+      "page": 79
+    },
+    {
+      "title": "第4章 社会权衡",
+      "key": "heading-042",
+      "level": 0,
+      "page": 82
+    },
+    {
+      "title": "分类与标识",
+      "key": "heading-043",
+      "level": 1,
+      "page": 84
+    },
+    {
+      "title": "组织",
+      "key": "heading-044",
+      "level": 2,
+      "page": 85
+    },
+    {
+      "title": "人",
+      "key": "heading-045",
+      "level": 2,
+      "page": 86
+    },
+    {
+      "title": "分类的精细程度",
+      "key": "heading-046",
+      "level": 2,
+      "page": 89
+    },
+    {
+      "title": "时间",
+      "key": "heading-047",
+      "level": 1,
+      "page": 91
+    },
+    {
+      "title": "时间视野",
+      "key": "heading-048",
+      "level": 2,
+      "page": 92
+    },
+    {
+      "title": "泛灵论谬误",
+      "key": "heading-049",
+      "level": 2,
+      "page": 94
+    },
+    {
+      "title": "系统分析",
+      "key": "heading-050",
+      "level": 2,
+      "page": 95
+    },
+    {
+      "title": "文化与个人主义",
+      "key": "heading-051",
+      "level": 1,
+      "page": 96
+    },
+    {
+      "title": "总结与含义",
+      "key": "heading-052",
+      "level": 1,
+      "page": 103
+    },
+    {
+      "title": "第5章 政治权衡",
+      "key": "heading-053",
+      "level": 0,
+      "page": 106
+    },
+    {
+      "title": "自由与强力",
+      "key": "heading-054",
+      "level": 1,
+      "page": 107
+    },
+    {
+      "title": "非政府“权力”",
+      "key": "heading-055",
+      "level": 2,
+      "page": 109
+    },
+    {
+      "title": "民主",
+      "key": "heading-056",
+      "level": 2,
+      "page": 110
+    },
+    {
+      "title": "权利",
+      "key": "heading-057",
+      "level": 1,
+      "page": 112
+    },
+    {
+      "title": "财产权",
+      "key": "heading-058",
+      "level": 1,
+      "page": 112
+    },
+    {
+      "title": "平等权利与特殊权利",
+      "key": "heading-059",
+      "level": 2,
+      "page": 115
+    },
+    {
+      "title": "一般权利",
+      "key": "heading-060",
+      "level": 2,
+      "page": 117
+    },
+    {
+      "title": "时间",
+      "key": "heading-061",
+      "level": 1,
+      "page": 118
+    },
+    {
+      "title": "时间偏向",
+      "key": "heading-062",
+      "level": 2,
+      "page": 120
+    },
+    {
+      "title": "内在连续性与任意分段",
+      "key": "heading-063",
+      "level": 2,
+      "page": 122
+    },
+    {
+      "title": "按类别决策与增量决策",
+      "key": "heading-064",
+      "level": 1,
+      "page": 123
+    },
+    {
+      "title": "政治机器",
+      "key": "heading-065",
+      "level": 2,
+      "page": 124
+    },
+    {
+      "title": "官僚机构",
+      "key": "heading-066",
+      "level": 2,
+      "page": 125
+    },
+    {
+      "title": "制度变革",
+      "key": "heading-067",
+      "level": 2,
+      "page": 128
+    },
+    {
+      "title": "总结与含义",
+      "key": "heading-068",
+      "level": 1,
+      "page": 129
+    },
+    {
+      "title": "第6章 总览",
+      "key": "heading-069",
+      "level": 0,
+      "page": 132
+    },
+    {
+      "title": "第二部分 趋势与问题",
+      "key": "heading-070",
+      "level": 0,
+      "page": 139
+    },
+    {
+      "title": "第7章 历史趋势",
+      "key": "heading-071",
+      "level": 0,
+      "page": 140
+    },
+    {
+      "title": "第8章 经济领域的趋势",
+      "key": "heading-072",
+      "level": 0,
+      "page": 143
+    },
+    {
+      "title": "价格管制",
+      "key": "heading-073",
+      "level": 1,
+      "page": 144
+    },
+    {
+      "title": "强制提高价格",
+      "key": "heading-074",
+      "level": 2,
+      "page": 144
+    },
+    {
+      "title": "强制压低价格",
+      "key": "heading-075",
+      "level": 2,
+      "page": 150
+    },
+    {
+      "title": "强制改变成本",
+      "key": "heading-076",
+      "level": 2,
+      "page": 154
+    },
+    {
+      "title": "强制转移资源",
+      "key": "heading-077",
+      "level": 2,
+      "page": 161
+    },
+    {
+      "title": "控制生产者与销售者",
+      "key": "heading-078",
+      "level": 1,
+      "page": 163
+    },
+    {
+      "title": "强制限制竞争",
+      "key": "heading-079",
+      "level": 2,
+      "page": 163
+    },
+    {
+      "title": "反托拉斯",
+      "key": "heading-080",
+      "level": 2,
+      "page": 168
+    },
+    {
+      "title": "经济“计划”",
+      "key": "heading-081",
+      "level": 1,
+      "page": 176
+    },
+    {
+      "title": "明确表达",
+      "key": "heading-082",
+      "level": 2,
+      "page": 177
+    },
+    {
+      "title": "知识转移",
+      "key": "heading-083",
+      "level": 2,
+      "page": 179
+    },
+    {
+      "title": "非经济理由",
+      "key": "heading-084",
+      "level": 2,
+      "page": 183
+    },
+    {
+      "title": "总结与含义",
+      "key": "heading-085",
+      "level": 1,
+      "page": 185
+    },
+    {
+      "title": "第9章 法律领域的趋势",
+      "key": "heading-086",
+      "level": 0,
+      "page": 187
+    },
+    {
+      "title": "行政机构",
+      "key": "heading-087",
+      "level": 1,
+      "page": 189
+    },
+    {
+      "title": "言论自由",
+      "key": "heading-088",
+      "level": 1,
+      "page": 193
+    },
+    {
+      "title": "种族",
+      "key": "heading-089",
+      "level": 1,
+      "page": 198
+    },
+    {
+      "title": "州行为",
+      "key": "heading-090",
+      "level": 2,
+      "page": 199
+    },
+    {
+      "title": "平权行动",
+      "key": "heading-091",
+      "level": 2,
+      "page": 201
+    },
+    {
+      "title": "学校种族融合",
+      "key": "heading-092",
+      "level": 2,
+      "page": 208
+    },
+    {
+      "title": "种族的特殊性",
+      "key": "heading-093",
+      "level": 2,
+      "page": 212
+    },
+    {
+      "title": "犯罪",
+      "key": "heading-094",
+      "level": 1,
+      "page": 214
+    },
+    {
+      "title": "犯罪率",
+      "key": "heading-095",
+      "level": 2,
+      "page": 217
+    },
+    {
+      "title": "刑事法律程序",
+      "key": "heading-096",
+      "level": 2,
+      "page": 218
+    },
+    {
+      "title": "刑罚",
+      "key": "heading-097",
+      "level": 2,
+      "page": 221
+    },
+    {
+      "title": "宪法解释",
+      "key": "heading-098",
+      "level": 1,
+      "page": 226
+    },
+    {
+      "title": "司法能动主义",
+      "key": "heading-099",
+      "level": 2,
+      "page": 227
+    },
+    {
+      "title": "正当程序",
+      "key": "heading-100",
+      "level": 2,
+      "page": 231
+    },
+    {
+      "title": "总结与含义",
+      "key": "heading-101",
+      "level": 1,
+      "page": 232
+    },
+    {
+      "title": "第10章 政治领域的趋势",
+      "key": "heading-102",
+      "level": 0,
+      "page": 236
+    },
+    {
+      "title": "政府的规模与活动范围",
+      "key": "heading-103",
+      "level": 1,
+      "page": 236
+    },
+    {
+      "title": "规模",
+      "key": "heading-104",
+      "level": 2,
+      "page": 236
+    },
+    {
+      "title": "极权主义",
+      "key": "heading-105",
+      "level": 2,
+      "page": 237
+    },
+    {
+      "title": "宪政民主",
+      "key": "heading-106",
+      "level": 2,
+      "page": 244
+    },
+    {
+      "title": "扩张权力的理由",
+      "key": "heading-107",
+      "level": 1,
+      "page": 252
+    },
+    {
+      "title": "危机",
+      "key": "heading-108",
+      "level": 2,
+      "page": 252
+    },
+    {
+      "title": "知识分子的政治作用",
+      "key": "heading-109",
+      "level": 1,
+      "page": 256
+    },
+    {
+      "title": "智识过程",
+      "key": "heading-110",
+      "level": 2,
+      "page": 258
+    },
+    {
+      "title": "作为社会阶层的知识分子",
+      "key": "heading-111",
+      "level": 2,
+      "page": 262
+    },
+    {
+      "title": "“切合现实”",
+      "key": "heading-112",
+      "level": 2,
+      "page": 263
+    },
+    {
+      "title": "权力",
+      "key": "heading-113",
+      "level": 2,
+      "page": 270
+    },
+    {
+      "title": "知识分子的图景",
+      "key": "heading-114",
+      "level": 2,
+      "page": 272
+    },
+    {
+      "title": "总结：受到围攻的自由",
+      "key": "heading-115",
+      "level": 1,
+      "page": 284
+    },
+    {
+      "title": "军事“平衡”",
+      "key": "heading-116",
+      "level": 2,
+      "page": 286
+    },
+    {
+      "title": "自由的未来",
+      "key": "heading-117",
+      "level": 2,
+      "page": 291
+    },
+    {
+      "title": "原注",
+      "key": "heading-118",
+      "level": 0,
+      "page": 296
+    },
+    {
+      "title": "1996年版序言原注",
+      "key": "heading-119",
+      "level": 1,
+      "page": 296
+    },
+    {
+      "title": "知识的作用原注",
+      "key": "heading-120",
+      "level": 1,
+      "page": 297
+    },
+    {
+      "title": "决策过程原注",
+      "key": "heading-121",
+      "level": 1,
+      "page": 297
+    },
+    {
+      "title": "经济权衡原注",
+      "key": "heading-122",
+      "level": 1,
+      "page": 298
+    },
+    {
+      "title": "社会权衡原注",
+      "key": "heading-123",
+      "level": 1,
+      "page": 299
+    },
+    {
+      "title": "政治权衡原注",
+      "key": "heading-124",
+      "level": 1,
+      "page": 300
+    },
+    {
+      "title": "总览原注",
+      "key": "heading-125",
+      "level": 1,
+      "page": 302
+    },
+    {
+      "title": "历史趋势原注",
+      "key": "heading-126",
+      "level": 1,
+      "page": 303
+    },
+    {
+      "title": "经济领域的趋势原注",
+      "key": "heading-127",
+      "level": 1,
+      "page": 303
+    },
+    {
+      "title": "法律领域的趋势原注",
+      "key": "heading-128",
+      "level": 1,
+      "page": 310
+    },
+    {
+      "title": "政治领域的趋势原注",
+      "key": "heading-129",
+      "level": 1,
+      "page": 327
+    },
+    {
+      "title": "索引",
+      "key": "heading-130",
+      "level": 0,
+      "page": 339
+    },
+    {
+      "title": "封底",
+      "key": "heading-131",
+      "level": 0,
+      "page": 374
+    },
+    {
+      "title": "电子版导航目录",
+      "key": "heading-132",
+      "level": 0,
+      "page": 376
+    },
+    {
+      "title": "电子版导航目录",
+      "key": "heading-133",
+      "level": 1,
+      "page": 376
+    },
+    {
+      "title": "电子版导航目录（重复）",
+      "key": "heading-134",
+      "level": 1,
+      "page": 376
+    }
+  ],
+  "sections": {
+    "阅读说明": 2,
+    "阅读目录": 3,
+    "版权及原书目录": 4,
+    "1996年版序言": 6,
+    "致谢": 17,
+    "第一部分 社会制度": 19,
+    "第1章 知识的作用": 20,
+    "第2章 决策过程": 35,
+    "第3章 经济权衡": 54,
+    "第4章 社会权衡": 82,
+    "第5章 政治权衡": 106,
+    "第6章 总览": 132,
+    "第二部分 趋势与问题": 139,
+    "第7章 历史趋势": 140,
+    "第8章 经济领域的趋势": 143,
+    "第9章 法律领域的趋势": 187,
+    "第10章 政治领域的趋势": 236,
+    "原注": 296,
+    "索引": 339,
+    "封底": 374,
+    "电子版导航目录": 376
+  },
+  "layout_passes": 2,
+  "rendered_text_units": 3316
+}

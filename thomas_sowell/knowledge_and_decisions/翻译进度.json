@@ -5,7 +5,7 @@
   "source_pdf": "知识与决策.pdf",
   "source_sha256": "05bb3a4e3a1aef903a6cfb69300d2014ed98c83a331de8238038d4aa4642b09c",
   "pdf_pages": 568,
-  "status": "translation_complete_review_pending",
+  "status": "complete",
   "editing_source": "chapters/*（中文）.md",
   "chapters": [
     {
@@ -22,7 +22,7 @@
       "translated_note_count": 4,
       "source_blocks_checked": 75,
       "source_review": "当前代理按原文逐段对照",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false,
       "chinese_sha256": "d7783745cb4df26c003bafcb60be5f48f7eb1b4d828e7852f4a85c20a43f91a4",
       "chinese_characters": 13197
@@ -43,7 +43,7 @@
       "chinese_characters": 17857,
       "translated_note_count": 13,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译；核对论证、例证、限定与跨页接续",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false
     },
     {
@@ -62,7 +62,7 @@
       "chinese_characters": 25992,
       "translated_note_count": 11,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译；核对论证、例证、限定与跨页接续",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false
     },
     {
@@ -77,11 +77,11 @@
       "status": "translated",
       "last_completed_source_id": "p153-02",
       "source_blocks_checked": 130,
-      "chinese_sha256": "c01c26480a968bee0364728e7bf8f1e979049e9c75a764ce99566c9fa5f883bb",
+      "chinese_sha256": "f51cac0e5d9a1a84d2a063e74633916dc20dad36b4aac88f0f689137b7d6d0df",
       "chinese_characters": 22372,
       "translated_note_count": 29,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译，核对论证、引文、例证、限定及跨页接续",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false
     },
     {
@@ -100,7 +100,7 @@
       "chinese_characters": 24283,
       "translated_note_count": 41,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false
     },
     {
@@ -119,7 +119,7 @@
       "chinese_characters": 6170,
       "translated_note_count": 16,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false
     },
     {
@@ -138,7 +138,7 @@
       "chinese_characters": 2112,
       "translated_note_count": 2,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译；核对论证、引文、例证、限定及跨页接续",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false
     },
     {
@@ -157,7 +157,7 @@
       "chinese_characters": 42081,
       "translated_note_count": 145,
       "source_review": "当前代理按分块逐段阅读全部正文及145条原注并对照翻译，核对论证、限定、数字、引文与跨页接续",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false
     },
     {
@@ -175,7 +175,7 @@
       "chinese_sha256": "cc8caa1997521a62c07a6f1a0ea3a94906fbd99b2bc0e520d3bd899e0bcc6003",
       "chinese_characters": 45504,
       "source_review": "当前代理按分块逐段阅读全部正文与413条原注并对照翻译；核对论证、限定、数字、引文和跨页接续",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false,
       "notes_translation_file": "data/第09章说明性原注译文.json",
       "translated_note_count": 413
@@ -195,7 +195,7 @@
       "chinese_sha256": "a862b0fbc7ae21442eada8b9ac781b12bf107426eacfc421fa9b8cadbd5b60c7",
       "chinese_characters": 57543,
       "source_review": "当前代理按分块逐段阅读并对照翻译全部304个正文分块及311条原注；核对论证、限定、数字、引文和跨页接续",
-      "language_review": "当前代理另行连续通读本章中文，修订标点、语序、术语及已记语义问题；全书统一通读尚在进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false,
       "notes_translation_file": "data/第10章说明性原注译文.json",
       "translated_note_count": 311
@@ -218,7 +218,8 @@
       "independent_professional_review": false,
       "source_images_lettering_translated": [
         1
-      ]
+      ],
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。"
     },
     {
       "id": "preface",
@@ -230,12 +231,13 @@
       "chinese_file": "chapters/1996年版序言（中文）.md",
       "source_blocks_checked": 74,
       "last_completed_source_id": "p022-06",
-      "chinese_sha256": "b84e55b433f93ddbb52e6ed1eb9134ad9a79d22e5c110642ef8c3329907d7a75",
-      "chinese_characters": 9258,
+      "chinese_sha256": "5a10b67de0eda7b8f8d69cedc7c202a3fd6e16a1c0433a03fb88ffcb571eea53",
+      "chinese_characters": 9262,
       "translated_note_count": 16,
       "notes_translation_file": "data/序言说明性原注译文.json",
       "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
-      "independent_professional_review": false
+      "independent_professional_review": false,
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。"
     },
     {
       "id": "acknowledgments",
@@ -250,7 +252,8 @@
       "chinese_sha256": "8a45dd8a1fc384d5c2762b9d78a7210cd3cd166f92ef264b26c1daa06f521cd6",
       "chinese_characters": 875,
       "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
-      "independent_professional_review": false
+      "independent_professional_review": false,
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。"
     },
     {
       "id": "part1",
@@ -264,7 +267,8 @@
       "source_blocks_checked": 3,
       "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
       "chinese_characters": 8,
-      "independent_professional_review": false
+      "independent_professional_review": false,
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。"
     },
     {
       "id": "part2",
@@ -278,7 +282,8 @@
       "source_blocks_checked": 3,
       "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
       "chinese_characters": 9,
-      "independent_professional_review": false
+      "independent_professional_review": false,
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。"
     },
     {
       "id": "notes",
@@ -315,10 +320,10 @@
       "chinese_file": "chapters/索引（中文）.md",
       "source_blocks_checked": 57,
       "last_completed_source_id": "p565-01",
-      "chinese_sha256": "06349681e7ae8811322d7087194858d869c28f069e325a5f30dd56df4131c569",
-      "chinese_characters": 5919,
+      "chinese_sha256": "2a0147960d5e84f51a3a37654ba5d5aefecfd93896d556f96fb6cdab2fa3f6fe",
+      "chinese_characters": 5921,
       "source_review": "当前代理按57个来源分块读完并翻译全部36页索引，保留原顺序、主分项、交叉参照和数字；合并底本跨页重叠文字。",
-      "language_review": "分块中文检查及译名定向对齐；全书统一通读待进行",
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。",
       "independent_professional_review": false
     },
     {
@@ -338,7 +343,8 @@
       "independent_professional_review": false,
       "source_images_lettering_translated": [
         566
-      ]
+      ],
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。"
     },
     {
       "id": "generated-toc",
@@ -353,267 +359,40 @@
       "chinese_sha256": "9a95b0b61d163daac2343cd754504242f092a5538a2019a9cb4525b8ad74883b",
       "chinese_characters": 197,
       "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
-      "independent_professional_review": false
+      "independent_professional_review": false,
+      "language_review": "当前代理已在原文分块对照翻译后，另行连续通读全部中文；完成已记录的语义、语序、术语、指代及引文格式修订。"
     }
   ],
   "last_completed_pdf_page": 568,
-  "next_step": "全书目标内容译齐；逐节通读中文并按来源合并跨页接续，统一术语与标题层级、换行及哈希，合订、排版并实际检查PDF后交付。",
-  "current_pdf": null,
-  "full_book_complete": false,
+  "next_step": "整本中文校订版已完成并通过核验。后续如修订，以分节中文维护稿为源，重新合订并核验。",
+  "current_pdf": {
+    "path": "output/pdf/知识与决策（中文校订版）.pdf",
+    "pages": 376,
+    "bytes": 2921168,
+    "sha256": "6c069c73fa6d3e8d8cc4b62b54ac51c3b9885f2c056f06f5ed49609bf103f5fb"
+  },
+  "full_book_complete": true,
   "completed_chapters": 10,
-  "pending_book_review": [
-    "卷首卷末资料翻译",
-    "前七章标题层级按原文统一",
-    "全书中文通读，修订机械标点、指代与语序",
-    "按原文合并跨页连续段落，汇编中文全文",
-    "正式中文PDF排版、图像核验、提交与推送",
-    "统一UTF-8/LF，刷新当前成稿及译注的哈希，使记录在Git检出后仍一致"
-  ],
+  "pending_book_review": [],
   "completed_original_notes": 1001,
   "language_review_cursor": {
-    "next_pdf_page": 1,
+    "next_pdf_page": null,
     "completed_ranges": [
       [
-        26,
-        37
-      ],
-      [
-        38,
-        43
-      ],
-      [
-        44,
-        46
-      ],
-      [
-        47,
-        53
-      ],
-      [
-        54,
-        60
-      ],
-      [
-        61,
-        67
-      ],
-      [
-        68,
-        74
-      ],
-      [
-        75,
-        81
-      ],
-      [
-        82,
-        88
-      ],
-      [
-        89,
-        95
-      ],
-      [
-        96,
-        102
-      ],
-      [
-        103,
-        109
-      ],
-      [
-        110,
-        115
-      ],
-      [
-        116,
-        122
-      ],
-      [
-        123,
-        129
-      ],
-      [
-        130,
-        136
-      ],
-      [
-        137,
-        143
-      ],
-      [
-        144,
-        150
-      ],
-      [
-        151,
-        153
-      ],
-      [
-        154,
-        160
-      ],
-      [
-        161,
-        167
-      ],
-      [
-        168,
-        174
-      ],
-      [
-        175,
-        181
-      ],
-      [
-        182,
-        188
-      ],
-      [
-        189,
-        193
-      ],
-      [
-        194,
-        201
-      ],
-      [
-        202,
-        205
-      ],
-      [
-        206,
-        211
-      ],
-      [
-        212,
-        219
-      ],
-      [
-        220,
-        227
-      ],
-      [
-        228,
-        235
-      ],
-      [
-        236,
-        243
-      ],
-      [
-        244,
-        251
-      ],
-      [
-        252,
-        259
-      ],
-      [
-        260,
-        267
-      ],
-      [
-        268,
-        275
-      ],
-      [
-        276,
-        282
-      ],
-      [
-        283,
-        290
-      ],
-      [
-        291,
-        298
-      ],
-      [
-        299,
-        306
-      ],
-      [
-        307,
-        314
-      ],
-      [
-        315,
-        322
-      ],
-      [
-        323,
-        330
-      ],
-      [
-        331,
-        338
-      ],
-      [
-        339,
-        346
-      ],
-      [
-        347,
-        354
-      ],
-      [
-        355,
-        362
-      ],
-      [
-        363,
-        369
-      ],
-      [
-        370,
-        377
-      ],
-      [
-        378,
-        385
-      ],
-      [
-        386,
-        393
-      ],
-      [
-        394,
-        401
-      ],
-      [
-        402,
-        409
-      ],
-      [
-        410,
-        417
-      ],
-      [
-        418,
-        425
-      ],
-      [
-        426,
-        433
-      ],
-      [
-        434,
-        441
-      ],
-      [
-        442,
-        449
-      ],
-      [
-        450,
-        457
-      ],
-      [
-        458,
+        1,
         460
+      ],
+      [
+        530,
+        568
       ]
     ],
-    "independent_professional_review": false
+    "independent_professional_review": false,
+    "status": "complete"
+  },
+  "final_pdf_verified": true,
+  "current_markdown": {
+    "path": "知识与决策（中文校订版）.md",
+    "sha256": "a56dc1a146e94dbd44cdfcb70ba7d728b9bc186dae2b13a26b7b97baa4caafc3"
   }
 }
