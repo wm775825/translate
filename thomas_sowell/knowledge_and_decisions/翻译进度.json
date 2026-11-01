@@ -169,15 +169,16 @@
       "printed_start_from_contents": 229,
       "english_file": "chapters/第09章 法律领域的趋势（英文）.md",
       "chinese_file": "chapters/第09章 法律领域的趋势（中文）.md",
-      "status": "in_progress",
-      "last_completed_source_id": "p346-03",
-      "source_blocks_checked": 216,
-      "chinese_sha256": "83d545eef10cb12411af11371ece5165dd3b10dfaf1b97c1611ccb43a45d7f31",
-      "chinese_characters": 33572,
-      "source_review": "当前代理按分块阅读并对照翻译至p346-03；第九章尚未译齐",
-      "language_review": "分块中文检查与定向修订；完整中文通读待完成",
+      "status": "translated",
+      "last_completed_source_id": "p369-01",
+      "source_blocks_checked": 285,
+      "chinese_sha256": "b3df536e1d0b182345f25f2d9df759aaebf21bc879f2ed16a38b5d4d67719599",
+      "chinese_characters": 45281,
+      "source_review": "当前代理按分块逐段阅读全部正文与413条原注并对照翻译；核对论证、限定、数字、引文和跨页接续",
+      "language_review": "分块中文检查与定向修订；全书中文统一通读待完成",
       "independent_professional_review": false,
-      "notes_translation_file": "data/第09章说明性原注译文.json"
+      "notes_translation_file": "data/第09章说明性原注译文.json",
+      "translated_note_count": 413
     },
     {
       "chapter": 10,
@@ -188,7 +189,15 @@
       "printed_start_from_contents": 305,
       "english_file": "chapters/第10章 政治领域的趋势（英文）.md",
       "chinese_file": "chapters/第10章 政治领域的趋势（中文）.md",
-      "status": "pending"
+      "status": "in_progress",
+      "last_completed_source_id": "p375-04",
+      "source_blocks_checked": 23,
+      "chinese_sha256": "f529e45b7358b30ec650cbc3a40280b9fa40d3a6182967d4d69d423604ab3093",
+      "chinese_characters": 3090,
+      "source_review": "当前代理按分块阅读并对照翻译至p375-04；第十章尚未译齐",
+      "language_review": "分块中文检查；全书统一通读待完成",
+      "independent_professional_review": false,
+      "notes_translation_file": "data/第10章说明性原注译文.json"
     }
   ],
   "other_sections": [
@@ -274,9 +283,9 @@
       "status": "pending"
     }
   ],
-  "last_completed_pdf_page": 346,
-  "next_step": "继续第9章，从p347-01开始；说明性原注译文维护于data/第09章说明性原注译文.json。",
+  "last_completed_pdf_page": 375,
+  "next_step": "继续第10章，从p376-01开始。",
   "current_pdf": null,
   "full_book_complete": false,
-  "completed_chapters": 8
+  "completed_chapters": 9
 }

@@ -1,21 +1,66 @@
 {
   "date": "2026-11-01",
   "chapter": 9,
-  "status": "in_progress",
-  "translated_source_pdf_pages": [
+  "title": "法律领域的趋势",
+  "source_pdf_range": [
     283,
-    346
+    369
   ],
-  "next_source_id": "p347-01",
-  "source_blocks_read_and_translated": 216,
-  "chapter_total_blocks": 285,
   "chinese_file": "chapters/第09章 法律领域的趋势（中文）.md",
-  "chinese_sha256": "83d545eef10cb12411af11371ece5165dd3b10dfaf1b97c1611ccb43a45d7f31",
-  "chinese_characters": 33572,
+  "chinese_sha256": "b3df536e1d0b182345f25f2d9df759aaebf21bc879f2ed16a38b5d4d67719599",
+  "chinese_characters": 45281,
+  "source_blocks_read_and_mapped": 285,
+  "original_notes": 413,
+  "translation_scope": "285个正文来源分块及全部413条原注，包括63a；说明性文字译出，纯书目保留原文。",
+  "review_scope": {
+    "source": "当前代理按分块逐段阅读全部正文与413条原注并对照翻译；核对论证、限定、数字、引文和跨页接续",
+    "language": "分块中文检查与定向修订；全书中文统一通读待完成",
+    "independent_professional_review": false,
+    "pdf_authored": false
+  },
   "notes_translation_file": "data/第09章说明性原注译文.json",
-  "notes_translation_sha256": "3f55aa725e3c2e58c1cfc9bed5cc4b5c588a05555575c1f4b6b715d47f040799",
-  "total_original_notes_after_repairs": 413,
-  "complete_chapter_notes_check": false,
+  "notes_translation_sha256": "735cdcd16bce7164b36fc05961a2c47039a11c90fe6a681017ec9cdfbec442a1",
+  "notes_with_translations_or_editorial_clarifications": [
+    "11",
+    "25",
+    "27",
+    "15",
+    "16",
+    "17",
+    "33",
+    "36",
+    "38",
+    "50",
+    "60",
+    "63a",
+    "65",
+    "71",
+    "109",
+    "145",
+    "180",
+    "189",
+    "190",
+    "192",
+    "200",
+    "255",
+    "257",
+    "287",
+    "298",
+    "299",
+    "300",
+    "310",
+    "312",
+    "316",
+    "369",
+    "387",
+    "392",
+    "393",
+    "198",
+    "321",
+    "373",
+    "374",
+    "385"
+  ],
   "note_calls": [
     {
       "note": "c09-1",
@@ -1160,15 +1205,521 @@
     {
       "note": "c09-284",
       "source_id": "p346-02"
+    },
+    {
+      "note": "c09-285",
+      "source_id": "p347-01"
+    },
+    {
+      "note": "c09-286",
+      "source_id": "p347-02"
+    },
+    {
+      "note": "c09-287",
+      "source_id": "p347-02"
+    },
+    {
+      "note": "c09-288",
+      "source_id": "p347-02"
+    },
+    {
+      "note": "c09-289",
+      "source_id": "p348-03"
+    },
+    {
+      "note": "c09-290",
+      "source_id": "p348-04"
+    },
+    {
+      "note": "c09-291",
+      "source_id": "p348-04"
+    },
+    {
+      "note": "c09-292",
+      "source_id": "p348-04"
+    },
+    {
+      "note": "c09-293",
+      "source_id": "p349-02"
+    },
+    {
+      "note": "c09-294",
+      "source_id": "p349-03"
+    },
+    {
+      "note": "c09-295",
+      "source_id": "p350-02"
+    },
+    {
+      "note": "c09-296",
+      "source_id": "p350-02"
+    },
+    {
+      "note": "c09-297",
+      "source_id": "p350-03"
+    },
+    {
+      "note": "c09-298",
+      "source_id": "p352-01"
+    },
+    {
+      "note": "c09-299",
+      "source_id": "p352-02"
+    },
+    {
+      "note": "c09-300",
+      "source_id": "p352-02"
+    },
+    {
+      "note": "c09-301",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-302",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-303",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-304",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-305",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-306",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-307",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-308",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-309",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-310",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-311",
+      "source_id": "p353-01"
+    },
+    {
+      "note": "c09-312",
+      "source_id": "p353-02"
+    },
+    {
+      "note": "c09-313",
+      "source_id": "p353-02"
+    },
+    {
+      "note": "c09-314",
+      "source_id": "p353-04"
+    },
+    {
+      "note": "c09-315",
+      "source_id": "p353-04"
+    },
+    {
+      "note": "c09-316",
+      "source_id": "p353-04"
+    },
+    {
+      "note": "c09-317",
+      "source_id": "p353-04"
+    },
+    {
+      "note": "c09-318",
+      "source_id": "p354-01"
+    },
+    {
+      "note": "c09-319",
+      "source_id": "p354-02"
+    },
+    {
+      "note": "c09-320",
+      "source_id": "p354-02"
+    },
+    {
+      "note": "c09-321",
+      "source_id": "p354-02"
+    },
+    {
+      "note": "c09-322",
+      "source_id": "p355-02"
+    },
+    {
+      "note": "c09-323",
+      "source_id": "p355-03"
+    },
+    {
+      "note": "c09-324",
+      "source_id": "p355-03"
+    },
+    {
+      "note": "c09-325",
+      "source_id": "p356-01"
+    },
+    {
+      "note": "c09-326",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-327",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-328",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-329",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-330",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-331",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-332",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-333",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-334",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-335",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-336",
+      "source_id": "p356-02"
+    },
+    {
+      "note": "c09-337",
+      "source_id": "p356-03"
+    },
+    {
+      "note": "c09-338",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-339",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-340",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-341",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-342",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-343",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-344",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-345",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-346",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-347",
+      "source_id": "p357-01"
+    },
+    {
+      "note": "c09-348",
+      "source_id": "p358-02"
+    },
+    {
+      "note": "c09-349",
+      "source_id": "p359-01"
+    },
+    {
+      "note": "c09-350",
+      "source_id": "p359-01"
+    },
+    {
+      "note": "c09-351",
+      "source_id": "p359-01"
+    },
+    {
+      "note": "c09-352",
+      "source_id": "p359-01"
+    },
+    {
+      "note": "c09-353",
+      "source_id": "p359-01"
+    },
+    {
+      "note": "c09-354",
+      "source_id": "p359-01"
+    },
+    {
+      "note": "c09-355",
+      "source_id": "p359-02"
+    },
+    {
+      "note": "c09-356",
+      "source_id": "p359-02"
+    },
+    {
+      "note": "c09-357",
+      "source_id": "p359-02"
+    },
+    {
+      "note": "c09-358",
+      "source_id": "p359-02"
+    },
+    {
+      "note": "c09-359",
+      "source_id": "p360-01"
+    },
+    {
+      "note": "c09-360",
+      "source_id": "p360-01"
+    },
+    {
+      "note": "c09-361",
+      "source_id": "p360-02"
+    },
+    {
+      "note": "c09-362",
+      "source_id": "p360-02"
+    },
+    {
+      "note": "c09-363",
+      "source_id": "p360-02"
+    },
+    {
+      "note": "c09-364",
+      "source_id": "p360-02"
+    },
+    {
+      "note": "c09-365",
+      "source_id": "p360-02"
+    },
+    {
+      "note": "c09-366",
+      "source_id": "p360-03"
+    },
+    {
+      "note": "c09-367",
+      "source_id": "p360-03"
+    },
+    {
+      "note": "c09-368",
+      "source_id": "p360-05"
+    },
+    {
+      "note": "c09-369",
+      "source_id": "p361-01"
+    },
+    {
+      "note": "c09-370",
+      "source_id": "p361-02"
+    },
+    {
+      "note": "c09-371",
+      "source_id": "p361-04"
+    },
+    {
+      "note": "c09-372",
+      "source_id": "p362-01"
+    },
+    {
+      "note": "c09-373",
+      "source_id": "p362-01"
+    },
+    {
+      "note": "c09-374",
+      "source_id": "p362-02"
+    },
+    {
+      "note": "c09-375",
+      "source_id": "p362-03"
+    },
+    {
+      "note": "c09-376",
+      "source_id": "p362-03"
+    },
+    {
+      "note": "c09-377",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-378",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-379",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-380",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-381",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-382",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-383",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-384",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-385",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-386",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-387",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-388",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-389",
+      "source_id": "p363-01"
+    },
+    {
+      "note": "c09-390",
+      "source_id": "p364-02"
+    },
+    {
+      "note": "c09-391",
+      "source_id": "p364-02"
+    },
+    {
+      "note": "c09-392",
+      "source_id": "p364-02"
+    },
+    {
+      "note": "c09-393",
+      "source_id": "p364-02"
+    },
+    {
+      "note": "c09-394",
+      "source_id": "p364-02"
+    },
+    {
+      "note": "c09-395",
+      "source_id": "p364-02"
+    },
+    {
+      "note": "c09-396",
+      "source_id": "p364-02"
+    },
+    {
+      "note": "c09-397",
+      "source_id": "p364-02"
+    },
+    {
+      "note": "c09-398",
+      "source_id": "p364-02"
+    },
+    {
+      "note": "c09-399",
+      "source_id": "p365-02"
+    },
+    {
+      "note": "c09-400",
+      "source_id": "p365-02"
+    },
+    {
+      "note": "c09-401",
+      "source_id": "p365-02"
+    },
+    {
+      "note": "c09-402",
+      "source_id": "p366-02"
+    },
+    {
+      "note": "c09-403",
+      "source_id": "p366-02"
+    },
+    {
+      "note": "c09-404",
+      "source_id": "p366-02"
+    },
+    {
+      "note": "c09-405",
+      "source_id": "p367-01"
+    },
+    {
+      "note": "c09-406",
+      "source_id": "p367-02"
+    },
+    {
+      "note": "c09-407",
+      "source_id": "p368-03"
+    },
+    {
+      "note": "c09-408",
+      "source_id": "p368-03"
+    },
+    {
+      "note": "c09-409",
+      "source_id": "p368-03"
+    },
+    {
+      "note": "c09-410",
+      "source_id": "p368-03"
+    },
+    {
+      "note": "c09-411",
+      "source_id": "p368-03"
+    },
+    {
+      "note": "c09-412",
+      "source_id": "p369-01"
     }
   ],
-  "review_scope": {
-    "source": "当前代理按分块阅读并对照翻译至p346-03；第九章尚未译齐",
-    "language": "分块中文检查与定向修订；完整中文通读待完成",
-    "independent_professional_review": false,
-    "pdf_authored": false
-  },
-  "heading_hierarchy_checked": [
+  "heading_hierarchy": [
     {
       "source_id": "p287-02",
       "source_heading": "ADMINISTRATIVE AGENCIES",
@@ -1234,6 +1785,30 @@
       "source_heading": "PUNISHMENT",
       "source_font_size": 8.64,
       "markdown_level": 3
+    },
+    {
+      "source_id": "p351-03",
+      "source_heading": "CONSTITUTIONAL INTERPRETATION",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p353-03",
+      "source_heading": "JUDICIAL ACTIVISM",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p360-04",
+      "source_heading": "DUE PROCESS",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p363-02",
+      "source_heading": "SUMMARY AND IMPLICATIONS",
+      "source_font_size": 14.4,
+      "markdown_level": 2
     }
   ],
   "source_page_images_actually_viewed": [
@@ -1279,6 +1854,30 @@
     {
       "source_id": "p305-02",
       "issue": "原电子版paramount to参与的句式，结合上下文译为被视为州的参与；未改原提取。"
+    },
+    {
+      "source_id": "p347-02",
+      "issue": "decisiveness译为能否作出确定判断，与精确界定区分，未译成重要性意义的决定性。"
+    },
+    {
+      "note": "198",
+      "issue": "【译校说明】原书Escobido的拼写及748起页照录；可核验的案名、定位为[Escobedo v. Illinois, 378 U.S. 478（1964）](https://tile.loc.gov/storage-services/service/ll/usrep/usrep378/usrep378478/usrep378478.pdf)。"
+    },
+    {
+      "note": "321",
+      "issue": "【译校说明】正文作1873年，本注作1869年，均照录。[国会图书馆所收该案](https://tile.loc.gov/storage-services/service/ll/usrep/usrep075/usrep075603/usrep075603.pdf)列作1870年，判例卷页眉则标1869年审期。引句与本注所列638页的逐字对应尚未确认，未据此擅改正文年份。"
+    },
+    {
+      "note": "373",
+      "issue": "【译校说明】原注年份1877照录；[原始判决](https://tile.loc.gov/storage-services/service/ll/usrep/usrep123/usrep123623/usrep123623.pdf)首部日期为1887年12月5日，与本章正文的1887年相应。"
+    },
+    {
+      "note": "374",
+      "issue": "【译校说明】原电子版引文连写如上。[原始判决](https://tile.loc.gov/storage-services/service/ll/usrep/usrep198/usrep198045/usrep198045.pdf)可核定位为Lochner v. New York, 198 U.S. 45（1905）；连写的其他卷页未作猜补。"
+    },
+    {
+      "note": "385",
+      "issue": "【译校说明】原书案名、起页及后一个案子的卷号有误，原文照录。可核定位分别为[Escobedo v. Illinois, 378 U.S. 478（1964）](https://tile.loc.gov/storage-services/service/ll/usrep/usrep378/usrep378478/usrep378478.pdf)和[Miranda v. Arizona, 384 U.S. 436（1966）](https://tile.loc.gov/storage-services/service/ll/usrep/usrep384/usrep384436/usrep384436.pdf)。"
     }
   ],
   "damaged_note_number_repairs": [
@@ -1296,7 +1895,14 @@
     "p340-02：基本公平254、利用穷人256，按书目与序列恢复。",
     "p341-02：律师权对应260，损坏为counse1280。",
     "p346-01：塞林研究对应279，原注标误作249。",
-    "p346-02：致人死亡定义对应283，原注标误作288。"
+    "p346-02：致人死亡定义对应283，原注标误作288。",
+    "p353-01：饼干等例对应305，原标误作300；其后306—311依连续原注恢复。",
+    "p357-01：更新宪法343、适应时代344，原标313、311损坏，按注序与书目恢复。",
+    "p358-02：按引文和注序恢复348，原标损坏为3'e。",
+    "p359-02：舆论领袖对应358，原标误作356。",
+    "p362-02：劳动、财产权案对应374，原标误作344。",
+    "p363-01：供词案恢复387，避孕法律的后一个引文恢复389，原标367、388损坏。",
+    "p364-02—p369-01：390—412按连续注序与对应原注逐项核对。"
   ],
-  "limitation": "只记录已译前缀，不声称第九章或全部原注已完成；部分字形损坏，仅能据注序和语境恢复，未假称所有原数字清晰。"
+  "limitation": "结构与原注呼应检查不等于独立专业审校；原书引文和书目仍有明示疑点，第63a注位置为译校补置。网上判例只查阅相关首部、定位和文字检索，未声称通读全部判决或查看所有判决原页图像。"
 }
