@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-01",
+  "translated_sections": [
+    "front",
+    "preface",
+    "acknowledgments",
+    "part1",
+    "part2",
+    "back-cover",
+    "generated-toc"
+  ],
+  "preface_source_blocks": 74,
+  "preface_notes": 16,
+  "total_original_notes_with_chapters": 1001,
+  "source_images_actually_viewed": [
+    1,
+    566
+  ],
+  "source_issues": [
+    {
+      "source_id": "p006-04",
+      "issue": "受膏者的图景后孤立I据原注序列恢复为序言原注1。"
+    },
+    {
+      "source_id": "p014-04",
+      "issue": "经验质疑后单引号依原注与上下文恢复为5。"
+    },
+    {
+      "source_id": "p017-04",
+      "issue": "财产权与刑事司法批评后受损呼应分别恢复8、9。"
+    },
+    {
+      "source_id": "p019-02",
+      "issue": "第十修正案、农民种麦、五比四裁决分别对应11、12、13。"
+    },
+    {
+      "source_id": "p021-02",
+      "issue": "丘吉尔引文末损坏标记恢复14。"
+    },
+    {
+      "source_id": "p022-02",
+      "issue": "霍姆斯引文及哈耶克书评分别恢复15、16。"
+    },
+    {
+      "source_id": "p022-06",
+      "issue": "Fehniarv按可辨日期与月份恢复为February，译1996年2月4日。"
+    },
+    {
+      "source_id": "p003-07",
+      "issue": "题名Knowlege、FIM等原版提取文字不静默猜改；封底ISBN末位0与版权文本末位3分别照录并说明。"
+    }
+  ],
+  "review_scope": "原文分块对照与中文分块检查；全书统一通读、索引翻译及PDF检查尚待进行。",
+  "independent_professional_review": false
+}

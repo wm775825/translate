@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-01",
+  "source_pdf_pages": [
+    530,
+    565
+  ],
+  "source_blocks_translated": 57,
+  "chinese_file": "chapters/索引（中文）.md",
+  "chinese_sha256": "06349681e7ae8811322d7087194858d869c28f069e325a5f30dd56df4131c569",
+  "chinese_characters": 5919,
+  "source_page_images_actually_viewed": [
+    530
+  ],
+  "layout": "实际查看530页，原PDF已居中重排，未保留纸本双栏缩进。依原词目顺序和语义整理主分项，不声称恢复了纸本原版版式。",
+  "pagination": "保留纸本定位；底本无纸本逐页边界，不用固定偏移或猜测链接中文页。主要词目附英文供全文检索。",
+  "numbers_check": {
+    "raw_source_numeric_tokens": 3954,
+    "raw_translated_numeric_tokens": 3953,
+    "documented_non_page_differences": [
+      "p539-02 William 0.中的0按姓名上下文译为O，未当页码。",
+      "p560-01 Aleksandr 1.中的1按姓名上下文译为I，未当页码。",
+      "p535-01 Civil Rights Act of 1964采用中文年份及英文完整名称，1964出现两次。"
+    ],
+    "adjusted_source_numeric_tokens": 3952,
+    "adjusted_translated_numeric_tokens": 3952,
+    "adjusted_multisets_match": true,
+    "scope": "索引去除相邻物理页的完全相同重叠行后，比较数字多重集；不证明数字所属词目或语义正确。"
+  },
+  "source_page_overlaps_combined": [
+    {
+      "pdf_page": 531,
+      "lines": [
+        "meanings, 250, 253"
+      ]
+    },
+    {
+      "pdf_page": 532,
+      "lines": [
+        "disadvantages, 40, 172, 179, 180-181, 215,"
+      ]
+    },
+    {
+      "pdf_page": 533,
+      "lines": [
+        "262, 264-269, 274, 302, 315, 348, 355,"
+      ]
+    },
+    {
+      "pdf_page": 534,
+      "lines": [
+        "developers, 35, 201, 240"
+      ]
+    },
+    {
+      "pdf_page": 535,
+      "lines": [
+        "Carson, Johnny, 364"
+      ]
+    },
+    {
+      "pdf_page": 536,
+      "lines": [
+        "government regulation, 197, 225"
+      ]
+    },
+    {
+      "pdf_page": 537,
+      "lines": [
+        "Cost of knowledge. See Knowledge, cost, cost"
+      ]
+    },
+    {
+      "pdf_page": 538,
+      "lines": [
+        "Crime, 96, 230, 251, 269-288"
+      ]
+    },
+    {
+      "pdf_page": 539,
+      "lines": [
+        "and elitism, 357-358"
+      ]
+    },
+    {
+      "pdf_page": 540,
+      "lines": [
+        "demand vs. \"need,\" 189, 196"
+      ]
+    },
+    {
+      "pdf_page": 541,
+      "lines": [
+        "External costs, 36-37, 57, 83, 96, 195, 197,"
+      ]
+    },
+    {
+      "pdf_page": 542,
+      "lines": [
+        "Ford, Henry, 72"
+      ]
+    },
+    {
+      "pdf_page": 543,
+      "lines": [
+        "decision-making units, 114-115"
+      ]
+    },
+    {
+      "pdf_page": 544,
+      "lines": [
+        "Homicide, 270, 274. See also Death Penalty,"
+      ]
+    },
+    {
+      "pdf_page": 545,
+      "lines": [
+        "379"
+      ]
+    },
+    {
+      "pdf_page": 547,
+      "lines": [
+        "Interstate Commerce Commission (I.C.C.),"
+      ]
+    },
+    {
+      "pdf_page": 548,
+      "lines": [
+        "Kaiser Corporation, 255, 256"
+      ]
+    },
+    {
+      "pdf_page": 549,
+      "lines": [
+        "burden of proof, 131, 206, 234, 236, 250,"
+      ]
+    },
+    {
+      "pdf_page": 550,
+      "lines": [
+        "London, 220, 223, 275"
+      ]
+    },
+    {
+      "pdf_page": 552,
+      "lines": [
+        "Justice"
+      ]
+    },
+    {
+      "pdf_page": 553,
+      "lines": [
+        "New Hampshire, 201"
+      ]
+    },
+    {
+      "pdf_page": 554,
+      "lines": [
+        "Partisanship vs. bias, 301-302"
+      ]
+    },
+    {
+      "pdf_page": 555,
+      "lines": [
+        "Power, 279, 326-331, 363-364. See also Force"
+      ]
+    },
+    {
+      "pdf_page": 556,
+      "lines": [
+        "opportunity, 250, 262"
+      ]
+    },
+    {
+      "pdf_page": 557,
+      "lines": [
+        "Rehnquist, William, 255-256"
+      ]
+    },
+    {
+      "pdf_page": 558,
+      "lines": [
+        "emperors, 374"
+      ]
+    },
+    {
+      "pdf_page": 559,
+      "lines": [
+        "housing, 176-177, 179"
+      ]
+    },
+    {
+      "pdf_page": 560,
+      "lines": [
+        "\"Society\" Metaphor, 11, 12, 15, 21, 41, 57, 61,"
+      ]
+    },
+    {
+      "pdf_page": 561,
+      "lines": [
+        "Stewart, Potter, 255"
+      ]
+    },
+    {
+      "pdf_page": 562,
+      "lines": [
+        "Terman, Lewis, 345, 358"
+      ]
+    },
+    {
+      "pdf_page": 563,
+      "lines": [
+        "1)"
+      ]
+    },
+    {
+      "pdf_page": 564,
+      "lines": [
+        "United Steelworkers of America v. Brian F."
+      ]
+    },
+    {
+      "pdf_page": 565,
+      "lines": [
+        "Wilson, Edmund, 352"
+      ]
+    }
+  ],
+  "cross_block_continuations_marked": [
+    "p532-01",
+    "p533-01",
+    "p537-02",
+    "p541-01",
+    "p542-02",
+    "p547-01",
+    "p549-01",
+    "p560-01",
+    "p564-01"
+  ],
+  "source_errors_and_limits": [
+    "334336、184185、137144、206209等分隔不明数字保留连写并说明，不猜作范围或并列页。",
+    "Organized crime原索引92–83照录，另指出另一条目的92–93。",
+    "Caitalism、Mae Tse-tung、Top, Hideki等按正文语境译出，保留底本写法说明。",
+    "世界大战条目的1、11、111按正文对应I、II、III，英文保留底本数字。",
+    "p553的Systematic analysis/processes交叉参照对应p561的Systemic主条，中文统一指向系统分析、系统过程；不据此混同正文两个英文概念。"
+  ],
+  "review_scope": "当前代理按57个来源分块读完并翻译全部36页索引，保留原顺序、主分项、交叉参照和数字；合并底本跨页重叠文字。",
+  "independent_professional_review": false
+}

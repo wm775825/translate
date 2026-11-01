@@ -5,7 +5,7 @@
   "source_pdf": "知识与决策.pdf",
   "source_sha256": "05bb3a4e3a1aef903a6cfb69300d2014ed98c83a331de8238038d4aa4642b09c",
   "pdf_pages": 568,
-  "status": "translation_in_progress",
+  "status": "translation_complete_review_pending",
   "editing_source": "chapters/*（中文）.md",
   "chapters": [
     {
@@ -208,7 +208,17 @@
       "pdf_start": 1,
       "pdf_end": 5,
       "english_file": "chapters/版权及原书目录（英文）.md",
-      "status": "pending"
+      "status": "translated",
+      "chinese_file": "chapters/版权及原书目录（中文）.md",
+      "source_blocks_checked": 29,
+      "last_completed_source_id": "p005-01",
+      "chinese_sha256": "5f43498a5f15334bcf9c06288c635aba6c6624338894cae810091eaab1a49de4",
+      "chinese_characters": 390,
+      "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
+      "independent_professional_review": false,
+      "source_images_lettering_translated": [
+        1
+      ]
     },
     {
       "id": "preface",
@@ -216,7 +226,16 @@
       "pdf_start": 6,
       "pdf_end": 22,
       "english_file": "chapters/1996年版序言（英文）.md",
-      "status": "pending"
+      "status": "translated",
+      "chinese_file": "chapters/1996年版序言（中文）.md",
+      "source_blocks_checked": 74,
+      "last_completed_source_id": "p022-06",
+      "chinese_sha256": "b84e55b433f93ddbb52e6ed1eb9134ad9a79d22e5c110642ef8c3329907d7a75",
+      "chinese_characters": 9258,
+      "translated_note_count": 16,
+      "notes_translation_file": "data/序言说明性原注译文.json",
+      "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
+      "independent_professional_review": false
     },
     {
       "id": "acknowledgments",
@@ -224,7 +243,14 @@
       "pdf_start": 23,
       "pdf_end": 24,
       "english_file": "chapters/致谢（英文）.md",
-      "status": "pending"
+      "status": "translated",
+      "chinese_file": "chapters/致谢（中文）.md",
+      "source_blocks_checked": 13,
+      "last_completed_source_id": "p024-07",
+      "chinese_sha256": "8a45dd8a1fc384d5c2762b9d78a7210cd3cd166f92ef264b26c1daa06f521cd6",
+      "chinese_characters": 875,
+      "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
+      "independent_professional_review": false
     },
     {
       "id": "part1",
@@ -236,7 +262,9 @@
       "chinese_file": "chapters/第一部分 社会制度（中文）.md",
       "chinese_sha256": "649424f5d7024cfe7c46007ea5ec9f1ae8e1757ec717a2665a2d6fc0e31ee88b",
       "source_blocks_checked": 3,
-      "source_review": "核对原书三个标题分块并在中文分部标题保留来源标识"
+      "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
+      "chinese_characters": 8,
+      "independent_professional_review": false
     },
     {
       "id": "part2",
@@ -248,7 +276,9 @@
       "chinese_file": "chapters/第二部分 趋势与问题（中文）.md",
       "chinese_sha256": "069fe0f714cae7c82de29e68e2d7e08c6c9c9ab50655999a9397de0120f204be",
       "source_blocks_checked": 3,
-      "source_review": "核对原书三个标题分块并在中文分部标题保留来源标识"
+      "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
+      "chinese_characters": 9,
+      "independent_professional_review": false
     },
     {
       "id": "notes",
@@ -256,7 +286,24 @@
       "pdf_start": 461,
       "pdf_end": 529,
       "english_file": "chapters/原注（英文）.md",
-      "status": "pending"
+      "status": "translated",
+      "coverage_kind": "original_note_ids_and_pdf_pages",
+      "translated_note_count": 1001,
+      "chinese_files": [
+        "chapters/1996年版序言（中文）.md",
+        "chapters/第01章 知识的作用（中文）.md",
+        "chapters/第02章 决策过程（中文）.md",
+        "chapters/第03章 经济权衡（中文）.md",
+        "chapters/第04章 社会权衡（中文）.md",
+        "chapters/第05章 政治权衡（中文）.md",
+        "chapters/第06章 总览（中文）.md",
+        "chapters/第07章 历史趋势（中文）.md",
+        "chapters/第08章 经济领域的趋势（中文）.md",
+        "chapters/第09章 法律领域的趋势（中文）.md",
+        "chapters/第10章 政治领域的趋势（中文）.md"
+      ],
+      "source_review": "序言16条及十章985条原注已逐组阅读；解释性原注译为中文，纯书目保留原文。定义在序言、各章维护稿；合订时集中于原注部分。",
+      "limitation": "原注按data/notes.json的编号与原物理页集合追溯，不伪造与跨页原始文字分块的一对一关系。"
     },
     {
       "id": "index",
@@ -264,7 +311,15 @@
       "pdf_start": 530,
       "pdf_end": 565,
       "english_file": "chapters/索引（英文）.md",
-      "status": "pending"
+      "status": "translated",
+      "chinese_file": "chapters/索引（中文）.md",
+      "source_blocks_checked": 57,
+      "last_completed_source_id": "p565-01",
+      "chinese_sha256": "06349681e7ae8811322d7087194858d869c28f069e325a5f30dd56df4131c569",
+      "chinese_characters": 5919,
+      "source_review": "当前代理按57个来源分块读完并翻译全部36页索引，保留原顺序、主分项、交叉参照和数字；合并底本跨页重叠文字。",
+      "language_review": "分块中文检查及译名定向对齐；全书统一通读待进行",
+      "independent_professional_review": false
     },
     {
       "id": "back-cover",
@@ -272,8 +327,18 @@
       "pdf_start": 566,
       "pdf_end": 566,
       "english_file": "chapters/封底（英文）.md",
-      "status": "pending",
-      "source_kind": "image"
+      "status": "translated",
+      "source_kind": "image",
+      "chinese_file": "chapters/封底（中文）.md",
+      "source_blocks_checked": 0,
+      "last_completed_source_id": null,
+      "chinese_sha256": "c81be02eb1cdcb5cc83fd3a2648944b5bab7f8812519331f90c9fcf0e8c83f6a",
+      "chinese_characters": 538,
+      "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
+      "independent_professional_review": false,
+      "source_images_lettering_translated": [
+        566
+      ]
     },
     {
       "id": "generated-toc",
@@ -281,11 +346,18 @@
       "pdf_start": 567,
       "pdf_end": 568,
       "english_file": "chapters/电子版导航目录（英文）.md",
-      "status": "pending"
+      "status": "translated",
+      "chinese_file": "chapters/电子版导航目录（中文）.md",
+      "source_blocks_checked": 4,
+      "last_completed_source_id": "p568-02",
+      "chinese_sha256": "9a95b0b61d163daac2343cd754504242f092a5538a2019a9cb4525b8ad74883b",
+      "chinese_characters": 197,
+      "source_review": "当前代理按原文分块阅读并对照翻译；图像封面、封底另据实际查看转译文字",
+      "independent_professional_review": false
     }
   ],
-  "last_completed_pdf_page": 460,
-  "next_step": "十章正文与985条章末原注译齐；接续1996年版序言、致谢、版权目录、封底及索引，再全书通读与排版。",
+  "last_completed_pdf_page": 568,
+  "next_step": "全书目标内容译齐；逐节通读中文并按来源合并跨页接续，统一术语与标题层级、换行及哈希，合订、排版并实际检查PDF后交付。",
   "current_pdf": null,
   "full_book_complete": false,
   "completed_chapters": 10,
@@ -296,5 +368,6 @@
     "按原文合并跨页连续段落，汇编中文全文",
     "正式中文PDF排版、图像核验、提交与推送",
     "统一UTF-8/LF，刷新当前成稿及译注的哈希，使记录在Git检出后仍一致"
-  ]
+  ],
+  "completed_original_notes": 1001
 }

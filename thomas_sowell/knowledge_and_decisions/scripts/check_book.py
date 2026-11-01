@@ -77,6 +77,38 @@ def main():
         completed.append({"chapter": chapter["chapter"], "source_blocks": len(expected),
                           "notes": len(expected_notes),
                           "chinese_characters": len(re.findall(r"[\u4e00-\u9fff]", text))})
+    completed_sections = []
+    for section in progress["other_sections"]:
+        if section["status"] != "translated":
+            continue
+        if section["id"] == "notes":
+            definitions = []
+            for name in section["chinese_files"]:
+                definitions += re.findall(r"^\[\^([^\]]+)\]:", (ROOT / name).read_text(encoding="utf-8"), re.M)
+            wanted = {f"pre-{n['number']}" for n in notes["preface"]}
+            for ch in progress["chapters"]:
+                wanted |= {f"c{ch['chapter']:02d}-{n['number']}" for n in notes[f"chapter{ch['chapter']}"]}
+            if set(definitions) != wanted or len(definitions) != len(wanted):
+                errors.append("全书1001条原注定义缺失、额外或重复。")
+            completed_sections.append({"section": "notes", "notes": len(wanted),
+                                       "coverage": "原注编号及原物理页，非原始文字分块一对一"})
+            continue
+        path = ROOT / section["chinese_file"]
+        text = path.read_text(encoding="utf-8")
+        expected = [b["id"] for p in pages[section["pdf_start"] - 1:section["pdf_end"]] for b in p["blocks"]]
+        if re.findall(r"source-id:\s*(p\d+-\d+)", text) != expected:
+            errors.append("中文分节来源标识不符：" + section["chinese_file"])
+        if list(map(int, re.findall(r'<a id="pdf-(\d+)"></a>', text))) != list(range(section["pdf_start"], section["pdf_end"] + 1)):
+            errors.append("中文分节页锚不符：" + section["chinese_file"])
+        if section["id"] == "preface":
+            wanted = {f"pre-{n['number']}" for n in notes["preface"]}
+            if set(re.findall(r"\[\^([^\]]+)\](?!:)", text)) != wanted or set(re.findall(r"^\[\^([^\]]+)\]:", text, re.M)) != wanted:
+                errors.append("序言原注呼应或定义不符。")
+        if section["id"] in ("front", "back-cover"):
+            for pg in section["source_images_lettering_translated"]:
+                if f"source-image: assets/source-p{pg:03d}-01.jpg" not in text:
+                    errors.append("封面或封底文字翻译未记录原图来源。")
+        completed_sections.append({"section": section["id"], "source_blocks": len(expected)})
     for path in [ROOT / "知识与决策（英文全文）.md", *list((ROOT / "chapters").glob("*.md"))]:
         text = path.read_text(encoding="utf-8")
         for image in re.findall(r"!\[[^\]]*\]\(<([^>]+)>\)", text):
@@ -85,6 +117,7 @@ def main():
     result = {"all_checks_passed": not errors, "source_pdf_unchanged": True if not errors else None,
               "source_pages": len(pages), "chapters_inventoried": len(structure["chapters"]),
               "images_verified": image_count, "completed_chapters": completed,
+              "completed_other_sections": completed_sections,
               "scope": "结构及文件身份检查，不代替语义复核或PDF排版校核。", "errors": errors}
     print(json.dumps(result, ensure_ascii=False, indent=2))
     if errors:
