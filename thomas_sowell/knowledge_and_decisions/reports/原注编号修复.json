@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-01",
+  "notes_data_sha256_before": "fa8612cb9518dc4b297080b43cbff0e812aed617f1135917f1014d77b00fc237",
+  "notes_data_sha256_after": "ac93f613bf666c8dafdfc13ebaead1b8164d07e0ed98bcd0d31889183277df19",
+  "source_pdf_unchanged": true,
+  "scope": "五处数字注号未被解析器单独识别，另发现第九章63a字母注此前并入63；不是原文缺注。",
+  "source_pages_actually_viewed": [
+    488,
+    514,
+    520,
+    521,
+    526
+  ],
+  "corrected_counts": {
+    "chapter9": 413,
+    "chapter10": 311
+  },
+  "repairs": [
+    {
+      "chapter": "chapter9",
+      "source_pdf_page": 488,
+      "previous_number": 53,
+      "restored_number": 54,
+      "previous_merged_text": "Jackson v. Metropolitan Edison Co., 419 U. S. 345 (1974). 54, Burton v. Wilmington Parking Authority, et al., 365 U. S. 715 (1961), at 728.",
+      "restored_text": "Burton v. Wilmington Parking Authority, et al., 365 U. S. 715 (1961), at 728.",
+      "evidence": "已实际查看原PDF页面，注号、标点和书目均可辨；仅拆分解析数据，原PDF及逐页提取不改。"
+    },
+    {
+      "chapter": "chapter9",
+      "source_pdf_page": 488,
+      "previous_number": 63,
+      "restored_number": "63a",
+      "previous_merged_text": "Nathan Glazer, Affirmative Discrimination: Ethnic Inequality and Public Policy (Basic Books, Inc., 1975), p. 46. 63a. See U. S. Equal Employment Opportunity Commission, Legislative History of Titles VII and XI of Civil Rights Act of 1964, (Washington, D.C.: U. S. Government Printing Office, no date), p. 4.",
+      "restored_text": "See U. S. Equal Employment Opportunity Commission, Legislative History of Titles VII and XI of Civil Rights Act of 1964, (Washington, D.C.: U. S. Government Printing Office, no date), p. 4.",
+      "evidence": "已实际查看原PDF页面，注号、标点和书目均可辨；仅拆分解析数据，原PDF及逐页提取不改。"
+    },
+    {
+      "chapter": "chapter10",
+      "source_pdf_page": 514,
+      "previous_number": 49,
+      "restored_number": 50,
+      "previous_merged_text": "Ibid., p. 79. 50 Maldwyn Allan Jones, American Immigration (University of Chicago Press, 1960), pp. 13, 32.",
+      "restored_text": "Maldwyn Allan Jones, American Immigration (University of Chicago Press, 1960), pp. 13, 32.",
+      "evidence": "已实际查看原PDF页面，注号、标点和书目均可辨；仅拆分解析数据，原PDF及逐页提取不改。"
+    },
+    {
+      "chapter": "chapter10",
+      "source_pdf_page": 520,
+      "previous_number": 151,
+      "restored_number": 152,
+      "previous_merged_text": "Ibid., p. 504. , 152. Ibid. Vol. II, p. 848.",
+      "restored_text": "Ibid. Vol. II, p. 848.",
+      "evidence": "已实际查看原PDF页面，注号、标点和书目均可辨；仅拆分解析数据，原PDF及逐页提取不改。"
+    },
+    {
+      "chapter": "chapter10",
+      "source_pdf_page": 521,
+      "previous_number": 158,
+      "restored_number": 159,
+      "previous_merged_text": "Ibid., p. 304. 159. Ibid., p. 309.",
+      "restored_text": "Ibid., p. 309.",
+      "evidence": "已实际查看原PDF页面，注号、标点和书目均可辨；仅拆分解析数据，原PDF及逐页提取不改。"
+    },
+    {
+      "chapter": "chapter10",
+      "source_pdf_page": 526,
+      "previous_number": 257,
+      "restored_number": 258,
+      "previous_merged_text": "Ibid., p. 815; Ibid., Vol. II, pp. 317, 793. , 258. Ibid. Vol. I, pp. 30-33.",
+      "restored_text": "Ibid. Vol. I, pp. 30-33.",
+      "evidence": "已实际查看原PDF页面，注号、标点和书目均可辨；仅拆分解析数据，原PDF及逐页提取不改。"
+    }
+  ],
+  "translation_status": "只修复原注解析；不计为第九、十章译完，也不代表其全部原注已复核。"
+}

@@ -58,7 +58,7 @@
       "status": "translated",
       "last_completed_source_id": "p115-02",
       "source_blocks_checked": 142,
-      "chinese_sha256": "4adb558520e5e38f7ecdd76cd25b14cc0f8dca681eaadb1fdc5069d968567101",
+      "chinese_sha256": "b22babce243270853f197818473fa9a7a8e0459a379c1dcec328a9de2dd9219f",
       "chinese_characters": 25994,
       "translated_note_count": 11,
       "source_review": "当前代理按分块逐段阅读原文并对照翻译；核对论证、例证、限定与跨页接续",
@@ -154,7 +154,7 @@
       "last_completed_source_id": "p282-02",
       "source_blocks_checked": 243,
       "chinese_sha256": "0e79bc08468fb48d8aaddac60884955d3fe1e3166bcb2ff1cf465e08d6d86e7a",
-      "chinese_characters": 42045,
+      "chinese_characters": 42046,
       "translated_note_count": 145,
       "source_review": "当前代理按分块逐段阅读全部正文及145条原注并对照翻译，核对论证、限定、数字、引文与跨页接续",
       "language_review": "分块中文检查；定向修订章首机械标点、句法及两处语义问题；全书统一通读待完成",
@@ -169,7 +169,15 @@
       "printed_start_from_contents": 229,
       "english_file": "chapters/第09章 法律领域的趋势（英文）.md",
       "chinese_file": "chapters/第09章 法律领域的趋势（中文）.md",
-      "status": "pending"
+      "status": "in_progress",
+      "last_completed_source_id": "p346-03",
+      "source_blocks_checked": 216,
+      "chinese_sha256": "83d545eef10cb12411af11371ece5165dd3b10dfaf1b97c1611ccb43a45d7f31",
+      "chinese_characters": 33572,
+      "source_review": "当前代理按分块阅读并对照翻译至p346-03；第九章尚未译齐",
+      "language_review": "分块中文检查与定向修订；完整中文通读待完成",
+      "independent_professional_review": false,
+      "notes_translation_file": "data/第09章说明性原注译文.json"
     },
     {
       "chapter": 10,
@@ -266,8 +274,8 @@
       "status": "pending"
     }
   ],
-  "last_completed_pdf_page": 282,
-  "next_step": "继续第9章，从原PDF物理第283页开始；结合原页补回第54注的解析缺口。",
+  "last_completed_pdf_page": 346,
+  "next_step": "继续第9章，从p347-01开始；说明性原注译文维护于data/第09章说明性原注译文.json。",
   "current_pdf": null,
   "full_book_complete": false,
   "completed_chapters": 8

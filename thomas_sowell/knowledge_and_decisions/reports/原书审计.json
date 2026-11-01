@@ -216,5 +216,14 @@
   "generated_navigation_pdf_range": [
     567,
     568
-  ]
+  ],
+  "subsequent_note_repairs": {
+    "record": "reports/原注编号修复.json",
+    "date": "2026-11-01",
+    "original_audit_counts_retained_as_history": true,
+    "current_corrected_counts": {
+      "chapter9": 413,
+      "chapter10": 311
+    }
+  }
 }

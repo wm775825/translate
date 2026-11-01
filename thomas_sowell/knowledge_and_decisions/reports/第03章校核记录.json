@@ -7,7 +7,7 @@
     115
   ],
   "chinese_file": "chapters/第03章 经济权衡（中文）.md",
-  "chinese_sha256": "4adb558520e5e38f7ecdd76cd25b14cc0f8dca681eaadb1fdc5069d968567101",
+  "chinese_sha256": "b22babce243270853f197818473fa9a7a8e0459a379c1dcec328a9de2dd9219f",
   "source_blocks_read_and_mapped": 142,
   "source_english_words": 16393,
   "chinese_characters": 25994,
@@ -91,5 +91,10 @@
       "primary_source": "https://archive.org/stream/derantisemitismu00bahr/derantisemitismu00bahr_djvu.txt",
       "verification_scope": "已读原书网页OCR相应段及印刷页21标记，未据扫描图逐字校订其德文。"
     }
-  ]
+  ],
+  "additional_targeted_revision": {
+    "source_id": "p111-03",
+    "source_phrase": "some central governmental funds",
+    "treatment": "据收入集中分配的上下文，将政府中央掌握改为政府集中掌握，避免误指政府层级。"
+  }
 }

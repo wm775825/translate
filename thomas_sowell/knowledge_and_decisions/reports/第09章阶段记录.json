@@ -1,0 +1,1302 @@
+{
+  "date": "2026-11-01",
+  "chapter": 9,
+  "status": "in_progress",
+  "translated_source_pdf_pages": [
+    283,
+    346
+  ],
+  "next_source_id": "p347-01",
+  "source_blocks_read_and_translated": 216,
+  "chapter_total_blocks": 285,
+  "chinese_file": "chapters/第09章 法律领域的趋势（中文）.md",
+  "chinese_sha256": "83d545eef10cb12411af11371ece5165dd3b10dfaf1b97c1611ccb43a45d7f31",
+  "chinese_characters": 33572,
+  "notes_translation_file": "data/第09章说明性原注译文.json",
+  "notes_translation_sha256": "3f55aa725e3c2e58c1cfc9bed5cc4b5c588a05555575c1f4b6b715d47f040799",
+  "total_original_notes_after_repairs": 413,
+  "complete_chapter_notes_check": false,
+  "note_calls": [
+    {
+      "note": "c09-1",
+      "source_id": "p284-03"
+    },
+    {
+      "note": "c09-2",
+      "source_id": "p284-03"
+    },
+    {
+      "note": "c09-3",
+      "source_id": "p285-01"
+    },
+    {
+      "note": "c09-4",
+      "source_id": "p286-01"
+    },
+    {
+      "note": "c09-5",
+      "source_id": "p286-02"
+    },
+    {
+      "note": "c09-6",
+      "source_id": "p286-02"
+    },
+    {
+      "note": "c09-7",
+      "source_id": "p286-02"
+    },
+    {
+      "note": "c09-8",
+      "source_id": "p286-02"
+    },
+    {
+      "note": "c09-9",
+      "source_id": "p287-04"
+    },
+    {
+      "note": "c09-10",
+      "source_id": "p287-04"
+    },
+    {
+      "note": "c09-11",
+      "source_id": "p290-01"
+    },
+    {
+      "note": "c09-12",
+      "source_id": "p290-02"
+    },
+    {
+      "note": "c09-13",
+      "source_id": "p290-03"
+    },
+    {
+      "note": "c09-14",
+      "source_id": "p292-01"
+    },
+    {
+      "note": "c09-15",
+      "source_id": "p294-01"
+    },
+    {
+      "note": "c09-16",
+      "source_id": "p294-02"
+    },
+    {
+      "note": "c09-17",
+      "source_id": "p294-02"
+    },
+    {
+      "note": "c09-18",
+      "source_id": "p294-02"
+    },
+    {
+      "note": "c09-19",
+      "source_id": "p295-02"
+    },
+    {
+      "note": "c09-20",
+      "source_id": "p295-02"
+    },
+    {
+      "note": "c09-21",
+      "source_id": "p295-02"
+    },
+    {
+      "note": "c09-22",
+      "source_id": "p296-01"
+    },
+    {
+      "note": "c09-23",
+      "source_id": "p296-02"
+    },
+    {
+      "note": "c09-24",
+      "source_id": "p296-03"
+    },
+    {
+      "note": "c09-25",
+      "source_id": "p297-03"
+    },
+    {
+      "note": "c09-26",
+      "source_id": "p297-04"
+    },
+    {
+      "note": "c09-27",
+      "source_id": "p298-03"
+    },
+    {
+      "note": "c09-28",
+      "source_id": "p300-01"
+    },
+    {
+      "note": "c09-29",
+      "source_id": "p300-01"
+    },
+    {
+      "note": "c09-30",
+      "source_id": "p300-02"
+    },
+    {
+      "note": "c09-31",
+      "source_id": "p301-03"
+    },
+    {
+      "note": "c09-32",
+      "source_id": "p301-03"
+    },
+    {
+      "note": "c09-33",
+      "source_id": "p301-03"
+    },
+    {
+      "note": "c09-34",
+      "source_id": "p302-01"
+    },
+    {
+      "note": "c09-35",
+      "source_id": "p302-02"
+    },
+    {
+      "note": "c09-36",
+      "source_id": "p302-02"
+    },
+    {
+      "note": "c09-37",
+      "source_id": "p302-03"
+    },
+    {
+      "note": "c09-38",
+      "source_id": "p302-04"
+    },
+    {
+      "note": "c09-39",
+      "source_id": "p302-04"
+    },
+    {
+      "note": "c09-40",
+      "source_id": "p304-01"
+    },
+    {
+      "note": "c09-41",
+      "source_id": "p304-01"
+    },
+    {
+      "note": "c09-42",
+      "source_id": "p304-01"
+    },
+    {
+      "note": "c09-43",
+      "source_id": "p304-02"
+    },
+    {
+      "note": "c09-44",
+      "source_id": "p304-02"
+    },
+    {
+      "note": "c09-45",
+      "source_id": "p304-02"
+    },
+    {
+      "note": "c09-46",
+      "source_id": "p304-03"
+    },
+    {
+      "note": "c09-47",
+      "source_id": "p305-02"
+    },
+    {
+      "note": "c09-48",
+      "source_id": "p305-02"
+    },
+    {
+      "note": "c09-49",
+      "source_id": "p305-02"
+    },
+    {
+      "note": "c09-50",
+      "source_id": "p305-02"
+    },
+    {
+      "note": "c09-51",
+      "source_id": "p305-03"
+    },
+    {
+      "note": "c09-52",
+      "source_id": "p305-03"
+    },
+    {
+      "note": "c09-53",
+      "source_id": "p305-03"
+    },
+    {
+      "note": "c09-54",
+      "source_id": "p305-03"
+    },
+    {
+      "note": "c09-55",
+      "source_id": "p305-04"
+    },
+    {
+      "note": "c09-56",
+      "source_id": "p305-04"
+    },
+    {
+      "note": "c09-57",
+      "source_id": "p305-04"
+    },
+    {
+      "note": "c09-58",
+      "source_id": "p305-04"
+    },
+    {
+      "note": "c09-59",
+      "source_id": "p306-01"
+    },
+    {
+      "note": "c09-60",
+      "source_id": "p306-01"
+    },
+    {
+      "note": "c09-61",
+      "source_id": "p306-03"
+    },
+    {
+      "note": "c09-62",
+      "source_id": "p306-03"
+    },
+    {
+      "note": "c09-63",
+      "source_id": "p307-02"
+    },
+    {
+      "note": "c09-63a",
+      "source_id": "p307-02"
+    },
+    {
+      "note": "c09-64",
+      "source_id": "p307-02"
+    },
+    {
+      "note": "c09-65",
+      "source_id": "p307-02"
+    },
+    {
+      "note": "c09-66",
+      "source_id": "p307-03"
+    },
+    {
+      "note": "c09-67",
+      "source_id": "p308-01"
+    },
+    {
+      "note": "c09-68",
+      "source_id": "p308-01"
+    },
+    {
+      "note": "c09-69",
+      "source_id": "p308-01"
+    },
+    {
+      "note": "c09-70",
+      "source_id": "p308-01"
+    },
+    {
+      "note": "c09-71",
+      "source_id": "p308-01"
+    },
+    {
+      "note": "c09-72",
+      "source_id": "p308-02"
+    },
+    {
+      "note": "c09-73",
+      "source_id": "p308-03"
+    },
+    {
+      "note": "c09-74",
+      "source_id": "p309-01"
+    },
+    {
+      "note": "c09-75",
+      "source_id": "p309-02"
+    },
+    {
+      "note": "c09-76",
+      "source_id": "p309-02"
+    },
+    {
+      "note": "c09-77",
+      "source_id": "p309-02"
+    },
+    {
+      "note": "c09-78",
+      "source_id": "p309-03"
+    },
+    {
+      "note": "c09-79",
+      "source_id": "p309-03"
+    },
+    {
+      "note": "c09-80",
+      "source_id": "p309-03"
+    },
+    {
+      "note": "c09-81",
+      "source_id": "p310-01"
+    },
+    {
+      "note": "c09-82",
+      "source_id": "p310-01"
+    },
+    {
+      "note": "c09-83",
+      "source_id": "p310-01"
+    },
+    {
+      "note": "c09-84",
+      "source_id": "p311-01"
+    },
+    {
+      "note": "c09-85",
+      "source_id": "p311-02"
+    },
+    {
+      "note": "c09-86",
+      "source_id": "p311-02"
+    },
+    {
+      "note": "c09-87",
+      "source_id": "p311-02"
+    },
+    {
+      "note": "c09-88",
+      "source_id": "p311-02"
+    },
+    {
+      "note": "c09-89",
+      "source_id": "p311-02"
+    },
+    {
+      "note": "c09-90",
+      "source_id": "p312-02"
+    },
+    {
+      "note": "c09-90",
+      "source_id": "p312-02"
+    },
+    {
+      "note": "c09-91",
+      "source_id": "p312-02"
+    },
+    {
+      "note": "c09-92",
+      "source_id": "p312-02"
+    },
+    {
+      "note": "c09-93",
+      "source_id": "p312-02"
+    },
+    {
+      "note": "c09-94",
+      "source_id": "p312-02"
+    },
+    {
+      "note": "c09-95",
+      "source_id": "p312-02"
+    },
+    {
+      "note": "c09-96",
+      "source_id": "p312-02"
+    },
+    {
+      "note": "c09-97",
+      "source_id": "p312-02"
+    },
+    {
+      "note": "c09-98",
+      "source_id": "p313-01"
+    },
+    {
+      "note": "c09-99",
+      "source_id": "p313-01"
+    },
+    {
+      "note": "c09-100",
+      "source_id": "p313-01"
+    },
+    {
+      "note": "c09-101",
+      "source_id": "p313-04"
+    },
+    {
+      "note": "c09-102",
+      "source_id": "p314-01"
+    },
+    {
+      "note": "c09-103",
+      "source_id": "p314-03"
+    },
+    {
+      "note": "c09-104",
+      "source_id": "p314-03"
+    },
+    {
+      "note": "c09-105",
+      "source_id": "p314-03"
+    },
+    {
+      "note": "c09-106",
+      "source_id": "p314-03"
+    },
+    {
+      "note": "c09-107",
+      "source_id": "p314-03"
+    },
+    {
+      "note": "c09-108",
+      "source_id": "p314-03"
+    },
+    {
+      "note": "c09-109",
+      "source_id": "p315-03"
+    },
+    {
+      "note": "c09-110",
+      "source_id": "p315-04"
+    },
+    {
+      "note": "c09-111",
+      "source_id": "p315-04"
+    },
+    {
+      "note": "c09-112",
+      "source_id": "p315-04"
+    },
+    {
+      "note": "c09-113",
+      "source_id": "p316-01"
+    },
+    {
+      "note": "c09-114",
+      "source_id": "p316-01"
+    },
+    {
+      "note": "c09-115",
+      "source_id": "p316-02"
+    },
+    {
+      "note": "c09-116",
+      "source_id": "p316-02"
+    },
+    {
+      "note": "c09-117",
+      "source_id": "p317-01"
+    },
+    {
+      "note": "c09-118",
+      "source_id": "p317-01"
+    },
+    {
+      "note": "c09-119",
+      "source_id": "p317-01"
+    },
+    {
+      "note": "c09-120",
+      "source_id": "p317-01"
+    },
+    {
+      "note": "c09-121",
+      "source_id": "p317-02"
+    },
+    {
+      "note": "c09-122",
+      "source_id": "p318-01"
+    },
+    {
+      "note": "c09-123",
+      "source_id": "p318-02"
+    },
+    {
+      "note": "c09-124",
+      "source_id": "p319-01"
+    },
+    {
+      "note": "c09-125",
+      "source_id": "p319-01"
+    },
+    {
+      "note": "c09-126",
+      "source_id": "p319-01"
+    },
+    {
+      "note": "c09-127",
+      "source_id": "p320-01"
+    },
+    {
+      "note": "c09-128",
+      "source_id": "p320-01"
+    },
+    {
+      "note": "c09-129",
+      "source_id": "p320-01"
+    },
+    {
+      "note": "c09-130",
+      "source_id": "p321-02"
+    },
+    {
+      "note": "c09-131",
+      "source_id": "p321-02"
+    },
+    {
+      "note": "c09-132",
+      "source_id": "p321-02"
+    },
+    {
+      "note": "c09-133",
+      "source_id": "p321-02"
+    },
+    {
+      "note": "c09-134",
+      "source_id": "p321-02"
+    },
+    {
+      "note": "c09-135",
+      "source_id": "p321-02"
+    },
+    {
+      "note": "c09-136",
+      "source_id": "p321-03"
+    },
+    {
+      "note": "c09-137",
+      "source_id": "p322-02"
+    },
+    {
+      "note": "c09-138",
+      "source_id": "p322-02"
+    },
+    {
+      "note": "c09-139",
+      "source_id": "p322-02"
+    },
+    {
+      "note": "c09-140",
+      "source_id": "p322-03"
+    },
+    {
+      "note": "c09-141",
+      "source_id": "p322-03"
+    },
+    {
+      "note": "c09-142",
+      "source_id": "p322-03"
+    },
+    {
+      "note": "c09-143",
+      "source_id": "p322-03"
+    },
+    {
+      "note": "c09-144",
+      "source_id": "p322-03"
+    },
+    {
+      "note": "c09-145",
+      "source_id": "p322-03"
+    },
+    {
+      "note": "c09-146",
+      "source_id": "p322-03"
+    },
+    {
+      "note": "c09-147",
+      "source_id": "p323-02"
+    },
+    {
+      "note": "c09-148",
+      "source_id": "p323-02"
+    },
+    {
+      "note": "c09-149",
+      "source_id": "p323-02"
+    },
+    {
+      "note": "c09-150",
+      "source_id": "p323-02"
+    },
+    {
+      "note": "c09-151",
+      "source_id": "p323-02"
+    },
+    {
+      "note": "c09-152",
+      "source_id": "p323-03"
+    },
+    {
+      "note": "c09-153",
+      "source_id": "p323-03"
+    },
+    {
+      "note": "c09-154",
+      "source_id": "p323-03"
+    },
+    {
+      "note": "c09-155",
+      "source_id": "p323-03"
+    },
+    {
+      "note": "c09-156",
+      "source_id": "p323-03"
+    },
+    {
+      "note": "c09-157",
+      "source_id": "p324-01"
+    },
+    {
+      "note": "c09-158",
+      "source_id": "p324-01"
+    },
+    {
+      "note": "c09-159",
+      "source_id": "p324-01"
+    },
+    {
+      "note": "c09-160",
+      "source_id": "p324-02"
+    },
+    {
+      "note": "c09-161",
+      "source_id": "p324-02"
+    },
+    {
+      "note": "c09-162",
+      "source_id": "p324-02"
+    },
+    {
+      "note": "c09-163",
+      "source_id": "p324-02"
+    },
+    {
+      "note": "c09-164",
+      "source_id": "p324-03"
+    },
+    {
+      "note": "c09-165",
+      "source_id": "p325-01"
+    },
+    {
+      "note": "c09-166",
+      "source_id": "p325-01"
+    },
+    {
+      "note": "c09-167",
+      "source_id": "p325-01"
+    },
+    {
+      "note": "c09-168",
+      "source_id": "p325-01"
+    },
+    {
+      "note": "c09-169",
+      "source_id": "p325-01"
+    },
+    {
+      "note": "c09-170",
+      "source_id": "p325-01"
+    },
+    {
+      "note": "c09-171",
+      "source_id": "p325-01"
+    },
+    {
+      "note": "c09-172",
+      "source_id": "p325-02"
+    },
+    {
+      "note": "c09-173",
+      "source_id": "p325-02"
+    },
+    {
+      "note": "c09-174",
+      "source_id": "p326-01"
+    },
+    {
+      "note": "c09-175",
+      "source_id": "p326-01"
+    },
+    {
+      "note": "c09-176",
+      "source_id": "p326-01"
+    },
+    {
+      "note": "c09-177",
+      "source_id": "p327-01"
+    },
+    {
+      "note": "c09-178",
+      "source_id": "p327-01"
+    },
+    {
+      "note": "c09-179",
+      "source_id": "p327-02"
+    },
+    {
+      "note": "c09-180",
+      "source_id": "p328-01"
+    },
+    {
+      "note": "c09-181",
+      "source_id": "p328-02"
+    },
+    {
+      "note": "c09-182",
+      "source_id": "p328-02"
+    },
+    {
+      "note": "c09-183",
+      "source_id": "p328-02"
+    },
+    {
+      "note": "c09-184",
+      "source_id": "p329-02"
+    },
+    {
+      "note": "c09-185",
+      "source_id": "p329-02"
+    },
+    {
+      "note": "c09-186",
+      "source_id": "p329-02"
+    },
+    {
+      "note": "c09-187",
+      "source_id": "p329-03"
+    },
+    {
+      "note": "c09-188",
+      "source_id": "p329-03"
+    },
+    {
+      "note": "c09-189",
+      "source_id": "p329-03"
+    },
+    {
+      "note": "c09-190",
+      "source_id": "p330-02"
+    },
+    {
+      "note": "c09-191",
+      "source_id": "p330-03"
+    },
+    {
+      "note": "c09-192",
+      "source_id": "p331-01"
+    },
+    {
+      "note": "c09-193",
+      "source_id": "p331-03"
+    },
+    {
+      "note": "c09-194",
+      "source_id": "p332-02"
+    },
+    {
+      "note": "c09-195",
+      "source_id": "p332-02"
+    },
+    {
+      "note": "c09-196",
+      "source_id": "p332-02"
+    },
+    {
+      "note": "c09-197",
+      "source_id": "p332-02"
+    },
+    {
+      "note": "c09-198",
+      "source_id": "p332-03"
+    },
+    {
+      "note": "c09-199",
+      "source_id": "p333-01"
+    },
+    {
+      "note": "c09-200",
+      "source_id": "p333-04"
+    },
+    {
+      "note": "c09-201",
+      "source_id": "p334-04"
+    },
+    {
+      "note": "c09-202",
+      "source_id": "p335-01"
+    },
+    {
+      "note": "c09-203",
+      "source_id": "p335-01"
+    },
+    {
+      "note": "c09-204",
+      "source_id": "p335-02"
+    },
+    {
+      "note": "c09-205",
+      "source_id": "p335-02"
+    },
+    {
+      "note": "c09-206",
+      "source_id": "p335-02"
+    },
+    {
+      "note": "c09-207",
+      "source_id": "p335-02"
+    },
+    {
+      "note": "c09-208",
+      "source_id": "p335-03"
+    },
+    {
+      "note": "c09-209",
+      "source_id": "p335-03"
+    },
+    {
+      "note": "c09-210",
+      "source_id": "p335-03"
+    },
+    {
+      "note": "c09-211",
+      "source_id": "p335-03"
+    },
+    {
+      "note": "c09-212",
+      "source_id": "p335-03"
+    },
+    {
+      "note": "c09-213",
+      "source_id": "p335-03"
+    },
+    {
+      "note": "c09-214",
+      "source_id": "p335-03"
+    },
+    {
+      "note": "c09-215",
+      "source_id": "p335-04"
+    },
+    {
+      "note": "c09-216",
+      "source_id": "p335-04"
+    },
+    {
+      "note": "c09-217",
+      "source_id": "p336-01"
+    },
+    {
+      "note": "c09-218",
+      "source_id": "p336-01"
+    },
+    {
+      "note": "c09-219",
+      "source_id": "p336-01"
+    },
+    {
+      "note": "c09-220",
+      "source_id": "p336-01"
+    },
+    {
+      "note": "c09-221",
+      "source_id": "p336-02"
+    },
+    {
+      "note": "c09-222",
+      "source_id": "p336-02"
+    },
+    {
+      "note": "c09-223",
+      "source_id": "p336-02"
+    },
+    {
+      "note": "c09-224",
+      "source_id": "p336-02"
+    },
+    {
+      "note": "c09-225",
+      "source_id": "p336-04"
+    },
+    {
+      "note": "c09-226",
+      "source_id": "p336-04"
+    },
+    {
+      "note": "c09-227",
+      "source_id": "p336-04"
+    },
+    {
+      "note": "c09-228",
+      "source_id": "p336-04"
+    },
+    {
+      "note": "c09-229",
+      "source_id": "p337-02"
+    },
+    {
+      "note": "c09-230",
+      "source_id": "p337-02"
+    },
+    {
+      "note": "c09-231",
+      "source_id": "p337-02"
+    },
+    {
+      "note": "c09-232",
+      "source_id": "p337-03"
+    },
+    {
+      "note": "c09-233",
+      "source_id": "p337-03"
+    },
+    {
+      "note": "c09-234",
+      "source_id": "p338-02"
+    },
+    {
+      "note": "c09-235",
+      "source_id": "p338-03"
+    },
+    {
+      "note": "c09-236",
+      "source_id": "p338-05"
+    },
+    {
+      "note": "c09-237",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-238",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-239",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-240",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-241",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-242",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-243",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-244",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-245",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-246",
+      "source_id": "p338-06"
+    },
+    {
+      "note": "c09-247",
+      "source_id": "p339-01"
+    },
+    {
+      "note": "c09-248",
+      "source_id": "p339-01"
+    },
+    {
+      "note": "c09-249",
+      "source_id": "p339-02"
+    },
+    {
+      "note": "c09-250",
+      "source_id": "p339-02"
+    },
+    {
+      "note": "c09-251",
+      "source_id": "p339-02"
+    },
+    {
+      "note": "c09-252",
+      "source_id": "p339-02"
+    },
+    {
+      "note": "c09-253",
+      "source_id": "p339-03"
+    },
+    {
+      "note": "c09-254",
+      "source_id": "p340-02"
+    },
+    {
+      "note": "c09-255",
+      "source_id": "p340-02"
+    },
+    {
+      "note": "c09-256",
+      "source_id": "p340-02"
+    },
+    {
+      "note": "c09-257",
+      "source_id": "p340-02"
+    },
+    {
+      "note": "c09-258",
+      "source_id": "p341-01"
+    },
+    {
+      "note": "c09-259",
+      "source_id": "p341-01"
+    },
+    {
+      "note": "c09-260",
+      "source_id": "p341-02"
+    },
+    {
+      "note": "c09-261",
+      "source_id": "p342-03"
+    },
+    {
+      "note": "c09-262",
+      "source_id": "p342-03"
+    },
+    {
+      "note": "c09-263",
+      "source_id": "p342-03"
+    },
+    {
+      "note": "c09-264",
+      "source_id": "p342-04"
+    },
+    {
+      "note": "c09-265",
+      "source_id": "p342-04"
+    },
+    {
+      "note": "c09-266",
+      "source_id": "p342-04"
+    },
+    {
+      "note": "c09-267",
+      "source_id": "p342-04"
+    },
+    {
+      "note": "c09-268",
+      "source_id": "p343-02"
+    },
+    {
+      "note": "c09-269",
+      "source_id": "p343-02"
+    },
+    {
+      "note": "c09-270",
+      "source_id": "p343-02"
+    },
+    {
+      "note": "c09-271",
+      "source_id": "p343-02"
+    },
+    {
+      "note": "c09-272",
+      "source_id": "p343-02"
+    },
+    {
+      "note": "c09-273",
+      "source_id": "p343-02"
+    },
+    {
+      "note": "c09-274",
+      "source_id": "p344-01"
+    },
+    {
+      "note": "c09-275",
+      "source_id": "p344-01"
+    },
+    {
+      "note": "c09-276",
+      "source_id": "p344-02"
+    },
+    {
+      "note": "c09-277",
+      "source_id": "p344-02"
+    },
+    {
+      "note": "c09-278",
+      "source_id": "p346-01"
+    },
+    {
+      "note": "c09-279",
+      "source_id": "p346-01"
+    },
+    {
+      "note": "c09-280",
+      "source_id": "p346-01"
+    },
+    {
+      "note": "c09-281",
+      "source_id": "p346-02"
+    },
+    {
+      "note": "c09-282",
+      "source_id": "p346-02"
+    },
+    {
+      "note": "c09-283",
+      "source_id": "p346-02"
+    },
+    {
+      "note": "c09-284",
+      "source_id": "p346-02"
+    }
+  ],
+  "review_scope": {
+    "source": "当前代理按分块阅读并对照翻译至p346-03；第九章尚未译齐",
+    "language": "分块中文检查与定向修订；完整中文通读待完成",
+    "independent_professional_review": false,
+    "pdf_authored": false
+  },
+  "heading_hierarchy_checked": [
+    {
+      "source_id": "p287-02",
+      "source_heading": "ADMINISTRATIVE AGENCIES",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p293-02",
+      "source_heading": "FREE SPEECH",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p303-03",
+      "source_heading": "RACE",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p303-06",
+      "source_heading": "STATE ACTION",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p306-02",
+      "source_heading": "AFFIRMATIVE ACTION",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p319-02",
+      "source_heading": "SCHOOL INTEGRATION",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p326-03",
+      "source_heading": "THE SPECIALNESS OF RACE",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p330-01",
+      "source_heading": "CRIME",
+      "source_font_size": 14.4,
+      "markdown_level": 2
+    },
+    {
+      "source_id": "p334-03",
+      "source_heading": "CRIME RATES",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p336-03",
+      "source_heading": "CRIMINAL LAW PROCEDURE",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    },
+    {
+      "source_id": "p342-02",
+      "source_heading": "PUNISHMENT",
+      "source_font_size": 8.64,
+      "markdown_level": 3
+    }
+  ],
+  "source_page_images_actually_viewed": [
+    307,
+    488
+  ],
+  "source_and_editorial_issues": [
+    {
+      "source_id": "p287-03",
+      "issue": "原书只能弹劾罢免的概括保留，另据1935年判决说明历史上的因事由免职。",
+      "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep295/usrep295602/usrep295602.pdf"
+    },
+    {
+      "notes": [
+        15,
+        16,
+        17
+      ],
+      "issue": "原书659、661、655等页码照录，原注译文数据另给原始判决的物理页核验位置。",
+      "sources": [
+        "https://tile.loc.gov/storage-services/service/ll/usrep/usrep250/usrep250616/usrep250616.pdf",
+        "https://tile.loc.gov/storage-services/service/ll/usrep/usrep249/usrep249047/usrep249047.pdf"
+      ]
+    },
+    {
+      "source_id": "p302-02",
+      "issue": "引文Logan Center照录；原始判决为Lloyd Center，说明另列于原注36译文。",
+      "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep407/usrep407551/usrep407551.pdf"
+    },
+    {
+      "source_id": "p307-02",
+      "issue": "已查看正文307和原注488；63a独立原呼应不清，译校与63并列附行政命令段，原注译文明确说明补置及未恢复范围。"
+    },
+    {
+      "source_id": "p322-03",
+      "issue": "原书1971照录，原注145译校说明所引最高法院判决日期为1974年7月25日。",
+      "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep418/usrep418717/usrep418717.pdf"
+    },
+    {
+      "source_id": "p292-01",
+      "issue": "power darns按power dams明确语境译为发电水坝；原数据不变。"
+    },
+    {
+      "source_id": "p305-02",
+      "issue": "原电子版paramount to参与的句式，结合上下文译为被视为州的参与；未改原提取。"
+    }
+  ],
+  "damaged_note_number_repairs": [
+    "p294-02：斯密书目对应18，原注标误作16。",
+    "p296-03：原注标21按连续注序及书目恢复24。",
+    "p306-01：杰克逊案引文恢复59，原注标误作58。",
+    "p307-02：约翰逊行政命令引文恢复64，原注标误作81。",
+    "p307-03—p308-01：据连续原注及对应引文恢复66—71。",
+    "p311-02：民调对应89，原注标误作69。",
+    "p312-02：前两段同页引文共用90；第二处误作94，未重复编造新注；其后91—97依序对应。",
+    "p314-03：依连续注序及引文恢复108，原注标误作109。",
+    "p324-01：科尔曼报告对应157，原注标误作154。",
+    "p339-02：日本犯罪与环境资料对应251，原注标误作261。",
+    "p339-03：故意违规的警察对应253，原注标误作252。",
+    "p340-02：基本公平254、利用穷人256，按书目与序列恢复。",
+    "p341-02：律师权对应260，损坏为counse1280。",
+    "p346-01：塞林研究对应279，原注标误作249。",
+    "p346-02：致人死亡定义对应283，原注标误作288。"
+  ],
+  "limitation": "只记录已译前缀，不声称第九章或全部原注已完成；部分字形损坏，仅能据注序和语境恢复，未假称所有原数字清晰。"
+}
