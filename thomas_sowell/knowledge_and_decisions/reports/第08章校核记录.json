@@ -1,0 +1,684 @@
+{
+  "date": "2026-11-01",
+  "chapter": 8,
+  "title": "经济领域的趋势",
+  "source_pdf_range": [
+    212,
+    282
+  ],
+  "chinese_file": "chapters/第08章 经济领域的趋势（中文）.md",
+  "chinese_sha256": "0e79bc08468fb48d8aaddac60884955d3fe1e3166bcb2ff1cf465e08d6d86e7a",
+  "chinese_characters": 42045,
+  "source_blocks_read_and_mapped": 243,
+  "original_notes": 145,
+  "translation_scope": "全部正文、标题、引文和145条原注；实质性说明已译，纯书目信息保留原文。",
+  "substantive_notes_translated": [
+    6,
+    7,
+    8,
+    13,
+    32,
+    33,
+    42,
+    77,
+    91,
+    101,
+    129,
+    138
+  ],
+  "review_scope": {
+    "source": "当前代理按分块逐段阅读全部正文及145条原注并对照翻译，核对论证、限定、数字、引文与跨页接续",
+    "language": "分块中文检查；定向修订章首机械标点、句法及两处语义问题；全书统一通读待完成",
+    "independent_professional_review": false,
+    "pdf_authored": false
+  },
+  "note_calls": [
+    {
+      "note": "c08-1",
+      "source_id": "p217-02"
+    },
+    {
+      "note": "c08-2",
+      "source_id": "p217-03"
+    },
+    {
+      "note": "c08-3",
+      "source_id": "p219-03"
+    },
+    {
+      "note": "c08-4",
+      "source_id": "p219-03"
+    },
+    {
+      "note": "c08-5",
+      "source_id": "p219-03"
+    },
+    {
+      "note": "c08-6",
+      "source_id": "p219-03"
+    },
+    {
+      "note": "c08-7",
+      "source_id": "p220-01"
+    },
+    {
+      "note": "c08-8",
+      "source_id": "p220-02"
+    },
+    {
+      "note": "c08-9",
+      "source_id": "p220-02"
+    },
+    {
+      "note": "c08-10",
+      "source_id": "p221-03"
+    },
+    {
+      "note": "c08-11",
+      "source_id": "p222-02"
+    },
+    {
+      "note": "c08-12",
+      "source_id": "p223-01"
+    },
+    {
+      "note": "c08-13",
+      "source_id": "p223-02"
+    },
+    {
+      "note": "c08-14",
+      "source_id": "p223-02"
+    },
+    {
+      "note": "c08-15",
+      "source_id": "p223-03"
+    },
+    {
+      "note": "c08-16",
+      "source_id": "p224-02"
+    },
+    {
+      "note": "c08-17",
+      "source_id": "p227-03"
+    },
+    {
+      "note": "c08-18",
+      "source_id": "p230-01"
+    },
+    {
+      "note": "c08-19",
+      "source_id": "p233-04"
+    },
+    {
+      "note": "c08-20",
+      "source_id": "p235-02"
+    },
+    {
+      "note": "c08-21",
+      "source_id": "p235-03"
+    },
+    {
+      "note": "c08-22",
+      "source_id": "p236-01"
+    },
+    {
+      "note": "c08-23",
+      "source_id": "p236-02"
+    },
+    {
+      "note": "c08-24",
+      "source_id": "p237-02"
+    },
+    {
+      "note": "c08-25",
+      "source_id": "p237-04"
+    },
+    {
+      "note": "c08-26",
+      "source_id": "p237-05"
+    },
+    {
+      "note": "c08-27",
+      "source_id": "p239-01"
+    },
+    {
+      "note": "c08-28",
+      "source_id": "p240-03"
+    },
+    {
+      "note": "c08-29",
+      "source_id": "p240-03"
+    },
+    {
+      "note": "c08-30",
+      "source_id": "p240-03"
+    },
+    {
+      "note": "c08-31",
+      "source_id": "p242-01"
+    },
+    {
+      "note": "c08-32",
+      "source_id": "p245-03"
+    },
+    {
+      "note": "c08-33",
+      "source_id": "p245-03"
+    },
+    {
+      "note": "c08-34",
+      "source_id": "p246-01"
+    },
+    {
+      "note": "c08-35",
+      "source_id": "p246-02"
+    },
+    {
+      "note": "c08-36",
+      "source_id": "p246-03"
+    },
+    {
+      "note": "c08-37",
+      "source_id": "p248-01"
+    },
+    {
+      "note": "c08-38",
+      "source_id": "p248-01"
+    },
+    {
+      "note": "c08-39",
+      "source_id": "p248-01"
+    },
+    {
+      "note": "c08-40",
+      "source_id": "p249-02"
+    },
+    {
+      "note": "c08-41",
+      "source_id": "p249-02"
+    },
+    {
+      "note": "c08-42",
+      "source_id": "p250-01"
+    },
+    {
+      "note": "c08-43",
+      "source_id": "p250-02"
+    },
+    {
+      "note": "c08-44",
+      "source_id": "p251-01"
+    },
+    {
+      "note": "c08-45",
+      "source_id": "p251-02"
+    },
+    {
+      "note": "c08-46",
+      "source_id": "p251-03"
+    },
+    {
+      "note": "c08-47",
+      "source_id": "p251-03"
+    },
+    {
+      "note": "c08-48",
+      "source_id": "p251-03"
+    },
+    {
+      "note": "c08-49",
+      "source_id": "p251-03"
+    },
+    {
+      "note": "c08-50",
+      "source_id": "p252-01"
+    },
+    {
+      "note": "c08-51",
+      "source_id": "p252-01"
+    },
+    {
+      "note": "c08-52",
+      "source_id": "p252-01"
+    },
+    {
+      "note": "c08-53",
+      "source_id": "p252-01"
+    },
+    {
+      "note": "c08-54",
+      "source_id": "p252-01"
+    },
+    {
+      "note": "c08-55",
+      "source_id": "p252-02"
+    },
+    {
+      "note": "c08-56",
+      "source_id": "p252-02"
+    },
+    {
+      "note": "c08-57",
+      "source_id": "p252-02"
+    },
+    {
+      "note": "c08-58",
+      "source_id": "p253-02"
+    },
+    {
+      "note": "c08-59",
+      "source_id": "p256-03"
+    },
+    {
+      "note": "c08-60",
+      "source_id": "p256-03"
+    },
+    {
+      "note": "c08-61",
+      "source_id": "p256-03"
+    },
+    {
+      "note": "c08-62",
+      "source_id": "p256-03"
+    },
+    {
+      "note": "c08-63",
+      "source_id": "p257-01"
+    },
+    {
+      "note": "c08-64",
+      "source_id": "p257-01"
+    },
+    {
+      "note": "c08-65",
+      "source_id": "p257-01"
+    },
+    {
+      "note": "c08-66",
+      "source_id": "p257-02"
+    },
+    {
+      "note": "c08-67",
+      "source_id": "p258-01"
+    },
+    {
+      "note": "c08-68",
+      "source_id": "p258-04"
+    },
+    {
+      "note": "c08-69",
+      "source_id": "p258-04"
+    },
+    {
+      "note": "c08-70",
+      "source_id": "p259-01"
+    },
+    {
+      "note": "c08-71",
+      "source_id": "p260-02"
+    },
+    {
+      "note": "c08-72",
+      "source_id": "p260-03"
+    },
+    {
+      "note": "c08-73",
+      "source_id": "p261-01"
+    },
+    {
+      "note": "c08-74",
+      "source_id": "p261-02"
+    },
+    {
+      "note": "c08-75",
+      "source_id": "p261-02"
+    },
+    {
+      "note": "c08-76",
+      "source_id": "p261-02"
+    },
+    {
+      "note": "c08-77",
+      "source_id": "p262-02"
+    },
+    {
+      "note": "c08-78",
+      "source_id": "p262-02"
+    },
+    {
+      "note": "c08-79",
+      "source_id": "p262-02"
+    },
+    {
+      "note": "c08-80",
+      "source_id": "p262-02"
+    },
+    {
+      "note": "c08-81",
+      "source_id": "p262-03"
+    },
+    {
+      "note": "c08-82",
+      "source_id": "p262-03"
+    },
+    {
+      "note": "c08-83",
+      "source_id": "p262-03"
+    },
+    {
+      "note": "c08-84",
+      "source_id": "p262-03"
+    },
+    {
+      "note": "c08-85",
+      "source_id": "p262-03"
+    },
+    {
+      "note": "c08-86",
+      "source_id": "p263-01"
+    },
+    {
+      "note": "c08-87",
+      "source_id": "p263-02"
+    },
+    {
+      "note": "c08-88",
+      "source_id": "p263-02"
+    },
+    {
+      "note": "c08-89",
+      "source_id": "p263-02"
+    },
+    {
+      "note": "c08-90",
+      "source_id": "p263-02"
+    },
+    {
+      "note": "c08-91",
+      "source_id": "p263-03"
+    },
+    {
+      "note": "c08-92",
+      "source_id": "p264-02"
+    },
+    {
+      "note": "c08-93",
+      "source_id": "p265-02"
+    },
+    {
+      "note": "c08-94",
+      "source_id": "p265-02"
+    },
+    {
+      "note": "c08-95",
+      "source_id": "p265-03"
+    },
+    {
+      "note": "c08-96",
+      "source_id": "p265-04"
+    },
+    {
+      "note": "c08-97",
+      "source_id": "p266-03"
+    },
+    {
+      "note": "c08-98",
+      "source_id": "p266-03"
+    },
+    {
+      "note": "c08-99",
+      "source_id": "p267-05"
+    },
+    {
+      "note": "c08-100",
+      "source_id": "p267-05"
+    },
+    {
+      "note": "c08-101",
+      "source_id": "p267-05"
+    },
+    {
+      "note": "c08-102",
+      "source_id": "p267-05"
+    },
+    {
+      "note": "c08-103",
+      "source_id": "p268-01"
+    },
+    {
+      "note": "c08-104",
+      "source_id": "p269-01"
+    },
+    {
+      "note": "c08-105",
+      "source_id": "p269-01"
+    },
+    {
+      "note": "c08-106",
+      "source_id": "p269-01"
+    },
+    {
+      "note": "c08-107",
+      "source_id": "p269-03"
+    },
+    {
+      "note": "c08-108",
+      "source_id": "p270-01"
+    },
+    {
+      "note": "c08-109",
+      "source_id": "p270-01"
+    },
+    {
+      "note": "c08-110",
+      "source_id": "p270-01"
+    },
+    {
+      "note": "c08-111",
+      "source_id": "p270-01"
+    },
+    {
+      "note": "c08-112",
+      "source_id": "p270-01"
+    },
+    {
+      "note": "c08-113",
+      "source_id": "p270-01"
+    },
+    {
+      "note": "c08-114",
+      "source_id": "p270-01"
+    },
+    {
+      "note": "c08-115",
+      "source_id": "p270-01"
+    },
+    {
+      "note": "c08-116",
+      "source_id": "p272-01"
+    },
+    {
+      "note": "c08-117",
+      "source_id": "p272-03"
+    },
+    {
+      "note": "c08-118",
+      "source_id": "p272-04"
+    },
+    {
+      "note": "c08-119",
+      "source_id": "p273-01"
+    },
+    {
+      "note": "c08-120",
+      "source_id": "p273-02"
+    },
+    {
+      "note": "c08-121",
+      "source_id": "p274-01"
+    },
+    {
+      "note": "c08-122",
+      "source_id": "p274-01"
+    },
+    {
+      "note": "c08-123",
+      "source_id": "p274-01"
+    },
+    {
+      "note": "c08-124",
+      "source_id": "p275-02"
+    },
+    {
+      "note": "c08-125",
+      "source_id": "p275-02"
+    },
+    {
+      "note": "c08-126",
+      "source_id": "p275-02"
+    },
+    {
+      "note": "c08-127",
+      "source_id": "p275-04"
+    },
+    {
+      "note": "c08-128",
+      "source_id": "p275-04"
+    },
+    {
+      "note": "c08-129",
+      "source_id": "p276-01"
+    },
+    {
+      "note": "c08-130",
+      "source_id": "p276-02"
+    },
+    {
+      "note": "c08-131",
+      "source_id": "p276-02"
+    },
+    {
+      "note": "c08-132",
+      "source_id": "p276-03"
+    },
+    {
+      "note": "c08-133",
+      "source_id": "p276-03"
+    },
+    {
+      "note": "c08-134",
+      "source_id": "p277-01"
+    },
+    {
+      "note": "c08-135",
+      "source_id": "p277-02"
+    },
+    {
+      "note": "c08-136",
+      "source_id": "p278-01"
+    },
+    {
+      "note": "c08-137",
+      "source_id": "p278-01"
+    },
+    {
+      "note": "c08-138",
+      "source_id": "p278-01"
+    },
+    {
+      "note": "c08-139",
+      "source_id": "p279-02"
+    },
+    {
+      "note": "c08-140",
+      "source_id": "p280-02"
+    },
+    {
+      "note": "c08-141",
+      "source_id": "p280-03"
+    },
+    {
+      "note": "c08-142",
+      "source_id": "p281-02"
+    },
+    {
+      "note": "c08-143",
+      "source_id": "p281-02"
+    },
+    {
+      "note": "c08-144",
+      "source_id": "p281-02"
+    },
+    {
+      "note": "c08-145",
+      "source_id": "p282-02"
+    }
+  ],
+  "note_reconstruction_limitation": "部分注号为可读数字，许多损坏成引号、撇号等；结合注序与书目语境恢复，不声称所有数字均可见。",
+  "source_repairs": [
+    {
+      "source_id": "p230-01",
+      "raw": "16",
+      "treatment": "按连续注序及1979年纽约汽油危机报道恢复为18。"
+    },
+    {
+      "source_id": "p233-04",
+      "treatment": "末尾注号损坏，按连续注序、成组引文与Hilton交通规划书目恢复第19注。"
+    },
+    {
+      "source_id": "p248-01",
+      "treatment": "引文末尾第39注已损坏，按37—39连续书目及航空报价语境恢复。"
+    },
+    {
+      "source_id": "p270-01",
+      "raw": [
+        "109",
+        "16"
+      ],
+      "treatment": "优先次序处恢复108；客观分析处恢复115。按107—115连续引文及对应书目核对。"
+    },
+    {
+      "source_id": "p273-03",
+      "raw": "reed to preserve",
+      "treatment": "按need to preserve明确语境译出；原数据不改。"
+    },
+    {
+      "original_note": 8,
+      "treatment": "原电子版注首仅余逗号，未补造缺词；其后可见说明完整译出。"
+    },
+    {
+      "original_note": 132,
+      "treatment": "现有电子版页码作M，无法确认为数字，按原样保留并注明。"
+    }
+  ],
+  "editorial_notes": [
+    {
+      "source_id": "p217-02",
+      "note": 1,
+      "issue": "区分Utah Pie案中谢尔曼法合谋指控与价格歧视责任。",
+      "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep386/usrep386685/usrep386685.pdf",
+      "scope": "已读判决原始PDF文本，正文仍保留原书概括，译校说明另列。"
+    },
+    {
+      "source_id": "p222-02",
+      "issue": "employment与失业语境冲突。",
+      "scope": "已实际查看原PDF第222页，原电子版确作employment；正文照录，不擅改数据，仅提示疑为unemployment。"
+    },
+    {
+      "note": 62,
+      "issue": "原书判决年份1965与同书第76注1966冲突。",
+      "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep384/usrep384270/usrep384270.pdf",
+      "scope": "原始判决记1966年5月31日；原书年份照录并另注明。"
+    },
+    {
+      "note": 69,
+      "issue": "核查603n—604n页码及意见归属。",
+      "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep386/usrep386568/usrep386568.pdf",
+      "scope": "页码有效，对应哈伦大法官协同意见末尾脚注；已核对原始判决PDF文本，不误认超出案件范围。"
+    }
+  ],
+  "visual_source_pages_actually_viewed": [
+    222
+  ],
+  "heading_hierarchy": "依据原页行数据恢复：四个主节14.4磅，九个分节8.64磅；非仅按译文逻辑猜测。"
+}

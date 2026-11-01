@@ -150,11 +150,15 @@
       "printed_start_from_contents": 167,
       "english_file": "chapters/第08章 经济领域的趋势（英文）.md",
       "chinese_file": "chapters/第08章 经济领域的趋势（中文）.md",
-      "status": "in_progress",
-      "last_completed_source_id": "p217-03",
-      "source_blocks_checked": 23,
-      "chinese_sha256": "b9a1edbe67bcb9dd11094723106b89a21057d6cedfa539855d993566fb8fd637",
-      "chinese_characters": 2732
+      "status": "translated",
+      "last_completed_source_id": "p282-02",
+      "source_blocks_checked": 243,
+      "chinese_sha256": "0e79bc08468fb48d8aaddac60884955d3fe1e3166bcb2ff1cf465e08d6d86e7a",
+      "chinese_characters": 42045,
+      "translated_note_count": 145,
+      "source_review": "当前代理按分块逐段阅读全部正文及145条原注并对照翻译，核对论证、限定、数字、引文与跨页接续",
+      "language_review": "分块中文检查；定向修订章首机械标点、句法及两处语义问题；全书统一通读待完成",
+      "independent_professional_review": false
     },
     {
       "chapter": 9,
@@ -262,9 +266,9 @@
       "status": "pending"
     }
   ],
-  "last_completed_pdf_page": 217,
-  "next_step": "继续第8章，从p218-01开始。",
+  "last_completed_pdf_page": 282,
+  "next_step": "继续第9章，从原PDF物理第283页开始；结合原页补回第54注的解析缺口。",
   "current_pdf": null,
   "full_book_complete": false,
-  "completed_chapters": 7
+  "completed_chapters": 8
 }
