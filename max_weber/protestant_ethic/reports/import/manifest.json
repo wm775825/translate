@@ -1,0 +1,705 @@
+{
+  "date": "2026-11-01",
+  "source_repository": "https://github.com/wm775825/translate",
+  "requested_ssh_url": "git@github.com:wm775825/translate.git",
+  "source_branch": "master",
+  "source_commit": "139c43560e1920e4e0754bd95912c3376736bfef",
+  "project_head_before": "1641b0ee044c0820a457df98032548da068904f5",
+  "destination": "max_weber/protestant_ethic",
+  "source_files": 59,
+  "source_files_copied_and_sha256_verified": true,
+  "original_clone_backup": "E:/codes/translations-import-20261101/translate-original",
+  "historical_versions_preserved": true,
+  "retranslated": false,
+  "pdf_regenerated": false,
+  "current_editing_source": "新教伦理与资本主义精神_中文终校稿.md",
+  "repository_attributes": "Project root .gitattributes retained; remote attributes preserved as reports/import/source-gitattributes.txt.",
+  "files": [
+    {
+      "remote_path": ".gitattributes",
+      "path": "max_weber/protestant_ethic/reports/import/source-gitattributes.txt",
+      "bytes": 60,
+      "sha256": "302266a0b9a482b15b10e052bdde95531ddd827a64b2b674243cebdc91299720",
+      "git_blob": "a2237bc625f6f93131ba03342a81d6f2de3772e6",
+      "imported_sha256": "302266a0b9a482b15b10e052bdde95531ddd827a64b2b674243cebdc91299720",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_001_006.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_001_006.md",
+      "bytes": 18564,
+      "sha256": "10f82a51c42613f6fa7dba00ade4e3c2a04a6ec2413c6dd26b8ad2a0082f61ab",
+      "git_blob": "33384e0d4d4e161d1cfebe91120ef7fe3c4b65e5",
+      "imported_sha256": "10f82a51c42613f6fa7dba00ade4e3c2a04a6ec2413c6dd26b8ad2a0082f61ab",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_007_012.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_007_012.md",
+      "bytes": 18937,
+      "sha256": "e9822540e148024c2402622b5437c341e8ebdd15267ffb3266607f6bf63f2207",
+      "git_blob": "8d0d897ac609e5974bdae47c7acdf39853e0d389",
+      "imported_sha256": "e9822540e148024c2402622b5437c341e8ebdd15267ffb3266607f6bf63f2207",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_013_018.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_013_018.md",
+      "bytes": 21745,
+      "sha256": "c8637d7405126155e857c39d2ba4acba2b0e5d39cc260668fe6aec7da8f8b5d8",
+      "git_blob": "98b1856e3cd0b55d6d63d4f71461d15af4f0fcc5",
+      "imported_sha256": "c8637d7405126155e857c39d2ba4acba2b0e5d39cc260668fe6aec7da8f8b5d8",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_019_024.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_019_024.md",
+      "bytes": 17909,
+      "sha256": "7a0e4b93a3731a78274d87f8ab1108ca7260cd5a870ae24eed96f4e8a14cd38c",
+      "git_blob": "44b3c1a6db38cc10b2f5fdde7e59071a88d2c60f",
+      "imported_sha256": "7a0e4b93a3731a78274d87f8ab1108ca7260cd5a870ae24eed96f4e8a14cd38c",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_025_030.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_025_030.md",
+      "bytes": 19987,
+      "sha256": "4cb51b39defcce3a24b798308169dc94f3ad89728f1ba05096a0c32279e6cf96",
+      "git_blob": "c239fb1db1aaa199306cbb9e4efa334efd532221",
+      "imported_sha256": "4cb51b39defcce3a24b798308169dc94f3ad89728f1ba05096a0c32279e6cf96",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_031_036.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_031_036.md",
+      "bytes": 24488,
+      "sha256": "c7b5f85730d49eb00a47760bcb9044a16a446f69872cc05588f9c5a70743c36f",
+      "git_blob": "b8e11a2cce7cd5e04e45a4d58bfd0ccce1e48f6b",
+      "imported_sha256": "c7b5f85730d49eb00a47760bcb9044a16a446f69872cc05588f9c5a70743c36f",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_037_042.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_037_042.md",
+      "bytes": 21098,
+      "sha256": "d98b15e76f5cac88455d68bc314487151490ff447b3cd5fdf245fb0a3ad18227",
+      "git_blob": "38239024470af9531822bbe0cef4c6ee9c02ba33",
+      "imported_sha256": "d98b15e76f5cac88455d68bc314487151490ff447b3cd5fdf245fb0a3ad18227",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_043_048.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_043_048.md",
+      "bytes": 19233,
+      "sha256": "7919989ed7efbedc16b83edd0c8d64d5d97555affb24bdb2124d17768ac06ed4",
+      "git_blob": "a26c7df80a482249e75235bb78d5afc4401f8121",
+      "imported_sha256": "7919989ed7efbedc16b83edd0c8d64d5d97555affb24bdb2124d17768ac06ed4",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_049_054.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_049_054.md",
+      "bytes": 21619,
+      "sha256": "81df818f7fac8f6f8545644cc54a52bd4951b80f9b45dc85f8199ea31a778231",
+      "git_blob": "f2085e1b8906fe76bd214a9e326dce78d9fc6a05",
+      "imported_sha256": "81df818f7fac8f6f8545644cc54a52bd4951b80f9b45dc85f8199ea31a778231",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_055_060.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_055_060.md",
+      "bytes": 22268,
+      "sha256": "e509aa573f2c3331854001ef81b16ee39f1ddc224ee7d8d279fedec4b6ddcde1",
+      "git_blob": "1332ab4901af6d457408a76d1479e35732fe2e72",
+      "imported_sha256": "e509aa573f2c3331854001ef81b16ee39f1ddc224ee7d8d279fedec4b6ddcde1",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_061_066.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_061_066.md",
+      "bytes": 21957,
+      "sha256": "35edcf8fd6b1337f8f10479f12ea931df65a6af258341d50f645e672bca9a1b9",
+      "git_blob": "04a3b6d9685c03b868c2caed636d82491e81f16d",
+      "imported_sha256": "35edcf8fd6b1337f8f10479f12ea931df65a6af258341d50f645e672bca9a1b9",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_067_072.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_067_072.md",
+      "bytes": 21965,
+      "sha256": "ad7c7520cdbb2d387ff2c110d3d9166d78fd414e7d409c0d33fc9d68183a1fb1",
+      "git_blob": "6d0b50e65088a8fc063d6e22c18b8c754af14f95",
+      "imported_sha256": "ad7c7520cdbb2d387ff2c110d3d9166d78fd414e7d409c0d33fc9d68183a1fb1",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_073_078.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_073_078.md",
+      "bytes": 21846,
+      "sha256": "2533cdbb6aebe70f2230777e2d7ac61a44cd6a1f0b2159ab5ce51c5d7631ac7b",
+      "git_blob": "29188b641d69afed98628fdbb90082d5466ffffd",
+      "imported_sha256": "2533cdbb6aebe70f2230777e2d7ac61a44cd6a1f0b2159ab5ce51c5d7631ac7b",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_079_084.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_079_084.md",
+      "bytes": 20712,
+      "sha256": "4dfd448870b7c0afa2a79d23ff8602027f974aea37fba7ac14257df997a160fd",
+      "git_blob": "f4fc49649955df69a69aae6b54920b5c389a5b1c",
+      "imported_sha256": "4dfd448870b7c0afa2a79d23ff8602027f974aea37fba7ac14257df997a160fd",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_085_090.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_085_090.md",
+      "bytes": 22174,
+      "sha256": "27aeb88448497cd574a36e3ece42f3c2fc967de1c34f322203483114037fbc3e",
+      "git_blob": "ccbe5565028b1303115e396b7136332db2490fab",
+      "imported_sha256": "27aeb88448497cd574a36e3ece42f3c2fc967de1c34f322203483114037fbc3e",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks/revision_091_096.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks/revision_091_096.md",
+      "bytes": 14102,
+      "sha256": "9a234802c007e1601599b410376e26c3fa3e130e294d6023e67ce8a72a6dd9f8",
+      "git_blob": "7a009291d9b32c95ec8370501115e5616fc7239c",
+      "imported_sha256": "9a234802c007e1601599b410376e26c3fa3e130e294d6023e67ce8a72a6dd9f8",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_001_006.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_001_006.md",
+      "bytes": 18599,
+      "sha256": "e0c670a0b5e158863395bd7bf13d1c39d6840946dc2976b45178cc7493ac9d7f",
+      "git_blob": "5c97a785c47fb5a2dd7c9bfd7a753f33b51c22ba",
+      "imported_sha256": "e0c670a0b5e158863395bd7bf13d1c39d6840946dc2976b45178cc7493ac9d7f",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_007_012.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_007_012.md",
+      "bytes": 18911,
+      "sha256": "d55a8469a5bb927f74487dab0e190089a60a46b442ceedb80e9b78462d59c011",
+      "git_blob": "a61770382d2f4938c4f7b4504119ae08b6b46d43",
+      "imported_sha256": "d55a8469a5bb927f74487dab0e190089a60a46b442ceedb80e9b78462d59c011",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_013_018.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_013_018.md",
+      "bytes": 21782,
+      "sha256": "ac96c39ef4d61c9fa154dd8c0fdbfe97b7e24fd7de19330ccc8d8a24f327f6f9",
+      "git_blob": "77a6128f66802c31e59d38dd8a94d17580e19274",
+      "imported_sha256": "ac96c39ef4d61c9fa154dd8c0fdbfe97b7e24fd7de19330ccc8d8a24f327f6f9",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_019_024.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_019_024.md",
+      "bytes": 17873,
+      "sha256": "7983430b1941a527c20f0460621e9eef396ebf79d06d3f1eb4a820fbf4463d75",
+      "git_blob": "aaf0b3113b130997eadca85247bc649ce960523f",
+      "imported_sha256": "7983430b1941a527c20f0460621e9eef396ebf79d06d3f1eb4a820fbf4463d75",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_025_030.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_025_030.md",
+      "bytes": 20035,
+      "sha256": "4d24092367f9fe4f224353596c6039eca0cbeee575b1678283cc3fa7abb4a4e7",
+      "git_blob": "9bc725a1b40bbf06dff0e617dcbce74d2ad172cd",
+      "imported_sha256": "4d24092367f9fe4f224353596c6039eca0cbeee575b1678283cc3fa7abb4a4e7",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_031_036.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_031_036.md",
+      "bytes": 24637,
+      "sha256": "f7f738658ebe967e133e20214fc84d97f7f5a92743ad28d3ada15bd3aa5de09f",
+      "git_blob": "d6c545acc91e8078e0fd22a6a8e51e3ab6ba6f59",
+      "imported_sha256": "f7f738658ebe967e133e20214fc84d97f7f5a92743ad28d3ada15bd3aa5de09f",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_037_042.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_037_042.md",
+      "bytes": 21096,
+      "sha256": "67b5b8a9766ddbcbd328edc6b5cb11a7bd3d8a94d21ac5ef733bb5d9d56dd324",
+      "git_blob": "8d4d4a775e717c3efbb01a357f47d5f3c388fad7",
+      "imported_sha256": "67b5b8a9766ddbcbd328edc6b5cb11a7bd3d8a94d21ac5ef733bb5d9d56dd324",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_043_048.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_043_048.md",
+      "bytes": 19299,
+      "sha256": "fe4f83e365c204dd7e15aa4d4aeaed66b8880464da4989da2cedf74141e77850",
+      "git_blob": "96e2ef93b2184d53c13c03b50794e0f82f19d32c",
+      "imported_sha256": "fe4f83e365c204dd7e15aa4d4aeaed66b8880464da4989da2cedf74141e77850",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_049_054.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_049_054.md",
+      "bytes": 21712,
+      "sha256": "8b3348a5d7bbbc81e5460422f4f097ec37dcb49be7ed4506e820b13aa824bdbb",
+      "git_blob": "e2737e5e3c8bdfd81e1715eef74efe03b69c0848",
+      "imported_sha256": "8b3348a5d7bbbc81e5460422f4f097ec37dcb49be7ed4506e820b13aa824bdbb",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_055_060.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_055_060.md",
+      "bytes": 22287,
+      "sha256": "05b0bb5f8f0fb4e3869e21c2447691c5ef5e58595e1cc48e2c9d3a443d13677b",
+      "git_blob": "78e024de651fddec1eab6ed42d67d64b653a970a",
+      "imported_sha256": "05b0bb5f8f0fb4e3869e21c2447691c5ef5e58595e1cc48e2c9d3a443d13677b",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_061_066.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_061_066.md",
+      "bytes": 21941,
+      "sha256": "be97793ed7980d52f39ef8b6022b23856d34ae6d6f9996b057e28a424eea5f68",
+      "git_blob": "35c39d8cedb58a0517895568bf3f31037e22199a",
+      "imported_sha256": "be97793ed7980d52f39ef8b6022b23856d34ae6d6f9996b057e28a424eea5f68",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_067_072.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_067_072.md",
+      "bytes": 21970,
+      "sha256": "68763a6e2f5642859df017bb1c92b61000123516ccd09db6f2379d41a5f8d5d9",
+      "git_blob": "49e701799cd16a64dba7523597ac792ba24f145d",
+      "imported_sha256": "68763a6e2f5642859df017bb1c92b61000123516ccd09db6f2379d41a5f8d5d9",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_073_078.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_073_078.md",
+      "bytes": 21921,
+      "sha256": "46ce1fa486f524eb4b4b8fd707916cd37a58521ea4a6b99f4ed9279d5d48f4c4",
+      "git_blob": "c83942c3a1c85ffa7e703f6166100194603d6f88",
+      "imported_sha256": "46ce1fa486f524eb4b4b8fd707916cd37a58521ea4a6b99f4ed9279d5d48f4c4",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_079_084.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_079_084.md",
+      "bytes": 20731,
+      "sha256": "f84dc85a71cefc55f5194044573478887e8cdeafcd189546b0610d56895b0359",
+      "git_blob": "2969729013bc7db7ea673f78c6b4eb2610f13dca",
+      "imported_sha256": "f84dc85a71cefc55f5194044573478887e8cdeafcd189546b0610d56895b0359",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_085_090.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_085_090.md",
+      "bytes": 22331,
+      "sha256": "4b839040dfd3f2324dbdbb053e0135da1cab11224752fcdf55d16683cf6961e2",
+      "git_blob": "9ea3c85615a2c9121842bc241d810e7132d55852",
+      "imported_sha256": "4b839040dfd3f2324dbdbb053e0135da1cab11224752fcdf55d16683cf6961e2",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_chunks_v2/revision_091_096.md",
+      "path": "max_weber/protestant_ethic/data/revision_chunks_v2/revision_091_096.md",
+      "bytes": 14199,
+      "sha256": "d841995693484a8521b24fbe466490bc3ceadab28317406a5c68b8cb3a687661",
+      "git_blob": "f064fca13fe3e64ae00fbbafe7d331d264291e5b",
+      "imported_sha256": "d841995693484a8521b24fbe466490bc3ceadab28317406a5c68b8cb3a687661",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/generate_issue_list.py",
+      "path": "max_weber/protestant_ethic/scripts/generate_issue_list.py",
+      "bytes": 6603,
+      "sha256": "c6bbca86040fffb9942b3cddd2e155cdfab93b254ec37f559eba8082e3257464",
+      "git_blob": "c17346619931d9f4af455c73acc8a579f863d91a",
+      "imported_sha256": "0e432ffdb4da2f052acc5313ca049c34b4018469656cbb0fbd3c2c7949ffbcd1",
+      "adapted": true,
+      "adaptation": "Updated data input paths, routed derived output to tmp and created output parent directory; translation and review algorithms retained."
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/generate_issue_list_v2.py",
+      "path": "max_weber/protestant_ethic/scripts/generate_issue_list_v2.py",
+      "bytes": 6585,
+      "sha256": "0ac32f7a8d3756fe3ea6bddf6f2fa6c8ca9bcc8e233eece5bcb82c32746e9e5d",
+      "git_blob": "7c5bd853a48d9209d8c4f01a92a24c7adcfbb7c8",
+      "imported_sha256": "890d9440b54445bec371cf56f30356b8ee2351a161c873b13c08bce1e8f66138",
+      "adapted": true,
+      "adaptation": "Updated data input paths, routed derived output to tmp and created output parent directory; translation and review algorithms retained."
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/merge_revision.py",
+      "path": "max_weber/protestant_ethic/scripts/merge_revision.py",
+      "bytes": 2647,
+      "sha256": "2d5dcd9956d986035285cd8f4fbd22754a0ba84de05febdb6c80581030c19063",
+      "git_blob": "cbb9abae8538814a8d977372d17351cc297f6193",
+      "imported_sha256": "6ad0046f0ae8a80b5dda3aa724f5700214ed417746b78d46b7f41ce60e7d8dca",
+      "adapted": true,
+      "adaptation": "Updated data input paths, routed derived output to tmp and created output parent directory; translation and review algorithms retained."
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/merge_revision_v2.py",
+      "path": "max_weber/protestant_ethic/scripts/merge_revision_v2.py",
+      "bytes": 2629,
+      "sha256": "8896519abb5c275f1e9abd3494ded7e955a4e08dbe9c3a2580d209cd0e7143d1",
+      "git_blob": "6d8e2198ac0b72acfd7392be78894ad2ffcecd59",
+      "imported_sha256": "25ebd394a02edbdc94fcfcb5a246d5e2c94c19cb64e1732e13c03bd2493734a3",
+      "adapted": true,
+      "adaptation": "Updated data input paths, routed derived output to tmp and created output parent directory; translation and review algorithms retained."
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/page_29.txt",
+      "path": "max_weber/protestant_ethic/data/source_pages/page_29.txt",
+      "bytes": 3282,
+      "sha256": "dad9398323fc10c4058d6d0ca6a3cc489ac5adc837791641cf9a696aa139fef6",
+      "git_blob": "8737781cf17af500673ac3ebb051f32da372f436",
+      "imported_sha256": "dad9398323fc10c4058d6d0ca6a3cc489ac5adc837791641cf9a696aa139fef6",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/page_35.txt",
+      "path": "max_weber/protestant_ethic/data/source_pages/page_35.txt",
+      "bytes": 5321,
+      "sha256": "5ec4f206078d2c7d7d23e450c2d3af4367691de8d21e0131a9d95438d3b1af57",
+      "git_blob": "2c8cc72c8430cb5706b4814e8c73a81710330e35",
+      "imported_sha256": "5ec4f206078d2c7d7d23e450c2d3af4367691de8d21e0131a9d95438d3b1af57",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/page_37.txt",
+      "path": "max_weber/protestant_ethic/data/source_pages/page_37.txt",
+      "bytes": 4004,
+      "sha256": "fc1192a5a338389a2e5dcab2f0e38b8b7647a5a13a1379b59bf868954cd919d7",
+      "git_blob": "ba11f50159c33eacff65bb28bde880de691ae887",
+      "imported_sha256": "fc1192a5a338389a2e5dcab2f0e38b8b7647a5a13a1379b59bf868954cd919d7",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/page_40.txt",
+      "path": "max_weber/protestant_ethic/data/source_pages/page_40.txt",
+      "bytes": 1079,
+      "sha256": "72860adeeac6525deda71f8a558f598d8a82dd78ae48151409689e1d66342de0",
+      "git_blob": "e5357e0f547d291b23f835e7f5d20929518489a7",
+      "imported_sha256": "72860adeeac6525deda71f8a558f598d8a82dd78ae48151409689e1d66342de0",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/page_78.txt",
+      "path": "max_weber/protestant_ethic/data/source_pages/page_78.txt",
+      "bytes": 3511,
+      "sha256": "721ffb8ab99efa5dc26525ac132b37fbc0d363796ef04668e550ea1e06207247",
+      "git_blob": "b097fef45e496bca17b85a5a08d69bd61a7c32bb",
+      "imported_sha256": "721ffb8ab99efa5dc26525ac132b37fbc0d363796ef04668e550ea1e06207247",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/page_86.txt",
+      "path": "max_weber/protestant_ethic/data/source_pages/page_86.txt",
+      "bytes": 3616,
+      "sha256": "86574b0518265e30237a422bc7b0d7bdfb3f904b65aa161cf301d9299d45eb02",
+      "git_blob": "001385a403f8f965c034138aa4d4334ab930fc71",
+      "imported_sha256": "86574b0518265e30237a422bc7b0d7bdfb3f904b65aa161cf301d9299d45eb02",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/page_88.txt",
+      "path": "max_weber/protestant_ethic/data/source_pages/page_88.txt",
+      "bytes": 3558,
+      "sha256": "7216ef527972fb56346e2b5cb79db879e3b16e110b54e93b581b105131699174",
+      "git_blob": "7ec9f58abcd652e17999d4116b9ac389d1834a48",
+      "imported_sha256": "7216ef527972fb56346e2b5cb79db879e3b16e110b54e93b581b105131699174",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/revision_work/二校润色规则.md",
+      "path": "max_weber/protestant_ethic/二校润色规则.md",
+      "bytes": 2032,
+      "sha256": "e207350d5442dfdc0996acb7e74609e8bf4b62b14ab9aa0d433c50143e82579a",
+      "git_blob": "0f8e22950d09ad6fd72e3b9d65b3ab5f9786d667",
+      "imported_sha256": "e207350d5442dfdc0996acb7e74609e8bf4b62b14ab9aa0d433c50143e82579a",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/translated_chunks/chunk_01_seite_001_024.md",
+      "path": "max_weber/protestant_ethic/data/translated_chunks/chunk_01_seite_001_024.md",
+      "bytes": 75833,
+      "sha256": "da22f8e6643a97dffa530f4885eb76ac03d21af4d545cf729acfdff76640997a",
+      "git_blob": "a94a67f7643b91b444d6d47812bf8d6b113e37e2",
+      "imported_sha256": "da22f8e6643a97dffa530f4885eb76ac03d21af4d545cf729acfdff76640997a",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/translated_chunks/chunk_02_seite_025_048.md",
+      "path": "max_weber/protestant_ethic/data/translated_chunks/chunk_02_seite_025_048.md",
+      "bytes": 83134,
+      "sha256": "adb071bb5947d842f5deecbc638b5a8c7f07f1076da77744b858a344533879de",
+      "git_blob": "c4ba492b5965c0ecf6330c0139906d7e5eb5eedf",
+      "imported_sha256": "adb071bb5947d842f5deecbc638b5a8c7f07f1076da77744b858a344533879de",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/translated_chunks/chunk_03_seite_049_072.md",
+      "path": "max_weber/protestant_ethic/data/translated_chunks/chunk_03_seite_049_072.md",
+      "bytes": 86171,
+      "sha256": "5e1c4b54d1e9ece2b1a4ea2d372ad83dfa95cc88fb92934efd4b29da69685b2c",
+      "git_blob": "be9985f80d46ec89477eef01f0aa27b9bd0ccb47",
+      "imported_sha256": "5e1c4b54d1e9ece2b1a4ea2d372ad83dfa95cc88fb92934efd4b29da69685b2c",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/translated_chunks/chunk_04_seite_073_096.md",
+      "path": "max_weber/protestant_ethic/data/translated_chunks/chunk_04_seite_073_096.md",
+      "bytes": 82753,
+      "sha256": "ca3ebc490a86af501cdd70a4415d765b08661a8f3e6bf65469021176b014feb1",
+      "git_blob": "a7046655f000c4c000abecafc9847a4af5e93950",
+      "imported_sha256": "ca3ebc490a86af501cdd70a4415d765b08661a8f3e6bf65469021176b014feb1",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/translation_work/merge_translation.py",
+      "path": "max_weber/protestant_ethic/scripts/merge_translation.py",
+      "bytes": 2613,
+      "sha256": "8d53ff655a679950efc35fa69d9856f2f68eeb5ad19b1eaf929b0a91a79ac965",
+      "git_blob": "81eacf9f1af052fc7c84e9290fca786f13d908d0",
+      "imported_sha256": "f8843fa38c6d92f8b12602ae337525115614b119cf8a4e732858cbb7d42d188e",
+      "adapted": true,
+      "adaptation": "Updated data input paths, routed derived output to tmp and created output parent directory; translation and review algorithms retained."
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/二校第二轮问题清单.md",
+      "path": "max_weber/protestant_ethic/reports/二校第二轮问题清单.md",
+      "bytes": 809,
+      "sha256": "af8cc9227751a43fb52c6742fcf8ff4c482005b4a2101e16d23e538d96f5e03a",
+      "git_blob": "8fa1fcc4de8efdb85d15cc1a5c883390842cc206",
+      "imported_sha256": "af8cc9227751a43fb52c6742fcf8ff4c482005b4a2101e16d23e538d96f5e03a",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/二校问题清单.md",
+      "path": "max_weber/protestant_ethic/reports/二校问题清单.md",
+      "bytes": 836,
+      "sha256": "82eec3b28c05f79b066b7d2dd34b5622abdff619920935bd4e8f8f154e30e8af",
+      "git_blob": "14c83cd8e617b4faae8b2bf6a5bf7a9a65a58300",
+      "imported_sha256": "82eec3b28c05f79b066b7d2dd34b5622abdff619920935bd4e8f8f154e30e8af",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/新教伦理与资本主义精神.pdf",
+      "path": "max_weber/protestant_ethic/新教伦理与资本主义精神.pdf",
+      "bytes": 533915,
+      "sha256": "46ada72fe85b3f8a0703ab1d864b740486a2e78ab1206d6f6a2427ec0ae63b2f",
+      "git_blob": "587efa7a1d8c893c679f1fabb0a6734b4a3eeba6",
+      "imported_sha256": "46ada72fe85b3f8a0703ab1d864b740486a2e78ab1206d6f6a2427ec0ae63b2f",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/新教伦理与资本主义精神_中文二校稿_v1.md",
+      "path": "max_weber/protestant_ethic/data/history/新教伦理与资本主义精神_中文二校稿_v1.md",
+      "bytes": 328764,
+      "sha256": "0150214dc016feb7d2a5079c28a1a437a8ed81a1b4a1e933aaee34d0f15c7b17",
+      "git_blob": "10157c7e2bbd76c1caf5d1c45aeb9c33a43f7fa7",
+      "imported_sha256": "0150214dc016feb7d2a5079c28a1a437a8ed81a1b4a1e933aaee34d0f15c7b17",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/新教伦理与资本主义精神_中文二校稿_v2.md",
+      "path": "max_weber/protestant_ethic/data/history/新教伦理与资本主义精神_中文二校稿_v2.md",
+      "bytes": 329463,
+      "sha256": "b4962155e31e49e26286c3e6ef22f4065506d859b4f24d6805c07b0d18092fcf",
+      "git_blob": "b4d25cabde88bc41d027cf9334e31bd13d585320",
+      "imported_sha256": "b4962155e31e49e26286c3e6ef22f4065506d859b4f24d6805c07b0d18092fcf",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/新教伦理与资本主义精神_中文终校稿.md",
+      "path": "max_weber/protestant_ethic/新教伦理与资本主义精神_中文终校稿.md",
+      "bytes": 328749,
+      "sha256": "15033c96a1765973897f2ee7a313970afd13e2a7662ff420b1469c732850a1e4",
+      "git_blob": "a6fd28034831ee5082854c15ae7dc785674c60fd",
+      "imported_sha256": "15033c96a1765973897f2ee7a313970afd13e2a7662ff420b1469c732850a1e4",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/新教伦理与资本主义精神_中文译稿.md",
+      "path": "max_weber/protestant_ethic/data/history/新教伦理与资本主义精神_中文译稿.md",
+      "bytes": 328101,
+      "sha256": "49e3cc9716bffdc5c2a65bed83c55d484d67ef5a2d1cb633a46667d9d48ec636",
+      "git_blob": "e6ef2c43239ac277a8741347a2bf38ae327489de",
+      "imported_sha256": "49e3cc9716bffdc5c2a65bed83c55d484d67ef5a2d1cb633a46667d9d48ec636",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/新教伦理与资本主义精神_德文原文.md",
+      "path": "max_weber/protestant_ethic/新教伦理与资本主义精神_德文原文.md",
+      "bytes": 410024,
+      "sha256": "908526ecdff766d39b0ba1ccc7830e21f25dbc63159f1c94427c08e6ed4ecd80",
+      "git_blob": "96ce90bc04ebfa272c5759648dfb3c82ad5efbdb",
+      "imported_sha256": "908526ecdff766d39b0ba1ccc7830e21f25dbc63159f1c94427c08e6ed4ecd80",
+      "adapted": false
+    },
+    {
+      "remote_path": "maxweber/新教伦理与资本主义精神/翻译术语表.md",
+      "path": "max_weber/protestant_ethic/翻译术语表.md",
+      "bytes": 2142,
+      "sha256": "4b1b1eb4e9c8cc9c665f4f9af718d81cce24860441af7e4161ba941f4d05e3d7",
+      "git_blob": "b361be0c8e0fc6d6e9eb2f040595b71478c9807b",
+      "imported_sha256": "4b1b1eb4e9c8cc9c665f4f9af718d81cce24860441af7e4161ba941f4d05e3d7",
+      "adapted": false
+    }
+  ],
+  "validation": {
+    "all_checks_passed": true,
+    "remote_files_preserved_byte_for_byte": 54,
+    "path_adapted_scripts": [
+      "max_weber/protestant_ethic/scripts/generate_issue_list.py",
+      "max_weber/protestant_ethic/scripts/generate_issue_list_v2.py",
+      "max_weber/protestant_ethic/scripts/merge_revision.py",
+      "max_weber/protestant_ethic/scripts/merge_revision_v2.py",
+      "max_weber/protestant_ethic/scripts/merge_translation.py"
+    ],
+    "original_translation_and_source_pdf_unchanged": true,
+    "all_preexisting_project_files_present": 1409,
+    "preexisting_file_content_changes": [
+      "README.md",
+      "AGENTS.md"
+    ],
+    "historical_collections_regenerated_text_matches": {
+      "新教伦理与资本主义精神_中文二校稿_v1.md": true,
+      "新教伦理与资本主义精神_中文二校稿_v2.md": true,
+      "新教伦理与资本主义精神_中文译稿.md": true
+    },
+    "historical_issue_reports_regenerated_text_matches": {
+      "二校第二轮问题清单.md": true,
+      "二校问题清单.md": true
+    },
+    "chunk_page_coverage": {
+      "translated_chunks": {
+        "files": 4,
+        "page_headings": 96,
+        "ordered_without_gaps_or_duplicates": true
+      },
+      "revision_chunks": {
+        "files": 16,
+        "page_headings": 96,
+        "ordered_without_gaps_or_duplicates": true
+      },
+      "revision_chunks_v2": {
+        "files": 16,
+        "page_headings": 96,
+        "ordered_without_gaps_or_duplicates": true
+      }
+    },
+    "new_document_links_checked": 17,
+    "no_nested_git_repository": true,
+    "all_script_outputs_inside_tmp": true,
+    "tool_commands": [
+      {
+        "name": "merge_translation.py",
+        "exit_code": 0,
+        "output": "E:\\codes\\translations\\max_weber\\protestant_ethic\\tmp\\collections\\新教伦理与资本主义精神_中文译稿.md\r\npages=96\r\nchars=121970\r\n"
+      },
+      {
+        "name": "merge_revision.py",
+        "exit_code": 0,
+        "output": "done=16 missing=0 invalid=0\r\nE:\\codes\\translations\\max_weber\\protestant_ethic\\tmp\\collections\\新教伦理与资本主义精神_中文二校稿_v1.md\r\npages=96\r\nchars=118478\r\n"
+      },
+      {
+        "name": "merge_revision_v2.py",
+        "exit_code": 0,
+        "output": "done=16 missing=0 invalid=0\r\nE:\\codes\\translations\\max_weber\\protestant_ethic\\tmp\\collections\\新教伦理与资本主义精神_中文二校稿_v2.md\r\npages=96\r\nchars=118783\r\n"
+      },
+      {
+        "name": "generate_issue_list.py",
+        "exit_code": 0,
+        "output": "E:\\codes\\translations\\max_weber\\protestant_ethic\\tmp\\reports\\二校问题清单.md\r\nissues=0 P1=0 P2=0 P3=0\r\n"
+      },
+      {
+        "name": "generate_issue_list_v2.py",
+        "exit_code": 0,
+        "output": "E:\\codes\\translations\\max_weber\\protestant_ethic\\tmp\\reports\\二校第二轮问题清单.md\r\nissues=0 P1=0 P2=0 P3=0\r\n"
+      }
+    ],
+    "cambridge_content_check": {
+      "all_checks_passed": true,
+      "books": [
+        {
+          "volume": 1,
+          "translated_chapters": 32,
+          "missing_chapters": [],
+          "notes": 2212
+        },
+        {
+          "volume": 2,
+          "translated_chapters": 29,
+          "missing_chapters": [],
+          "notes": 1706
+        },
+        {
+          "volume": 3,
+          "translated_chapters": 29,
+          "missing_chapters": [],
+          "notes": 2004
+        },
+        {
+          "volume": 4,
+          "translated_chapters": 31,
+          "missing_chapters": [],
+          "notes": 1086
+        },
+        {
+          "volume": 5,
+          "translated_chapters": 24,
+          "missing_chapters": [],
+          "notes": 1646
+        },
+        {
+          "volume": 6,
+          "translated_chapters": 30,
+          "missing_chapters": [],
+          "notes": 1197
+        },
+        {
+          "volume": 7,
+          "translated_chapters": 29,
+          "missing_chapters": [],
+          "notes": 538
+        },
+        {
+          "volume": 8,
+          "translated_chapters": 36,
+          "missing_chapters": [],
+          "notes": 810
+        },
+        {
+          "volume": 9,
+          "translated_chapters": 32,
+          "missing_chapters": [
+            20
+          ],
+          "notes": 1014
+        }
+      ],
+      "translated_chapters": 272,
+      "migration_content_hashes_checked": 937,
+      "errors": []
+    },
+    "git_index": {
+      "tracked_before": 1400,
+      "tracked_after": 1463,
+      "existing_files_modified": [
+        "AGENTS.md",
+        "README.md"
+      ],
+      "all_imported_files_in_index": true,
+      "all_unmodified_imported_blob_ids_match_source": true,
+      "all_cache_and_output_files_excluded": true,
+      "expected_merge_parent": "139c43560e1920e4e0754bd95912c3376736bfef",
+      "source_pdf_count": 10
+    }
+  }
+}
